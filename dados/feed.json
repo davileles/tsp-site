@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-12T15:53:11.860Z",
+  "atualizadoEm": "2026-08-12T16:09:30.602Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6172",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira De Escritório Columbus Presidente Ergonomica Cinza Mesh",
+      "link": "https://meli.la/2Knybfg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_905570-MLA95700627584_102025-O.webp",
+      "preco": 260.06,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "COMPRINHASPRACASA",
+      "enviadoEm": "2026-08-12T15:59:30.601Z"
+    },
+    {
+      "id": "6171",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira de Escritório Giratória HomeNow Columbus Presidente Preta com Tela Mesh",
+      "link": "https://meli.la/1za9Yso",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_651752-MLA95643261450_102025-O.webp",
+      "preco": 262.91,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "COMPRINHASPRACASA",
+      "enviadoEm": "2026-08-12T15:58:36.535Z"
+    },
+    {
+      "id": "6170",
+      "loja": "Shopee",
+      "titulo": "Jogo De Panelas 10 Peças Antiaderente Conjunto Caçarola Frigideira Fervedor Cor Coffee Cappuccino Kit Talheres",
+      "link": "https://s.shopee.com.br/5VUTLo26xf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgqyauzfcc8wdf_tn",
+      "preco": 189.99,
+      "precoDe": 307.68,
+      "desconto": 35,
+      "cupom": "V4M0SC0MPR4R",
+      "enviadoEm": "2026-08-12T15:57:27.454Z"
+    },
     {
       "id": "6163",
       "loja": "Mercado Livre",
