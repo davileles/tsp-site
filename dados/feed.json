@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T20:20:43.915Z",
+  "atualizadoEm": "2026-08-12T20:41:58.909Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6292",
+      "loja": "Shopee",
+      "titulo": "Mini Grill Grelha Sanduicheira Inox 750w Antiderrapante Alça Led Indicador",
+      "link": "https://s.shopee.com.br/8pkvJw2gnH",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zw-mm0gp1sqitj6dc_tn",
+      "preco": 131.99,
+      "precoDe": 202.84,
+      "desconto": 30,
+      "cupom": "V4M0SC0MPR4R",
+      "enviadoEm": "2026-08-12T20:31:58.908Z"
+    },
     {
       "id": "6290",
       "loja": "Shopee",
