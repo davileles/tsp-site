@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T19:38:06.909Z",
+  "atualizadoEm": "2026-08-12T19:51:05.524Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6285",
+      "loja": "Shopee",
+      "titulo": "Limpador a Vapor Doméstico Multifuncional Portátil – Cozinha Banheiro Piso Sofá-110V",
+      "link": "https://s.shopee.com.br/5ArcxCC2g1",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mik04hzifqx216_tn",
+      "preco": 147.69,
+      "precoDe": 384.61,
+      "desconto": 59,
+      "cupom": "V4M0SC0MPR4R",
+      "enviadoEm": "2026-08-12T19:49:27.805Z"
+    },
     {
       "id": "6281",
       "loja": "Shopee",
