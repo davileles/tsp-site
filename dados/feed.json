@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T21:21:05.524Z",
+  "atualizadoEm": "2026-08-12T21:45:35.310Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6299",
+      "loja": "Shopee",
+      "titulo": "Papa Bolinhas Portatil Com Compartimento CST0146 Flash Limp",
+      "link": "https://s.shopee.com.br/19WnhVuww",
+      "imagem": "https://cf.shopee.com.br/file/853d7b3e2dbdefe5e1cf2d6b04e70eca_tn",
+      "preco": 29.270000000000003,
+      "precoDe": 38.08,
+      "desconto": 10,
+      "cupom": "D4AD3CUP0M",
+      "enviadoEm": "2026-08-12T21:35:35.308Z"
+    },
     {
       "id": "6297",
       "loja": "Shopee",
