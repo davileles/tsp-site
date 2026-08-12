@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T18:53:11.900Z",
+  "atualizadoEm": "2026-08-12T19:16:55.058Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6259",
+      "loja": "Shopee",
+      "titulo": "Kit Parafusadeira Doméstica Com Maleta 45 Peças Sem Fio Chaves Fenda Broca Philips Portátil USB",
+      "link": "https://s.shopee.com.br/2VqrmI98Ft",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-mmacchpnrcow45_tn",
+      "preco": 30.490000000000002,
+      "precoDe": 80.66,
+      "desconto": 56,
+      "cupom": "D4AD3CUP0M",
+      "enviadoEm": "2026-08-12T19:06:55.056Z"
+    },
     {
       "id": "6207",
       "loja": "Shopee",
