@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-12T22:27:51.525Z",
+  "atualizadoEm": "2026-08-12T23:51:00.485Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -83,7 +83,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-14T15:00:00.000Z",
+      "validadeAte": "2026-08-13T20:01:10.893Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -131,7 +131,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-15T02:59:00.000Z",
+      "validadeAte": "2026-08-13T20:01:07.333Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -143,7 +143,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-14T02:59:00.000Z",
+      "validadeAte": "2026-08-13T20:01:09.316Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -215,7 +215,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-31T21:00:00.000Z",
+      "validadeAte": "2026-08-13T19:41:07.384Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -327,18 +327,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "GANHEIMAIS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": "Desativado no sync: o ML recusou o codigo (Confira se o cupom está correto)",
-      "validadeAte": "2026-08-13T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SEMPREMODA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -372,18 +360,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-08-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "INTERNACIONAL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-09-02T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
