@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T13:38:36.094Z",
+  "atualizadoEm": "2026-08-12T13:59:58.113Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6053",
+      "loja": "Shopee",
+      "titulo": "Cobertor Grosso Aveludado - Tamanho Unico (2,0X2.40) -Extra Conforto.",
+      "link": "https://s.shopee.com.br/4LIVxf6Pn6",
+      "imagem": null,
+      "preco": 62.900000000000006,
+      "precoDe": 119.51,
+      "desconto": 39,
+      "cupom": "D3SC0NT0SH0",
+      "enviadoEm": "2026-08-12T13:49:58.113Z"
+    },
     {
       "id": "6008",
       "loja": "Shopee",
