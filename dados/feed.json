@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-12T15:04:22.721Z",
+  "atualizadoEm": "2026-08-12T15:23:11.838Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6137",
+      "loja": "Shopee",
+      "titulo": "Escova De Limpeza 9 Em 1  Elétrica Giratória Com Cabo Alongador",
+      "link": "https://s.shopee.com.br/3g2pAQvknQ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5cubo7uz29de_tn",
+      "preco": 59.900000000000006,
+      "precoDe": 179.23,
+      "desconto": 61,
+      "cupom": "V4M0SC0MPR4R",
+      "enviadoEm": "2026-08-12T15:15:19.709Z"
+    },
+    {
+      "id": "6136",
+      "loja": "Mercado Livre",
+      "titulo": "Controlador De Jogos Sem Fio Control Pc/android/ios 1pc White Orange",
+      "link": "https://meli.la/1gAnL3k",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_606174-CBT111856149118_062026-O.webp",
+      "preco": 28.96,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-12T15:08:51.209Z"
+    },
     {
       "id": "6072",
       "loja": "Shopee",
