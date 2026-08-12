@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T23:10:28.249Z",
+  "atualizadoEm": "2026-08-12T23:31:38.349Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6315",
+      "loja": "Shopee",
+      "titulo": "Torneira De Cozinha Gourmet Alça Única Com Extensor De Spray Tubo De Água Flexível Superior Prateado Para Ajuste",
+      "link": "https://s.shopee.com.br/4fvMMH9kiy",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262u-mjtxop93dsed0a_tn",
+      "preco": 59.989999999999995,
+      "precoDe": 184.18,
+      "desconto": 62,
+      "cupom": "V4M0SC0MPR4R",
+      "enviadoEm": "2026-08-12T23:21:38.346Z"
+    },
     {
       "id": "6314",
       "loja": "Shopee",
