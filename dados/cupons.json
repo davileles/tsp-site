@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-12T18:53:12.990Z",
+  "atualizadoEm": "2026-08-12T18:57:38.664Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -23,7 +23,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-17T02:59:59.000Z",
+      "validadeAte": "2026-08-13T15:33:32.110Z",
       "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
     },
     {
@@ -35,7 +35,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-17T02:59:59.000Z",
+      "validadeAte": "2026-08-13T15:33:30.299Z",
       "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
     },
     {
@@ -47,7 +47,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-09-01T03:00:00.000Z",
+      "validadeAte": "2026-08-13T15:33:23.684Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -59,7 +59,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-14T15:00:00.000Z",
+      "validadeAte": "2026-08-13T15:33:13.768Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -71,7 +71,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-14T15:00:00.000Z",
+      "validadeAte": "2026-08-13T15:33:24.923Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -83,7 +83,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-14T02:00:00.000Z",
+      "validadeAte": "2026-08-13T15:33:17.930Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -95,7 +95,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-14T12:00:00.000Z",
+      "validadeAte": "2026-08-13T15:33:20.474Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -107,7 +107,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-17T11:00:00.000Z",
+      "validadeAte": "2026-08-13T15:33:26.131Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -119,7 +119,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-17T13:00:00.000Z",
+      "validadeAte": "2026-08-13T15:33:15.152Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -131,7 +131,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-17T12:00:00.000Z",
+      "validadeAte": "2026-08-13T15:33:16.689Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -143,7 +143,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-21T21:00:00.000Z",
+      "validadeAte": "2026-08-13T15:33:21.785Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -155,7 +155,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-15T02:59:00.000Z",
+      "validadeAte": "2026-08-13T15:33:27.420Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -167,7 +167,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-14T15:00:00.000Z",
+      "validadeAte": "2026-08-13T15:33:28.896Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -351,18 +351,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "INTERNACIONAL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-09-02T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "AMOCETAPHIL",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -431,8 +419,8 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2027-07-20T13:32:00.000Z",
-      "url": null
+      "validadeAte": "2026-08-13T17:33:13.794Z",
+      "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
     },
     {
       "codigo": "MERCADOSALDAO302",
