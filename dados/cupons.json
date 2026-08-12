@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-12T17:52:57.177Z",
+  "atualizadoEm": "2026-08-12T18:13:47.661Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -384,6 +384,18 @@
       "limite": 20,
       "observacao": null,
       "validadeAte": "2026-08-15T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TIENDASOFICIALES",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupom válido em lojas oficiais selecionadas",
+      "validadeAte": "2026-08-13T18:01:15.101Z",
       "url": "https://meli.la/2xystLt"
     },
     {
