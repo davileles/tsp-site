@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T20:41:58.909Z",
+  "atualizadoEm": "2026-08-12T21:03:19.560Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6294",
+      "loja": "Shopee",
+      "titulo": "Mixer 3 em 1 1000W Inox Turbo Triturador Processador Copo 700ml Kian Preto",
+      "link": "https://s.shopee.com.br/7psO866QYj",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825an-mr0epkmjiy2uaf_tn",
+      "preco": 144.99,
+      "precoDe": 249.98,
+      "desconto": 38,
+      "cupom": "V4M0SC0MPR4R",
+      "enviadoEm": "2026-08-12T20:53:19.559Z"
+    },
     {
       "id": "6292",
       "loja": "Shopee",
