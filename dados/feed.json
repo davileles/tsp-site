@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T17:52:55.844Z",
+  "atualizadoEm": "2026-08-12T18:13:46.552Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6200",
+      "loja": "Shopee",
+      "titulo": "Kit 5 ou 10 Saco A Vácuo Grande Organizador Edredom Coberto Mala Roupa De Cama com bomba elétrica Grande 110x70",
+      "link": "https://s.shopee.com.br/4Az5lM7BfW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mnnpvyw0dji8b5_tn",
+      "preco": 20.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "D4AD3CUP0M",
+      "enviadoEm": "2026-08-12T18:03:46.551Z"
+    },
     {
       "id": "6193",
       "loja": "Shopee",
