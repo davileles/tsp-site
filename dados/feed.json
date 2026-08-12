@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T19:16:55.058Z",
+  "atualizadoEm": "2026-08-12T19:38:06.909Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6281",
+      "loja": "Shopee",
+      "titulo": "Kit Potes Herméticos Porta Mantimentos Vidro Retangular 640ml 370ml Marmita Fitness GP Home",
+      "link": "https://s.shopee.com.br/3B6YZVxnLo",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me5ucf4yqvi9f6_tn",
+      "preco": 42.9,
+      "precoDe": 176.33,
+      "desconto": 70,
+      "cupom": "V4M0SC0MPR4R",
+      "enviadoEm": "2026-08-12T19:28:06.908Z"
+    },
     {
       "id": "6259",
       "loja": "Shopee",
