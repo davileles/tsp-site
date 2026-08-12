@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-12T19:38:08.041Z",
+  "atualizadoEm": "2026-08-12T19:51:06.692Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -168,6 +168,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-13T15:33:28.896Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "10OFFHP",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-31T21:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
