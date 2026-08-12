@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-12T19:51:06.692Z",
+  "atualizadoEm": "2026-08-12T20:20:44.991Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -75,6 +75,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "NINTENDOJA",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-14T15:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "NOTE15",
       "loja": "Kabum",
       "tipo": "pct",
@@ -108,6 +120,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-13T15:33:26.131Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "NEWCLEANPRO",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-15T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "TEMPBAIXA12",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-14T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
