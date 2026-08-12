@@ -306,12 +306,10 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 <script>
 'use strict';
 
-// Os dois arquivos são publicados pelo servidor no repositório e servidos pelo
-// CDN do GitHub Pages, que responde com Access-Control-Allow-Origin: *.
-// Tenta primeiro o caminho relativo: quando a página e os dados estiverem no
-// mesmo repositório, nada aqui precisa ser editado. O endereço absoluto fica
-// como origem alternativa enquanto os JSON ainda moram no repo do painel.
-var FONTES = ['dados/', 'https://gestao.tudosobrepromos.com/dados/'];
+// Os dois arquivos são escritos pelo feed-publico.js do baileys-server, neste
+// mesmo repositório, e servidos pelo CDN do GitHub Pages. Caminho relativo de
+// propósito: o site não depende de nenhum domínio estar de pé além do próprio.
+var BASE_DADOS = 'dados/';
 
 var estado = {
   aba: 'ofertas',
@@ -394,15 +392,12 @@ function esc(s) {
 // ── Carregamento ──────────────────────────────────────────────────────────
 // O parâmetro de tempo evita que o CDN entregue a versão anterior logo depois
 // de uma publicação.
-function buscarJson(nome, i) {
-  i = i || 0;
-  if (i >= FONTES.length) return Promise.reject(new Error(nome + ' indisponível'));
-  return fetch(FONTES[i] + nome + '?t=' + Math.floor(Date.now() / 60000))
+function buscarJson(nome) {
+  return fetch(BASE_DADOS + nome + '?t=' + Math.floor(Date.now() / 60000))
     .then(function (r) {
-      if (!r.ok) throw new Error('HTTP ' + r.status);
+      if (!r.ok) throw new Error(nome + ': HTTP ' + r.status);
       return r.json();
-    })
-    .catch(function () { return buscarJson(nome, i + 1); });
+    });
 }
 
 function carregar() {
