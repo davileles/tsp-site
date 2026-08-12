@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T14:37:36.094Z",
+  "atualizadoEm": "2026-08-12T15:04:22.721Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6072",
+      "loja": "Shopee",
+      "titulo": "Descascador Elétrico De Alho E Uva Em Aço Inox Automático Prático",
+      "link": "https://s.shopee.com.br/60Qjwj4biM",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82606-mk1vqhrkzy882b_tn",
+      "preco": 49.99,
+      "precoDe": 299.95,
+      "desconto": 80,
+      "cupom": "D3SC0NT0SH0",
+      "enviadoEm": "2026-08-12T14:54:22.719Z"
+    },
     {
       "id": "6069",
       "loja": "Shopee",
