@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T17:10:34.380Z",
+  "atualizadoEm": "2026-08-12T17:23:11.896Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6189",
+      "loja": "Shopee",
+      "titulo": "Kit 3 Garrafas Squeeze Motivacionais Garrafa Água Academia Com 1.2L e 800ml e 300ml copo stanley canudo",
+      "link": "https://s.shopee.com.br/7Kw7XBCapq",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mpm14y3pmtj685_tn",
+      "preco": 21.8,
+      "precoDe": 59.56,
+      "desconto": 55,
+      "cupom": "D4AD3CUP0M",
+      "enviadoEm": "2026-08-12T17:21:46.555Z"
+    },
     {
       "id": "6185",
       "loja": "Shopee",
