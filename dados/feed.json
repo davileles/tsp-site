@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T22:21:05.531Z",
+  "atualizadoEm": "2026-08-12T22:49:11.745Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6312",
+      "loja": "Shopee",
+      "titulo": "Tapete de Banheiro Absorvente Antiderrapante Secagem Rápida",
+      "link": "https://s.shopee.com.br/1123Ha2TFa",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260b-mm4q3xn8yayw0f_tn",
+      "preco": 12.99,
+      "precoDe": 49.96,
+      "desconto": 74,
+      "cupom": null,
+      "enviadoEm": "2026-08-12T22:39:11.744Z"
+    },
     {
       "id": "6307",
       "loja": "Shopee",
