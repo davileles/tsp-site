@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T18:34:52.961Z",
+  "atualizadoEm": "2026-08-12T18:53:11.900Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6207",
+      "loja": "Shopee",
+      "titulo": "Kit De 6 Pares Meias Cano Invisível Lupo Sport Algodão Soquete Sapatilha Unissex",
+      "link": "https://s.shopee.com.br/8V84vK8QVt",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mram9w9j8hza6e_tn",
+      "preco": 37.99,
+      "precoDe": 82.74,
+      "desconto": 42,
+      "cupom": "V4M0SC0MPR4R",
+      "enviadoEm": "2026-08-12T18:45:53.227Z"
+    },
     {
       "id": "6203",
       "loja": "Shopee",
