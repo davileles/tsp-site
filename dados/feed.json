@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T18:13:46.552Z",
+  "atualizadoEm": "2026-08-12T18:34:52.961Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6203",
+      "loja": "Shopee",
+      "titulo": "Kit 6 Tapetes de Banheiro 40x60 Antiderrapante Microfibra Bolinha Macarrão",
+      "link": "https://s.shopee.com.br/6VN0Xe2m0F",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdkjvmzzpxhtc8_tn",
+      "preco": 34.7,
+      "precoDe": 79.82,
+      "desconto": 44,
+      "cupom": "V4M0SC0MPR4R",
+      "enviadoEm": "2026-08-12T18:24:52.959Z"
+    },
     {
       "id": "6200",
       "loja": "Shopee",
