@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-12T20:20:44.991Z",
+  "atualizadoEm": "2026-08-12T20:42:00.188Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -346,6 +346,30 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-08-13T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "GANHEIMAIS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-13T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TOMACUPOM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
       "observacao": null,
       "validadeAte": "2026-08-13T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
