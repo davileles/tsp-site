@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T22:06:39.770Z",
+  "atualizadoEm": "2026-08-12T22:21:05.531Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6307",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Portátil Elétrica Profissional Recarregável USB com Múltiplas Ponteiras para Relaxamento",
+      "link": "https://s.shopee.com.br/1VyKaSCnlP",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225c-mhjox6ltdn9ef0_tn",
+      "preco": 23.76,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "D4AD3CUP0M",
+      "enviadoEm": "2026-08-12T22:17:51.208Z"
+    },
     {
       "id": "6306",
       "loja": "Shopee",
