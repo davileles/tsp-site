@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-12T16:09:30.602Z",
+  "atualizadoEm": "2026-08-12T16:23:11.887Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6178",
+      "loja": "Mercado Livre",
+      "titulo": "Teclado Mecânico Gamer 60% K61 Com Fio E Iluminação",
+      "link": "https://meli.la/2uv7b7v",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_734127-CBT110175393528_042026-O.webp",
+      "preco": 39.83,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-12T16:19:22.626Z"
+    },
+    {
+      "id": "6176",
+      "loja": "Shopee",
+      "titulo": "Jogo de Toalhas de Algodão 4 Peças Banho e Rosto Karsten - Emcompre",
+      "link": "https://s.shopee.com.br/8pkvJvl9wB",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj75qya1d5361f_tn",
+      "preco": 110.95,
+      "precoDe": 212.19,
+      "desconto": 43,
+      "cupom": "V4M0SC0MPR4R",
+      "enviadoEm": "2026-08-12T16:18:40.730Z"
+    },
+    {
+      "id": "6175",
+      "loja": "Mercado Livre",
+      "titulo": "Aparelho De Jantar 20 Peças Vidro Opaline Para Mesa Posta",
+      "link": "https://meli.la/1hTRhdf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_999748-MLB114193618598_082026-O.webp",
+      "preco": 149.17000000000002,
+      "precoDe": 399.9,
+      "desconto": 50,
+      "cupom": "COMPRINHASPRACASA",
+      "enviadoEm": "2026-08-12T16:13:45.528Z"
+    },
+    {
+      "id": "6173",
+      "loja": "Amazon",
+      "titulo": "Gillette Mach3 - Refil Para Barbear, 16 Unidades",
+      "link": "https://www.amazon.com.br/dp/B08VCP7GMD?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51UFlMWnOXL._SL400_.jpg",
+      "preco": 85.42,
+      "precoDe": 151.92,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-08-12T16:12:39.925Z"
+    },
     {
       "id": "6172",
       "loja": "Mercado Livre",
