@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T17:23:11.896Z",
+  "atualizadoEm": "2026-08-12T17:52:55.844Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6193",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Camisetas Oversized Masculina 100% Algodão Casual Dia a Dia Treino Academia Slim Gola Redonda",
+      "link": "https://s.shopee.com.br/7VFXjUC61H",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mlrxvdnfvax386_tn",
+      "preco": 64.9,
+      "precoDe": 220.29,
+      "desconto": 66,
+      "cupom": "V4M0SC0MPR4R",
+      "enviadoEm": "2026-08-12T17:42:55.844Z"
+    },
     {
       "id": "6189",
       "loja": "Shopee",
