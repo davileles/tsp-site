@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-12T16:49:31.773Z",
+  "atualizadoEm": "2026-08-12T17:10:34.380Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6185",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Bermuda Shorts de Moleton Masculina Com Amarração e Elástico Academia Treino/Casual.",
+      "link": "https://s.shopee.com.br/3LPylpNhDu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m17fqt1s7o0ed9_tn",
+      "preco": 62.459999999999994,
+      "precoDe": 92.9,
+      "desconto": 22,
+      "cupom": "V4M0SC0MPR4R",
+      "enviadoEm": "2026-08-12T17:00:34.366Z"
+    },
+    {
+      "id": "6184",
+      "loja": "Amazon",
+      "titulo": "Sallve Protetor Solar em Bastão FPS60 15g",
+      "link": "https://www.amazon.com.br/dp/B0CRWRFHSC?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31OX2FuVh2L._SL400_.jpg",
+      "preco": 59.7,
+      "precoDe": 94.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-08-12T16:57:21.641Z"
+    },
     {
       "id": "6182",
       "loja": "Shopee",
