@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T21:03:19.560Z",
+  "atualizadoEm": "2026-08-12T21:21:05.524Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6297",
+      "loja": "Shopee",
+      "titulo": "Mop Girátorio Cleaner Profissional – Balde com Centrífuga 14L + Refil Duplo e Cabo Reforçado - MN",
+      "link": "https://s.shopee.com.br/4Vbw9xwysz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnxm1i5f5ndcc_tn",
+      "preco": 49.9,
+      "precoDe": 119.8,
+      "desconto": 50,
+      "cupom": "V4M0SC0MPR4R",
+      "enviadoEm": "2026-08-12T21:14:23.401Z"
+    },
     {
       "id": "6294",
       "loja": "Shopee",
