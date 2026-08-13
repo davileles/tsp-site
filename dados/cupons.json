@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-13T12:08:17.956Z",
+  "atualizadoEm": "2026-08-13T12:19:17.031Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -351,6 +351,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CORREPRAPROMO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-14T12:09:07.841Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SOAGORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-14T12:10:21.420Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "HORADOCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -384,18 +408,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-08-14T12:02:12.684Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SITECUPONEIRA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": 10,
-      "observacao": null,
-      "validadeAte": "2026-08-14T03:01:04.694Z",
       "url": "https://meli.la/2xystLt"
     },
     {
