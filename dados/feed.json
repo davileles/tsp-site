@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-13T16:44:53.403Z",
+  "atualizadoEm": "2026-08-13T17:14:33.539Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6719",
+      "loja": "Shopee",
+      "titulo": "Manta Casal Soft Antialérgica 2,00m X1,80m  Lisa Várias Cores",
+      "link": "https://s.shopee.com.br/6pzsziypjZ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m858jxe787bl51_tn",
+      "preco": 24.9,
+      "precoDe": 40.16,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-08-13T17:04:33.538Z"
+    },
+    {
+      "id": "6716",
+      "loja": "Amazon",
+      "titulo": "Comfort Amaciante Concentrado 36 Segredos 1,5L",
+      "link": "https://www.amazon.com.br/dp/B0CJG18XKM?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41lUvlTHdDL._SL400_.jpg",
+      "preco": 24.9,
+      "precoDe": 36.99,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-08-13T16:56:38.478Z"
+    },
+    {
+      "id": "6715",
+      "loja": "Mercado Livre",
+      "titulo": "Headphone Gamer Havit H668bt Bluetooth 5.4 Over-ear 3d Multiponto Anc Hibrido 80h Cor Roxa",
+      "link": "https://meli.la/1qKPJCk",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_904867-MLA100031549659_122025-O.webp",
+      "preco": 152.1,
+      "precoDe": 219,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-08-13T16:55:19.602Z"
+    },
+    {
+      "id": "6669",
+      "loja": "Amazon",
+      "titulo": "LEGO Set City Great Vehicles 60402 Monster Truck Azul 148 peças",
+      "link": "https://www.amazon.com.br/dp/B0CGYN1GJ5?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51zVEw39r8L._SL400_.jpg",
+      "preco": 87.99,
+      "precoDe": 149.99,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-08-13T16:49:33.573Z"
+    },
     {
       "id": "6669",
       "loja": "Shopee",
