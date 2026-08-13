@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-13T16:49:12.376Z",
+  "atualizadoEm": "2026-08-13T17:35:52.453Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -325,18 +325,6 @@
       "observacao": null,
       "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "WELCOME15",
-      "loja": "Oceane",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-13T17:33:13.794Z",
-      "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
     },
     {
       "codigo": "MERCADOSALDAO302",
