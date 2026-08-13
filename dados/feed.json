@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-13T11:07:02.298Z",
+  "atualizadoEm": "2026-08-13T11:33:32.892Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6411",
+      "loja": "Shopee",
+      "titulo": "1080° Torneira Giratória de Braço Robótico Chuveiro À Prova De Respingos Banheiro Cozinha Do Aerador Dois Modos",
+      "link": "https://s.shopee.com.br/7VFZPXO8GF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mev5hs72r2mac1_tn",
+      "preco": 23.98,
+      "precoDe": 55.73,
+      "desconto": 48,
+      "cupom": "D4AD3CUP0M",
+      "enviadoEm": "2026-08-13T11:23:32.891Z"
+    },
     {
       "id": "6409",
       "loja": "Shopee",
