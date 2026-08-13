@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-13T20:25:47.921Z",
+  "atualizadoEm": "2026-08-13T21:38:41.878Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6852",
+      "loja": "Shopee",
+      "titulo": "Teclado Mecanico Ajazz NK68, Rainbow, Switch Vermelho, Branco, NK68-WH",
+      "link": "https://s.shopee.com.br/AAGLFzKc5F",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gs-mpo21ndnzugw2b_tn",
+      "preco": 174.57,
+      "precoDe": 430.84,
+      "desconto": 56,
+      "cupom": "S0N4SH015",
+      "enviadoEm": "2026-08-13T21:28:41.876Z"
+    },
     {
       "id": "6839",
       "loja": "Shopee",
