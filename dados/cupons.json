@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-13T12:24:07.028Z",
+  "atualizadoEm": "2026-08-13T12:30:07.418Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -274,8 +274,8 @@
       "minimo": 19,
       "maximo": null,
       "limite": 150,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-08-14T12:02:16.701Z",
+      "observacao": null,
+      "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -345,9 +345,9 @@
       "valor": 20,
       "minimo": 29,
       "maximo": null,
-      "limite": 200,
+      "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-08-14T12:02:12.690Z",
+      "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -359,7 +359,7 @@
       "maximo": null,
       "limite": 150,
       "observacao": null,
-      "validadeAte": "2026-08-14T12:09:07.841Z",
+      "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -371,7 +371,7 @@
       "maximo": null,
       "limite": 150,
       "observacao": null,
-      "validadeAte": "2026-08-14T12:10:21.420Z",
+      "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -431,7 +431,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-08-14T12:02:12.684Z",
+      "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
