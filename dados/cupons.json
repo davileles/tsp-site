@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-13T12:58:34.173Z",
+  "atualizadoEm": "2026-08-13T13:02:33.133Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -505,18 +505,6 @@
       "observacao": "Código fornecido sem informações de valor de desconto, tipo (% ou R$), mínimo ou máximo. Recomenda-se validar o cupom na plataforma iFood.",
       "validadeAte": "2026-08-13T19:32:09.278Z",
       "url": null
-    },
-    {
-      "codigo": "V4M0SC0MPR4R",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-13T13:01:06.008Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "D4AD3CUP0M",
