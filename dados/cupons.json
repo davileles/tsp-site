@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-13T21:08:45.250Z",
+  "atualizadoEm": "2026-08-13T21:38:42.929Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -231,6 +231,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CORREPRAPROMO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-17T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CUPOMDASEMANA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -287,7 +299,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-08-14T12:01:05.852Z",
+      "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
