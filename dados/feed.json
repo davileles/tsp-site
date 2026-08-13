@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-13T22:34:26.868Z",
+  "atualizadoEm": "2026-08-13T22:38:44.976Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6866",
+      "loja": "Mercado Livre",
+      "titulo": "Placa de vídeo msi geforce rtx 5060 shadow 2x oc 8gb gddr7 128-bit",
+      "link": "https://meli.la/1rUn3dK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_901198-MLA99972929477_112025-O.webp",
+      "preco": 1813.75,
+      "precoDe": 3699.9,
+      "desconto": 37,
+      "cupom": "MAISPORMENOS",
+      "enviadoEm": "2026-08-13T22:36:48.456Z"
+    },
     {
       "id": "6865",
       "loja": "Mercado Livre",
