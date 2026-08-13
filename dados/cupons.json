@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-13T19:00:48.141Z",
+  "atualizadoEm": "2026-08-13T19:38:46.999Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -372,18 +372,6 @@
       "limite": null,
       "observacao": "Desconto válido para compras em Mercados no iFood",
       "validadeAte": "2026-08-13T22:26:09.147Z",
-      "url": null
-    },
-    {
-      "codigo": "MERCADOSALDAO303",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 0,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Código fornecido sem informações de valor de desconto, tipo (% ou R$), mínimo ou máximo. Recomenda-se validar o cupom na plataforma iFood.",
-      "validadeAte": "2026-08-13T19:32:09.278Z",
       "url": null
     },
     {
