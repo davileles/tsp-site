@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-13T11:54:50.674Z",
+  "atualizadoEm": "2026-08-13T12:07:02.323Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6418",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
+      "link": "https://s.shopee.com.br/9fK42RDEZl",
+      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
+      "preco": 42.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "V4M0SC0MPR4R",
+      "enviadoEm": "2026-08-13T12:06:02.811Z"
+    },
     {
       "id": "6413",
       "loja": "Shopee",
