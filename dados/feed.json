@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-12T23:31:38.349Z",
+  "atualizadoEm": "2026-08-13T11:07:02.298Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6409",
+      "loja": "Shopee",
+      "titulo": "1 unidade Saquinho de veludo 13cm x 18cm p/ embalagem presente",
+      "link": "https://s.shopee.com.br/4Az7Px6yW8",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lth372jhd161e3_tn",
+      "preco": 15.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-13T11:02:30.897Z"
+    },
     {
       "id": "6315",
       "loja": "Shopee",
