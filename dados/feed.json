@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-13T13:40:52.944Z",
+  "atualizadoEm": "2026-08-13T14:00:23.811Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6581",
+      "loja": "Shopee",
+      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
+      "link": "https://s.shopee.com.br/30nADT5Tug",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
+      "preco": 95.88,
+      "precoDe": 325.42,
+      "desconto": 69,
+      "cupom": "D4AD3CUP0M",
+      "enviadoEm": "2026-08-13T13:52:08.200Z"
+    },
     {
       "id": "6579",
       "loja": "Shopee",
