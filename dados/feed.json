@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-13T17:35:50.997Z",
+  "atualizadoEm": "2026-08-13T17:48:12.088Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6730",
+      "loja": "Shopee",
+      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
+      "link": "https://s.shopee.com.br/qiftcIxM7",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
+      "preco": 63.989999999999995,
+      "precoDe": 202.54,
+      "desconto": 61,
+      "cupom": "AG015SH0",
+      "enviadoEm": "2026-08-13T17:47:01.168Z"
+    },
     {
       "id": "6722",
       "loja": "Shopee",
