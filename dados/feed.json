@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-13T21:38:41.878Z",
+  "atualizadoEm": "2026-08-13T21:58:23.664Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6856",
+      "loja": "Amazon",
+      "titulo": "Desengraxante Limpa Tudo 5 Lts - Removex Ultra - Vonixx",
+      "link": "https://www.amazon.com.br/dp/B08N59W3FQ?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31c8O5-ICEL._SL400_.jpg",
+      "preco": 15.88,
+      "precoDe": 33.89,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-08-13T21:48:23.661Z"
+    },
+    {
+      "id": "6854",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira de escritório TGT Heron TGT-HR gamer preta com estofado de couro sintético",
+      "link": "https://meli.la/2uNV8or",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_891841-MLA95669871418_102025-O.webp",
+      "preco": 278.54999999999995,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "COMPRINHASPRACASA",
+      "enviadoEm": "2026-08-13T21:40:29.339Z"
+    },
     {
       "id": "6852",
       "loja": "Shopee",
