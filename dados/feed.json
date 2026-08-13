@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-13T19:00:46.941Z",
+  "atualizadoEm": "2026-08-13T19:22:02.427Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6833",
+      "loja": "Shopee",
+      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
+      "link": "https://s.shopee.com.br/1LewaNOoVt",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
+      "preco": 74,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "AG015SH0",
+      "enviadoEm": "2026-08-13T19:12:02.427Z"
+    },
     {
       "id": "6827",
       "loja": "Shopee",
