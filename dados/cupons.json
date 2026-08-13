@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-08-13T12:30:07.418Z",
+  "atualizadoEm": "2026-08-13T12:58:34.173Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
-    {
-      "codigo": "ELUX20",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 10,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-08-13T12:33:41.841Z",
-      "url": "https://amzn.to/4dFRSzy"
-    },
     {
       "codigo": "EUCERINWEEK",
       "loja": "BELEZA NA WEB",
@@ -219,6 +207,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "INTERNACIONALCN",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 90,
+      "observacao": null,
+      "validadeAte": "2026-08-15T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "DESCOTOSMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -408,6 +408,30 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-08-17T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "INTERNACIONAL",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-09-02T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MAISOFERTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-08-15T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
