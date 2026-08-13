@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-13T01:50:00.538Z",
+  "atualizadoEm": "2026-08-13T03:20:00.545Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -219,18 +219,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "MAGALU8OFF",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 8,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-13T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "DESCOTOSMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -252,18 +240,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-08-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFFMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-08-13T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -375,15 +351,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "GOLHOJE",
+      "codigo": "SITECUPONEIRA",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 10,
-      "minimo": 40,
+      "minimo": null,
       "maximo": null,
-      "limite": 20,
+      "limite": 10,
       "observacao": null,
-      "validadeAte": "2026-08-14T01:20:03.636Z",
+      "validadeAte": "2026-08-14T03:01:04.694Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -433,6 +409,18 @@
       "observacao": "Código fornecido sem informações de valor de desconto, tipo (% ou R$), mínimo ou máximo. Recomenda-se validar o cupom na plataforma iFood.",
       "validadeAte": "2026-08-13T19:32:09.278Z",
       "url": null
+    },
+    {
+      "codigo": "88PL4NT4O",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-14T03:12:03.330Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "V4M0SC0MPR4R",
