@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-13T13:12:20.180Z",
+  "atualizadoEm": "2026-08-13T13:40:54.169Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -207,6 +207,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "INTERNACIONALCN",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 90,
+      "observacao": null,
+      "validadeAte": "2026-08-15T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "DESCOTOSMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -399,6 +411,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "INTERNACIONAL",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-09-02T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MELIOFF",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -420,6 +444,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-08-17T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CLIENTEML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 129,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-08-14T13:16:22.274Z",
       "url": "https://meli.la/2xystLt"
     },
     {
