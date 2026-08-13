@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-08-13T21:58:23.664Z",
+  "atualizadoEm": "2026-08-13T22:34:26.868Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6865",
+      "loja": "Mercado Livre",
+      "titulo": "Cobertor de Microfibra Canelado Queen Rosa Toque de Seda Mercado Livre Basics",
+      "link": "https://meli.la/32gwexn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_875843-MLA113571339926_072026-O.webp",
+      "preco": 55.279999999999994,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "COMPRINHASPRACASA",
+      "enviadoEm": "2026-08-13T22:24:26.866Z"
+    },
+    {
+      "id": "6864",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Upgrade Gamer Amd Ryzen 5 5500 + A520m + 16gb Ddr4 Cor Preto",
+      "link": "https://meli.la/1JkwZJA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_822489-MLA111951508339_052026-O.webp",
+      "preco": 1234.5,
+      "precoDe": 1890,
+      "desconto": 13,
+      "cupom": "DESCOTOSMELI",
+      "enviadoEm": "2026-08-13T22:22:01.789Z"
+    },
+    {
+      "id": "6863",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Samsung Odyssey G40 27 , 240 Hz, 1ms, Ajuste De Altura, Gsync, Freesync,hdmi, Dp, Fhd, Preto",
+      "link": "https://meli.la/21YvZaf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_960196-MLA90885249892_082025-O.webp",
+      "preco": 872.27,
+      "precoDe": 1819,
+      "desconto": 36,
+      "cupom": "DESCOTOSMELI",
+      "enviadoEm": "2026-08-13T22:20:46.035Z"
+    },
+    {
+      "id": "6862",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer AOC AGON QUAD 27\" QHD 180Hz 0,5ms IPS HDR10 Base Ajustável Q27G4F Preto",
+      "link": "https://meli.la/2y7SRgQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_739170-MLA98410816390_112025-O.webp",
+      "preco": 914.25,
+      "precoDe": 1299,
+      "desconto": 6,
+      "cupom": "DESCOTOSMELI",
+      "enviadoEm": "2026-08-13T22:18:34.808Z"
+    },
+    {
+      "id": "6861",
+      "loja": "Mercado Livre",
+      "titulo": "Mochila Masculina Impermeável Faculdade Alça Reforçada Top",
+      "link": "https://meli.la/1Bv9sgC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621862-MLB113771341739_062026-O.webp",
+      "preco": 34.86,
+      "precoDe": 78.8,
+      "desconto": 45,
+      "cupom": "SEMPREMODA",
+      "enviadoEm": "2026-08-13T22:17:28.003Z"
+    },
+    {
+      "id": "6824",
+      "loja": "Mobly",
+      "titulo": "Faqueiro com 42 Peças Bambu Bege",
+      "link": "https://www.awin1.com/pclick.php?p=32093609663&a=1207116&m=17777",
+      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Astatic.mobly.com.br%2Fp%2F1-0001-534597-1-list.jpg&feedId=47621&k=cc799a4c5877dc89d0a758d86ecfe972b58e808b",
+      "preco": 139.79,
+      "precoDe": 489.99,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-08-13T22:16:27.169Z"
+    },
+    {
+      "id": "6860",
+      "loja": "Mercado Livre",
+      "titulo": "Galaxy Tab A11, 64gb, 4gb Ram, Tela De 8.7 , Bateria 5.100mah, Câmera Frontal 5mp, Câmera Traseira 8mp, Wifi Prata",
+      "link": "https://meli.la/1AiMAHi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_694324-MLA114610060065_072026-O.webp",
+      "preco": 739.23,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "DESCOTOSMELI",
+      "enviadoEm": "2026-08-13T22:16:18.674Z"
+    },
+    {
+      "id": "6844",
+      "loja": "Nike",
+      "titulo": "Camiseta Nike Basketball Vintage Feminina",
+      "link": "https://www.awin1.com/pclick.php?p=44139572182&a=1207116&m=17652",
+      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Aimgnike-a.akamaihd.net%2F1500x1500%2F096668ID_996384cc_a84c_4e2b_980d_f0a6e94f2dbc_bgclean.jpg&feedId=44669&k=60c84359abd4795c0da8af8d7c0bd9570fb70f5d",
+      "preco": 103.99,
+      "precoDe": 299.99,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-08-13T22:13:35.902Z"
+    },
+    {
+      "id": "6848",
+      "loja": "Nike",
+      "titulo": "Chuteira Nike Phantom Luna II Academy Campo",
+      "link": "https://www.awin1.com/pclick.php?p=40998462597&a=1207116&m=17652",
+      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Aimgnike-a.akamaihd.net%2F1500x1500%2F028046A1_bgclean.jpg&feedId=44669&k=494d746406481c7b2ae12ab1b8219f4a72cd9cfd",
+      "preco": 289.99,
+      "precoDe": 799.99,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-08-13T22:11:13.441Z"
+    },
     {
       "id": "6856",
       "loja": "Amazon",
@@ -1261,18 +1369,6 @@
       "desconto": null,
       "cupom": "APROVEITAESSA",
       "enviadoEm": "2026-08-12T12:22:58.124Z"
-    },
-    {
-      "id": "5801",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Aoc Agon Quad 27 - Q27g4f Preto",
-      "link": "https://meli.la/2y7SRgQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_739170-MLA98410816390_112025-O.webp",
-      "preco": 1086.1299999999999,
-      "precoDe": 1299,
-      "desconto": 7,
-      "cupom": "APROVEITAESSA",
-      "enviadoEm": "2026-08-12T12:20:26.207Z"
     },
     {
       "id": "5800",
