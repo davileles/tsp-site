@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-13T14:19:51.274Z",
+  "atualizadoEm": "2026-08-13T14:54:26.190Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6648",
+      "loja": "Shopee",
+      "titulo": "HEROI Banco Dobrável Para Exercícios Em Casa, Multifuncional com Banco Pastor Removível + Até 150kg",
+      "link": "https://s.shopee.com.br/AUtBCA9fvn",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgq65zdx3i84f2_tn",
+      "preco": 494,
+      "precoDe": 998,
+      "desconto": 50,
+      "cupom": "D4AD3CUP0M",
+      "enviadoEm": "2026-08-13T14:34:34.635Z"
+    },
     {
       "id": "6624",
       "loja": "Shopee",
