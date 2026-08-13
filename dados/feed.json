@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-13T17:14:33.539Z",
+  "atualizadoEm": "2026-08-13T17:35:50.997Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6722",
+      "loja": "Shopee",
+      "titulo": "Massageador elétrico portátil pescoço calmante intensidade de 3 velocidades + aquecimento infravermelho",
+      "link": "https://s.shopee.com.br/9V0eC5IBW3",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zz-mlc440901s057d_tn",
+      "preco": 84.99,
+      "precoDe": 178.55,
+      "desconto": 44,
+      "cupom": "AG015SH0",
+      "enviadoEm": "2026-08-13T17:25:50.995Z"
+    },
     {
       "id": "6719",
       "loja": "Shopee",
