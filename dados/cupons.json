@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-13T14:54:27.498Z",
+  "atualizadoEm": "2026-08-13T15:26:08.604Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -279,6 +279,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "AVANT25",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 147,
+      "observacao": "Cupom válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-08-14T15:05:10.608Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -519,15 +531,15 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "D4AD3CUP0M",
+      "codigo": "AG015SH0",
       "loja": "Shopee",
       "tipo": "reais",
-      "valor": 5,
-      "minimo": 25,
+      "valor": 15,
+      "minimo": 75,
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-13T15:01:14.865Z",
+      "validadeAte": "2026-08-14T15:15:10.592Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
