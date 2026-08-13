@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-13T15:26:07.259Z",
+  "atualizadoEm": "2026-08-13T15:48:59.244Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6654",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
+      "link": "https://s.shopee.com.br/20ud8vkYJJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnyps41y3uo4c6_tn",
+      "preco": 84.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "AG015SH0",
+      "enviadoEm": "2026-08-13T15:38:59.242Z"
+    },
     {
       "id": "6651",
       "loja": "Shopee",
