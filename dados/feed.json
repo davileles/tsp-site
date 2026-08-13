@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-13T18:38:44.959Z",
+  "atualizadoEm": "2026-08-13T19:00:46.941Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6827",
+      "loja": "Shopee",
+      "titulo": "Organizador de Geladeira Multiuso Plasutil Para Armario Dispensa Cozinha",
+      "link": "https://s.shopee.com.br/30nAXwghPW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkxr03l1t53609_tn",
+      "preco": 25.11,
+      "precoDe": 27.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-08-13T18:50:46.940Z"
+    },
     {
       "id": "6821",
       "loja": "Shopee",
