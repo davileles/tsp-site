@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-13T14:57:07.260Z",
+  "atualizadoEm": "2026-08-13T15:26:07.259Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "6651",
+      "loja": "Shopee",
+      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
+      "link": "https://s.shopee.com.br/7AcjGxxF9p",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
+      "preco": 64,
+      "precoDe": 158,
+      "desconto": 50,
+      "cupom": "AG015SH0",
+      "enviadoEm": "2026-08-13T15:17:08.431Z"
+    },
     {
       "id": "6616",
       "loja": "Shopee",
