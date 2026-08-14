@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-14T17:14:20.476Z",
+  "atualizadoEm": "2026-08-14T17:36:01.520Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7370",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
+      "link": "https://s.shopee.com.br/W5r4Q4lTx",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
+      "preco": 49.52,
+      "precoDe": 66.03,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-14T17:26:01.519Z"
+    },
     {
       "id": "7363",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 44,
       "cupom": null,
       "enviadoEm": "2026-08-12T16:12:39.925Z"
-    },
-    {
-      "id": "6172",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira De Escritório Columbus Presidente Ergonomica Cinza Mesh",
-      "link": "https://meli.la/2Knybfg",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_905570-MLA95700627584_102025-O.webp",
-      "preco": 260.06,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COMPRINHASPRACASA",
-      "enviadoEm": "2026-08-12T15:59:30.601Z"
     }
   ]
 }
