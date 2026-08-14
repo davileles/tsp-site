@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-14T14:03:51.904Z",
+  "atualizadoEm": "2026-08-14T14:21:06.874Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7169",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Inox 2l Com Desligamento Automático Full",
+      "link": "https://s.shopee.com.br/20uee5noAl",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820nf-mnfpx6z1slc5e1_tn",
+      "preco": 59.87,
+      "precoDe": 199.57,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-08-14T14:15:17.821Z"
+    },
     {
       "id": "7167",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "APROVEITAESSA",
       "enviadoEm": "2026-08-12T12:24:19.510Z"
-    },
-    {
-      "id": "5803",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Philips 24 Evnia Ips 180hz 0,5ms Cor Preto",
-      "link": "https://meli.la/2kEWv1p",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_667742-MLA91967052843_092025-O-monitor-gamer-philips-24-evnia-ips-180hz-05ms-cor-preto.webp",
-      "preco": 719.1,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "APROVEITAESSA",
-      "enviadoEm": "2026-08-12T12:22:58.124Z"
     }
   ]
 }
