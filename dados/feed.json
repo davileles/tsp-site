@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-14T13:41:12.584Z",
+  "atualizadoEm": "2026-08-14T14:03:51.904Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7167",
+      "loja": "Shopee",
+      "titulo": "Carrinho De Passeio Infantil Quadriciclo Lady Star Maral Cor Rosa",
+      "link": "https://s.shopee.com.br/7psRZKtl6U",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rep4-m8wfeh8k5b2x22_tn",
+      "preco": 446,
+      "precoDe": 586.84,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-08-14T13:53:51.904Z"
+    },
     {
       "id": "7161",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "APROVEITAESSA",
       "enviadoEm": "2026-08-12T12:22:58.124Z"
-    },
-    {
-      "id": "5800",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
-      "link": "https://meli.la/1yFeUDK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_897466-MLA114005600181_072026-O.webp",
-      "preco": 1281.6399999999999,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "APROVEITAESSA",
-      "enviadoEm": "2026-08-12T12:19:11.399Z"
     }
   ]
 }
