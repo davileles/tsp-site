@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-13T23:08:44.976Z",
+  "atualizadoEm": "2026-08-14T12:54:43.924Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7026",
+      "loja": "Amazon",
+      "titulo": "100% Whey Refil (900g) - Cookies and Cream - Max Titanium, Max Titanium",
+      "link": "https://www.amazon.com.br/dp/B096YYDQHM?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41j48y-WymL._SL400_.jpg",
+      "preco": 112.39,
+      "precoDe": 189,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-08-14T12:44:32.358Z"
+    },
     {
       "id": "6870",
       "loja": "Mercado Livre",
