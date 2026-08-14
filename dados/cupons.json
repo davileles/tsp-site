@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-14T19:43:35.316Z",
+  "atualizadoEm": "2026-08-14T20:04:45.777Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -168,18 +168,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-15T12:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "KD8OFF",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 8,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-14T20:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -553,6 +541,18 @@
       "observacao": "Válido em Mercados",
       "validadeAte": "2026-08-15T01:33:58.127Z",
       "url": null
+    },
+    {
+      "codigo": "CHEGOUZE21",
+      "loja": "Outro: Zé Delivery",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": 15,
+      "observacao": null,
+      "validadeAte": "2026-08-15T19:58:33.019Z",
+      "url": "https://ze.onelink.me/qZhP/p8z09c1x"
     },
     {
       "codigo": "1MP3RD1V3L",
