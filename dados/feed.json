@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-14T20:04:44.390Z",
+  "atualizadoEm": "2026-08-14T20:23:28.563Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7458",
+      "loja": "Shopee",
+      "titulo": "Mala De Viagem/Bordo 10KG,Nova Estilo Zíper Dupla Camada Anti-Roubo,Rodas Duplas 360Grau lançamento",
+      "link": "https://s.shopee.com.br/1LeyFdypuD",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6kfam0o02sw54_tn",
+      "preco": 130,
+      "precoDe": 280,
+      "desconto": 50,
+      "cupom": "1MP3RD1V3L",
+      "enviadoEm": "2026-08-14T20:15:45.967Z"
+    },
     {
       "id": "7455",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 22,
       "cupom": "V4M0SC0MPR4R",
       "enviadoEm": "2026-08-12T17:00:34.366Z"
-    },
-    {
-      "id": "6184",
-      "loja": "Amazon",
-      "titulo": "Sallve Protetor Solar em Bastão FPS60 15g",
-      "link": "https://www.amazon.com.br/dp/B0CRWRFHSC?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31OX2FuVh2L._SL400_.jpg",
-      "preco": 59.7,
-      "precoDe": 94.9,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-08-12T16:57:21.641Z"
     }
   ]
 }
