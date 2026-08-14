@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-14T21:53:18.703Z",
+  "atualizadoEm": "2026-08-14T22:23:28.564Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7495",
+      "loja": "Shopee",
+      "titulo": "Saco de Lixo resistente 20/40/60/100 Litros direto da fábrica",
+      "link": "https://s.shopee.com.br/2qTmB6hzGI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-luz0raa04k0w98_tn",
+      "preco": 8.99,
+      "precoDe": 19.98,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-08-14T22:22:25.012Z"
+    },
+    {
+      "id": "7494",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo 4 Pneus Onyx Aro 15 Ny-806 185/60r15 84h",
+      "link": "https://meli.la/2Eb81PX",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_699905-MLB115961183147_082026-O.webp",
+      "preco": 700.12,
+      "precoDe": 1098.23,
+      "desconto": 15,
+      "cupom": "OMELHOR",
+      "enviadoEm": "2026-08-14T22:20:55.690Z"
+    },
+    {
+      "id": "7492",
+      "loja": "Amazon",
+      "titulo": "Impressora Multifuncional HP Smart Tank 583 Tanque de Tinta Colorida Wi-Fi com autorreparo, USB - Impressora, Copiadora e Scanner Cor: ‎Branco (4A8D8A)",
+      "link": "https://www.amazon.com.br/dp/B0050J4DOU?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41BIWwlZgKL._SL400_.jpg",
+      "preco": 835.18,
+      "precoDe": 999,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-08-14T22:13:38.078Z"
+    },
+    {
+      "id": "7491",
+      "loja": "Amazon",
+      "titulo": "Monitor Gamer ASUS TUF 27\", QHD, 210Hz, 0.3ms, IPS, G-Sync Comp, FreeSync Premium, Ajuste de ângulo, Som Integrado - VG27AQ5A",
+      "link": "https://www.amazon.com.br/dp/B0BSH2VZ5C?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31IUYU5H2+L._SL400_.jpg",
+      "preco": 1299.99,
+      "precoDe": 1477.26,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-08-14T22:04:38.534Z"
+    },
+    {
+      "id": "7488",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
+      "link": "https://s.shopee.com.br/4Vc08jBzu8",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
+      "preco": 33.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-14T22:01:29.116Z"
+    },
     {
       "id": "7483",
       "loja": "Amazon",
@@ -1381,66 +1441,6 @@
       "desconto": null,
       "cupom": "D4AD3CUP0M",
       "enviadoEm": "2026-08-12T22:17:51.208Z"
-    },
-    {
-      "id": "6306",
-      "loja": "Shopee",
-      "titulo": "Percarbonato de Sódio 100% Puro Limpeza Em Geral Tira Manchas Roupas Brancas /1kg /2kg /3kg",
-      "link": "https://s.shopee.com.br/50YCksqg6b",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjvjp1hee22qcb_tn",
-      "preco": 23,
-      "precoDe": 37.33,
-      "desconto": 25,
-      "cupom": "D4AD3CUP0M",
-      "enviadoEm": "2026-08-12T21:56:39.770Z"
-    },
-    {
-      "id": "6299",
-      "loja": "Shopee",
-      "titulo": "Papa Bolinhas Portatil Com Compartimento CST0146 Flash Limp",
-      "link": "https://s.shopee.com.br/19WnhVuww",
-      "imagem": "https://cf.shopee.com.br/file/853d7b3e2dbdefe5e1cf2d6b04e70eca_tn",
-      "preco": 29.270000000000003,
-      "precoDe": 38.08,
-      "desconto": 10,
-      "cupom": "D4AD3CUP0M",
-      "enviadoEm": "2026-08-12T21:35:35.308Z"
-    },
-    {
-      "id": "6297",
-      "loja": "Shopee",
-      "titulo": "Mop Girátorio Cleaner Profissional – Balde com Centrífuga 14L + Refil Duplo e Cabo Reforçado - MN",
-      "link": "https://s.shopee.com.br/4Vbw9xwysz",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnxm1i5f5ndcc_tn",
-      "preco": 49.9,
-      "precoDe": 119.8,
-      "desconto": 50,
-      "cupom": "V4M0SC0MPR4R",
-      "enviadoEm": "2026-08-12T21:14:23.401Z"
-    },
-    {
-      "id": "6294",
-      "loja": "Shopee",
-      "titulo": "Mixer 3 em 1 1000W Inox Turbo Triturador Processador Copo 700ml Kian Preto",
-      "link": "https://s.shopee.com.br/7psO866QYj",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825an-mr0epkmjiy2uaf_tn",
-      "preco": 144.99,
-      "precoDe": 249.98,
-      "desconto": 38,
-      "cupom": "V4M0SC0MPR4R",
-      "enviadoEm": "2026-08-12T20:53:19.559Z"
-    },
-    {
-      "id": "6292",
-      "loja": "Shopee",
-      "titulo": "Mini Grill Grelha Sanduicheira Inox 750w Antiderrapante Alça Led Indicador",
-      "link": "https://s.shopee.com.br/8pkvJw2gnH",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zw-mm0gp1sqitj6dc_tn",
-      "preco": 131.99,
-      "precoDe": 202.84,
-      "desconto": 30,
-      "cupom": "V4M0SC0MPR4R",
-      "enviadoEm": "2026-08-12T20:31:58.908Z"
     }
   ]
 }
