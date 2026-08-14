@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-14T17:36:01.520Z",
+  "atualizadoEm": "2026-08-14T17:53:28.561Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7430",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário para Cozinha Multiuso Taças Pratos Prateleiras Aramado Aço Dicarlo 5 Peças",
+      "link": "https://s.shopee.com.br/6L3e2dK3IV",
+      "imagem": "https://cf.shopee.com.br/file/0913c6b2091f5d1f1b53d3b9e5624b4e_tn",
+      "preco": 103.5,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "1MP3RD1V3L",
+      "enviadoEm": "2026-08-14T17:47:43.446Z"
+    },
     {
       "id": "7370",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 50,
       "cupom": "COMPRINHASPRACASA",
       "enviadoEm": "2026-08-12T16:13:45.528Z"
-    },
-    {
-      "id": "6173",
-      "loja": "Amazon",
-      "titulo": "Gillette Mach3 - Refil Para Barbear, 16 Unidades",
-      "link": "https://www.amazon.com.br/dp/B08VCP7GMD?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51UFlMWnOXL._SL400_.jpg",
-      "preco": 85.42,
-      "precoDe": 151.92,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-08-12T16:12:39.925Z"
     }
   ]
 }
