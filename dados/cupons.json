@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-14T20:23:30.081Z",
+  "atualizadoEm": "2026-08-14T20:25:46.257Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -375,18 +375,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SOAGORA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-08-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CUPOMDASEMANA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -459,18 +447,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LIVROSEJOGOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 69,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-08-16T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFERTASML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -483,27 +459,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ODA1208M",
+      "codigo": "OBRASEFERRAMENTAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 15,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupons em selecionados",
-      "validadeAte": "2026-08-14T22:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LIBROS1208",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 69,
+      "minimo": 89,
       "maximo": null,
       "limite": 30,
-      "observacao": "Cupons em selecionados",
-      "validadeAte": "2026-08-14T22:00:00.000Z",
+      "observacao": null,
+      "validadeAte": "2026-08-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
