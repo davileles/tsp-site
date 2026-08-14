@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-14T17:53:28.561Z",
+  "atualizadoEm": "2026-08-14T18:18:56.560Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7439",
+      "loja": "Shopee",
+      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
+      "link": "https://s.shopee.com.br/5LB6sGzxmb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
+      "preco": 49.52,
+      "precoDe": 66.03,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-14T18:08:56.557Z"
+    },
     {
       "id": "7430",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 43,
       "cupom": "V4M0SC0MPR4R",
       "enviadoEm": "2026-08-12T16:18:40.730Z"
-    },
-    {
-      "id": "6175",
-      "loja": "Mercado Livre",
-      "titulo": "Aparelho De Jantar 20 Peças Vidro Opaline Para Mesa Posta",
-      "link": "https://meli.la/1hTRhdf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_999748-MLB114193618598_082026-O.webp",
-      "preco": 149.17000000000002,
-      "precoDe": 399.9,
-      "desconto": 50,
-      "cupom": "COMPRINHASPRACASA",
-      "enviadoEm": "2026-08-12T16:13:45.528Z"
     }
   ]
 }
