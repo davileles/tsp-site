@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-14T15:20:08.262Z",
+  "atualizadoEm": "2026-08-14T15:50:08.349Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -25,6 +25,54 @@
       "observacao": "Exclusivo para cartão Amazon",
       "validadeAte": "2026-08-15T12:32:03.692Z",
       "url": "https://amzn.to/4dFRSzy"
+    },
+    {
+      "codigo": "AMOO20DAVINES",
+      "loja": "BELEZA NA WEB",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
+    },
+    {
+      "codigo": "EUAMOO15MASCAVO",
+      "loja": "BELEZA NA WEB",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
+    },
+    {
+      "codigo": "MAKE10",
+      "loja": "BELEZA NA WEB",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
+    },
+    {
+      "codigo": "UNIVER10GRANADO",
+      "loja": "BELEZA NA WEB",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
     },
     {
       "codigo": "TENNIS15",
@@ -61,6 +109,66 @@
       "observacao": null,
       "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
+    },
+    {
+      "codigo": "300AURA",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-17T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "DESCONTAUM",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-15T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "DPI15",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-31T20:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "UPTELA15",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-21T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "REFRESCA12",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-15T12:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
       "codigo": "KD8OFF",
@@ -303,6 +411,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CORREPRAPROMO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-17T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CUPOMDASEMANA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -396,6 +516,18 @@
       "limite": 30,
       "observacao": "Válido em categoria Obras e Ferramentas",
       "validadeAte": "2026-08-14T22:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OBRASEFERRAMENTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-08-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
