@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-14T18:18:58.050Z",
+  "atualizadoEm": "2026-08-14T18:23:28.945Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -553,18 +553,6 @@
       "observacao": "Válido em Mercados",
       "validadeAte": "2026-08-15T01:33:58.127Z",
       "url": null
-    },
-    {
-      "codigo": "BRAHMASDAPROMESSA",
-      "loja": "Outro: Zé Delivery",
-      "tipo": "pct",
-      "valor": 100,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "100% OFF limitado a 1 pack Brahma",
-      "validadeAte": "2026-08-14T18:22:48.089Z",
-      "url": "https://ze.onelink.me/qZhP/p8z09c1x"
     },
     {
       "codigo": "1MP3RD1V3L",
