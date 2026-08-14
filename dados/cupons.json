@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-14T12:59:33.392Z",
+  "atualizadoEm": "2026-08-14T13:12:13.698Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -96,6 +96,18 @@
       "limite": 90,
       "observacao": null,
       "validadeAte": "2026-08-15T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 399,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-08-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -279,6 +291,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CORREPRAPROMO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-17T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SOAGORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-17T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CUPOMDASEMANA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -421,18 +457,6 @@
       "observacao": "100% OFF limitado a 1 pack Brahma",
       "validadeAte": "2026-08-14T18:22:48.089Z",
       "url": "https://ze.onelink.me/qZhP/p8z09c1x"
-    },
-    {
-      "codigo": "P1XN4PT8AF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 599,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-14T13:02:36.054Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "4QU1T3MCUP0M",
