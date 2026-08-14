@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-14T15:20:06.873Z",
+  "atualizadoEm": "2026-08-14T15:50:06.885Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7252",
+      "loja": "Shopee",
+      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
+      "link": "https://s.shopee.com.br/7VFbI35Qfm",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
+      "preco": 69,
+      "precoDe": 158,
+      "desconto": 50,
+      "cupom": "1MP3RD1V3L",
+      "enviadoEm": "2026-08-14T15:40:10.219Z"
+    },
+    {
+      "id": "7251",
+      "loja": "Mercado Livre",
+      "titulo": "Extratora e Higienizadora Portátil WAP Spot Cleaner W2 1600W - Pulveriza, Esfrega e Extrai",
+      "link": "https://meli.la/32PAKdZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603572-MLA99545946946_122025-O.webp",
+      "preco": 463.6,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CASAINTELIGENTE",
+      "enviadoEm": "2026-08-14T15:31:21.065Z"
+    },
+    {
+      "id": "7250",
+      "loja": "Mercado Livre",
+      "titulo": "Mala De Treino Mizuno Gym Cor Preto",
+      "link": "https://meli.la/24QHDjZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_837079-MLA96149291997_102025-O.webp",
+      "preco": 121.25999999999999,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SEMPREMODA",
+      "enviadoEm": "2026-08-14T15:27:27.049Z"
+    },
+    {
+      "id": "7249",
+      "loja": "Amazon",
+      "titulo": "LIMPA CHUPETA lenços umedecidos higienizadores, Likluc, Branco, Tamanho único",
+      "link": "https://www.amazon.com.br/dp/B07XPC1ZNT?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41c2r5Ze3PL._SL400_.jpg",
+      "preco": 11.02,
+      "precoDe": 29.9,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-08-14T15:25:37.416Z"
+    },
+    {
+      "id": "7248",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Pneus 175/65R14 Firestone F-600 82T Aro 14",
+      "link": "https://meli.la/2s8ExH2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_991002-MLA99922800545_112025-O.webp",
+      "preco": 521.99,
+      "precoDe": 840,
+      "desconto": 17,
+      "cupom": "OMELHOR",
+      "enviadoEm": "2026-08-14T15:24:06.689Z"
+    },
     {
       "id": "7245",
       "loja": "Shopee",
@@ -13,18 +73,6 @@
       "desconto": 27,
       "cupom": "1MP3RD1V3L",
       "enviadoEm": "2026-08-14T15:19:00.882Z"
-    },
-    {
-      "id": "7240",
-      "loja": "Mercado Livre",
-      "titulo": "Extratora e Higienizadora Portátil WAP Spot Cleaner W2 1600W - Pulveriza, Esfrega e Extrai",
-      "link": "https://meli.la/32PAKdZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603572-MLA99545946946_122025-O.webp",
-      "preco": 463.6,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CASAINTELIGENTE",
-      "enviadoEm": "2026-08-14T15:08:26.724Z"
     },
     {
       "id": "7241",
@@ -1393,54 +1441,6 @@
       "desconto": 10,
       "cupom": "ELUX20",
       "enviadoEm": "2026-08-12T12:40:39.261Z"
-    },
-    {
-      "id": "5876",
-      "loja": "Amazon",
-      "titulo": "Dolce Gusto Nescafé Café Em Cápsula Dolcegusto Alpino Tradicional 10 Unidades 178G",
-      "link": "https://www.amazon.com.br/dp/B0CJ9YJYHR?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41A-CfyR05L._SL160_.jpg",
-      "preco": 16.75,
-      "precoDe": 26.39,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-08-12T12:38:00.489Z"
-    },
-    {
-      "id": "5812",
-      "loja": "Mercado Livre",
-      "titulo": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-      "link": "https://meli.la/166Zdhv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603690-MLA93305557455_092025-O.webp",
-      "preco": 1819.2,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "APROVEITAESSA",
-      "enviadoEm": "2026-08-12T12:31:28.855Z"
-    },
-    {
-      "id": "5811",
-      "loja": "Amazon",
-      "titulo": "Electrolux Kit 10 Potes Herméticos de Plástico Cinza, 9,15L, Safelock",
-      "link": "https://www.amazon.com.br/dp/B0GPY3VQKX?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31LuE-1ubXL._SL160_.jpg",
-      "preco": 125,
-      "precoDe": 189.9,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-08-12T12:29:38.311Z"
-    },
-    {
-      "id": "5809",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino Casual Aramis Daily Slip Confortável Moderno",
-      "link": "https://meli.la/1emg4bA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_741024-MLB114244636256_082026-O.webp",
-      "preco": 111.92,
-      "precoDe": 339.99,
-      "desconto": 59,
-      "cupom": "SEMPREMODA",
-      "enviadoEm": "2026-08-12T12:26:47.541Z"
     }
   ]
 }
