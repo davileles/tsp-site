@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-14T19:22:27.345Z",
+  "atualizadoEm": "2026-08-14T19:43:33.994Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7450",
+      "loja": "Shopee",
+      "titulo": "Lorenzetti Aquecedor de Agua Versátil 3 Temperaturas Branco 127",
+      "link": "https://s.shopee.com.br/2LXVOa1wzk",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdys-mbptsew8hqq572_tn",
+      "preco": 379.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "1MP3RD1V3L",
+      "enviadoEm": "2026-08-14T19:33:33.992Z"
+    },
     {
       "id": "7447",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-12T16:39:31.771Z"
-    },
-    {
-      "id": "6181",
-      "loja": "Amazon",
-      "titulo": "Pantene Pro-V Creme de Pentear Cachos Definidos 240g",
-      "link": "https://www.amazon.com.br/dp/B07GBH7Z42?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31FlVLnRIdL._SL400_.jpg",
-      "preco": 11.99,
-      "precoDe": 19.99,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-08-12T16:35:44.964Z"
     }
   ]
 }
