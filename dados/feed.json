@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-08-14T15:50:06.885Z",
+  "atualizadoEm": "2026-08-14T16:16:56.424Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7278",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Samsung Essential S3, 24\" FHD, 120 Hz, HDMI, Preto",
+      "link": "https://meli.la/2bqNiYF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652104-MLA96195278152_102025-O.webp",
+      "preco": 485.1,
+      "precoDe": 899,
+      "desconto": 40,
+      "cupom": "CASAINTELIGENTE",
+      "enviadoEm": "2026-08-14T16:14:38.459Z"
+    },
+    {
+      "id": "7277",
+      "loja": "Mercado Livre",
+      "titulo": "Ventilador De Teto Ventisol Fênix E-27 Branco 130w Com 3 Pás De Plástico, 960 mm De Diâmetro",
+      "link": "https://meli.la/1wBVUf2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_955140-MLA96134764725_102025-O.webp",
+      "preco": 164.77,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CASAINTELIGENTE",
+      "enviadoEm": "2026-08-14T16:14:12.264Z"
+    },
+    {
+      "id": "7274",
+      "loja": "Mercado Livre",
+      "titulo": "Mixer 3 Em 1 Processador Batedor Inox 1000w Kian Preto",
+      "link": "https://meli.la/1jcvsCQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_644718-MLA108174153710_032026-O.webp",
+      "preco": 132.33,
+      "precoDe": 169,
+      "desconto": 13,
+      "cupom": "CASAINTELIGENTE",
+      "enviadoEm": "2026-08-14T16:10:32.235Z"
+    },
+    {
+      "id": "7273",
+      "loja": "Mercado Livre",
+      "titulo": "Tinta Antimofo Acrílica Econômica Qualyvinil",
+      "link": "https://meli.la/21oXG41",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_791126-MLB100184373121_122025-O-tinta-antimofo-acrilica-econmica-qualyvinil.webp",
+      "preco": 109.26000000000002,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CUPOMDASEMANA",
+      "enviadoEm": "2026-08-14T16:09:52.213Z"
+    },
+    {
+      "id": "7272",
+      "loja": "Shopee",
+      "titulo": "JAQUETA DE COURO MASCULINA COM CAPUZ REMOVIVEL FORRADA E PELUCIDA POR DENTRO INVERNO/FRIO",
+      "link": "https://s.shopee.com.br/5LB6jWh71k",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmtaw18rywhs2d_tn",
+      "preco": 151,
+      "precoDe": 230,
+      "desconto": 30,
+      "cupom": "1MP3RD1V3L",
+      "enviadoEm": "2026-08-14T16:01:17.168Z"
+    },
+    {
+      "id": "7271",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Flexfocuslite Modern Feminino Bpd Puma",
+      "link": "https://meli.la/2LiggSG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_700012-MLB111197896846_052026-O.webp",
+      "preco": 174.79000000000002,
+      "precoDe": 349.99,
+      "desconto": 38,
+      "cupom": "SEMPREMODA",
+      "enviadoEm": "2026-08-14T15:57:22.161Z"
+    },
     {
       "id": "7252",
       "loja": "Shopee",
@@ -1369,78 +1441,6 @@
       "desconto": 47,
       "cupom": "D3ZD3D3Z",
       "enviadoEm": "2026-08-12T13:29:05.282Z"
-    },
-    {
-      "id": "5946",
-      "loja": "Shopee",
-      "titulo": "Cesto De Roupa Suja Bambu Dobravel Organizador Forrado Banheiro 60cm Grande Cesto Retangular",
-      "link": "https://s.shopee.com.br/qidnEJwg7",
-      "imagem": null,
-      "preco": 49.99,
-      "precoDe": 99.98,
-      "desconto": 40,
-      "cupom": "D3SC0NT0SH0",
-      "enviadoEm": "2026-08-12T13:08:02.020Z"
-    },
-    {
-      "id": "5943",
-      "loja": "Shopee",
-      "titulo": "Calça Moletom Masculina Jogger Flanelada – Algodão Peluciado Quentinha Inverno Casual",
-      "link": "https://s.shopee.com.br/qidnEbXox",
-      "imagem": null,
-      "preco": 37.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-12T12:47:00.142Z"
-    },
-    {
-      "id": "5942",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Reservado Cabernet Sauvignon 750ml",
-      "link": "https://www.amazon.com.br/dp/B07XLMJHRN?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31UifMVTuyL._SL160_.jpg",
-      "preco": 21.9,
-      "precoDe": 39.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-08-12T12:45:07.979Z"
-    },
-    {
-      "id": "5941",
-      "loja": "Amazon",
-      "titulo": "Achocolatado em Pó Nescau 550G",
-      "link": "https://www.amazon.com.br/dp/B095JHD5GW?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41h24TtXk-L._SL160_.jpg",
-      "preco": 10.59,
-      "precoDe": 17.29,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-08-12T12:44:06.865Z"
-    },
-    {
-      "id": "5940",
-      "loja": "Mercado Livre",
-      "titulo": "Cafeteira britânia bcf20a 20 cafés 800ml",
-      "link": "https://meli.la/215tBhw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_886912-MLA91558393648_092025-O.webp",
-      "preco": 69.9,
-      "precoDe": 169.9,
-      "desconto": 59,
-      "cupom": null,
-      "enviadoEm": "2026-08-12T12:43:29.454Z"
-    },
-    {
-      "id": "5877",
-      "loja": "Amazon",
-      "titulo": "NIVEA Kit Loção Hidratante Milk Pele Seca a Extrasseca 400ml (2 unidades)",
-      "link": "https://www.amazon.com.br/dp/B0DK4975DJ?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41rcELx93CL._SL160_.jpg",
-      "preco": 31.49,
-      "precoDe": 43.9,
-      "desconto": 10,
-      "cupom": "ELUX20",
-      "enviadoEm": "2026-08-12T12:40:39.261Z"
     }
   ]
 }
