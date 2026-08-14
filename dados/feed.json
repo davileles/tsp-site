@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-14T18:18:56.560Z",
+  "atualizadoEm": "2026-08-14T18:40:07.200Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7442",
+      "loja": "Shopee",
+      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
+      "link": "https://s.shopee.com.br/40fjJHYbws",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
+      "preco": 139.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "1MP3RD1V3L",
+      "enviadoEm": "2026-08-14T18:30:07.198Z"
+    },
     {
       "id": "7439",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-12T16:19:22.626Z"
-    },
-    {
-      "id": "6176",
-      "loja": "Shopee",
-      "titulo": "Jogo de Toalhas de Algodão 4 Peças Banho e Rosto Karsten - Emcompre",
-      "link": "https://s.shopee.com.br/8pkvJvl9wB",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj75qya1d5361f_tn",
-      "preco": 110.95,
-      "precoDe": 212.19,
-      "desconto": 43,
-      "cupom": "V4M0SC0MPR4R",
-      "enviadoEm": "2026-08-12T16:18:40.730Z"
     }
   ]
 }
