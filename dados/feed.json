@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-14T14:21:06.874Z",
+  "atualizadoEm": "2026-08-14T14:46:25.693Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7229",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Inox 2L Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
+      "link": "https://s.shopee.com.br/9zwwCGV3lS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mmnecrvxxb7o47_tn",
+      "preco": 44.9,
+      "precoDe": 99.78,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-08-14T14:36:25.692Z"
+    },
     {
       "id": "7169",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-08-12T12:25:21.412Z"
-    },
-    {
-      "id": "5804",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV Profissional 4K 50\" LG UHD 50AU801 Processador α7 AI Ger8 Super Upscaling Google Cast Alexa Integrado Controle AI Smart Magic WebOS 25",
-      "link": "https://meli.la/2ww4iNX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_731891-MLA101888831643_122025-O.webp",
-      "preco": 1900.0099999999998,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "APROVEITAESSA",
-      "enviadoEm": "2026-08-12T12:24:19.510Z"
     }
   ]
 }
