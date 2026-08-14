@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-14T18:40:07.200Z",
+  "atualizadoEm": "2026-08-14T18:53:28.561Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7444",
+      "loja": "Shopee",
+      "titulo": "Lente de Contato Uso Diário Clariti - Coopervision + Estojo De Lentes",
+      "link": "https://s.shopee.com.br/7fZ1hTo9k6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-lui6b2ll3hph86_tn",
+      "preco": 136,
+      "precoDe": 160.44,
+      "desconto": 9,
+      "cupom": "1MP3RD1V3L",
+      "enviadoEm": "2026-08-14T18:51:18.909Z"
+    },
     {
       "id": "7442",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 26,
       "cupom": null,
       "enviadoEm": "2026-08-12T16:34:41.530Z"
-    },
-    {
-      "id": "6178",
-      "loja": "Mercado Livre",
-      "titulo": "Teclado Mecânico Gamer 60% K61 Com Fio E Iluminação",
-      "link": "https://meli.la/2uv7b7v",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_734127-CBT110175393528_042026-O.webp",
-      "preco": 39.83,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-12T16:19:22.626Z"
     }
   ]
 }
