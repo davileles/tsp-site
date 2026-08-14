@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-14T14:46:25.693Z",
+  "atualizadoEm": "2026-08-14T15:18:26.725Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7240",
+      "loja": "Mercado Livre",
+      "titulo": "Extratora e Higienizadora Portátil WAP Spot Cleaner W2 1600W - Pulveriza, Esfrega e Extrai",
+      "link": "https://meli.la/32PAKdZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603572-MLA99545946946_122025-O.webp",
+      "preco": 463.6,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CASAINTELIGENTE",
+      "enviadoEm": "2026-08-14T15:08:26.724Z"
+    },
+    {
+      "id": "7241",
+      "loja": "Amazon",
+      "titulo": "BRAVO CAFÉ TENOR MOIDO 250G",
+      "link": "https://www.amazon.com.br/dp/B09L598ZH6?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31YeU-dW6aL._SL400_.jpg",
+      "preco": 17.99,
+      "precoDe": 23.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-14T15:08:26.136Z"
+    },
+    {
+      "id": "7239",
+      "loja": "Mercado Livre",
+      "titulo": "Ar Condicionado Split Inverter Hitachi 12000 BTU Frio R-32 Wi-Fi",
+      "link": "https://meli.la/1fUy5S5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_978658-MLA99929846711_112025-O.webp",
+      "preco": 1531.8,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CASAINTELIGENTE",
+      "enviadoEm": "2026-08-14T15:06:17.418Z"
+    },
+    {
+      "id": "7231",
+      "loja": "Shopee",
+      "titulo": "Creme Desodorante Antitranspirante Herbíssimo Care Rosa Mosqueta E Niacinamida Bisnaga 55g",
+      "link": "https://s.shopee.com.br/2LXV5dRojb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmrumknuvu2s97_tn",
+      "preco": 15.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-14T14:57:43.311Z"
+    },
     {
       "id": "7229",
       "loja": "Shopee",
@@ -1371,18 +1419,6 @@
       "enviadoEm": "2026-08-12T12:29:38.311Z"
     },
     {
-      "id": "5810",
-      "loja": "Mercado Livre",
-      "titulo": "Ar Condicionado Split Inverter Hitachi 12000 BTU Frio R-32 Wi-Fi",
-      "link": "https://meli.la/1fUy5S5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_978658-MLA99929846711_112025-O.webp",
-      "preco": 1531.8,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "APROVEITAESSA",
-      "enviadoEm": "2026-08-12T12:28:10.419Z"
-    },
-    {
       "id": "5809",
       "loja": "Mercado Livre",
       "titulo": "Tênis Masculino Casual Aramis Daily Slip Confortável Moderno",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": "APROVEITAESSA",
       "enviadoEm": "2026-08-12T12:26:41.933Z"
-    },
-    {
-      "id": "5807",
-      "loja": "Shopee",
-      "titulo": "Aspirador de Pó Robô WAP Robot W100 3 em 1 Antiqueda Bivolt 17W",
-      "link": "https://s.shopee.com.br/5VUTLoFJIV",
-      "imagem": null,
-      "preco": 407.99,
-      "precoDe": 1071.77,
-      "desconto": 61,
-      "cupom": "D3SC0NT0SH0",
-      "enviadoEm": "2026-08-12T12:25:49.728Z"
-    },
-    {
-      "id": "5806",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Aoc Agon G50 24 144hz 0,5ms 24g50f Preto",
-      "link": "https://meli.la/2w3YRcP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_748152-MLA96322082514_102025-O.webp",
-      "preco": 561.61,
-      "precoDe": 749,
-      "desconto": 17,
-      "cupom": "APROVEITAESSA",
-      "enviadoEm": "2026-08-12T12:25:35.556Z"
-    },
-    {
-      "id": "5805",
-      "loja": "Amazon",
-      "titulo": "Kit Gillette Mach3 10 cargas + Necessaire, Higiene Pessoal, Cuidado com a barba, Lâminas e Aparelhos de Barbear",
-      "link": "https://www.amazon.com.br/dp/B0DR3BLGF5?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51Cf4xCABFL._SL160_.jpg",
-      "preco": 79.09,
-      "precoDe": 101.89,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-08-12T12:25:21.412Z"
     }
   ]
 }
