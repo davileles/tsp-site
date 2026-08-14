@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-14T22:23:28.564Z",
+  "atualizadoEm": "2026-08-14T22:38:47.347Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7499",
+      "loja": "Mercado Livre",
+      "titulo": "Blusa De Frio Lã Masculina Frio Zíper Quentinha Inverno Luxo",
+      "link": "https://meli.la/27EUoix",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_650812-MLB89673542116_082025-O-blusa-de-frio-l-masculina-frio-ziper-quentinha-inverno-luxo.webp",
+      "preco": 44.23,
+      "precoDe": 119.9,
+      "desconto": 54,
+      "cupom": "SEMPREMODA",
+      "enviadoEm": "2026-08-14T22:28:47.345Z"
+    },
+    {
+      "id": "7498",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Aramis Daily Knit Marinho Ergonomico Macio Azul",
+      "link": "https://meli.la/1camifH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_802519-MLB112446597449_052026-O.webp",
+      "preco": 259.19,
+      "precoDe": 379.99,
+      "desconto": 15,
+      "cupom": "SEMPREMODA",
+      "enviadoEm": "2026-08-14T22:27:12.543Z"
+    },
+    {
+      "id": "7496",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Blusas Manga Longa Segunda Pele Canelada Básica Casual",
+      "link": "https://meli.la/2GyJDUg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_666244-MLB110118590406_042026-O.webp",
+      "preco": 43.19,
+      "precoDe": 131.65,
+      "desconto": 59,
+      "cupom": "SEMPREMODA",
+      "enviadoEm": "2026-08-14T22:24:29.205Z"
+    },
     {
       "id": "7495",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 62,
       "cupom": "V4M0SC0MPR4R",
       "enviadoEm": "2026-08-12T23:21:38.346Z"
-    },
-    {
-      "id": "6314",
-      "loja": "Shopee",
-      "titulo": "Termômetro Digital Infravermelho De Testa Sem Contato Médico LCD Febre Medição Do Bebê/Adulto TWC-01",
-      "link": "https://s.shopee.com.br/5VUTLnxmR1",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260j-mkcrvpsxe32a3a_tn",
-      "preco": 19.98,
-      "precoDe": 60.55,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-08-12T23:00:28.247Z"
-    },
-    {
-      "id": "6312",
-      "loja": "Shopee",
-      "titulo": "Tapete de Banheiro Absorvente Antiderrapante Secagem Rápida",
-      "link": "https://s.shopee.com.br/1123Ha2TFa",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260b-mm4q3xn8yayw0f_tn",
-      "preco": 12.99,
-      "precoDe": 49.96,
-      "desconto": 74,
-      "cupom": null,
-      "enviadoEm": "2026-08-12T22:39:11.744Z"
-    },
-    {
-      "id": "6307",
-      "loja": "Shopee",
-      "titulo": "Pistola de Massagem Muscular Portátil Elétrica Profissional Recarregável USB com Múltiplas Ponteiras para Relaxamento",
-      "link": "https://s.shopee.com.br/1VyKaSCnlP",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225c-mhjox6ltdn9ef0_tn",
-      "preco": 23.76,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "D4AD3CUP0M",
-      "enviadoEm": "2026-08-12T22:17:51.208Z"
     }
   ]
 }
