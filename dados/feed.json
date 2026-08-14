@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-14T15:18:26.725Z",
+  "atualizadoEm": "2026-08-14T15:20:06.873Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7245",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Bobojaco Impermeável Becker Nylon Puffer Masculino com Bolsos e Capuz",
+      "link": "https://s.shopee.com.br/7VFbGabrEc",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmb-lo8gotg960in6f_tn",
+      "preco": 62.989999999999995,
+      "precoDe": 99.99,
+      "desconto": 27,
+      "cupom": "1MP3RD1V3L",
+      "enviadoEm": "2026-08-14T15:19:00.882Z"
+    },
     {
       "id": "7240",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 59,
       "cupom": "SEMPREMODA",
       "enviadoEm": "2026-08-12T12:26:47.541Z"
-    },
-    {
-      "id": "5808",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor gamer Aoc Série B30 21.5'' Full Hd Gaming 120hz 1ms 22b30hm23 cor preto",
-      "link": "https://meli.la/2UxRZa8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621055-MLA91966913733_092025-O.webp",
-      "preco": 383.89,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "APROVEITAESSA",
-      "enviadoEm": "2026-08-12T12:26:41.933Z"
     }
   ]
 }
