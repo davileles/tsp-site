@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-14T20:47:01.166Z",
+  "atualizadoEm": "2026-08-14T21:23:29.714Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -181,6 +181,18 @@
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "MLTIRA80",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 80,
+      "minimo": 569,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom válido para contas selecionadas",
+      "validadeAte": "2026-08-15T21:21:33.121Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "INTERNACIONALCN",
