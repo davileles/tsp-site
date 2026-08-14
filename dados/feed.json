@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-14T12:54:43.924Z",
+  "atualizadoEm": "2026-08-14T13:12:12.582Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7141",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
+      "link": "https://s.shopee.com.br/8Koi7KGycE",
+      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
+      "preco": 42.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "M1M0D4QU1NT4",
+      "enviadoEm": "2026-08-14T13:10:46.632Z"
+    },
     {
       "id": "7026",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "APROVEITAESSA",
       "enviadoEm": "2026-08-12T12:19:11.399Z"
-    },
-    {
-      "id": "5799",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Samsung Odyssey G5, 27 , Qhd, 165hz Cor Preto",
-      "link": "https://meli.la/2p9eTjY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_929601-MLA99994006017_112025-O.webp",
-      "preco": 854.67,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "APROVEITAESSA",
-      "enviadoEm": "2026-08-12T12:18:06.911Z"
     }
   ]
 }
