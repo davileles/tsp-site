@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-14T18:23:28.945Z",
+  "atualizadoEm": "2026-08-14T18:40:08.440Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -375,18 +375,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CORREPRAPROMO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-08-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CUPOMDASEMANA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -459,6 +447,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LIVROSEJOGOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 69,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-08-16T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OFERTASML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -503,7 +503,7 @@
       "maximo": null,
       "limite": 20,
       "observacao": "Cupons em selecionados",
-      "validadeAte": "2026-08-15T18:00:36.856Z",
+      "validadeAte": "2026-08-14T22:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -515,7 +515,7 @@
       "maximo": null,
       "limite": 30,
       "observacao": "Cupons em selecionados",
-      "validadeAte": "2026-08-15T18:01:43.056Z",
+      "validadeAte": "2026-08-14T22:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
