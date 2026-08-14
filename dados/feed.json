@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-14T18:53:28.561Z",
+  "atualizadoEm": "2026-08-14T19:22:27.345Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7447",
+      "loja": "Shopee",
+      "titulo": "Liquidificador Power Oster Vidro 1.8l 127v",
+      "link": "https://s.shopee.com.br/19aaql7W2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-m8g7qc1ijeupeb_tn",
+      "preco": 300.96,
+      "precoDe": 398.67,
+      "desconto": 22,
+      "cupom": "1MP3RD1V3L",
+      "enviadoEm": "2026-08-14T19:12:27.344Z"
+    },
     {
       "id": "7444",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-08-12T16:35:44.964Z"
-    },
-    {
-      "id": "6180",
-      "loja": "Mercado Livre",
-      "titulo": "Headset Gamer Sem Fio Attack Shark L30 Pro",
-      "link": "https://meli.la/1yfMxdN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_600931-CBT111780187537_052026-O.webp",
-      "preco": 109.12,
-      "precoDe": 293.12,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-08-12T16:34:41.530Z"
     }
   ]
 }
