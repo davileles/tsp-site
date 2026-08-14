@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-14T16:49:51.654Z",
+  "atualizadoEm": "2026-08-14T17:14:20.476Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7363",
+      "loja": "Shopee",
+      "titulo": "KIT 2 Camisa Gola Polo Alta Qualidade 100% Algodão Camiseta Básica Masculina  Diversas Cores",
+      "link": "https://s.shopee.com.br/LmQqeFgvf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zty-mkjyqctdl34035_tn",
+      "preco": 49.8,
+      "precoDe": 99.67,
+      "desconto": 40,
+      "cupom": "1MP3RD1V3L",
+      "enviadoEm": "2026-08-14T17:04:20.344Z"
+    },
+    {
+      "id": "7362",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Taças Bowls De Vidro Para Sobremesas E Sorvete",
+      "link": "https://meli.la/2ZCDfe4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761806-MLB110796598632_052026-O.webp",
+      "preco": 15.440000000000001,
+      "precoDe": 39.9,
+      "desconto": 52,
+      "cupom": "PREFERIDO",
+      "enviadoEm": "2026-08-14T16:59:39.713Z"
+    },
+    {
+      "id": "7361",
+      "loja": "Mercado Livre",
+      "titulo": "Panela De Pressão Antiaderente Tramontina Vancouver 4,5l Cor Preta",
+      "link": "https://meli.la/1DPs2rC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_997334-MLA99399341418_112025-O.webp",
+      "preco": 143.92000000000002,
+      "precoDe": 269,
+      "desconto": 33,
+      "cupom": "PREFERIDO",
+      "enviadoEm": "2026-08-14T16:52:24.731Z"
+    },
     {
       "id": "7359",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": "COMPRINHASPRACASA",
       "enviadoEm": "2026-08-12T15:59:30.601Z"
-    },
-    {
-      "id": "6171",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira de Escritório Giratória HomeNow Columbus Presidente Preta com Tela Mesh",
-      "link": "https://meli.la/1za9Yso",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_651752-MLA95643261450_102025-O.webp",
-      "preco": 262.91,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COMPRINHASPRACASA",
-      "enviadoEm": "2026-08-12T15:58:36.535Z"
-    },
-    {
-      "id": "6170",
-      "loja": "Shopee",
-      "titulo": "Jogo De Panelas 10 Peças Antiaderente Conjunto Caçarola Frigideira Fervedor Cor Coffee Cappuccino Kit Talheres",
-      "link": "https://s.shopee.com.br/5VUTLo26xf",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgqyauzfcc8wdf_tn",
-      "preco": 189.99,
-      "precoDe": 307.68,
-      "desconto": 35,
-      "cupom": "V4M0SC0MPR4R",
-      "enviadoEm": "2026-08-12T15:57:27.454Z"
-    },
-    {
-      "id": "6163",
-      "loja": "Mercado Livre",
-      "titulo": "Geladeira Electrolux Frost Free 400l Inverter Inox (if44s) Cinza",
-      "link": "https://meli.la/1Cry4vg",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_786569-MLA106288211504_022026-O.webp",
-      "preco": 2802.92,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TUDOPRACASA",
-      "enviadoEm": "2026-08-12T15:45:26.062Z"
     }
   ]
 }
