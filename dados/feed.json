@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-14T20:23:28.563Z",
+  "atualizadoEm": "2026-08-14T20:46:59.969Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7462",
+      "loja": "Shopee",
+      "titulo": "Massageador Elétrico 6 em 1 Corporal Potente Ergonômico Multifuncional Terapia 10 Velocidades",
+      "link": "https://s.shopee.com.br/LmR5GWQBK",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mr6qsdj7sydi4b_tn",
+      "preco": 164.78,
+      "precoDe": 242.75,
+      "desconto": 28,
+      "cupom": "1MP3RD1V3L",
+      "enviadoEm": "2026-08-14T20:36:59.967Z"
+    },
     {
       "id": "7458",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 55,
       "cupom": "D4AD3CUP0M",
       "enviadoEm": "2026-08-12T17:21:46.555Z"
-    },
-    {
-      "id": "6185",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Bermuda Shorts de Moleton Masculina Com Amarração e Elástico Academia Treino/Casual.",
-      "link": "https://s.shopee.com.br/3LPylpNhDu",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m17fqt1s7o0ed9_tn",
-      "preco": 62.459999999999994,
-      "precoDe": 92.9,
-      "desconto": 22,
-      "cupom": "V4M0SC0MPR4R",
-      "enviadoEm": "2026-08-12T17:00:34.366Z"
     }
   ]
 }
