@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-15T21:47:08.637Z",
+  "atualizadoEm": "2026-08-15T22:33:11.796Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7785",
+      "loja": "Mercado Livre",
+      "titulo": "Lixeira Inteligente Automática Cinza Universal Com Sensor Recarregável Earman Company Anti Odor 16l Recarregável Usb",
+      "link": "https://meli.la/2Ntya2X",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_765803-MLA112010174337_052026-O.webp",
+      "preco": 63.53,
+      "precoDe": 157.98,
+      "desconto": 55,
+      "cupom": "FDSDOSECADOR ou PROMOCERTAML",
+      "enviadoEm": "2026-08-15T22:25:28.793Z"
+    },
+    {
+      "id": "7784",
+      "loja": "Mercado Livre",
+      "titulo": "Compressor Portátil Car Air Pump Digital Com Visor Para Carro Moto Bike Calibrador De Pneu Multifuncional",
+      "link": "https://meli.la/2qBfb9V",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_903017-MLA111914906979_052026-O.webp",
+      "preco": 48.69,
+      "precoDe": 157.98,
+      "desconto": 59,
+      "cupom": "OMELHOR",
+      "enviadoEm": "2026-08-15T22:17:24.324Z"
+    },
+    {
+      "id": "7783",
+      "loja": "Amazon",
+      "titulo": "Cerveja Budweiser, American Lager, Lata Sleek 350ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CH1DKT6N?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41eod8JHQkL._SL400_.jpg",
+      "preco": 43.08,
+      "precoDe": 55.08,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-08-15T22:13:20.442Z"
+    },
     {
       "id": "7779",
       "loja": "Mercado Livre",
@@ -771,18 +807,6 @@
       "enviadoEm": "2026-08-14T21:40:26.095Z"
     },
     {
-      "id": "7481",
-      "loja": "Mercado Livre",
-      "titulo": "Compressor Portátil Car Air Pump Digital Com Visor Para Carro Moto Bike Calibrador De Pneu Multifuncional",
-      "link": "https://meli.la/2qBfb9V",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_903017-MLA111914906979_052026-O.webp",
-      "preco": 48.69,
-      "precoDe": 157.98,
-      "desconto": 59,
-      "cupom": "OMELHOR",
-      "enviadoEm": "2026-08-14T21:39:58.039Z"
-    },
-    {
       "id": "7480",
       "loja": "Mercado Livre",
       "titulo": "Ventilador Soprador De Ar Turbo 130000 Rpm Sem Fio Portátil",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-14T13:32:22.625Z"
-    },
-    {
-      "id": "7141",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
-      "link": "https://s.shopee.com.br/8Koi7KGycE",
-      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
-      "preco": 42.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "M1M0D4QU1NT4",
-      "enviadoEm": "2026-08-14T13:10:46.632Z"
-    },
-    {
-      "id": "7026",
-      "loja": "Amazon",
-      "titulo": "100% Whey Refil (900g) - Cookies and Cream - Max Titanium, Max Titanium",
-      "link": "https://www.amazon.com.br/dp/B096YYDQHM?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41j48y-WymL._SL400_.jpg",
-      "preco": 112.39,
-      "precoDe": 189,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-08-14T12:44:32.358Z"
     }
   ]
 }
