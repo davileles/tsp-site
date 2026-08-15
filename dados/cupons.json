@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-15T13:05:53.376Z",
+  "atualizadoEm": "2026-08-15T13:29:59.644Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -447,25 +447,13 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TVS1208CELULAR",
+      "codigo": "CASAINTELIGENTE",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 15,
-      "minimo": 899,
+      "valor": 10,
+      "minimo": 149,
       "maximo": null,
-      "limite": 189,
-      "observacao": null,
-      "validadeAte": "2026-08-15T15:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TVSECELULARES",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 899,
-      "maximo": null,
-      "limite": 189,
+      "limite": 200,
       "observacao": null,
       "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -492,30 +480,6 @@
       "limite": 200,
       "observacao": "Cupom válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-08-16T12:00:56.282Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE1308",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-08-15T15:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
