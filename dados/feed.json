@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-15T15:58:59.341Z",
+  "atualizadoEm": "2026-08-15T16:28:59.342Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7694",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina Monohidratada Pura 500g Dark Lab Unidade",
+      "link": "https://meli.la/2NYVkLA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_942122-MLA99923169249_112025-O.webp",
+      "preco": 33.67,
+      "precoDe": 129.9,
+      "desconto": 65,
+      "cupom": "QUEROCUPONS",
+      "enviadoEm": "2026-08-15T16:28:51.554Z"
+    },
+    {
+      "id": "7693",
+      "loja": "Mercado Livre",
+      "titulo": "Celular Samsung Galaxy A17 Com Ia, 128gb, 4gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Cinza",
+      "link": "https://meli.la/2KFCmuY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_807545-MLA91949036595_092025-O.webp",
+      "preco": 745.11,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-15T16:26:07.333Z"
+    },
+    {
+      "id": "7692",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor gamer Aoc Série B30 21.5'' Full Hd Gaming 120hz 1ms 22b30hm23 cor preto",
+      "link": "https://meli.la/2UxRZa8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621055-MLA91966913733_092025-O.webp",
+      "preco": 380.47,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PROMOCERTAML",
+      "enviadoEm": "2026-08-15T16:19:12.897Z"
+    },
+    {
+      "id": "7690",
+      "loja": "Amazon",
+      "titulo": "NIVEA Kit Loção Hidratante Milk Pele Seca a Extrasseca 400ml (2 unidades)",
+      "link": "https://www.amazon.com.br/dp/B0DK4975DJ?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41rcELx93CL._SL400_.jpg",
+      "preco": 19.69,
+      "precoDe": 43.9,
+      "desconto": 10,
+      "cupom": "CARTAO50OFF",
+      "enviadoEm": "2026-08-15T16:13:42.534Z"
+    },
     {
       "id": "7688",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": 64,
       "cupom": null,
       "enviadoEm": "2026-08-13T22:11:13.441Z"
-    },
-    {
-      "id": "6856",
-      "loja": "Amazon",
-      "titulo": "Desengraxante Limpa Tudo 5 Lts - Removex Ultra - Vonixx",
-      "link": "https://www.amazon.com.br/dp/B08N59W3FQ?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31c8O5-ICEL._SL400_.jpg",
-      "preco": 15.88,
-      "precoDe": 33.89,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-08-13T21:48:23.661Z"
-    },
-    {
-      "id": "6854",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira de escritório TGT Heron TGT-HR gamer preta com estofado de couro sintético",
-      "link": "https://meli.la/2uNV8or",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_891841-MLA95669871418_102025-O.webp",
-      "preco": 278.54999999999995,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COMPRINHASPRACASA",
-      "enviadoEm": "2026-08-13T21:40:29.339Z"
-    },
-    {
-      "id": "6852",
-      "loja": "Shopee",
-      "titulo": "Teclado Mecanico Ajazz NK68, Rainbow, Switch Vermelho, Branco, NK68-WH",
-      "link": "https://s.shopee.com.br/AAGLFzKc5F",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gs-mpo21ndnzugw2b_tn",
-      "preco": 174.57,
-      "precoDe": 430.84,
-      "desconto": 56,
-      "cupom": "S0N4SH015",
-      "enviadoEm": "2026-08-13T21:28:41.876Z"
-    },
-    {
-      "id": "6839",
-      "loja": "Shopee",
-      "titulo": "Seringa de Segurança Retrátil para Insulina (1ml) com Agulha Fixa 0,3x13mm (30G 1/2) c/10 | - SOL",
-      "link": "https://s.shopee.com.br/80Bqb0QUeF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mnepe0233aptdf_tn",
-      "preco": 15,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-13T20:15:47.919Z"
     }
   ]
 }
