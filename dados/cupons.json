@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-15T13:29:59.644Z",
+  "atualizadoEm": "2026-08-15T13:58:59.722Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
+    {
+      "codigo": "CARTAO50OFF",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": 45,
+      "observacao": "Válido apenas para primeira compra com cartão Amazon Prime",
+      "validadeAte": "2026-08-16T13:31:20.162Z",
+      "url": "https://amzn.to/4dFRSzy"
+    },
+    {
+      "codigo": "SEMANA50OFF",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": 90,
+      "observacao": "Válido apenas para primeira compra com cartão Amazon Prime",
+      "validadeAte": "2026-08-16T13:31:20.261Z",
+      "url": "https://amzn.to/4dFRSzy"
+    },
     {
       "codigo": "AMOO20DAVINES",
       "loja": "BELEZA NA WEB",
@@ -243,6 +267,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "COMPRINHASPRACASA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-17T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "QUEROCUPONS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -363,6 +399,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CUPOMDASEMANA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-17T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PREFERIDO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -442,6 +490,18 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-08-17T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TVSECELULARES",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 899,
+      "maximo": null,
+      "limite": 189,
       "observacao": null,
       "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
