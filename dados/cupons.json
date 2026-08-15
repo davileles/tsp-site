@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-15T12:35:54.235Z",
+  "atualizadoEm": "2026-08-15T13:05:53.376Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -96,18 +96,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-17T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "DESCONTAUM",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-15T13:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
