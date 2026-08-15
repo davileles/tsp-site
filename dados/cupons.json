@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-15T19:33:12.231Z",
+  "atualizadoEm": "2026-08-15T20:03:12.245Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -541,18 +541,6 @@
       "observacao": null,
       "validadeAte": "2026-08-15T20:28:33.352Z",
       "url": null
-    },
-    {
-      "codigo": "CHEGOUZE21",
-      "loja": "Outro: Zé Delivery",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": 15,
-      "observacao": null,
-      "validadeAte": "2026-08-15T19:58:33.019Z",
-      "url": "https://ze.onelink.me/qZhP/p8z09c1x"
     },
     {
       "codigo": "VZEINICIO40",
