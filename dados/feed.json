@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-15T16:28:59.342Z",
+  "atualizadoEm": "2026-08-15T16:42:49.765Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7700",
+      "loja": "Mercado Livre",
+      "titulo": "Impressora Multifuncional HP Smart Tank 583 Tanque de Tinta Colorida Wi-Fi com autorreparo, USB - Impressora, Copiadora e Scanner Cor: ‎Branco (4A8D8A)",
+      "link": "https://meli.la/2avXEHd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_877323-MLA113931600904_072026-O.webp",
+      "preco": 604.08,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CASAINTELIGENTE ou FDSDOSECADOR ou PROMOCERTAML ou FULLMIX ou ENTREGASFULL",
+      "enviadoEm": "2026-08-15T16:32:49.764Z"
+    },
+    {
+      "id": "7699",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer LG 27'' 100hz 5ms Full Hd Ips 27ms500 Cor Preto",
+      "link": "https://meli.la/23eNTNc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_862421-MLA99475854852_112025-O.webp",
+      "preco": 629.1,
+      "precoDe": 1065.33,
+      "desconto": 34,
+      "cupom": "CASAINTELIGENTE ou FDSDOSECADOR ou PROMOCERTAML ou FULLMIX ou ENTREGASFULL",
+      "enviadoEm": "2026-08-15T16:31:13.309Z"
+    },
+    {
+      "id": "7698",
+      "loja": "Mercado Livre",
+      "titulo": "Ventilador de Coluna 40cm Super Power VSP40C 6 Pás 3 Velocidades Mondial 127v",
+      "link": "https://meli.la/1xT42H1",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_867266-MLA114707041229_072026-O.webp",
+      "preco": 144.51,
+      "precoDe": 289.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-08-15T16:31:04.713Z"
+    },
+    {
+      "id": "7695",
+      "loja": "Mercado Livre",
+      "titulo": "Relógio Tommy Hilfiger Feminino Pippa em Aço Prateado com Fundo Preto",
+      "link": "https://meli.la/1ah8moF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_902395-MLA108762833699_032026-O.webp",
+      "preco": 458.1,
+      "precoDe": 790,
+      "desconto": 36,
+      "cupom": "CASAINTELIGENTE ou FDSDOSECADOR ou PROMOCERTAML ou FULLMIX ou ENTREGASFULL",
+      "enviadoEm": "2026-08-15T16:29:48.514Z"
+    },
     {
       "id": "7694",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": 45,
       "cupom": "SEMPREMODA",
       "enviadoEm": "2026-08-13T22:17:28.003Z"
-    },
-    {
-      "id": "6824",
-      "loja": "Mobly",
-      "titulo": "Faqueiro com 42 Peças Bambu Bege",
-      "link": "https://www.awin1.com/pclick.php?p=32093609663&a=1207116&m=17777",
-      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Astatic.mobly.com.br%2Fp%2F1-0001-534597-1-list.jpg&feedId=47621&k=cc799a4c5877dc89d0a758d86ecfe972b58e808b",
-      "preco": 139.79,
-      "precoDe": 489.99,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-08-13T22:16:27.169Z"
-    },
-    {
-      "id": "6860",
-      "loja": "Mercado Livre",
-      "titulo": "Galaxy Tab A11, 64gb, 4gb Ram, Tela De 8.7 , Bateria 5.100mah, Câmera Frontal 5mp, Câmera Traseira 8mp, Wifi Prata",
-      "link": "https://meli.la/1AiMAHi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_694324-MLA114610060065_072026-O.webp",
-      "preco": 739.23,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "DESCOTOSMELI",
-      "enviadoEm": "2026-08-13T22:16:18.674Z"
-    },
-    {
-      "id": "6844",
-      "loja": "Nike",
-      "titulo": "Camiseta Nike Basketball Vintage Feminina",
-      "link": "https://www.awin1.com/pclick.php?p=44139572182&a=1207116&m=17652",
-      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Aimgnike-a.akamaihd.net%2F1500x1500%2F096668ID_996384cc_a84c_4e2b_980d_f0a6e94f2dbc_bgclean.jpg&feedId=44669&k=60c84359abd4795c0da8af8d7c0bd9570fb70f5d",
-      "preco": 103.99,
-      "precoDe": 299.99,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-08-13T22:13:35.902Z"
-    },
-    {
-      "id": "6848",
-      "loja": "Nike",
-      "titulo": "Chuteira Nike Phantom Luna II Academy Campo",
-      "link": "https://www.awin1.com/pclick.php?p=40998462597&a=1207116&m=17652",
-      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Aimgnike-a.akamaihd.net%2F1500x1500%2F028046A1_bgclean.jpg&feedId=44669&k=494d746406481c7b2ae12ab1b8219f4a72cd9cfd",
-      "preco": 289.99,
-      "precoDe": 799.99,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-08-13T22:11:13.441Z"
     }
   ]
 }
