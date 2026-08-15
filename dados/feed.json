@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-14T22:53:28.565Z",
+  "atualizadoEm": "2026-08-15T11:05:52.890Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7561",
+      "loja": "Amazon",
+      "titulo": "Achocolatado NESCAU® 2,01kg",
+      "link": "https://www.amazon.com.br/dp/B0FPRGYFCL?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/418amknZVoL._SL400_.jpg",
+      "preco": 32.9,
+      "precoDe": 37.39,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-08-15T11:02:24.138Z"
+    },
+    {
+      "id": "7560",
+      "loja": "Shopee",
+      "titulo": "Tarraxa Mágica de Sustentação p/ Sutiã Orelha Rasgada Banhado a Ouro 18k Acessório Anti Alérgico",
+      "link": "https://s.shopee.com.br/80BtAjYLP0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcc7rjg9zdgrb2_tn",
+      "preco": 12.89,
+      "precoDe": 15.91,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-08-15T11:01:45.376Z"
+    },
     {
       "id": "7501",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "V4M0SC0MPR4R",
       "enviadoEm": "2026-08-13T12:06:02.811Z"
-    },
-    {
-      "id": "6413",
-      "loja": "Shopee",
-      "titulo": "Assento Massageador Elétrico Controle Aliviar Dores Lombar Coluna Pescoço Veicular Escritório 8 Modos 3 Intensidade 3036",
-      "link": "https://s.shopee.com.br/5VUV3JzJlv",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m83r5tij7p5d46_tn",
-      "preco": 131.9,
-      "precoDe": 149.37,
-      "desconto": 5,
-      "cupom": "V4M0SC0MPR4R",
-      "enviadoEm": "2026-08-13T11:44:50.671Z"
-    },
-    {
-      "id": "6411",
-      "loja": "Shopee",
-      "titulo": "1080° Torneira Giratória de Braço Robótico Chuveiro À Prova De Respingos Banheiro Cozinha Do Aerador Dois Modos",
-      "link": "https://s.shopee.com.br/7VFZPXO8GF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mev5hs72r2mac1_tn",
-      "preco": 23.98,
-      "precoDe": 55.73,
-      "desconto": 48,
-      "cupom": "D4AD3CUP0M",
-      "enviadoEm": "2026-08-13T11:23:32.891Z"
     }
   ]
 }
