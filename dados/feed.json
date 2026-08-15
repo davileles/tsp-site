@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-15T21:33:11.795Z",
+  "atualizadoEm": "2026-08-15T21:47:08.637Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7779",
+      "loja": "Mercado Livre",
+      "titulo": "Uber Gift Card R$50 (Digital)",
+      "link": "https://meli.la/2aSq1Fw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_992591-MLA101797203493_122025-O.webp",
+      "preco": 25,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "INTERNACIONALCN",
+      "enviadoEm": "2026-08-15T21:37:08.631Z"
+    },
     {
       "id": "7776",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-08-14T12:44:32.358Z"
-    },
-    {
-      "id": "6870",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 4 Camisetas Básicas  Dry Tech",
-      "link": "https://meli.la/1kgfwTk",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_827879-MLB112365661976_062026-O.webp",
-      "preco": 33.6,
-      "precoDe": 78.9,
-      "desconto": 47,
-      "cupom": "SUPERPROMO",
-      "enviadoEm": "2026-08-13T23:00:48.062Z"
     }
   ]
 }
