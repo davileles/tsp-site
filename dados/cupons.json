@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-15T15:38:02.089Z",
+  "atualizadoEm": "2026-08-15T16:42:51.200Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -219,30 +219,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TUDOPRASUACASA",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 399,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupons resgatáveis apenas para quem resgatou ontem. Links personalizados por usuário.",
-      "validadeAte": "2026-08-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CASA1508",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 399,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-15T18:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "APROVEITA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -288,18 +264,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "COMPRINHASPRACASA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -418,18 +382,6 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-08-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CUPOMDASEMANA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
       "observacao": null,
       "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
