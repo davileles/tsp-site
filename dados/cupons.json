@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-15T21:33:12.902Z",
+  "atualizadoEm": "2026-08-15T22:03:12.154Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -456,18 +456,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-08-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PETS1508",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Válido para itens de bebês e pets",
-      "validadeAte": "2026-08-15T22:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
