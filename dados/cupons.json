@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-15T03:23:28.889Z",
+  "atualizadoEm": "2026-08-15T03:53:28.864Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -195,6 +195,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "INTERNACIONALCN",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 90,
+      "observacao": null,
+      "validadeAte": "2026-08-17T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "APROVEITA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -243,6 +255,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "COMPRINHASPRACASA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-17T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "QUEROCUPONS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -276,6 +300,18 @@
       "limite": 147,
       "observacao": "Cupom válido em selecionados. Clique em 'Mostrar mais' para ver a lista completa",
       "validadeAte": "2026-09-01T02:45:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AVANT",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 147,
+      "observacao": null,
+      "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -408,6 +444,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-09-02T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MAISOFERTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
