@@ -1,31 +1,7 @@
 {
-  "atualizadoEm": "2026-08-15T12:05:54.013Z",
+  "atualizadoEm": "2026-08-15T12:35:54.235Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
-    {
-      "codigo": "CARTAO50OFF",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": 45,
-      "observacao": "Exclusivo para cartão Amazon",
-      "validadeAte": "2026-08-15T12:32:03.580Z",
-      "url": "https://amzn.to/4dFRSzy"
-    },
-    {
-      "codigo": "SEMANA50OFF",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": 90,
-      "observacao": "Exclusivo para cartão Amazon",
-      "validadeAte": "2026-08-15T12:32:03.692Z",
-      "url": "https://amzn.to/4dFRSzy"
-    },
     {
       "codigo": "AMOO20DAVINES",
       "loja": "BELEZA NA WEB",
@@ -279,18 +255,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "COMPRINHASPRACASA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-08-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "QUEROCUPONS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -411,18 +375,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CUPOMDASEMANA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-08-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PREFERIDO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -519,6 +471,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TVSECELULARES",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 899,
+      "maximo": null,
+      "limite": 189,
+      "observacao": null,
+      "validadeAte": "2026-08-17T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "FDSDOSECADOR",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -552,6 +516,18 @@
       "limite": 20,
       "observacao": null,
       "validadeAte": "2026-08-15T15:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -589,6 +565,18 @@
       "observacao": null,
       "validadeAte": "2026-08-15T19:58:33.019Z",
       "url": "https://ze.onelink.me/qZhP/p8z09c1x"
+    },
+    {
+      "codigo": "SABADO40",
+      "loja": "Pague Menos",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 220,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-16T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=64086&id=1207116"
     },
     {
       "codigo": "1MP3RD1V3L",
