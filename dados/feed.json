@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-08-15T12:35:53.050Z",
+  "atualizadoEm": "2026-08-15T12:56:17.798Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7601",
+      "loja": "Mercado Livre",
+      "titulo": "Kit C/ 6 Vinhos Tinto Dv Catena Cabernet Malbec 750ml",
+      "link": "https://meli.la/2jiLwQt",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_825552-MLA99928207987_112025-O.webp",
+      "preco": 442,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-15T12:46:17.796Z"
+    },
+    {
+      "id": "7600",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer TCL 25 Polegadas QLED Mini LED Full HD G64 300Hz 1ms (GtG) Freesync HDR 600 nits 25G64",
+      "link": "https://meli.la/2wfHRhD",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_723939-MLA103720530496_012026-O.webp",
+      "preco": 1097.81,
+      "precoDe": 2949,
+      "desconto": 56,
+      "cupom": "TVS1208CELULAR",
+      "enviadoEm": "2026-08-15T12:45:59.862Z"
+    },
+    {
+      "id": "7599",
+      "loja": "Mercado Livre",
+      "titulo": "Smart Tv Samsung 32'' Hd Tizen Hdr Wi-fi Hdmi Monitor Bivolt Preta Preto",
+      "link": "https://meli.la/16G3dzt",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_924175-MLA99993108321_112025-O.webp",
+      "preco": 778.86,
+      "precoDe": 1297.1,
+      "desconto": 33,
+      "cupom": "FDSDOSECADOR ou PROMOCERTAML ou TODOOSITE1308 ou TODOOSITE",
+      "enviadoEm": "2026-08-15T12:42:46.419Z"
+    },
+    {
+      "id": "7598",
+      "loja": "Mercado Livre",
+      "titulo": "Xiaomi Redmi 15 Global 256gb/8gb Ram Preto",
+      "link": "https://meli.la/1uSbYMP",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_820978-MLA98741556457_112025-O.webp",
+      "preco": 1172.15,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "TVS1208CELULAR",
+      "enviadoEm": "2026-08-15T12:41:01.943Z"
+    },
+    {
+      "id": "7597",
+      "loja": "Mercado Livre",
+      "titulo": "Placa-mãe MSI B550m Pro-VDH Am4 HDMI VGA Dport",
+      "link": "https://meli.la/2BLPG4V",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753177-MLA99409945572_112025-O.webp",
+      "preco": 581.77,
+      "precoDe": 743,
+      "desconto": 13,
+      "cupom": "FDSDOSECADOR ou PROMOCERTAML ou TODOOSITE1308 ou TODOOSITE",
+      "enviadoEm": "2026-08-15T12:39:57.584Z"
+    },
+    {
+      "id": "7596",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer AOC AGON QUAD 27\" QHD 180Hz 0,5ms IPS HDR10 Base Ajustável Q27G4F Preto",
+      "link": "https://meli.la/2y7SRgQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_739170-MLA98410816390_112025-O.webp",
+      "preco": 1036.15,
+      "precoDe": 1299,
+      "desconto": 6,
+      "cupom": "TVS1208CELULAR",
+      "enviadoEm": "2026-08-15T12:39:08.308Z"
+    },
+    {
+      "id": "7595",
+      "loja": "Amazon",
+      "titulo": "Kit 2 Camisetas Bolso Cb Pica-pau Xadrez Reserva - Branco - P",
+      "link": "https://www.amazon.com.br/dp/B0FWS4PMFX?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/21btvcuUUqL._SL400_.jpg",
+      "preco": 129,
+      "precoDe": 338,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-08-15T12:38:56.555Z"
+    },
+    {
+      "id": "7593",
+      "loja": "Shopee",
+      "titulo": "LANÇAMENTO • iPhone 17 Pro / 17 Pro Max 256GB • Novo Original NF Lacrado",
+      "link": "https://s.shopee.com.br/5VUYIczj4D",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhcaeeg33imda2_tn",
+      "preco": 7268.27,
+      "precoDe": 15142.23,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-08-15T12:36:08.571Z"
+    },
     {
       "id": "7592",
       "loja": "Mercado Livre",
@@ -97,18 +193,6 @@
       "desconto": 66,
       "cupom": null,
       "enviadoEm": "2026-08-15T12:17:21.622Z"
-    },
-    {
-      "id": "7583",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer AOC AGON QUAD 27\" QHD 180Hz 0,5ms IPS HDR10 Base Ajustável Q27G4F Preto",
-      "link": "https://meli.la/2y7SRgQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_739170-MLA98410816390_112025-O.webp",
-      "preco": 1036.15,
-      "precoDe": 1299,
-      "desconto": 6,
-      "cupom": "TVS1208CELULAR",
-      "enviadoEm": "2026-08-15T12:15:36.867Z"
     },
     {
       "id": "7582",
@@ -1357,90 +1441,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-08-13T16:56:38.478Z"
-    },
-    {
-      "id": "6715",
-      "loja": "Mercado Livre",
-      "titulo": "Headphone Gamer Havit H668bt Bluetooth 5.4 Over-ear 3d Multiponto Anc Hibrido 80h Cor Roxa",
-      "link": "https://meli.la/1qKPJCk",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_904867-MLA100031549659_122025-O.webp",
-      "preco": 152.1,
-      "precoDe": 219,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-08-13T16:55:19.602Z"
-    },
-    {
-      "id": "6669",
-      "loja": "Amazon",
-      "titulo": "LEGO Set City Great Vehicles 60402 Monster Truck Azul 148 peças",
-      "link": "https://www.amazon.com.br/dp/B0CGYN1GJ5?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51zVEw39r8L._SL400_.jpg",
-      "preco": 87.99,
-      "precoDe": 149.99,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-08-13T16:49:33.573Z"
-    },
-    {
-      "id": "6669",
-      "loja": "Shopee",
-      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
-      "link": "https://s.shopee.com.br/AKZl8hzrrV",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
-      "preco": 49.52,
-      "precoDe": 66.03,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-13T16:43:23.547Z"
-    },
-    {
-      "id": "6668",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Shampoo E Condicionador 1l + Máscara 1kg Sos Hidratação com Óleo de Rícino Linha de Tratamento Cabelos Danificados",
-      "link": "https://meli.la/2KM8iU3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_624586-MLA113983441560_072026-O.webp",
-      "preco": 73.52,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-13T16:42:43.970Z"
-    },
-    {
-      "id": "6667",
-      "loja": "Mercado Livre",
-      "titulo": "Termogênico Thermo Crazy Pote 60 cáps FTW - DIABO VERDE",
-      "link": "https://meli.la/27C8gGj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_604658-MLA100111462101_122025-O.webp",
-      "preco": 28,
-      "precoDe": 78.9,
-      "desconto": 56,
-      "cupom": "CORREPRAPROMO",
-      "enviadoEm": "2026-08-13T16:41:30.509Z"
-    },
-    {
-      "id": "6666",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Pré Treino Hórus 7 Belo + Creatina 7 Belo Max Titanium 300g Framboesa 150mg Cafeína Energia Força Performance",
-      "link": "https://meli.la/1duUmWC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_784610-MLA110156547384_042026-O.webp",
-      "preco": 81.03999999999999,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CORREPRAPROMO",
-      "enviadoEm": "2026-08-13T16:39:54.989Z"
-    },
-    {
-      "id": "6665",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina Monohidratada em Pote 300g 100% Pura Dark Lab",
-      "link": "https://meli.la/1WnjNQL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_716663-MLA99599672360_122025-O.webp",
-      "preco": 31.919999999999998,
-      "precoDe": 78.9,
-      "desconto": 49,
-      "cupom": "CORREPRAPROMO",
-      "enviadoEm": "2026-08-13T16:39:39.036Z"
     }
   ]
 }
