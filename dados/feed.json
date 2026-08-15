@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-08-15T12:56:17.798Z",
+  "atualizadoEm": "2026-08-15T15:28:59.342Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7685",
+      "loja": "Amazon",
+      "titulo": "Inoar, Kit #Bombar Super Vitaminas – Shampoo e Condicionador Para Crescimento Acelerado, Fortalecimento Capilar, Redução da Queda e Brilho Intenso, 2x1L",
+      "link": "https://www.amazon.com.br/dp/B077BWZLRM?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41Ra8JBEoyL._SL400_.jpg",
+      "preco": 44.4,
+      "precoDe": 47.99,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-08-15T15:28:01.783Z"
+    },
+    {
+      "id": "7684",
+      "loja": "Amazon",
+      "titulo": "EUCERIN Gel de Limpeza Facial AntiAcne Dermo Pure Gentil 400ml, Pele Mista e Oleosa, Suave, Demaquilante",
+      "link": "https://www.amazon.com.br/dp/B0DSJYW1HW?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31+imZdLtrL._SL400_.jpg",
+      "preco": 58.41,
+      "precoDe": 109.9,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-08-15T15:24:59.462Z"
+    },
+    {
+      "id": "7683",
+      "loja": "Mercado Livre",
+      "titulo": "Cafeteira De Fogão 6 Xícaras Aço Inoxidável Italiana 300ml",
+      "link": "https://meli.la/14cpTgX",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_663976-MLB112452809899_052026-O.webp",
+      "preco": 33.3,
+      "precoDe": 59,
+      "desconto": 37,
+      "cupom": "CASAINTELIGENTE ou FDSDOSECADOR ou PROMOCERTAML ou TODOOSITE ou FULLMIX",
+      "enviadoEm": "2026-08-15T15:19:20.647Z"
+    },
+    {
+      "id": "7682",
+      "loja": "Mercado Livre",
+      "titulo": "Mala De Bordo Wilson 10 Quilos Viagem Abs Pequena Original",
+      "link": "https://meli.la/23PB3zc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_877357-MLB113439669174_072026-O.webp",
+      "preco": 208.61999999999998,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SEMPREMODA",
+      "enviadoEm": "2026-08-15T15:16:02.822Z"
+    },
+    {
+      "id": "7680",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 100 Blocos Magnéticos De Montar Construção Brinquedo",
+      "link": "https://meli.la/2PMz55W",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_916503-MLB106850902022_022026-O.webp",
+      "preco": 67.41000000000001,
+      "precoDe": 119.9,
+      "desconto": 38,
+      "cupom": "CASAINTELIGENTE ou FDSDOSECADOR ou PROMOCERTAML ou TODOOSITE ou FULLMIX",
+      "enviadoEm": "2026-08-15T15:08:11.860Z"
+    },
+    {
+      "id": "7679",
+      "loja": "Mercado Livre",
+      "titulo": "Multivitamínico 60 Cáps. Growth Supplements - Sem Sabor",
+      "link": "https://meli.la/1ZB2iFz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_732271-MLB107471121156_032026-O.webp",
+      "preco": 24.15,
+      "precoDe": 49.9,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-08-15T15:03:18.286Z"
+    },
+    {
+      "id": "7678",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Motor Rossi Deslizante Nano Turbol Portão 600kg Cor preto",
+      "link": "https://meli.la/2h5gFFQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_742640-MLA112529916603_052026-O.webp",
+      "preco": 342.74,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PREFERIDO",
+      "enviadoEm": "2026-08-15T15:03:16.830Z"
+    },
+    {
+      "id": "7673",
+      "loja": "Amazon",
+      "titulo": "Erdinger Cerveja Sem Álcool Lata 500Ml 1Un",
+      "link": "https://www.amazon.com.br/dp/B08LG35GMN?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41eTSnhxzlL._SL400_.jpg",
+      "preco": 7.87,
+      "precoDe": 18.97,
+      "desconto": 17,
+      "cupom": "CARTAO50OFF",
+      "enviadoEm": "2026-08-15T15:01:24.833Z"
+    },
     {
       "id": "7601",
       "loja": "Mercado Livre",
@@ -1345,102 +1441,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-08-13T19:33:20.830Z"
-    },
-    {
-      "id": "6833",
-      "loja": "Shopee",
-      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
-      "link": "https://s.shopee.com.br/1LewaNOoVt",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
-      "preco": 74,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "AG015SH0",
-      "enviadoEm": "2026-08-13T19:12:02.427Z"
-    },
-    {
-      "id": "6827",
-      "loja": "Shopee",
-      "titulo": "Organizador de Geladeira Multiuso Plasutil Para Armario Dispensa Cozinha",
-      "link": "https://s.shopee.com.br/30nAXwghPW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkxr03l1t53609_tn",
-      "preco": 25.11,
-      "precoDe": 27.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-13T18:50:46.940Z"
-    },
-    {
-      "id": "6821",
-      "loja": "Shopee",
-      "titulo": "Mochila Moto LED Olhos 3D Casca Rígida Impermeável Grande Capacidade Mochila Moderna para Viagem Trabalho Dia a Dia",
-      "link": "https://s.shopee.com.br/AUtBSHoVDc",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mlwrlh9oi1hi51_tn",
-      "preco": 384.99,
-      "precoDe": 1904.71,
-      "desconto": 79,
-      "cupom": "AG015SH0",
-      "enviadoEm": "2026-08-13T18:29:10.293Z"
-    },
-    {
-      "id": "6764",
-      "loja": "Shopee",
-      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
-      "link": "https://s.shopee.com.br/AUtBQplXKA",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
-      "preco": 17.99,
-      "precoDe": 21.42,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-08-13T18:08:02.727Z"
-    },
-    {
-      "id": "6730",
-      "loja": "Shopee",
-      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
-      "link": "https://s.shopee.com.br/qiftcIxM7",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
-      "preco": 63.989999999999995,
-      "precoDe": 202.54,
-      "desconto": 61,
-      "cupom": "AG015SH0",
-      "enviadoEm": "2026-08-13T17:47:01.168Z"
-    },
-    {
-      "id": "6722",
-      "loja": "Shopee",
-      "titulo": "Massageador elétrico portátil pescoço calmante intensidade de 3 velocidades + aquecimento infravermelho",
-      "link": "https://s.shopee.com.br/9V0eC5IBW3",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zz-mlc440901s057d_tn",
-      "preco": 84.99,
-      "precoDe": 178.55,
-      "desconto": 44,
-      "cupom": "AG015SH0",
-      "enviadoEm": "2026-08-13T17:25:50.995Z"
-    },
-    {
-      "id": "6719",
-      "loja": "Shopee",
-      "titulo": "Manta Casal Soft Antialérgica 2,00m X1,80m  Lisa Várias Cores",
-      "link": "https://s.shopee.com.br/6pzsziypjZ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m858jxe787bl51_tn",
-      "preco": 24.9,
-      "precoDe": 40.16,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-08-13T17:04:33.538Z"
-    },
-    {
-      "id": "6716",
-      "loja": "Amazon",
-      "titulo": "Comfort Amaciante Concentrado 36 Segredos 1,5L",
-      "link": "https://www.amazon.com.br/dp/B0CJG18XKM?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41lUvlTHdDL._SL400_.jpg",
-      "preco": 24.9,
-      "precoDe": 36.99,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-08-13T16:56:38.478Z"
     }
   ]
 }
