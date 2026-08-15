@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-15T15:28:59.342Z",
+  "atualizadoEm": "2026-08-15T15:53:12.157Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7687",
+      "loja": "Amazon",
+      "titulo": "Kit Sabonete, PHEBO, Amarelo, 720g",
+      "link": "https://www.amazon.com.br/dp/B00N6AKNQW?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41JbHUV2IRL._SL400_.jpg",
+      "preco": 32.19,
+      "precoDe": 49.21,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-08-15T15:43:12.154Z"
+    },
     {
       "id": "7685",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-08-13T19:54:32.118Z"
-    },
-    {
-      "id": "6834",
-      "loja": "Shopee",
-      "titulo": "Processador Processadores 3 Laminas De Alimentos Manual 500ml Multiuso Universal",
-      "link": "https://s.shopee.com.br/8V8790RAgr",
-      "imagem": "https://cf.shopee.com.br/file/ec94a44236e11acb0440dc5bd1a79843_tn",
-      "preco": 14.99,
-      "precoDe": 22.04,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-08-13T19:33:20.830Z"
     }
   ]
 }
