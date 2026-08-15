@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-15T15:53:12.157Z",
+  "atualizadoEm": "2026-08-15T15:58:59.341Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7688",
+      "loja": "Mercado Livre",
+      "titulo": "Micro-ondas Consul 23l Branco Cms23ab",
+      "link": "https://meli.la/1bP2onV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_914513-MLA110469751630_052026-O.webp",
+      "preco": 376.05,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SEMPREMODA",
+      "enviadoEm": "2026-08-15T15:57:54.347Z"
+    },
     {
       "id": "7687",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-13T20:15:47.919Z"
-    },
-    {
-      "id": "6837",
-      "loja": "Shopee",
-      "titulo": "Regata Masculina Americana Ribana Canelada Slim Justa ao Corpo Marrom",
-      "link": "https://s.shopee.com.br/6AkCOB3pe9",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcri0jg5g27mb2_tn",
-      "preco": 29.97,
-      "precoDe": 39.96,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-13T19:54:32.118Z"
     }
   ]
 }
