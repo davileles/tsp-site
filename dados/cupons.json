@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-16T03:33:12.139Z",
+  "atualizadoEm": "2026-08-16T04:33:12.115Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -198,10 +198,10 @@
       "codigo": "INTERNACIONALCN",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 70,
+      "valor": 50,
       "minimo": 0,
       "maximo": null,
-      "limite": 150,
+      "limite": 90,
       "observacao": null,
       "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
