@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-16T13:47:07.601Z",
+  "atualizadoEm": "2026-08-16T13:58:28.864Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8046",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Inox 2L Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
+      "link": "https://s.shopee.com.br/1BLapCBX8A",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mmnecrvxxb7o47_tn",
+      "preco": 44.9,
+      "precoDe": 99.78,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T13:58:17.286Z"
+    },
     {
       "id": "8045",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "CASAINTELIGENTE",
       "enviadoEm": "2026-08-14T16:35:25.098Z"
-    },
-    {
-      "id": "7349",
-      "loja": "Mercado Livre",
-      "titulo": "Impressora HP Laser 107a Monocromática Porta USB 2.0 de alta velocidade 110 a 127 VCA",
-      "link": "https://meli.la/2zfPVic",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_888653-MLA99568347074_122025-O.webp",
-      "preco": 728.5999999999999,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CASAINTELIGENTE",
-      "enviadoEm": "2026-08-14T16:32:28.145Z"
     }
   ]
 }
