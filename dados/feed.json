@@ -1,9 +1,81 @@
 {
-  "atualizadoEm": "2026-08-16T16:28:28.866Z",
+  "atualizadoEm": "2026-08-16T16:58:28.866Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
     {
-      "id": "8067",
+      "id": "8077",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Fila Masculino Rise Up Esportivo Treino Original",
+      "link": "https://meli.la/1TPW93M",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_769892-MLB116109434531_082026-O.webp",
+      "preco": 175.99,
+      "precoDe": 299.99,
+      "desconto": 27,
+      "cupom": "SEMPREMODA",
+      "enviadoEm": "2026-08-16T16:56:35.608Z"
+    },
+    {
+      "id": "8076",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor gamer Aoc Série B30 21.5'' Full Hd Gaming 120hz 1ms 22b30hm23 cor preto",
+      "link": "https://meli.la/2UxRZa8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621055-MLA91966913733_092025-O.webp",
+      "preco": 355.21000000000004,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CASAINTELIGENTE ou FDSDOSECADOR ou HOJEVALEAPENA",
+      "enviadoEm": "2026-08-16T16:55:05.590Z"
+    },
+    {
+      "id": "8075",
+      "loja": "Mercado Livre",
+      "titulo": "Water Cooler Kalkan Aura Com Tela Lcd 360mm Argb Intel Amd",
+      "link": "https://meli.la/2GaYnHh",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_942332-MLB114772078931_072026-O.webp",
+      "preco": 346.5,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CASAINTELIGENTE ou FDSDOSECADOR ou HOJEVALEAPENA",
+      "enviadoEm": "2026-08-16T16:52:14.312Z"
+    },
+    {
+      "id": "8074",
+      "loja": "Mercado Livre",
+      "titulo": "Mochila Tática Camping Militar 50 Litros Resistente A Água",
+      "link": "https://meli.la/2qNEPwF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_787659-MLB86276879975_062025-O.webp",
+      "preco": 72.95,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SEMPREMODA",
+      "enviadoEm": "2026-08-16T16:48:50.638Z"
+    },
+    {
+      "id": "8073",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
+      "link": "https://s.shopee.com.br/LmU1KDJCy",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
+      "preco": 49.52,
+      "precoDe": 66.03,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T16:48:08.939Z"
+    },
+    {
+      "id": "8072",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Panos de Limpeza em Microfibra Alta Absorção Multiuso",
+      "link": "https://s.shopee.com.br/70JNxPRQyQ",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82607-ml9qs5gknq4h31_tn",
+      "preco": 17.64,
+      "precoDe": 36,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T16:45:39.045Z"
+    },
+    {
+      "id": "8071",
       "loja": "Shopee",
       "titulo": "Kit Limpador Pastilha de máquina de lavar roupa, comprimido efervescente sólido para remover manchas【】",
       "link": "https://s.shopee.com.br/9zwzVd8rqE",
@@ -12,7 +84,31 @@
       "precoDe": 15.34,
       "desconto": 44,
       "cupom": null,
-      "enviadoEm": "2026-08-16T16:26:51.697Z"
+      "enviadoEm": "2026-08-16T16:43:38.985Z"
+    },
+    {
+      "id": "8070",
+      "loja": "Mercado Livre",
+      "titulo": "Kit de 2 pneus Wanli Carro SP026 P 195/60R15 88 V",
+      "link": "https://meli.la/1qXgGnx",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_821229-MLA99429380124_112025-O.webp",
+      "preco": 412.62,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OMELHOR",
+      "enviadoEm": "2026-08-16T16:35:52.431Z"
+    },
+    {
+      "id": "8069",
+      "loja": "Mercado Livre",
+      "titulo": "Smart Tv Philco 40'' Full Hd Roku Tv Ptv40 Hdr10 Dolby",
+      "link": "https://meli.la/31UWr9w",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_995595-MLA99489107224_112025-O.webp",
+      "preco": 1077,
+      "precoDe": 2055,
+      "desconto": 43,
+      "cupom": "TECHEPC1608",
+      "enviadoEm": "2026-08-16T16:34:03.438Z"
     },
     {
       "id": "8066",
@@ -649,18 +745,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-15T16:26:07.333Z"
-    },
-    {
-      "id": "7692",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor gamer Aoc Série B30 21.5'' Full Hd Gaming 120hz 1ms 22b30hm23 cor preto",
-      "link": "https://meli.la/2UxRZa8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621055-MLA91966913733_092025-O.webp",
-      "preco": 380.47,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROMOCERTAML",
-      "enviadoEm": "2026-08-15T16:19:12.897Z"
     },
     {
       "id": "7690",
@@ -1357,90 +1441,6 @@
       "desconto": 40,
       "cupom": "1MP3RD1V3L",
       "enviadoEm": "2026-08-14T19:54:44.389Z"
-    },
-    {
-      "id": "7450",
-      "loja": "Shopee",
-      "titulo": "Lorenzetti Aquecedor de Agua Versátil 3 Temperaturas Branco 127",
-      "link": "https://s.shopee.com.br/2LXVOa1wzk",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdys-mbptsew8hqq572_tn",
-      "preco": 379.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "1MP3RD1V3L",
-      "enviadoEm": "2026-08-14T19:33:33.992Z"
-    },
-    {
-      "id": "7447",
-      "loja": "Shopee",
-      "titulo": "Liquidificador Power Oster Vidro 1.8l 127v",
-      "link": "https://s.shopee.com.br/19aaql7W2",
-      "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-m8g7qc1ijeupeb_tn",
-      "preco": 300.96,
-      "precoDe": 398.67,
-      "desconto": 22,
-      "cupom": "1MP3RD1V3L",
-      "enviadoEm": "2026-08-14T19:12:27.344Z"
-    },
-    {
-      "id": "7444",
-      "loja": "Shopee",
-      "titulo": "Lente de Contato Uso Diário Clariti - Coopervision + Estojo De Lentes",
-      "link": "https://s.shopee.com.br/7fZ1hTo9k6",
-      "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-lui6b2ll3hph86_tn",
-      "preco": 136,
-      "precoDe": 160.44,
-      "desconto": 9,
-      "cupom": "1MP3RD1V3L",
-      "enviadoEm": "2026-08-14T18:51:18.909Z"
-    },
-    {
-      "id": "7442",
-      "loja": "Shopee",
-      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
-      "link": "https://s.shopee.com.br/40fjJHYbws",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
-      "preco": 139.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "1MP3RD1V3L",
-      "enviadoEm": "2026-08-14T18:30:07.198Z"
-    },
-    {
-      "id": "7439",
-      "loja": "Shopee",
-      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
-      "link": "https://s.shopee.com.br/5LB6sGzxmb",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
-      "preco": 49.52,
-      "precoDe": 66.03,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-14T18:08:56.557Z"
-    },
-    {
-      "id": "7430",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário para Cozinha Multiuso Taças Pratos Prateleiras Aramado Aço Dicarlo 5 Peças",
-      "link": "https://s.shopee.com.br/6L3e2dK3IV",
-      "imagem": "https://cf.shopee.com.br/file/0913c6b2091f5d1f1b53d3b9e5624b4e_tn",
-      "preco": 103.5,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "1MP3RD1V3L",
-      "enviadoEm": "2026-08-14T17:47:43.446Z"
-    },
-    {
-      "id": "7370",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
-      "link": "https://s.shopee.com.br/W5r4Q4lTx",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
-      "preco": 49.52,
-      "precoDe": 66.03,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-14T17:26:01.519Z"
     }
   ]
 }
