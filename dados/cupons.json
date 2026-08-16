@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-16T01:33:12.104Z",
+  "atualizadoEm": "2026-08-16T03:03:12.116Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -387,6 +387,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "RESGATELOJASOFICIAI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-08-17T03:00:15.787Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "HORADOCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -505,18 +517,6 @@
       "observacao": null,
       "validadeAte": "2026-08-16T14:47:02.617Z",
       "url": "https://ze.onelink.me/qZhP/p8z09c1x"
-    },
-    {
-      "codigo": "SABADO40",
-      "loja": "Pague Menos",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 220,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-16T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=64086&id=1207116"
     },
     {
       "codigo": "1MP3RD1V3L",
