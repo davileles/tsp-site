@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-16T16:58:28.866Z",
+  "atualizadoEm": "2026-08-16T17:19:36.483Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8059",
+      "loja": "Fut Fanatics",
+      "titulo": "Tênis Fila Tennis 88 Legacy Branco e Bege",
+      "link": "https://www.awin1.com/pclick.php?p=37578001237&a=1207116&m=17893",
+      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Aimages.tcdn.com.br%2Fimg%2Fimg_prod%2F311840%2Ftenis_fila_tennis_88_legacy_branco_e_bege_129453_1_9216c981789fb631c315c6fc244a544d.jpg&feedId=46605&k=5978e6700d29956409d478f24fb9e30b2002db61",
+      "preco": 139.9,
+      "precoDe": 479.9,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T17:09:36.405Z"
+    },
+    {
+      "id": "8080",
+      "loja": "Shopee",
+      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
+      "link": "https://s.shopee.com.br/AAGPkr9df8",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
+      "preco": 49.52,
+      "precoDe": 66.03,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T17:09:16.750Z"
+    },
+    {
+      "id": "8062",
+      "loja": "Fut Fanatics",
+      "titulo": "Tênis Aramis Legacy Stomp Branco e Preto",
+      "link": "https://www.awin1.com/pclick.php?p=40643266550&a=1207116&m=17893",
+      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Aimages.tcdn.com.br%2Fimg%2Fimg_prod%2F311840%2Ftenis_aramis_legacy_stomp_branco_e_preto_149427_1_a9218a8cb4bec5494b9debd599f170a9.jpg&feedId=46605&k=df2d2987969a8729b7093edeaaa3c32060a05b0c",
+      "preco": 269.9,
+      "precoDe": 899.9,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T17:09:05.431Z"
+    },
+    {
+      "id": "8079",
+      "loja": "Wine",
+      "titulo": "Kit 6 - Esteban Martin Tinto por R$199 - Oferta Absurda",
+      "link": "https://www.awin1.com/pclick.php?p=44987803679&a=1207116&m=17770",
+      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3A8dbd7777bbc323r01af38816375ccac9.wine.com.br%2FGRV722-01.png&feedId=47333&k=561523e87ba923cffab44cc115cef06ab27122f5",
+      "preco": 199,
+      "precoDe": 599.4,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T17:08:42.610Z"
+    },
+    {
+      "id": "8078",
+      "loja": "Amazon",
+      "titulo": "Kit Sabonete, PHEBO, Amarelo, 720g",
+      "link": "https://www.amazon.com.br/dp/B00N6AKNQW?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41JbHUV2IRL._SL400_.jpg",
+      "preco": 32.19,
+      "precoDe": 49.21,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T16:59:24.247Z"
+    },
     {
       "id": "8077",
       "loja": "Mercado Livre",
@@ -771,18 +831,6 @@
       "enviadoEm": "2026-08-15T15:57:54.347Z"
     },
     {
-      "id": "7687",
-      "loja": "Amazon",
-      "titulo": "Kit Sabonete, PHEBO, Amarelo, 720g",
-      "link": "https://www.amazon.com.br/dp/B00N6AKNQW?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41JbHUV2IRL._SL400_.jpg",
-      "preco": 32.19,
-      "precoDe": 49.21,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-08-15T15:43:12.154Z"
-    },
-    {
       "id": "7685",
       "loja": "Amazon",
       "titulo": "Inoar, Kit #Bombar Super Vitaminas – Shampoo e Condicionador Para Crescimento Acelerado, Fortalecimento Capilar, Redução da Queda e Brilho Intenso, 2x1L",
@@ -1393,54 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-08-14T21:06:51.268Z"
-    },
-    {
-      "id": "7465",
-      "loja": "Shopee",
-      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
-      "link": "https://s.shopee.com.br/9KhFpFS4A0",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
-      "preco": 68.99,
-      "precoDe": 202.54,
-      "desconto": 61,
-      "cupom": "1MP3RD1V3L",
-      "enviadoEm": "2026-08-14T20:58:03.636Z"
-    },
-    {
-      "id": "7462",
-      "loja": "Shopee",
-      "titulo": "Massageador Elétrico 6 em 1 Corporal Potente Ergonômico Multifuncional Terapia 10 Velocidades",
-      "link": "https://s.shopee.com.br/LmR5GWQBK",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mr6qsdj7sydi4b_tn",
-      "preco": 164.78,
-      "precoDe": 242.75,
-      "desconto": 28,
-      "cupom": "1MP3RD1V3L",
-      "enviadoEm": "2026-08-14T20:36:59.967Z"
-    },
-    {
-      "id": "7458",
-      "loja": "Shopee",
-      "titulo": "Mala De Viagem/Bordo 10KG,Nova Estilo Zíper Dupla Camada Anti-Roubo,Rodas Duplas 360Grau lançamento",
-      "link": "https://s.shopee.com.br/1LeyFdypuD",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6kfam0o02sw54_tn",
-      "preco": 130,
-      "precoDe": 280,
-      "desconto": 50,
-      "cupom": "1MP3RD1V3L",
-      "enviadoEm": "2026-08-14T20:15:45.967Z"
-    },
-    {
-      "id": "7455",
-      "loja": "Shopee",
-      "titulo": "Macacão Feminino Longo Pantalona Elegante Premium Assimétrico Duna Tomara Que Caia Solto Alfaiataria Social Moda Casual",
-      "link": "https://s.shopee.com.br/5q7NaTIGbD",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-moy6w5u9jf2e9a_tn",
-      "preco": 49.99,
-      "precoDe": 99.98,
-      "desconto": 40,
-      "cupom": "1MP3RD1V3L",
-      "enviadoEm": "2026-08-14T19:54:44.389Z"
     }
   ]
 }
