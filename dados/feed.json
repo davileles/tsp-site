@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-16T12:03:11.801Z",
+  "atualizadoEm": "2026-08-16T12:19:14.810Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7867",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor AOC 22\" 120Hz 1ms Gaming HDMI 22B35HM23 Preto",
+      "link": "https://meli.la/1ZgRpA7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_744601-MLA99934274785_112025-O.webp",
+      "preco": 366.42999999999995,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FDSDOSECADOR ou HOJEVALEAPENA",
+      "enviadoEm": "2026-08-16T12:17:24.489Z"
+    },
+    {
+      "id": "7866",
+      "loja": "Mercado Livre",
+      "titulo": "Gloss Fran By Franciny Ehlke Liphoney Mel",
+      "link": "https://meli.la/1Qir1Ry",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_855365-MLB95050151929_102025-O.webp",
+      "preco": 17.389999999999997,
+      "precoDe": 69.99,
+      "desconto": 74,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T12:13:48.953Z"
+    },
+    {
+      "id": "7814",
+      "loja": "Shopee",
+      "titulo": "4 em 1 Conjunto de Vassoura e Pá Revolucionário - Limpeza Rápida e sem Sujeira! O conjunto de vassouras 4 em 1",
+      "link": "https://s.shopee.com.br/7VFeFXC9tw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mn2p0k08c9okd4_tn",
+      "preco": 54,
+      "precoDe": 79.41,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T12:11:55.388Z"
+    },
     {
       "id": "7792",
       "loja": "Fut Fanatics",
@@ -1405,42 +1441,6 @@
       "desconto": 13,
       "cupom": "CASAINTELIGENTE",
       "enviadoEm": "2026-08-14T16:10:32.235Z"
-    },
-    {
-      "id": "7271",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Flexfocuslite Modern Feminino Bpd Puma",
-      "link": "https://meli.la/2LiggSG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_700012-MLB111197896846_052026-O.webp",
-      "preco": 174.79000000000002,
-      "precoDe": 349.99,
-      "desconto": 38,
-      "cupom": "SEMPREMODA",
-      "enviadoEm": "2026-08-14T15:57:22.161Z"
-    },
-    {
-      "id": "7252",
-      "loja": "Shopee",
-      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
-      "link": "https://s.shopee.com.br/7VFbI35Qfm",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
-      "preco": 69,
-      "precoDe": 158,
-      "desconto": 50,
-      "cupom": "1MP3RD1V3L",
-      "enviadoEm": "2026-08-14T15:40:10.219Z"
-    },
-    {
-      "id": "7251",
-      "loja": "Mercado Livre",
-      "titulo": "Extratora e Higienizadora Portátil WAP Spot Cleaner W2 1600W - Pulveriza, Esfrega e Extrai",
-      "link": "https://meli.la/32PAKdZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603572-MLA99545946946_122025-O.webp",
-      "preco": 463.6,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CASAINTELIGENTE",
-      "enviadoEm": "2026-08-14T15:31:21.065Z"
     }
   ]
 }
