@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-16T12:50:34.616Z",
+  "atualizadoEm": "2026-08-16T13:25:51.079Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -216,18 +216,6 @@
       "limite": null,
       "observacao": "3 cupons de desconto em reais com valor mínimo de compra",
       "validadeAte": "2026-08-16T15:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-08-18T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -564,6 +552,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-08-17T12:02:17.218Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 10,
+      "observacao": null,
+      "validadeAte": "2026-08-16T14:59:59.399Z",
       "url": "https://meli.la/2xystLt"
     },
     {
