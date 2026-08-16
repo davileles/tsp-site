@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-16T13:25:49.676Z",
+  "atualizadoEm": "2026-08-16T13:47:07.601Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8045",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
+      "link": "https://s.shopee.com.br/8V8BXDBiJy",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-k1jd7z81yzkv2f_tn",
+      "preco": 25,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T13:37:06.982Z"
+    },
     {
       "id": "8043",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "CASAINTELIGENTE",
       "enviadoEm": "2026-08-14T16:32:28.145Z"
-    },
-    {
-      "id": "7347",
-      "loja": "Mercado Livre",
-      "titulo": "Vonixx V-MOL Shampoo automotivo",
-      "link": "https://meli.la/2tao7bZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_868253-MLA109853292346_042026-O.webp",
-      "preco": 30.85,
-      "precoDe": 55.67,
-      "desconto": 26,
-      "cupom": "OMELHOR",
-      "enviadoEm": "2026-08-14T16:30:05.403Z"
     }
   ]
 }
