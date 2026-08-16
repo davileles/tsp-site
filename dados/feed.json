@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-08-16T12:32:55.600Z",
+  "atualizadoEm": "2026-08-16T12:50:33.453Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7987",
+      "loja": "Mercado Livre",
+      "titulo": "Bolsa Puma Phase Small Sports Puma",
+      "link": "https://meli.la/283HTKg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_698614-MLB113635082804_072026-O.webp",
+      "preco": 132.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SEMPREMODA",
+      "enviadoEm": "2026-08-16T12:46:21.219Z"
+    },
+    {
+      "id": "7986",
+      "loja": "Mercado Livre",
+      "titulo": "Geladeira Consul Frost Free 377 Litros Duplex Branca - CRM44MB",
+      "link": "https://meli.la/26wNP7Z",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_865325-MLA88056253823_072025-O.webp",
+      "preco": 2172.8,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "HOJEVALEAPENA",
+      "enviadoEm": "2026-08-16T12:42:20.041Z"
+    },
+    {
+      "id": "7985",
+      "loja": "Mercado Livre",
+      "titulo": "Geladeira Electrolux Frost Free com AutoSense 480L Efficient Duplex Inox Look TF71S Cor Prateado",
+      "link": "https://meli.la/1F72BtQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_850918-MLA97347695417_112025-O.webp",
+      "preco": 3000.19,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FDSDOSECADOR ou HOJEVALEAPENA",
+      "enviadoEm": "2026-08-16T12:40:24.816Z"
+    },
+    {
+      "id": "7984",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Lattafa Asad 100ml Eau De Parfum Original Árabe Original Com Nota Fiscal E Selo Original Lataffa",
+      "link": "https://meli.la/1iwok5X",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_687418-MLB81527468562_012025-O.webp",
+      "preco": 182.45999999999998,
+      "precoDe": 289.99,
+      "desconto": 30,
+      "cupom": "HOJEVALEAPENA",
+      "enviadoEm": "2026-08-16T12:38:50.329Z"
+    },
+    {
+      "id": "7960",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor AOC 22\" 120Hz 1ms Gaming HDMI 22B35HM23 Preto",
+      "link": "https://meli.la/1ZgRpA7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_744601-MLA99934274785_112025-O.webp",
+      "preco": 366.42999999999995,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FDSDOSECADOR ou HOJEVALEAPENA",
+      "enviadoEm": "2026-08-16T12:34:25.316Z"
+    },
+    {
+      "id": "7927",
+      "loja": "Shopee",
+      "titulo": "4 em 1 Conjunto de Vassoura e Pá Revolucionário - Limpeza Rápida e sem Sujeira! O conjunto de vassouras 4 em 1",
+      "link": "https://s.shopee.com.br/7VFeFXC9tw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mn2p0k08c9okd4_tn",
+      "preco": 54,
+      "precoDe": 79.41,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T12:33:14.933Z"
+    },
     {
       "id": "7926",
       "loja": "Mercado Livre",
@@ -63,18 +135,6 @@
       "enviadoEm": "2026-08-16T12:20:05.930Z"
     },
     {
-      "id": "7867",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor AOC 22\" 120Hz 1ms Gaming HDMI 22B35HM23 Preto",
-      "link": "https://meli.la/1ZgRpA7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_744601-MLA99934274785_112025-O.webp",
-      "preco": 366.42999999999995,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FDSDOSECADOR ou HOJEVALEAPENA",
-      "enviadoEm": "2026-08-16T12:17:24.489Z"
-    },
-    {
       "id": "7866",
       "loja": "Mercado Livre",
       "titulo": "Gloss Fran By Franciny Ehlke Liphoney Mel",
@@ -85,18 +145,6 @@
       "desconto": 74,
       "cupom": null,
       "enviadoEm": "2026-08-16T12:13:48.953Z"
-    },
-    {
-      "id": "7814",
-      "loja": "Shopee",
-      "titulo": "4 em 1 Conjunto de Vassoura e Pá Revolucionário - Limpeza Rápida e sem Sujeira! O conjunto de vassouras 4 em 1",
-      "link": "https://s.shopee.com.br/7VFeFXC9tw",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mn2p0k08c9okd4_tn",
-      "preco": 54,
-      "precoDe": 79.41,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T12:11:55.388Z"
     },
     {
       "id": "7792",
@@ -1393,54 +1441,6 @@
       "desconto": 70,
       "cupom": "1MP3RD1V3L",
       "enviadoEm": "2026-08-14T16:22:59.459Z"
-    },
-    {
-      "id": "7286",
-      "loja": "Mercado Livre",
-      "titulo": "Climatizador De Ar Wap Air Fresh 4 Em 1 De Torre 127V Cor Cinza 90W 3L Bolsas De Gel Filtro Colmeia Baixo Ruído Oscilação",
-      "link": "https://meli.la/1s5xauZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_878415-MLA96100900769_102025-O.webp",
-      "preco": 358.95,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CASAINTELIGENTE",
-      "enviadoEm": "2026-08-14T16:21:44.937Z"
-    },
-    {
-      "id": "7284",
-      "loja": "Mercado Livre",
-      "titulo": "Mala De Treino Mizuno Gym Cor Preto",
-      "link": "https://meli.la/24QHDjZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_837079-MLA96149291997_102025-O.webp",
-      "preco": 121.25999999999999,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SEMPREMODA",
-      "enviadoEm": "2026-08-14T16:21:39.947Z"
-    },
-    {
-      "id": "7285",
-      "loja": "Shopee",
-      "titulo": "JAQUETA DE COURO MASCULINA COM CAPUZ REMOVIVEL FORRADA E PELUCIDA POR DENTRO INVERNO/FRIO",
-      "link": "https://s.shopee.com.br/5LB6jWh71k",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmtaw18rywhs2d_tn",
-      "preco": 151,
-      "precoDe": 230,
-      "desconto": 30,
-      "cupom": "1MP3RD1V3L",
-      "enviadoEm": "2026-08-14T16:21:38.919Z"
-    },
-    {
-      "id": "7282",
-      "loja": "Mercado Livre",
-      "titulo": "Soprador De Ar Turbo 21v Portátil Bateria Recarregável Potente Para Folhas Pó Limpeza Carro Tso-21a The Black Tools",
-      "link": "https://meli.la/34b2xoG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_987154-MLA116188035225_082026-O.webp",
-      "preco": 73.64,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CUPOMDASEMANA",
-      "enviadoEm": "2026-08-14T16:19:03.430Z"
     }
   ]
 }
