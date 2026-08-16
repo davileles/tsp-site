@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-16T13:58:28.864Z",
+  "atualizadoEm": "2026-08-16T14:28:28.864Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8048",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Bobojaco Impermeável Becker Nylon Puffer Masculino com Bolsos e Capuz",
+      "link": "https://s.shopee.com.br/9V0ily9RyH",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmb-lo8gotg960in6f_tn",
+      "preco": 62.989999999999995,
+      "precoDe": 99.99,
+      "desconto": 27,
+      "cupom": "1MP3RD1V3L",
+      "enviadoEm": "2026-08-16T14:19:34.275Z"
+    },
     {
       "id": "8046",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "OMELHOR",
       "enviadoEm": "2026-08-14T16:35:27.532Z"
-    },
-    {
-      "id": "7350",
-      "loja": "Mercado Livre",
-      "titulo": "Churrasqueira Elétrica, Mondial, 1200W - CH-07",
-      "link": "https://meli.la/2orNnmT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_889448-MLA99596781494_122025-O.webp",
-      "preco": 153.04000000000002,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CASAINTELIGENTE",
-      "enviadoEm": "2026-08-14T16:35:25.098Z"
     }
   ]
 }
