@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-16T10:33:12.098Z",
+  "atualizadoEm": "2026-08-16T11:33:12.916Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -216,6 +216,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "COMPRINHASPRACASA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
