@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-16T19:26:43.135Z",
+  "atualizadoEm": "2026-08-16T19:47:59.827Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8094",
+      "loja": "Shopee",
+      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
+      "link": "https://s.shopee.com.br/19doN8EK7",
+      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
+      "preco": 74.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T19:37:59.825Z"
+    },
     {
       "id": "8092",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-14T22:01:29.116Z"
-    },
-    {
-      "id": "7483",
-      "loja": "Amazon",
-      "titulo": "LG UltraGear Monitor Gamer 24\" IPS 144Hz (O/C) 1ms (MBR) Full HD (1920x1080) HDR10 NVIDIA G-SYNC AMD FreeSync, Preto - 24G411A",
-      "link": "https://www.amazon.com.br/dp/B0FYQ5TQDL?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31IxHiW9SwL._SL400_.jpg",
-      "preco": 602.54,
-      "precoDe": 699,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-08-14T21:43:18.701Z"
     }
   ]
 }
