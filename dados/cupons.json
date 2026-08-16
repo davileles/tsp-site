@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-16T17:19:37.607Z",
+  "atualizadoEm": "2026-08-16T18:01:45.418Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -456,6 +456,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-08-17T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DECORACAO1608",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Válido em selecionados de Decoração e Eletros",
+      "validadeAte": "2026-08-17T18:01:33.596Z",
       "url": "https://meli.la/2xystLt"
     },
     {
