@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-16T14:50:54.637Z",
+  "atualizadoEm": "2026-08-16T15:11:58.614Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8054",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Panos De Limpeza Microfibra alta absorção Multiuso",
+      "link": "https://s.shopee.com.br/8KolQkFi2B",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rffl-m3zbdqna4dhzc0_tn",
+      "preco": 18.49,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T15:01:58.610Z"
+    },
+    {
+      "id": "8052",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Feminino My Euphoria Edp 50ml Calvin Klein",
+      "link": "https://meli.la/2W6JMLz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_897297-MLU75261284763_032024-O.webp",
+      "preco": 226.42,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T15:01:19.079Z"
+    },
     {
       "id": "8050",
       "loja": "Shopee",
@@ -409,18 +433,6 @@
       "desconto": 50,
       "cupom": "SEMPREMODA",
       "enviadoEm": "2026-08-15T21:26:17.790Z"
-    },
-    {
-      "id": "7703",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Feminino My Euphoria Edp 50ml Calvin Klein",
-      "link": "https://meli.la/2W6JMLz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_897297-MLU75261284763_032024-O.webp",
-      "preco": 260.72,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-15T16:54:04.247Z"
     },
     {
       "id": "7702",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-14T16:38:09.138Z"
-    },
-    {
-      "id": "7352",
-      "loja": "Mercado Livre",
-      "titulo": "Teclado Mecânico Para Jogos Apayado K82 75% Hot Swap",
-      "link": "https://meli.la/2ZevBsr",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_614071-CBT111105912514_052026-O.webp",
-      "preco": 87.86,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-14T16:36:29.481Z"
     }
   ]
 }
