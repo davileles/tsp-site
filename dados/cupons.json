@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-16T12:09:56.539Z",
+  "atualizadoEm": "2026-08-16T12:19:16.237Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -159,6 +159,42 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "INFLU300",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 3000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-17T12:11:14.260Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "INFLU200",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 2000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-17T12:11:14.257Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "INFLU100",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-17T12:11:14.253Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "CAZE10",
       "loja": "Magazine Luiza",
       "tipo": "pct",
@@ -192,6 +228,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-08-18T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MLTIRA80",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 80,
+      "minimo": 569,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em categorias selecionadas",
+      "validadeAte": "2026-08-17T12:11:37.681Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -517,6 +565,30 @@
       "observacao": null,
       "validadeAte": "2026-08-17T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=51271&id=1207116"
+    },
+    {
+      "codigo": "S0S0LT31R0S20",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 30,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-17T12:11:35.839Z",
+      "url": null
+    },
+    {
+      "codigo": "CHEGOUZE21",
+      "loja": "Outro: Zé Delivery",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": 15,
+      "observacao": null,
+      "validadeAte": "2026-08-17T12:11:34.082Z",
+      "url": "https://ze.onelink.me/qZhP/p8z09c1x"
     },
     {
       "codigo": "VZEINICIO40",
