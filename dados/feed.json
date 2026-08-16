@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-16T22:28:28.967Z",
+  "atualizadoEm": "2026-08-16T23:09:42.956Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8111",
+      "loja": "Amazon",
+      "titulo": "Parafusadeira Recarregável, Mondial, Vermelho/Preto, 4,8V, Bivolt - FPF-05",
+      "link": "https://www.amazon.com.br/dp/B076MFFR5Y?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/312JSyOa4SL._SL400_.jpg",
+      "preco": 65.9,
+      "precoDe": 129.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T22:59:42.955Z"
+    },
     {
       "id": "8108",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 55,
       "cupom": null,
       "enviadoEm": "2026-08-14T22:22:25.012Z"
-    },
-    {
-      "id": "7494",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo 4 Pneus Onyx Aro 15 Ny-806 185/60r15 84h",
-      "link": "https://meli.la/2Eb81PX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_699905-MLB115961183147_082026-O.webp",
-      "preco": 700.12,
-      "precoDe": 1098.23,
-      "desconto": 15,
-      "cupom": "OMELHOR",
-      "enviadoEm": "2026-08-14T22:20:55.690Z"
     }
   ]
 }
