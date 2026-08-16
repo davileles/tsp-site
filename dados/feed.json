@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-16T12:50:33.453Z",
+  "atualizadoEm": "2026-08-16T12:59:28.835Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8043",
+      "loja": "Shopee",
+      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1",
+      "link": "https://s.shopee.com.br/3g2vjOkR6D",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd48-lupf3z3a40mxf1_tn",
+      "preco": 18.99,
+      "precoDe": 90.43,
+      "desconto": 79,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T12:54:36.866Z"
+    },
     {
       "id": "7987",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "CUPOMDASEMANA",
       "enviadoEm": "2026-08-14T16:24:21.722Z"
-    },
-    {
-      "id": "7345",
-      "loja": "Shopee",
-      "titulo": "Smart TV LG Profissional 55\" LED 4K UHD - 55AU801C0SA",
-      "link": "https://s.shopee.com.br/5fnx9cZTj9",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp0yvk32p1xd5b_tn",
-      "preco": 2329,
-      "precoDe": 7796.67,
-      "desconto": 70,
-      "cupom": "1MP3RD1V3L",
-      "enviadoEm": "2026-08-14T16:22:59.459Z"
     }
   ]
 }
