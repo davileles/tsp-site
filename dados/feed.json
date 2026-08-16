@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-16T18:44:16.206Z",
+  "atualizadoEm": "2026-08-16T18:58:28.866Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8091",
+      "loja": "Shopee",
+      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
+      "link": "https://s.shopee.com.br/9KhFpFS4A0",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
+      "preco": 199.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T18:55:27.104Z"
+    },
     {
       "id": "8090",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-08-14T21:40:26.095Z"
-    },
-    {
-      "id": "7480",
-      "loja": "Mercado Livre",
-      "titulo": "Ventilador Soprador De Ar Turbo 130000 Rpm Sem Fio Portátil",
-      "link": "https://meli.la/1o6MA2L",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_845696-MLB89966447518_082025-O.webp",
-      "preco": 35.78,
-      "precoDe": 55.99,
-      "desconto": 20,
-      "cupom": "CUPOMDASEMANA",
-      "enviadoEm": "2026-08-14T21:38:20.518Z"
     }
   ]
 }
