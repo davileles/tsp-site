@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-16T18:58:30.091Z",
+  "atualizadoEm": "2026-08-16T19:05:27.455Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -181,18 +181,6 @@
       "observacao": null,
       "validadeAte": "2026-08-17T12:00:17.128Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "TECHEPC1608",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 899,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-08-16T22:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "MLTIRA80",
