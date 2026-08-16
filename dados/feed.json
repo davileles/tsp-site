@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-16T17:58:28.866Z",
+  "atualizadoEm": "2026-08-16T18:23:02.741Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8087",
+      "loja": "Shopee",
+      "titulo": "Massageador Elétrico 6 em 1 Corporal Potente Ergonômico Multifuncional Terapia 10 Velocidades",
+      "link": "https://s.shopee.com.br/LmR5GWQBK",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mr6qsdj7sydi4b_tn",
+      "preco": 174.78,
+      "precoDe": 242.75,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T18:13:02.740Z"
+    },
     {
       "id": "8083",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-14T21:22:11.039Z"
-    },
-    {
-      "id": "7470",
-      "loja": "Shopee",
-      "titulo": "Percarbonato 100% Puro Tira Manchas Roupas Brancas e Coloridas",
-      "link": "https://s.shopee.com.br/20uf7ENcn5",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqdb9tob0xdu3d_tn",
-      "preco": 15.37,
-      "precoDe": 32.02,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-08-14T21:19:19.241Z"
     }
   ]
 }
