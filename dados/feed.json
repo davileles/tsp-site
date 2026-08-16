@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-16T20:09:11.785Z",
+  "atualizadoEm": "2026-08-16T20:28:28.866Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8099",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Portátil Elétrica Profissional Recarregável USB com Múltiplas Ponteiras para Relaxamento",
+      "link": "https://s.shopee.com.br/gPKeW7eDE",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225c-mhjox6ltdn9ef0_tn",
+      "preco": 28.76,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T20:20:28.362Z"
+    },
     {
       "id": "8097",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 16,
       "cupom": null,
       "enviadoEm": "2026-08-14T22:13:38.078Z"
-    },
-    {
-      "id": "7491",
-      "loja": "Amazon",
-      "titulo": "Monitor Gamer ASUS TUF 27\", QHD, 210Hz, 0.3ms, IPS, G-Sync Comp, FreeSync Premium, Ajuste de ângulo, Som Integrado - VG27AQ5A",
-      "link": "https://www.amazon.com.br/dp/B0BSH2VZ5C?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31IUYU5H2+L._SL400_.jpg",
-      "preco": 1299.99,
-      "precoDe": 1477.26,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-08-14T22:04:38.534Z"
     }
   ]
 }
