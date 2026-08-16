@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-16T16:20:36.567Z",
+  "atualizadoEm": "2026-08-16T16:28:28.866Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8067",
+      "loja": "Shopee",
+      "titulo": "Kit Limpador Pastilha de máquina de lavar roupa, comprimido efervescente sólido para remover manchas【】",
+      "link": "https://s.shopee.com.br/9zwzVd8rqE",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwt-mcjqjjrew9uu86_tn",
+      "preco": 8.59,
+      "precoDe": 15.34,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T16:26:51.697Z"
+    },
+    {
+      "id": "8066",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Philco 24” 180Hz Full HD 1MS PMG24M23T",
+      "link": "https://meli.la/1ZCWaS3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_759118-MLA99588805332_122025-O.webp",
+      "preco": 602.91,
+      "precoDe": 1500,
+      "desconto": 55,
+      "cupom": "CASAINTELIGENTE ou FDSDOSECADOR ou HOJEVALEAPENA",
+      "enviadoEm": "2026-08-16T16:25:26.387Z"
+    },
     {
       "id": "8065",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-08-14T17:26:01.519Z"
-    },
-    {
-      "id": "7363",
-      "loja": "Shopee",
-      "titulo": "KIT 2 Camisa Gola Polo Alta Qualidade 100% Algodão Camiseta Básica Masculina  Diversas Cores",
-      "link": "https://s.shopee.com.br/LmQqeFgvf",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zty-mkjyqctdl34035_tn",
-      "preco": 49.8,
-      "precoDe": 99.67,
-      "desconto": 40,
-      "cupom": "1MP3RD1V3L",
-      "enviadoEm": "2026-08-14T17:04:20.344Z"
-    },
-    {
-      "id": "7362",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo De Taças Bowls De Vidro Para Sobremesas E Sorvete",
-      "link": "https://meli.la/2ZCDfe4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761806-MLB110796598632_052026-O.webp",
-      "preco": 15.440000000000001,
-      "precoDe": 39.9,
-      "desconto": 52,
-      "cupom": "PREFERIDO",
-      "enviadoEm": "2026-08-14T16:59:39.713Z"
     }
   ]
 }
