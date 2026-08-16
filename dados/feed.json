@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-16T17:19:36.483Z",
+  "atualizadoEm": "2026-08-16T17:40:24.582Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8082",
+      "loja": "Shopee",
+      "titulo": "Kit Pampers Glicerina Shampoo 350ml + Condicionador 200ml + Loção Hidratante 350ml + Sabonete Líquido 200ml",
+      "link": "https://s.shopee.com.br/8fRbzXjbF7",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g3-mptqk2z79y4v6b_tn",
+      "preco": 135.7,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T17:30:24.535Z"
+    },
     {
       "id": "8059",
       "loja": "Fut Fanatics",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "COMPRINHASPRACASA",
       "enviadoEm": "2026-08-14T21:12:44.429Z"
-    },
-    {
-      "id": "7467",
-      "loja": "Amazon",
-      "titulo": "PHILIPS, Smart TV Ambilight 65\" 4K, Titan OS, 65PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/dp/B0FPBPDWZQ?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41BWon8LylL._SL400_.jpg",
-      "preco": 3198.9,
-      "precoDe": 3535.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-14T21:06:51.268Z"
     }
   ]
 }
