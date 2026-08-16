@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-16T12:59:28.835Z",
+  "atualizadoEm": "2026-08-16T13:25:49.676Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8043",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
+      "link": "https://s.shopee.com.br/2LXYAQ5cLX",
+      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
+      "preco": 52.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T13:15:49.599Z"
+    },
     {
       "id": "8043",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 26,
       "cupom": "OMELHOR",
       "enviadoEm": "2026-08-14T16:30:05.403Z"
-    },
-    {
-      "id": "7346",
-      "loja": "Mercado Livre",
-      "titulo": "Lavadora de Alta Pressão WAP Ousada Plus 2200 1500W de Potência 1750 PSI",
-      "link": "https://meli.la/21Zhbsd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_694471-MLA96077668763_102025-O.webp",
-      "preco": 286.8,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CUPOMDASEMANA",
-      "enviadoEm": "2026-08-14T16:24:21.722Z"
     }
   ]
 }
