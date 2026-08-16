@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-16T20:28:28.866Z",
+  "atualizadoEm": "2026-08-16T20:52:14.781Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8101",
+      "loja": "Shopee",
+      "titulo": "Regata feminina adulto kit 2 unidades cores variadas malha premium academia e dia a dia",
+      "link": "https://s.shopee.com.br/3VjW3BQQwK",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mp9xiwp3c3k0c4_tn",
+      "preco": 22.48,
+      "precoDe": 54.83,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T20:42:14.780Z"
+    },
     {
       "id": "8099",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 15,
       "cupom": "OMELHOR",
       "enviadoEm": "2026-08-14T22:20:55.690Z"
-    },
-    {
-      "id": "7492",
-      "loja": "Amazon",
-      "titulo": "Impressora Multifuncional HP Smart Tank 583 Tanque de Tinta Colorida Wi-Fi com autorreparo, USB - Impressora, Copiadora e Scanner Cor: ‎Branco (4A8D8A)",
-      "link": "https://www.amazon.com.br/dp/B0050J4DOU?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41BIWwlZgKL._SL400_.jpg",
-      "preco": 835.18,
-      "precoDe": 999,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-08-14T22:13:38.078Z"
     }
   ]
 }
