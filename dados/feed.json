@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-16T18:23:02.741Z",
+  "atualizadoEm": "2026-08-16T18:44:16.206Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8090",
+      "loja": "Shopee",
+      "titulo": "Mini Blocos de Montar Cachorro Fofo Kawaii Presente Pinscher Poodle Shiba Ibu Schnauzer Infantil",
+      "link": "https://s.shopee.com.br/3qMMJ2SvED",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mrr89ftyrwnad8_tn",
+      "preco": 17.99,
+      "precoDe": 29.98,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T18:34:16.205Z"
+    },
     {
       "id": "8087",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 20,
       "cupom": "CUPOMDASEMANA",
       "enviadoEm": "2026-08-14T21:38:20.518Z"
-    },
-    {
-      "id": "7472",
-      "loja": "Mercado Livre",
-      "titulo": "Smart Tv U8600f Crystal Uhd 4k 85 Preto Samsung Bivolt",
-      "link": "https://meli.la/12fAnCr",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_613309-MLA109596452238_042026-O.webp",
-      "preco": 5763.12,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-14T21:22:11.039Z"
     }
   ]
 }
