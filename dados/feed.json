@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-16T17:40:24.582Z",
+  "atualizadoEm": "2026-08-16T17:58:28.866Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8083",
+      "loja": "Shopee",
+      "titulo": "Kit Zípers de Reparo Universal Conserto Instantâneo Sem costura Prático",
+      "link": "https://s.shopee.com.br/2VqyffaiUT",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1u55wybuzze95_tn",
+      "preco": 10.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T17:51:44.908Z"
+    },
     {
       "id": "8082",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-08-14T21:19:19.241Z"
-    },
-    {
-      "id": "7469",
-      "loja": "Mercado Livre",
-      "titulo": "Mesa Escrivaninha Para Pc De Canto Berlim Em L Para Computador Home Office Estudo Trabalho Gamer Moderna Cinamomo Preta",
-      "link": "https://meli.la/2ygELuK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_757081-MLA110078384161_042026-O.webp",
-      "preco": 185.60999999999999,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COMPRINHASPRACASA",
-      "enviadoEm": "2026-08-14T21:12:44.429Z"
     }
   ]
 }
