@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-16T19:47:59.827Z",
+  "atualizadoEm": "2026-08-16T20:09:11.785Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8097",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
+      "link": "https://s.shopee.com.br/qikpMd66i",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
+      "preco": 33.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T19:59:11.783Z"
+    },
     {
       "id": "8094",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 12,
       "cupom": null,
       "enviadoEm": "2026-08-14T22:04:38.534Z"
-    },
-    {
-      "id": "7488",
-      "loja": "Shopee",
-      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
-      "link": "https://s.shopee.com.br/4Vc08jBzu8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
-      "preco": 33.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-14T22:01:29.116Z"
     }
   ]
 }
