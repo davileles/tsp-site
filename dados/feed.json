@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-16T15:11:58.614Z",
+  "atualizadoEm": "2026-08-16T15:28:28.866Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8058",
+      "loja": "Shopee",
+      "titulo": "Kit Até 24 Pares De Meias Soquete unissex Menor Preço",
+      "link": "https://s.shopee.com.br/AKZpprXbQo",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7jjwb23o4he79_tn",
+      "preco": 12.5,
+      "precoDe": 25,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T15:23:08.551Z"
+    },
+    {
+      "id": "8057",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Reserva Go Fresh Knit Respirável Trabalho Confortável",
+      "link": "https://meli.la/2LK1u1Q",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_790814-MLB113998338604_072026-O.webp",
+      "preco": 216.79000000000002,
+      "precoDe": 399.99,
+      "desconto": 32,
+      "cupom": "SEMPREMODA",
+      "enviadoEm": "2026-08-16T15:14:24.040Z"
+    },
+    {
+      "id": "8056",
+      "loja": "Shopee",
+      "titulo": "Jogo conjunto Panela Caçarola Revestimento Ceramico e Indução Laranja presente casamento aniversario",
+      "link": "https://s.shopee.com.br/3B6fI0u822",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mob4njbczsp1aa_tn",
+      "preco": 499.99,
+      "precoDe": 657.88,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T15:13:11.953Z"
+    },
     {
       "id": "8054",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 48,
       "cupom": null,
       "enviadoEm": "2026-08-14T16:43:04.029Z"
-    },
-    {
-      "id": "7355",
-      "loja": "Mercado Livre",
-      "titulo": "Balança Digital De Precisão 10kg Davely Cook Cozinha Para Uso Domestico E Profissional Fitness Ideal Para Dietas Treinos Alimentos Confeitaria Nutrição Branco",
-      "link": "https://meli.la/2PtTd9k",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_977172-MLA107049793514_022026-O.webp",
-      "preco": 17.37,
-      "precoDe": 34.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-08-14T16:43:03.082Z"
-    },
-    {
-      "id": "7354",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira Escritório Ergonômica Python Fly Cor Cinza Com Supor",
-      "link": "https://meli.la/2CagR3b",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_898750-MLA91589962241_092025-O.webp",
-      "preco": 236.32,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COMPRINHASPRACASA",
-      "enviadoEm": "2026-08-14T16:38:51.992Z"
-    },
-    {
-      "id": "7353",
-      "loja": "Mercado Livre",
-      "titulo": "Mala Duffel Linear Pequena adidas",
-      "link": "https://meli.la/2QFJoee",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_769998-MLA111412226889_052026-O.webp",
-      "preco": 147.89,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-14T16:38:09.138Z"
     }
   ]
 }
