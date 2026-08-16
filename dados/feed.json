@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-16T11:33:11.800Z",
+  "atualizadoEm": "2026-08-16T12:03:11.801Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "7792",
+      "loja": "Fut Fanatics",
+      "titulo": "Chuteira Kelme Copa Futsal Verde Limão",
+      "link": "https://www.awin1.com/pclick.php?p=36695378219&a=1207116&m=17893",
+      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Aimages.tcdn.com.br%2Fimg%2Fimg_prod%2F311840%2Fchuteira_kelme_copa_futsal_verde_limao_125058_1_e68cdac2471d819273deaeda3b7786d8.jpg&feedId=46605&k=2334b0fa4d09fa48fa5496f853eb8e7f566334a6",
+      "preco": 159.9,
+      "precoDe": 549.9,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T12:00:42.042Z"
+    },
+    {
+      "id": "7800",
+      "loja": "Dafiti",
+      "titulo": "Bolsa Sacola em Jeans Griffazzi Azul",
+      "link": "https://www.awin1.com/pclick.php?p=45129953343&a=1207116&m=17697",
+      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Astatic.dafiti.com.br%2Fp%2F-14446251-1-zoom.jpg&feedId=53075&k=17794c4ee8d747d5e44ac2949b15b63de206d62e",
+      "preco": 199,
+      "precoDe": 989,
+      "desconto": 80,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T11:51:06.850Z"
+    },
     {
       "id": "7799",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "CASAINTELIGENTE",
       "enviadoEm": "2026-08-14T15:31:21.065Z"
-    },
-    {
-      "id": "7249",
-      "loja": "Amazon",
-      "titulo": "LIMPA CHUPETA lenços umedecidos higienizadores, Likluc, Branco, Tamanho único",
-      "link": "https://www.amazon.com.br/dp/B07XPC1ZNT?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41c2r5Ze3PL._SL400_.jpg",
-      "preco": 11.02,
-      "precoDe": 29.9,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-08-14T15:25:37.416Z"
-    },
-    {
-      "id": "7245",
-      "loja": "Shopee",
-      "titulo": "Jaqueta Bobojaco Impermeável Becker Nylon Puffer Masculino com Bolsos e Capuz",
-      "link": "https://s.shopee.com.br/7VFbGabrEc",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmb-lo8gotg960in6f_tn",
-      "preco": 62.989999999999995,
-      "precoDe": 99.99,
-      "desconto": 27,
-      "cupom": "1MP3RD1V3L",
-      "enviadoEm": "2026-08-14T15:19:00.882Z"
     }
   ]
 }
