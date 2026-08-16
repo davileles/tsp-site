@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-16T20:52:14.781Z",
+  "atualizadoEm": "2026-08-16T22:28:28.967Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8108",
+      "loja": "Amazon",
+      "titulo": "Amaciante Concentrado Comfort 48 Segredos 1L",
+      "link": "https://www.amazon.com.br/dp/B0CKFTVTKB?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/414-p3xd27L._SL400_.jpg",
+      "preco": 19.69,
+      "precoDe": 24.99,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-08-16T22:26:20.188Z"
+    },
     {
       "id": "8101",
       "loja": "Shopee",
@@ -1321,18 +1333,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-08-15T11:12:59.446Z"
-    },
-    {
-      "id": "7563",
-      "loja": "Amazon",
-      "titulo": "Amaciante Concentrado Comfort 48 Segredos 1L",
-      "link": "https://www.amazon.com.br/dp/B0CKFTVTKB?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/414-p3xd27L._SL400_.jpg",
-      "preco": 19.69,
-      "precoDe": 24.99,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-08-15T11:11:47.908Z"
     },
     {
       "id": "7561",
