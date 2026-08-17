@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-17T15:40:42.170Z",
+  "atualizadoEm": "2026-08-17T15:51:52.388Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8439",
+      "loja": "Amazon",
+      "titulo": "La Roche-Posay Cicaplast Baume B5+, Creme Multirreparador Calmante, com Pantenol 5%, Madecassoside e Tribioma, Tripla Ação Repara, Acalma e Protege, 40ml",
+      "link": "https://www.amazon.com.br/dp/B072MK7BN2?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/21dNVQaS3AL._SL400_.jpg",
+      "preco": 69.21,
+      "precoDe": 89.9,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T15:49:10.643Z"
+    },
+    {
+      "id": "8438",
+      "loja": "Mercado Livre",
+      "titulo": "Bolsa Maleta Ferramentas Em Lona Com 8 Divisões Externas Cor Preto - amarelo Vonder",
+      "link": "https://meli.la/1okKYpc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_622341-MLA100078433961_122025-O.webp",
+      "preco": 34.379999999999995,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CONSTRUIRMELI",
+      "enviadoEm": "2026-08-17T15:48:51.156Z"
+    },
+    {
+      "id": "8437",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Frascos Potes Viagem Silicone 90ml   Para Viagem Condicionador Shampoo Creme Cosméticos",
+      "link": "https://s.shopee.com.br/6fgZ5bYgRN",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-miuylj3ciex269_tn",
+      "preco": 22.99,
+      "precoDe": 40.33,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T15:46:28.497Z"
+    },
     {
       "id": "8432",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 37,
       "cupom": "CASAINTELIGENTE ou FDSDOSECADOR ou PROMOCERTAML ou TODOOSITE ou FULLMIX",
       "enviadoEm": "2026-08-15T15:19:20.647Z"
-    },
-    {
-      "id": "7682",
-      "loja": "Mercado Livre",
-      "titulo": "Mala De Bordo Wilson 10 Quilos Viagem Abs Pequena Original",
-      "link": "https://meli.la/23PB3zc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_877357-MLB113439669174_072026-O.webp",
-      "preco": 208.61999999999998,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SEMPREMODA",
-      "enviadoEm": "2026-08-15T15:16:02.822Z"
-    },
-    {
-      "id": "7680",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 100 Blocos Magnéticos De Montar Construção Brinquedo",
-      "link": "https://meli.la/2PMz55W",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_916503-MLB106850902022_022026-O.webp",
-      "preco": 67.41000000000001,
-      "precoDe": 119.9,
-      "desconto": 38,
-      "cupom": "CASAINTELIGENTE ou FDSDOSECADOR ou PROMOCERTAML ou TODOOSITE ou FULLMIX",
-      "enviadoEm": "2026-08-15T15:08:11.860Z"
-    },
-    {
-      "id": "7679",
-      "loja": "Mercado Livre",
-      "titulo": "Multivitamínico 60 Cáps. Growth Supplements - Sem Sabor",
-      "link": "https://meli.la/1ZB2iFz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_732271-MLB107471121156_032026-O.webp",
-      "preco": 24.15,
-      "precoDe": 49.9,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-08-15T15:03:18.286Z"
     }
   ]
 }
