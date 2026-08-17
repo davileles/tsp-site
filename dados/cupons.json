@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-17T18:44:29.927Z",
+  "atualizadoEm": "2026-08-17T19:30:03.211Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -447,30 +447,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CASAML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PRAVCSEMPRE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CUPOMDOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -543,14 +519,14 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CONSTRUIRMELI",
+      "codigo": "CORREAQUINOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
       "minimo": 19,
       "maximo": null,
       "limite": 150,
-      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "observacao": null,
       "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
