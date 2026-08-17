@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-17T22:40:24.591Z",
+  "atualizadoEm": "2026-08-17T23:10:23.574Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8703",
+      "loja": "Mercado Livre",
+      "titulo": "Mochila jiesipote À Prova D'água Reforçada Expansível Cor Preto",
+      "link": "https://meli.la/2ubsrxQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_974980-MLA112776013576_062026-O.webp",
+      "preco": 72.16,
+      "precoDe": 269,
+      "desconto": 67,
+      "cupom": "HORADOCUPOM ou INTERNACIONAL ou MAISOFERTAS ou PROMONOML ou COMPENSAML",
+      "enviadoEm": "2026-08-17T23:00:23.570Z"
+    },
+    {
+      "id": "8702",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Shampoo E Condicionador Antiqueda Aq-01",
+      "link": "https://meli.la/25ehiZx",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_921466-MLB110119601698_042026-O.webp",
+      "preco": 63.72,
+      "precoDe": 103,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T22:58:38.428Z"
+    },
     {
       "id": "8700",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "HOJEVALEAPENA",
       "enviadoEm": "2026-08-16T12:42:20.041Z"
-    },
-    {
-      "id": "7985",
-      "loja": "Mercado Livre",
-      "titulo": "Geladeira Electrolux Frost Free com AutoSense 480L Efficient Duplex Inox Look TF71S Cor Prateado",
-      "link": "https://meli.la/1F72BtQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_850918-MLA97347695417_112025-O.webp",
-      "preco": 3000.19,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FDSDOSECADOR ou HOJEVALEAPENA",
-      "enviadoEm": "2026-08-16T12:40:24.816Z"
-    },
-    {
-      "id": "7984",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Lattafa Asad 100ml Eau De Parfum Original Árabe Original Com Nota Fiscal E Selo Original Lataffa",
-      "link": "https://meli.la/1iwok5X",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_687418-MLB81527468562_012025-O.webp",
-      "preco": 182.45999999999998,
-      "precoDe": 289.99,
-      "desconto": 30,
-      "cupom": "HOJEVALEAPENA",
-      "enviadoEm": "2026-08-16T12:38:50.329Z"
     }
   ]
 }
