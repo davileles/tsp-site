@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-17T13:47:44.186Z",
+  "atualizadoEm": "2026-08-17T13:51:52.387Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8403",
+      "loja": "Amazon",
+      "titulo": "Mochila JanSport Cross Town Navy",
+      "link": "https://www.amazon.com.br/dp/B0823WBV12?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31LI1xTl8hL._SL400_.jpg",
+      "preco": 159.92000000000002,
+      "precoDe": 329.9,
+      "desconto": 39,
+      "cupom": "MODAPAI20",
+      "enviadoEm": "2026-08-17T13:50:29.957Z"
+    },
     {
       "id": "8390",
       "loja": "Shopee",
@@ -1033,18 +1045,6 @@
       "desconto": 39,
       "cupom": null,
       "enviadoEm": "2026-08-16T11:11:35.611Z"
-    },
-    {
-      "id": "7795",
-      "loja": "Amazon",
-      "titulo": "Mochila JanSport Cross Town Navy",
-      "link": "https://www.amazon.com.br/dp/B0823WBV12?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31LI1xTl8hL._SL400_.jpg",
-      "preco": 109.9,
-      "precoDe": 329.9,
-      "desconto": 39,
-      "cupom": "SEMANA50OFF",
-      "enviadoEm": "2026-08-16T11:09:50.203Z"
     },
     {
       "id": "7794",
