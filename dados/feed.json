@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-17T17:21:49.169Z",
+  "atualizadoEm": "2026-08-17T17:45:19.129Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8539",
+      "loja": "Shopee",
+      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
+      "link": "https://s.shopee.com.br/6fgZCvik0I",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
+      "preco": 182.9,
+      "precoDe": 599.7,
+      "desconto": 67,
+      "cupom": "V4NEXO26AF",
+      "enviadoEm": "2026-08-17T17:33:02.799Z"
+    },
     {
       "id": "8529",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 59,
       "cupom": "OMELHOR",
       "enviadoEm": "2026-08-15T22:17:24.324Z"
-    },
-    {
-      "id": "7783",
-      "loja": "Amazon",
-      "titulo": "Cerveja Budweiser, American Lager, Lata Sleek 350ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0CH1DKT6N?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41eod8JHQkL._SL400_.jpg",
-      "preco": 43.08,
-      "precoDe": 55.08,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-08-15T22:13:20.442Z"
     }
   ]
 }
