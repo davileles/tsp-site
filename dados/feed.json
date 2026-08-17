@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-17T14:51:52.388Z",
+  "atualizadoEm": "2026-08-17T15:21:52.388Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8424",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Plus Size Feminina Acolchoada com Capuz – Inverno Quente e Confortável",
+      "link": "https://s.shopee.com.br/2qTqTdlJxO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mlzn02kws0zod4_tn",
+      "preco": 104.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "V4NEXO26AF",
+      "enviadoEm": "2026-08-17T15:03:46.905Z"
+    },
     {
       "id": "8420",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 56,
       "cupom": "TVS1208CELULAR",
       "enviadoEm": "2026-08-15T12:45:59.862Z"
-    },
-    {
-      "id": "7599",
-      "loja": "Mercado Livre",
-      "titulo": "Smart Tv Samsung 32'' Hd Tizen Hdr Wi-fi Hdmi Monitor Bivolt Preta Preto",
-      "link": "https://meli.la/16G3dzt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_924175-MLA99993108321_112025-O.webp",
-      "preco": 778.86,
-      "precoDe": 1297.1,
-      "desconto": 33,
-      "cupom": "FDSDOSECADOR ou PROMOCERTAML ou TODOOSITE1308 ou TODOOSITE",
-      "enviadoEm": "2026-08-15T12:42:46.419Z"
     }
   ]
 }
