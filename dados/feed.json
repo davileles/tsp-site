@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-17T11:33:12.749Z",
+  "atualizadoEm": "2026-08-17T11:52:52.367Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8300",
+      "loja": "Shopee",
+      "titulo": "Bolsa de Viagem Mala Dobrável Capacidade Impermeável",
+      "link": "https://s.shopee.com.br/112C52TR01",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmx-lp6czwvd0b9k6f_tn",
+      "preco": 12.42,
+      "precoDe": 38.81,
+      "desconto": 68,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T11:51:06.836Z"
+    },
     {
       "id": "8247",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "1MP3RD1V3L",
       "enviadoEm": "2026-08-14T22:43:31.075Z"
-    },
-    {
-      "id": "7500",
-      "loja": "Mercado Livre",
-      "titulo": "Furadeira Parafusadeira Sem Fio A Bateria Gpb12vd 12v 3/8 10mm Com Maleta E Acessórios Gradiente",
-      "link": "https://meli.la/19PpU1t",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_807886-MLA97434822387_112025-O.webp",
-      "preco": 75.24,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CUPOMDASEMANA",
-      "enviadoEm": "2026-08-14T22:43:04.796Z"
     }
   ]
 }
