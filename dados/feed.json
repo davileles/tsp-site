@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-17T17:45:19.129Z",
+  "atualizadoEm": "2026-08-17T18:04:19.745Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8547",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
+      "link": "https://s.shopee.com.br/4Vc4ePKUdk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
+      "preco": 16.79,
+      "precoDe": 47.98,
+      "desconto": 50,
+      "cupom": "LOVIV1TA",
+      "enviadoEm": "2026-08-17T17:54:19.744Z"
+    },
     {
       "id": "8539",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 55,
       "cupom": "FDSDOSECADOR ou PROMOCERTAML",
       "enviadoEm": "2026-08-15T22:25:28.793Z"
-    },
-    {
-      "id": "7784",
-      "loja": "Mercado Livre",
-      "titulo": "Compressor Portátil Car Air Pump Digital Com Visor Para Carro Moto Bike Calibrador De Pneu Multifuncional",
-      "link": "https://meli.la/2qBfb9V",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_903017-MLA111914906979_052026-O.webp",
-      "preco": 48.69,
-      "precoDe": 157.98,
-      "desconto": 59,
-      "cupom": "OMELHOR",
-      "enviadoEm": "2026-08-15T22:17:24.324Z"
     }
   ]
 }
