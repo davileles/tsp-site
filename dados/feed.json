@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-17T16:03:22.488Z",
+  "atualizadoEm": "2026-08-17T16:16:19.128Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8447",
+      "loja": "Mercado Livre",
+      "titulo": "Purificador De Água Slimpure Bivolt Midea Cinza",
+      "link": "https://meli.la/2K9qHBf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_688571-MLA99470684418_112025-O.webp",
+      "preco": 391.01,
+      "precoDe": 657,
+      "desconto": 34,
+      "cupom": "AQUITEM ou TOCUPONERA",
+      "enviadoEm": "2026-08-17T16:12:59.870Z"
+    },
+    {
+      "id": "8445",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Carolina Herrera Good Girl Eau de Parfum 30 ml feminino",
+      "link": "https://meli.la/1w5P4q2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_930373-MLA91156156056_092025-O.webp",
+      "preco": 298.39,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "AQUITEM ou TOCUPONERA",
+      "enviadoEm": "2026-08-17T16:07:52.741Z"
+    },
+    {
+      "id": "8446",
+      "loja": "Shopee",
+      "titulo": "Kit 6/12/18/24 Panos De Limpeza Aço Premium Arear Panela Fogão Toalha Louça Tira Gordura Reutilizável",
+      "link": "https://s.shopee.com.br/1gHt9tTcFW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mctxxpi1l4qad6_tn",
+      "preco": 10,
+      "precoDe": 25,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T16:07:50.735Z"
+    },
     {
       "id": "8442",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 10,
       "cupom": "CARTAO50OFF",
       "enviadoEm": "2026-08-15T16:13:42.534Z"
-    },
-    {
-      "id": "7688",
-      "loja": "Mercado Livre",
-      "titulo": "Micro-ondas Consul 23l Branco Cms23ab",
-      "link": "https://meli.la/1bP2onV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_914513-MLA110469751630_052026-O.webp",
-      "preco": 376.05,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SEMPREMODA",
-      "enviadoEm": "2026-08-15T15:57:54.347Z"
-    },
-    {
-      "id": "7685",
-      "loja": "Amazon",
-      "titulo": "Inoar, Kit #Bombar Super Vitaminas – Shampoo e Condicionador Para Crescimento Acelerado, Fortalecimento Capilar, Redução da Queda e Brilho Intenso, 2x1L",
-      "link": "https://www.amazon.com.br/dp/B077BWZLRM?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41Ra8JBEoyL._SL400_.jpg",
-      "preco": 44.4,
-      "precoDe": 47.99,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-08-15T15:28:01.783Z"
-    },
-    {
-      "id": "7684",
-      "loja": "Amazon",
-      "titulo": "EUCERIN Gel de Limpeza Facial AntiAcne Dermo Pure Gentil 400ml, Pele Mista e Oleosa, Suave, Demaquilante",
-      "link": "https://www.amazon.com.br/dp/B0DSJYW1HW?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31+imZdLtrL._SL400_.jpg",
-      "preco": 58.41,
-      "precoDe": 109.9,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-08-15T15:24:59.462Z"
     }
   ]
 }
