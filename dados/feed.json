@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-17T21:24:29.693Z",
+  "atualizadoEm": "2026-08-17T22:08:21.324Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8695",
+      "loja": "Amazon",
+      "titulo": "Bio-Oil Óleo para cuidado da pele, Rosa, 125 ml",
+      "link": "https://www.amazon.com.br/dp/B079VQTRM7?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31U3PF8ympL._SL400_.jpg",
+      "preco": 46.71,
+      "precoDe": 85.99,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T21:58:21.323Z"
+    },
+    {
+      "id": "8694",
+      "loja": "Mercado Livre",
+      "titulo": "Mesa Dobrável Vira Maleta Com Alça Portátil 1.80m Para Camping Pesca Jardim Área Externa Tft1800 The Black Tools",
+      "link": "https://meli.la/1kuVFrC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_827202-MLA106099013113_012026-O.webp",
+      "preco": 189.23,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T21:54:15.433Z"
+    },
+    {
+      "id": "8693",
+      "loja": "Shopee",
+      "titulo": "GOKOCO Secador de Cabelo de Alta Velocidade Secador de Cabelo Profissional 1500W Alta Velocida de 2Minutos Secagem Rápid",
+      "link": "https://s.shopee.com.br/20ujvoGbe5",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfxmblp796h370_tn",
+      "preco": 199,
+      "precoDe": 497.5,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T21:47:25.494Z"
+    },
     {
       "id": "8689",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": "HOJEVALEAPENA",
       "enviadoEm": "2026-08-16T12:23:39.456Z"
-    },
-    {
-      "id": "7924",
-      "loja": "Mercado Livre",
-      "titulo": "Fone De Ouvido Preto Havit Gamenote Fuxi-h6 - Black",
-      "link": "https://meli.la/1iLLMcT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_947213-MLA99416728000_112025-O.webp",
-      "preco": 157.5,
-      "precoDe": 249,
-      "desconto": 30,
-      "cupom": "FDSDOSECADOR ou HOJEVALEAPENA",
-      "enviadoEm": "2026-08-16T12:21:14.700Z"
-    },
-    {
-      "id": "7905",
-      "loja": "Mercado Livre",
-      "titulo": "Boné Lacoste Gráfico Masculino - Original",
-      "link": "https://meli.la/317YwKx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_780723-MLB93961595843_102025-O.webp",
-      "preco": 210.51,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SEMPREMODA",
-      "enviadoEm": "2026-08-16T12:20:55.152Z"
-    },
-    {
-      "id": "7868",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer AOC AGON G50 24\" 144Hz 0,5ms IPS HDR10 G-SYNC 24G50F Preto",
-      "link": "https://meli.la/2w3YRcP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_748152-MLA96322082514_102025-O.webp",
-      "preco": 559.8,
-      "precoDe": 1070,
-      "desconto": 42,
-      "cupom": "FDSDOSECADOR ou HOJEVALEAPENA",
-      "enviadoEm": "2026-08-16T12:20:05.930Z"
     }
   ]
 }
