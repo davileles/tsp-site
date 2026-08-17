@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-17T18:44:28.700Z",
+  "atualizadoEm": "2026-08-17T19:08:28.992Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8616",
+      "loja": "Shopee",
+      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
+      "link": "https://s.shopee.com.br/2qTqjldUAr",
+      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
+      "preco": 59.989999999999995,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "V4NEXO26AF",
+      "enviadoEm": "2026-08-17T18:58:28.991Z"
+    },
+    {
+      "id": "8615",
+      "loja": "Wine",
+      "titulo": "Kit 10 - Você Pediu, Ele Voltou - R$21,90 por Garrafa - Oferta Absurda",
+      "link": "https://tidd.ly/4iePy6t",
+      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3A8dbd7777bbc323r01af38816375ccac9.wine.com.br%2FJEQ645-01.png&feedId=47333&k=f92f89dd0fac9057510b77708b8381904c8312a4",
+      "preco": 219,
+      "precoDe": 590,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T18:54:44.754Z"
+    },
     {
       "id": "8613",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-08-16T11:21:14.688Z"
-    },
-    {
-      "id": "7797",
-      "loja": "Amazon",
-      "titulo": "Mochila The North Face Pivoter Unissex",
-      "link": "https://www.amazon.com.br/dp/B0CN9SD17R?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31+Ag24jr8L._SL400_.jpg",
-      "preco": 674.9,
-      "precoDe": 899,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T11:13:44.369Z"
-    },
-    {
-      "id": "7796",
-      "loja": "Amazon",
-      "titulo": "Siàge Máscara Capilar Cica-Therapy 250G",
-      "link": "https://www.amazon.com.br/dp/B09RQ4WRBV?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31oDExkdmoL._SL400_.jpg",
-      "preco": 45.59,
-      "precoDe": 74.99,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T11:11:35.611Z"
     }
   ]
 }
