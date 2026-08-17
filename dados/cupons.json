@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-17T15:21:56.578Z",
+  "atualizadoEm": "2026-08-17T15:51:54.351Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -207,6 +207,18 @@
       "url": "https://amzn.to/4dFRSzy"
     },
     {
+      "codigo": "CABELOS30",
+      "loja": "BELEZA NA WEB",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 249,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-18T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
+    },
+    {
       "codigo": "AMOO20DAVINES",
       "loja": "BELEZA NA WEB",
       "tipo": "pct",
@@ -253,6 +265,42 @@
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
+    },
+    {
+      "codigo": "MULTI6",
+      "loja": "Fastshop",
+      "tipo": "pct",
+      "valor": 6,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
+    },
+    {
+      "codigo": "FAST200",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-19T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "PEGA60",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 60,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-18T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
       "codigo": "DPI15",
