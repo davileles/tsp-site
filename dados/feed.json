@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-17T18:04:19.745Z",
+  "atualizadoEm": "2026-08-17T18:26:03.096Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8547",
+      "loja": "Shopee",
+      "titulo": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
+      "link": "https://s.shopee.com.br/904U28X0Am",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902_tn",
+      "preco": 34.89,
+      "precoDe": 199.45,
+      "desconto": 80,
+      "cupom": "PR0M0C4070P",
+      "enviadoEm": "2026-08-17T18:16:03.095Z"
+    },
     {
       "id": "8547",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 5,
       "cupom": "CARTAO50OFF",
       "enviadoEm": "2026-08-16T11:07:54.172Z"
-    },
-    {
-      "id": "7785",
-      "loja": "Mercado Livre",
-      "titulo": "Lixeira Inteligente Automática Cinza Universal Com Sensor Recarregável Earman Company Anti Odor 16l Recarregável Usb",
-      "link": "https://meli.la/2Ntya2X",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_765803-MLA112010174337_052026-O.webp",
-      "preco": 63.53,
-      "precoDe": 157.98,
-      "desconto": 55,
-      "cupom": "FDSDOSECADOR ou PROMOCERTAML",
-      "enviadoEm": "2026-08-15T22:25:28.793Z"
     }
   ]
 }
