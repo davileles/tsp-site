@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-17T19:30:01.911Z",
+  "atualizadoEm": "2026-08-17T19:44:28.710Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8619",
+      "loja": "Shopee",
+      "titulo": "Tapete de Banheiro Absorvente Antiderrapante Secagem Rápida",
+      "link": "https://s.shopee.com.br/30nGz0eGXu",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260b-mm4q3xn8yayw0f_tn",
+      "preco": 12.99,
+      "precoDe": 49.96,
+      "desconto": 74,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T19:41:46.461Z"
+    },
     {
       "id": "8618",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 80,
       "cupom": null,
       "enviadoEm": "2026-08-16T11:51:06.850Z"
-    },
-    {
-      "id": "7799",
-      "loja": "Amazon",
-      "titulo": "Fone de Ouvido Eardbud AIWA AWS-EB-04-W Bluetooth IPX4 ANC 26 Horas de bateria",
-      "link": "https://www.amazon.com.br/dp/B0DM9V2K78?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31x34BN0XmL._SL400_.jpg",
-      "preco": 129,
-      "precoDe": 209.9,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T11:28:01.168Z"
     }
   ]
 }
