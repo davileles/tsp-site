@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-17T18:26:04.433Z",
+  "atualizadoEm": "2026-08-17T18:44:29.927Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -732,6 +732,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-18T13:15:57.715Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "ACESSORIO10AFF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 70,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-18T18:28:32.186Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
