@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-17T19:08:28.992Z",
+  "atualizadoEm": "2026-08-17T19:30:01.911Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8618",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
+      "link": "https://s.shopee.com.br/6AkIjKqZuV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
+      "preco": 28.990000000000002,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PR0M0C4070P",
+      "enviadoEm": "2026-08-17T19:20:01.909Z"
+    },
     {
       "id": "8616",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 39,
       "cupom": null,
       "enviadoEm": "2026-08-16T11:28:01.168Z"
-    },
-    {
-      "id": "7798",
-      "loja": "Amazon",
-      "titulo": "Nescau Bebida Láctea 180ml caixa com 27 unidades",
-      "link": "https://www.amazon.com.br/dp/B0CXJLK24Y?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/61gtHqTqSkL._SL400_.jpg",
-      "preco": 53.9,
-      "precoDe": 74.9,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T11:21:14.688Z"
     }
   ]
 }
