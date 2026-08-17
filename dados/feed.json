@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-17T13:04:51.806Z",
+  "atualizadoEm": "2026-08-17T13:21:52.386Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8387",
+      "loja": "Shopee",
+      "titulo": "HUAWEI WATCH FIT 5 Pro| Smartwatch Relogio | Tela FullView AMOLED de 1,92\"| Mini Treino | 64 GB ECG",
+      "link": "https://s.shopee.com.br/9zx0tPXrP0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mqeruyatf3eq58_tn",
+      "preco": 1399,
+      "precoDe": 3497.5,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T13:16:06.657Z"
+    },
     {
       "id": "8386",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 62,
       "cupom": null,
       "enviadoEm": "2026-08-15T12:38:56.555Z"
-    },
-    {
-      "id": "7593",
-      "loja": "Shopee",
-      "titulo": "LANÇAMENTO • iPhone 17 Pro / 17 Pro Max 256GB • Novo Original NF Lacrado",
-      "link": "https://s.shopee.com.br/5VUYIczj4D",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhcaeeg33imda2_tn",
-      "preco": 7268.27,
-      "precoDe": 15142.23,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-08-15T12:36:08.571Z"
     }
   ]
 }
