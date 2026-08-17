@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-17T22:08:21.324Z",
+  "atualizadoEm": "2026-08-17T22:20:28.476Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8696",
+      "loja": "Amazon",
+      "titulo": "Café em Cápsula Nescafé Farmers Origins Brazil - compatível máquina Nespresso, 18 cápsulas 44g",
+      "link": "https://www.amazon.com.br/dp/B0FWGN9SZL?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51qA+g7egJL._SL400_.jpg",
+      "preco": 29.9,
+      "precoDe": 39.29,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T22:10:28.473Z"
+    },
     {
       "id": "8695",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 53,
       "cupom": "INTERNACIONALCN",
       "enviadoEm": "2026-08-16T12:28:18.168Z"
-    },
-    {
-      "id": "7925",
-      "loja": "Mercado Livre",
-      "titulo": "Ssd 1tb M.2 Nvme Pcie 4.0 Western Digital Sn3000 Velocidade De Leitura E Gravação 5000/4200 Mb/s Wds100t4g0e-00cps0 Preto",
-      "link": "https://meli.la/2cNaLtE",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_763059-MLA113958735025_062026-O-ssd-1tb-m2-nvme-pcie-40-western-digital-sn3000-velocidade-de-leitura-e-gravaco-50004200-mbs-wds100t4g0e-00cps0-preto.webp",
-      "preco": 764.1,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "HOJEVALEAPENA",
-      "enviadoEm": "2026-08-16T12:23:39.456Z"
     }
   ]
 }
