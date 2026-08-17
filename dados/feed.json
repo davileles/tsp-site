@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-17T18:26:03.096Z",
+  "atualizadoEm": "2026-08-17T18:44:28.700Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8613",
+      "loja": "Shopee",
+      "titulo": "Organizador de maquiagem Giratório 360º Acrílico Suporte de Cosméticos",
+      "link": "https://s.shopee.com.br/2gAQW0AcIX",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd6c-m729rq2ye1aka6_tn",
+      "preco": 33.98,
+      "precoDe": 90.65,
+      "desconto": 57,
+      "cupom": "PR0M0C4070P",
+      "enviadoEm": "2026-08-17T18:37:25.267Z"
+    },
     {
       "id": "8547",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 39,
       "cupom": null,
       "enviadoEm": "2026-08-16T11:11:35.611Z"
-    },
-    {
-      "id": "7794",
-      "loja": "Amazon",
-      "titulo": "Camiseta Mizuno Nirvana Masculina - Preto - P",
-      "link": "https://www.amazon.com.br/dp/B0G9B5DQT3?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31+0AarT0DL._SL400_.jpg",
-      "preco": 22.490000000000002,
-      "precoDe": 47.49,
-      "desconto": 5,
-      "cupom": "CARTAO50OFF",
-      "enviadoEm": "2026-08-16T11:07:54.172Z"
     }
   ]
 }
