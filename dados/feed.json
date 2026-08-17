@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-17T15:21:52.388Z",
+  "atualizadoEm": "2026-08-17T15:40:42.170Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8432",
+      "loja": "Amazon",
+      "titulo": "Nescafé, Café Solúvel, Matinal, Suave, 100g",
+      "link": "https://www.amazon.com.br/dp/B074WTYRCD?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/412ReeMVUeL._SL400_.jpg",
+      "preco": 19.99,
+      "precoDe": 29.03,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T15:30:42.170Z"
+    },
+    {
+      "id": "8431",
+      "loja": "Amazon",
+      "titulo": "Percarbonato de Sódio, 1 kg | Oxigênio Ativo, Tira Manchas, Sem Cloro, Branqueador de Roupas, para Lavanderia",
+      "link": "https://www.amazon.com.br/dp/B0GR6PGTFY?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41rYkRWXsKL._SL400_.jpg",
+      "preco": 19.9,
+      "precoDe": 23.65,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T15:25:35.523Z"
+    },
+    {
+      "id": "8430",
+      "loja": "Shopee",
+      "titulo": "KIT 10 CANETAS MARCADORA PERMANENTE DE PONTA LONGA MARCAR FURAÇÃO PAREDE  PARA TRABALHO PEDREIRO!",
+      "link": "https://s.shopee.com.br/5VUbg09Pn9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj4gxg7e6adfc0_tn",
+      "preco": 28.9,
+      "precoDe": 38.97,
+      "desconto": 13,
+      "cupom": "PR0M0C4070P",
+      "enviadoEm": "2026-08-17T15:24:59.278Z"
+    },
+    {
+      "id": "8429",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Câmeras Segurança Ip Interna Externa Wifi iCSee Infravermelho Prova D’Água - HW",
+      "link": "https://meli.la/23i7mLo",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_901090-MLA99414404486_112025-O.webp",
+      "preco": 137.26000000000002,
+      "precoDe": 339,
+      "desconto": 46,
+      "cupom": "CASAML",
+      "enviadoEm": "2026-08-17T15:24:29.956Z"
+    },
     {
       "id": "8424",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-08-15T15:03:18.286Z"
-    },
-    {
-      "id": "7678",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Motor Rossi Deslizante Nano Turbol Portão 600kg Cor preto",
-      "link": "https://meli.la/2h5gFFQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_742640-MLA112529916603_052026-O.webp",
-      "preco": 342.74,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PREFERIDO",
-      "enviadoEm": "2026-08-15T15:03:16.830Z"
-    },
-    {
-      "id": "7673",
-      "loja": "Amazon",
-      "titulo": "Erdinger Cerveja Sem Álcool Lata 500Ml 1Un",
-      "link": "https://www.amazon.com.br/dp/B08LG35GMN?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41eTSnhxzlL._SL400_.jpg",
-      "preco": 7.87,
-      "precoDe": 18.97,
-      "desconto": 17,
-      "cupom": "CARTAO50OFF",
-      "enviadoEm": "2026-08-15T15:01:24.833Z"
-    },
-    {
-      "id": "7601",
-      "loja": "Mercado Livre",
-      "titulo": "Kit C/ 6 Vinhos Tinto Dv Catena Cabernet Malbec 750ml",
-      "link": "https://meli.la/2jiLwQt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_825552-MLA99928207987_112025-O.webp",
-      "preco": 442,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-15T12:46:17.796Z"
-    },
-    {
-      "id": "7600",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer TCL 25 Polegadas QLED Mini LED Full HD G64 300Hz 1ms (GtG) Freesync HDR 600 nits 25G64",
-      "link": "https://meli.la/2wfHRhD",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_723939-MLA103720530496_012026-O.webp",
-      "preco": 1097.81,
-      "precoDe": 2949,
-      "desconto": 56,
-      "cupom": "TVS1208CELULAR",
-      "enviadoEm": "2026-08-15T12:45:59.862Z"
     }
   ]
 }
