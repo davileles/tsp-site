@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-17T11:33:14.044Z",
+  "atualizadoEm": "2026-08-17T12:21:53.584Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -291,66 +291,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "INFLU300",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 3000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-17T12:11:14.260Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "INFLU200",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 2000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-17T12:11:14.257Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "INFLU100",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 1000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-17T12:11:14.253Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "CAZE10",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": 2000,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-17T12:00:17.128Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "MLTIRA80",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 80,
-      "minimo": 569,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em categorias selecionadas",
-      "validadeAte": "2026-08-17T12:11:37.681Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "INTERNACIONALCN",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -423,6 +363,42 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CASAML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "validadeAte": "2026-08-18T12:01:57.076Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PRAVCSEMPRE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "validadeAte": "2026-08-18T12:01:57.091Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CUPOMDOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "validadeAte": "2026-08-18T12:01:57.380Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -471,6 +447,78 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "SEMPRENAMODA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "validadeAte": "2026-08-18T12:01:57.068Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CONSTRUIRMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "validadeAte": "2026-08-18T12:01:57.084Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CORREAQUINOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "validadeAte": "2026-08-18T12:01:57.098Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CORRREPROML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "validadeAte": "2026-08-18T12:01:57.191Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SAUDEPRAVC",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "validadeAte": "2026-08-18T12:01:57.199Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "validadeAte": "2026-08-18T12:01:57.297Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "HORADOCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -507,28 +555,64 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "S0S0LT31R0S20",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 30,
+      "codigo": "PROMONOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 29,
       "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-17T12:11:35.839Z",
-      "url": null
+      "limite": 500,
+      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "validadeAte": "2026-08-18T12:01:57.290Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CHEGOUZE21",
-      "loja": "Outro: Zé Delivery",
+      "codigo": "BRINCADEIRAS",
+      "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 50,
-      "minimo": null,
+      "valor": 15,
+      "minimo": 59,
       "maximo": null,
-      "limite": 15,
+      "limite": 50,
+      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "validadeAte": "2026-08-18T12:01:57.207Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "APROVEITANOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "validadeAte": "2026-08-18T12:01:57.283Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AQUITEM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 129,
+      "maximo": null,
+      "limite": 150,
+      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "validadeAte": "2026-08-18T12:00:59.098Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TOCUPONERA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 10,
       "observacao": null,
-      "validadeAte": "2026-08-17T12:11:34.082Z",
-      "url": "https://ze.onelink.me/qZhP/p8z09c1x"
+      "validadeAte": "2026-08-18T12:02:02.526Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "VZEINICIO40",
