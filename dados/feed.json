@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-17T12:51:52.386Z",
+  "atualizadoEm": "2026-08-17T13:04:51.806Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8386",
+      "loja": "Shopee",
+      "titulo": "forma pudim banho maria n 18 panela 2 em 1",
+      "link": "https://s.shopee.com.br/4fvUW9Of2K",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mox9kud7btadec_tn",
+      "preco": 40.9,
+      "precoDe": 53.82,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T12:54:51.804Z"
+    },
     {
       "id": "8384",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-08-15T12:36:08.571Z"
-    },
-    {
-      "id": "7591",
-      "loja": "Mercado Livre",
-      "titulo": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-      "link": "https://meli.la/166Zdhv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603690-MLA93305557455_092025-O.webp",
-      "preco": 1554.65,
-      "precoDe": 2680.01,
-      "desconto": 32,
-      "cupom": "TVS1208CELULAR",
-      "enviadoEm": "2026-08-15T12:29:42.802Z"
     }
   ]
 }
