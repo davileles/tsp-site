@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-17T10:17:19.129Z",
+  "atualizadoEm": "2026-08-17T11:33:14.044Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -528,6 +528,18 @@
       "limite": 15,
       "observacao": null,
       "validadeAte": "2026-08-17T12:11:34.082Z",
+      "url": "https://ze.onelink.me/qZhP/p8z09c1x"
+    },
+    {
+      "codigo": "VZEINICIO40",
+      "loja": "Outro: Zé Delivery",
+      "tipo": "pct",
+      "valor": 40,
+      "minimo": null,
+      "maximo": null,
+      "limite": 15,
+      "observacao": null,
+      "validadeAte": "2026-08-18T11:27:23.383Z",
       "url": "https://ze.onelink.me/qZhP/p8z09c1x"
     },
     {
