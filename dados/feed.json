@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-17T15:51:52.388Z",
+  "atualizadoEm": "2026-08-17T16:03:22.488Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8442",
+      "loja": "Amazon",
+      "titulo": "Electrolux Air fryer Fritadeira Elétrica sem oleo Rita Lobo 5,8L 9 receitas funções pré-definidas Painel Digital timer 60min desligamento automático cesto removível antiaderente 14",
+      "link": "https://www.amazon.com.br/dp/B0F24XQ9NF?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31A4BrgTB0L._SL400_.jpg",
+      "preco": 386.58,
+      "precoDe": 459.9,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T15:53:22.487Z"
+    },
     {
       "id": "8439",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-08-15T15:24:59.462Z"
-    },
-    {
-      "id": "7683",
-      "loja": "Mercado Livre",
-      "titulo": "Cafeteira De Fogão 6 Xícaras Aço Inoxidável Italiana 300ml",
-      "link": "https://meli.la/14cpTgX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_663976-MLB112452809899_052026-O.webp",
-      "preco": 33.3,
-      "precoDe": 59,
-      "desconto": 37,
-      "cupom": "CASAINTELIGENTE ou FDSDOSECADOR ou PROMOCERTAML ou TODOOSITE ou FULLMIX",
-      "enviadoEm": "2026-08-15T15:19:20.647Z"
     }
   ]
 }
