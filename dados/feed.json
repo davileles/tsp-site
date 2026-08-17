@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-17T20:13:27.072Z",
+  "atualizadoEm": "2026-08-17T21:24:29.693Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8689",
+      "loja": "Amazon",
+      "titulo": "Philips Walita Processador de Alimentos PowerChop 450W, Preto, 110V",
+      "link": "https://www.amazon.com.br/dp/B0GS755NZ9?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31hvZoOq9NL._SL400_.jpg",
+      "preco": 182.57,
+      "precoDe": 239.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T21:14:29.691Z"
+    },
+    {
+      "id": "8632",
+      "loja": "Amazon",
+      "titulo": "Achocolatado em Cápsula Nescafé Dolce Gusto Kopenhagen Língua de Gato 10 cápsulas",
+      "link": "https://www.amazon.com.br/dp/B0FDCLCBZB?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41F9wQaldHL._SL400_.jpg",
+      "preco": 19.9,
+      "precoDe": 26.39,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T21:12:03.408Z"
+    },
     {
       "id": "8621",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 42,
       "cupom": "FDSDOSECADOR ou HOJEVALEAPENA",
       "enviadoEm": "2026-08-16T12:20:05.930Z"
-    },
-    {
-      "id": "7866",
-      "loja": "Mercado Livre",
-      "titulo": "Gloss Fran By Franciny Ehlke Liphoney Mel",
-      "link": "https://meli.la/1Qir1Ry",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_855365-MLB95050151929_102025-O.webp",
-      "preco": 17.389999999999997,
-      "precoDe": 69.99,
-      "desconto": 74,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T12:13:48.953Z"
-    },
-    {
-      "id": "7792",
-      "loja": "Fut Fanatics",
-      "titulo": "Chuteira Kelme Copa Futsal Verde Limão",
-      "link": "https://www.awin1.com/pclick.php?p=36695378219&a=1207116&m=17893",
-      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Aimages.tcdn.com.br%2Fimg%2Fimg_prod%2F311840%2Fchuteira_kelme_copa_futsal_verde_limao_125058_1_e68cdac2471d819273deaeda3b7786d8.jpg&feedId=46605&k=2334b0fa4d09fa48fa5496f853eb8e7f566334a6",
-      "preco": 159.9,
-      "precoDe": 549.9,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T12:00:42.042Z"
     }
   ]
 }
