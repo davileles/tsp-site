@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-17T19:44:28.710Z",
+  "atualizadoEm": "2026-08-17T20:13:27.072Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8621",
+      "loja": "Shopee",
+      "titulo": "TOYADENT PRO Escova de Dental Com Cerdas Premium Alemãs da Pedex +Capa Protetora",
+      "link": "https://s.shopee.com.br/8V8DYbugUO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mo3mmcjo6bk26f_tn",
+      "preco": 17.9,
+      "precoDe": 29.83,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T20:03:27.072Z"
+    },
     {
       "id": "8619",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 71,
       "cupom": null,
       "enviadoEm": "2026-08-16T12:00:42.042Z"
-    },
-    {
-      "id": "7800",
-      "loja": "Dafiti",
-      "titulo": "Bolsa Sacola em Jeans Griffazzi Azul",
-      "link": "https://www.awin1.com/pclick.php?p=45129953343&a=1207116&m=17697",
-      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Astatic.dafiti.com.br%2Fp%2F-14446251-1-zoom.jpg&feedId=53075&k=17794c4ee8d747d5e44ac2949b15b63de206d62e",
-      "preco": 199,
-      "precoDe": 989,
-      "desconto": 80,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T11:51:06.850Z"
     }
   ]
 }
