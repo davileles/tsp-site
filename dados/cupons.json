@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-17T04:28:29.220Z",
+  "atualizadoEm": "2026-08-17T10:17:19.129Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -471,18 +471,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULLRESGATE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Válido em entregas Full",
-      "validadeAte": "2026-08-18T03:01:36.439Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "HORADOCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -540,6 +528,18 @@
       "limite": 15,
       "observacao": null,
       "validadeAte": "2026-08-17T12:11:34.082Z",
+      "url": "https://ze.onelink.me/qZhP/p8z09c1x"
+    },
+    {
+      "codigo": "ZEBORA30",
+      "loja": "Outro: Zé Delivery",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 15,
+      "observacao": null,
+      "validadeAte": "2026-08-18T09:50:34.796Z",
       "url": "https://ze.onelink.me/qZhP/p8z09c1x"
     }
   ]
