@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-17T11:12:02.873Z",
+  "atualizadoEm": "2026-08-17T11:33:12.749Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8247",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
+      "link": "https://s.shopee.com.br/5VUbPrDBb8",
+      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
+      "preco": 52.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T11:29:51.023Z"
+    },
+    {
+      "id": "8246",
+      "loja": "Amazon",
+      "titulo": "Cereal Matinal Chocolate Kitkat Caixa 210g",
+      "link": "https://www.amazon.com.br/dp/B0CTD3QXV6?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41l3oWQdK7L._SL400_.jpg",
+      "preco": 9.9,
+      "precoDe": 15.99,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T11:29:27.221Z"
+    },
+    {
+      "id": "8217",
+      "loja": "Mercado Livre",
+      "titulo": "Maquina Cortar Cabelo Aparar Barba Kemei Km-032 Acabamento",
+      "link": "https://meli.la/2cfgw8j",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_696062-MLA106796835728_022026-O.webp",
+      "preco": 37,
+      "precoDe": 78.69,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-08-17T11:28:04.954Z"
+    },
     {
       "id": "8192",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": "CUPOMDASEMANA",
       "enviadoEm": "2026-08-14T22:43:04.796Z"
-    },
-    {
-      "id": "7499",
-      "loja": "Mercado Livre",
-      "titulo": "Blusa De Frio Lã Masculina Frio Zíper Quentinha Inverno Luxo",
-      "link": "https://meli.la/27EUoix",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_650812-MLB89673542116_082025-O-blusa-de-frio-l-masculina-frio-ziper-quentinha-inverno-luxo.webp",
-      "preco": 44.23,
-      "precoDe": 119.9,
-      "desconto": 54,
-      "cupom": "SEMPREMODA",
-      "enviadoEm": "2026-08-14T22:28:47.345Z"
-    },
-    {
-      "id": "7498",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Aramis Daily Knit Marinho Ergonomico Macio Azul",
-      "link": "https://meli.la/1camifH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_802519-MLB112446597449_052026-O.webp",
-      "preco": 259.19,
-      "precoDe": 379.99,
-      "desconto": 15,
-      "cupom": "SEMPREMODA",
-      "enviadoEm": "2026-08-14T22:27:12.543Z"
-    },
-    {
-      "id": "7496",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Blusas Manga Longa Segunda Pele Canelada Básica Casual",
-      "link": "https://meli.la/2GyJDUg",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_666244-MLB110118590406_042026-O.webp",
-      "preco": 43.19,
-      "precoDe": 131.65,
-      "desconto": 59,
-      "cupom": "SEMPREMODA",
-      "enviadoEm": "2026-08-14T22:24:29.205Z"
     }
   ]
 }
