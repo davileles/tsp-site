@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-17T16:45:19.128Z",
+  "atualizadoEm": "2026-08-17T17:01:51.176Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8527",
+      "loja": "Mercado Livre",
+      "titulo": "Hiper Mass 1kg Growth Supplements - Sabor Chocolate",
+      "link": "https://meli.la/28Y2LR1",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_713346-MLA107082143625_022026-O.webp",
+      "preco": 48.72,
+      "precoDe": 79.9,
+      "desconto": 24,
+      "cupom": "SAUDEPRAVC",
+      "enviadoEm": "2026-08-17T16:51:51.174Z"
+    },
+    {
+      "id": "8526",
+      "loja": "Shopee",
+      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
+      "link": "https://s.shopee.com.br/AUtHj3X0Jd",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
+      "preco": 49.32,
+      "precoDe": 66.24,
+      "desconto": 18,
+      "cupom": "PR0M0C4070P",
+      "enviadoEm": "2026-08-17T16:50:23.703Z"
+    },
+    {
+      "id": "8525",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Pneus Aro 14 175/70r14 84t Tl Fastway B2 Xbri",
+      "link": "https://meli.la/2mUxnWT",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_989633-MLA100679069958_122025-O.webp",
+      "preco": 438.78999999999996,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PRAVCSEMPRE",
+      "enviadoEm": "2026-08-17T16:49:35.707Z"
+    },
     {
       "id": "8521",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": "INTERNACIONALCN",
       "enviadoEm": "2026-08-15T21:37:08.631Z"
-    },
-    {
-      "id": "7776",
-      "loja": "Amazon",
-      "titulo": "Granado Sabonete, Enxofre, 90g",
-      "link": "https://www.amazon.com.br/dp/B001EQK3LK?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41cxOHoyLqL._SL400_.jpg",
-      "preco": 7.54,
-      "precoDe": 10,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-15T21:29:35.564Z"
-    },
-    {
-      "id": "7775",
-      "loja": "Amazon",
-      "titulo": "Bacardi, Rum 8 anos Reserva Ocho, 750 ml",
-      "link": "https://www.amazon.com.br/dp/B0051LRFB0?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41+psDcHE3L._SL400_.jpg",
-      "preco": 119.9,
-      "precoDe": 243.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-08-15T21:28:03.146Z"
-    },
-    {
-      "id": "7774",
-      "loja": "Mercado Livre",
-      "titulo": "Top Regata Fitness Academia Cotton Calvin Klein Original",
-      "link": "https://meli.la/1dSSbTn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_656866-MLB113299183542_072026-O.webp",
-      "preco": 43.99,
-      "precoDe": 109.99,
-      "desconto": 50,
-      "cupom": "SEMPREMODA",
-      "enviadoEm": "2026-08-15T21:26:17.790Z"
     }
   ]
 }
