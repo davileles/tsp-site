@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-17T13:04:53.790Z",
+  "atualizadoEm": "2026-08-17T13:21:53.659Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -637,6 +637,18 @@
       "observacao": null,
       "validadeAte": "2026-08-18T09:50:34.796Z",
       "url": "https://ze.onelink.me/qZhP/p8z09c1x"
+    },
+    {
+      "codigo": "V4NEXO26AF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 69,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-18T13:15:57.715Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
 }
