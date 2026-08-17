@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-17T13:51:52.387Z",
+  "atualizadoEm": "2026-08-17T14:09:23.264Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8412",
+      "loja": "Shopee",
+      "titulo": "iPhone 17 5G 256GB Tela 6,3\" 120Hz 48MP iOS Original Novo Lacrado com Nota FIscal",
+      "link": "https://s.shopee.com.br/5VUba5uOyB",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk46pndmbguab3_tn",
+      "preco": 5658.61,
+      "precoDe": 8596.38,
+      "desconto": 34,
+      "cupom": "V4NEXO26AF",
+      "enviadoEm": "2026-08-17T13:59:23.262Z"
+    },
     {
       "id": "8403",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 13,
       "cupom": "FDSDOSECADOR ou PROMOCERTAML ou TODOOSITE1308 ou TODOOSITE",
       "enviadoEm": "2026-08-15T12:39:57.584Z"
-    },
-    {
-      "id": "7596",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer AOC AGON QUAD 27\" QHD 180Hz 0,5ms IPS HDR10 Base Ajustável Q27G4F Preto",
-      "link": "https://meli.la/2y7SRgQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_739170-MLA98410816390_112025-O.webp",
-      "preco": 1036.15,
-      "precoDe": 1299,
-      "desconto": 6,
-      "cupom": "TVS1208CELULAR",
-      "enviadoEm": "2026-08-15T12:39:08.308Z"
     }
   ]
 }
