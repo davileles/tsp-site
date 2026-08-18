@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-18T15:22:38.394Z",
+  "atualizadoEm": "2026-08-18T15:51:35.830Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9211",
+      "loja": "Mercado Livre",
+      "titulo": "Varal De Chão Grande De Roupas 3 Andares Dobrável Cor Azul Kontuz 170 cm",
+      "link": "https://meli.la/2kSLUqH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_712866-MLA109482654866_042026-O.webp",
+      "preco": 63.099999999999994,
+      "precoDe": 119.9,
+      "desconto": 34,
+      "cupom": "APROVEITAGORA",
+      "enviadoEm": "2026-08-18T15:41:53.469Z"
+    },
+    {
+      "id": "9210",
+      "loja": "Amazon",
+      "titulo": "O Pequeno Príncipe – Edição de luxo com capa dura almofadada e aquarelas originais do autor",
+      "link": "https://www.amazon.com.br/dp/6559801365?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41994e7I+PL._SL400_.jpg",
+      "preco": 13.88,
+      "precoDe": 19.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-08-18T15:40:31.176Z"
+    },
+    {
+      "id": "9209",
+      "loja": "Shopee",
+      "titulo": "Console Nintendo Switch 2 - 256gb Lcd Gray Novo Lacrado Acompanha adaptador de tomada",
+      "link": "https://s.shopee.com.br/4fvWIPqYlI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mrqf53kdvqbp17_tn",
+      "preco": 3930,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "C4RR1NH0D30UR0",
+      "enviadoEm": "2026-08-18T15:40:20.827Z"
+    },
     {
       "id": "9144",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 51,
       "cupom": null,
       "enviadoEm": "2026-08-16T16:45:39.045Z"
-    },
-    {
-      "id": "8071",
-      "loja": "Shopee",
-      "titulo": "Kit Limpador Pastilha de máquina de lavar roupa, comprimido efervescente sólido para remover manchas【】",
-      "link": "https://s.shopee.com.br/9zwzVd8rqE",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwt-mcjqjjrew9uu86_tn",
-      "preco": 8.59,
-      "precoDe": 15.34,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T16:43:38.985Z"
-    },
-    {
-      "id": "8070",
-      "loja": "Mercado Livre",
-      "titulo": "Kit de 2 pneus Wanli Carro SP026 P 195/60R15 88 V",
-      "link": "https://meli.la/1qXgGnx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_821229-MLA99429380124_112025-O.webp",
-      "preco": 412.62,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OMELHOR",
-      "enviadoEm": "2026-08-16T16:35:52.431Z"
-    },
-    {
-      "id": "8069",
-      "loja": "Mercado Livre",
-      "titulo": "Smart Tv Philco 40'' Full Hd Roku Tv Ptv40 Hdr10 Dolby",
-      "link": "https://meli.la/31UWr9w",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_995595-MLA99489107224_112025-O.webp",
-      "preco": 1077,
-      "precoDe": 2055,
-      "desconto": 43,
-      "cupom": "TECHEPC1608",
-      "enviadoEm": "2026-08-16T16:34:03.438Z"
     }
   ]
 }
