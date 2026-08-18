@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-18T17:45:23.660Z",
+  "atualizadoEm": "2026-08-18T18:39:16.760Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9404",
+      "loja": "Amazon",
+      "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
+      "link": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41IuHcLgjgL._SL400_.jpg",
+      "preco": 43.41,
+      "precoDe": 55.53,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-08-18T18:29:16.758Z"
+    },
     {
       "id": "9392",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-16T19:59:11.783Z"
-    },
-    {
-      "id": "8094",
-      "loja": "Shopee",
-      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
-      "link": "https://s.shopee.com.br/19doN8EK7",
-      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
-      "preco": 74.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T19:37:59.825Z"
     }
   ]
 }
