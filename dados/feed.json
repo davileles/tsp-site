@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-18T21:55:46.926Z",
+  "atualizadoEm": "2026-08-18T23:09:08.089Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9520",
+      "loja": "Amazon",
+      "titulo": "GA.MA ITALY Prancha Wide Keration Pro – Bivolt",
+      "link": "https://www.amazon.com.br/dp/B07C7Q2FP4?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31tdOZu94WL._SL400_.jpg",
+      "preco": 203,
+      "precoDe": 219.9,
+      "desconto": 8,
+      "cupom": null,
+      "enviadoEm": "2026-08-18T22:59:08.079Z"
+    },
     {
       "id": "9448",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 68,
       "cupom": null,
       "enviadoEm": "2026-08-17T11:51:06.836Z"
-    },
-    {
-      "id": "8247",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
-      "link": "https://s.shopee.com.br/5VUbPrDBb8",
-      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
-      "preco": 52.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-17T11:29:51.023Z"
     }
   ]
 }
