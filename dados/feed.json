@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-18T16:26:46.737Z",
+  "atualizadoEm": "2026-08-18T16:43:10.347Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9361",
+      "loja": "Mercado Livre",
+      "titulo": "Eps-6905 Balança Epsilon Inteligente Bluetooth Com App, Lcd, Vidro Temperado, 180kg",
+      "link": "https://meli.la/21dQjmZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_941738-MLA106814881195_022026-O.webp",
+      "preco": 26.870000000000005,
+      "precoDe": 59.99,
+      "desconto": 44,
+      "cupom": "SAUDEPRAVC",
+      "enviadoEm": "2026-08-18T16:33:10.345Z"
+    },
+    {
+      "id": "9360",
+      "loja": "Mercado Livre",
+      "titulo": "Caixa Termica Media Primeplas 20 Litros Com Isolamento Na Tampa - Cooler Preto para Praia Camping Viagem",
+      "link": "https://meli.la/1hScEVq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_961709-MLA113674048787_062026-O.webp",
+      "preco": 45.6,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SUPERPROMO ou SHOWDEPROMO ou SEMPRENAMODA ou SAUDEPRAVC ou OFERTAS ou APROVEITAGORA ou COMMELI ou PROMOSCERTAS",
+      "enviadoEm": "2026-08-18T16:29:56.556Z"
+    },
+    {
+      "id": "9296",
+      "loja": "Mercado Livre",
+      "titulo": "Liquidificador Philco 1500W 3,1L 12 Velocidades com 6 Lâminas PLQ15A",
+      "link": "https://meli.la/2cYuZVG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_707636-MLA99987816335_112025-O.webp",
+      "preco": 179,
+      "precoDe": 239.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-18T16:27:43.051Z"
+    },
     {
       "id": "9291",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 70,
       "cupom": null,
       "enviadoEm": "2026-08-16T17:09:05.431Z"
-    },
-    {
-      "id": "8079",
-      "loja": "Wine",
-      "titulo": "Kit 6 - Esteban Martin Tinto por R$199 - Oferta Absurda",
-      "link": "https://www.awin1.com/pclick.php?p=44987803679&a=1207116&m=17770",
-      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3A8dbd7777bbc323r01af38816375ccac9.wine.com.br%2FGRV722-01.png&feedId=47333&k=561523e87ba923cffab44cc115cef06ab27122f5",
-      "preco": 199,
-      "precoDe": 599.4,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T17:08:42.610Z"
-    },
-    {
-      "id": "8078",
-      "loja": "Amazon",
-      "titulo": "Kit Sabonete, PHEBO, Amarelo, 720g",
-      "link": "https://www.amazon.com.br/dp/B00N6AKNQW?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41JbHUV2IRL._SL400_.jpg",
-      "preco": 32.19,
-      "precoDe": 49.21,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T16:59:24.247Z"
-    },
-    {
-      "id": "8077",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Fila Masculino Rise Up Esportivo Treino Original",
-      "link": "https://meli.la/1TPW93M",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_769892-MLB116109434531_082026-O.webp",
-      "preco": 175.99,
-      "precoDe": 299.99,
-      "desconto": 27,
-      "cupom": "SEMPREMODA",
-      "enviadoEm": "2026-08-16T16:56:35.608Z"
     }
   ]
 }
