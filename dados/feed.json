@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-18T12:41:37.657Z",
+  "atualizadoEm": "2026-08-18T12:55:39.731Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8866",
+      "loja": "Mercado Livre",
+      "titulo": "Ar Condicionado Split Agratto Liv Top Inverter 18.000 Btus Quente e Frio R-32",
+      "link": "https://meli.la/31Gfc9b",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_678379-MLA100006925887_122025-O.webp",
+      "preco": 2420.1,
+      "precoDe": 4399,
+      "desconto": 39,
+      "cupom": "MELICUPOM",
+      "enviadoEm": "2026-08-18T12:45:39.729Z"
+    },
     {
       "id": "8802",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-08-16T16:10:36.565Z"
-    },
-    {
-      "id": "8064",
-      "loja": "Shopee",
-      "titulo": "Kit Completo Maca Power karseell  Máscara 500 g + condicionador 1L + Shampoo 1L + Óleo P 50ml",
-      "link": "https://s.shopee.com.br/1qbHlAABAv",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mnb7dwwwmo748e_tn",
-      "preco": 49,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T16:05:39.048Z"
     }
   ]
 }
