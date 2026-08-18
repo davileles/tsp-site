@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-17T23:10:23.574Z",
+  "atualizadoEm": "2026-08-18T11:36:21.750Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "8777",
+      "loja": "Amazon",
+      "titulo": "Lâmpada Inteligente Smart Color 10W Elgin RGB Wifi Compatível com Alexa e Google Home",
+      "link": "https://www.amazon.com.br/dp/B088C4QZV2?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31NjMFsFSGL._SL400_.jpg",
+      "preco": 30.49,
+      "precoDe": 99,
+      "desconto": 69,
+      "cupom": null,
+      "enviadoEm": "2026-08-18T11:26:21.748Z"
+    },
+    {
+      "id": "8776",
+      "loja": "Amazon",
+      "titulo": "Océane-Blush Cremoso e em Pó Rosa Pink – Duo Blush Punch Paint Océane Edition 10,2g",
+      "link": "https://www.amazon.com.br/dp/B0F79YPCVN?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31YgJDq1lCL._SL400_.jpg",
+      "preco": 49.39,
+      "precoDe": 85.9,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-08-18T11:24:23.935Z"
+    },
+    {
+      "id": "8775",
+      "loja": "Amazon",
+      "titulo": "Dove Sérum Hidratante Corporal Niacinamida + Uniformizador 380ml",
+      "link": "https://www.amazon.com.br/dp/B0D8RHX3C6?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/21KrdXlV1dL._SL400_.jpg",
+      "preco": 29.89,
+      "precoDe": 47.24,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-08-18T11:22:17.176Z"
+    },
+    {
+      "id": "8774",
+      "loja": "Amazon",
+      "titulo": "MOCHILA MIZUNO KOBE NEW",
+      "link": "https://www.amazon.com.br/dp/B0D1KSTZG8?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41VG5y8AaZL._SL400_.jpg",
+      "preco": 149.99,
+      "precoDe": 259.99,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-08-18T11:19:07.266Z"
+    },
+    {
+      "id": "8773",
+      "loja": "Mercado Livre",
+      "titulo": "Gabinete Gamer Gamdias Talos E3 Mesh Branco Com 3 Fans Argb",
+      "link": "https://meli.la/2Hne4ZS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_657332-MLA89365885833_082025-O.webp",
+      "preco": 198.8,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "LIQUIDA30",
+      "enviadoEm": "2026-08-18T11:17:50.112Z"
+    },
     {
       "id": "8703",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": 55,
       "cupom": null,
       "enviadoEm": "2026-08-16T13:58:17.286Z"
-    },
-    {
-      "id": "8045",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
-      "link": "https://s.shopee.com.br/8V8BXDBiJy",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-k1jd7z81yzkv2f_tn",
-      "preco": 25,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T13:37:06.982Z"
-    },
-    {
-      "id": "8043",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
-      "link": "https://s.shopee.com.br/2LXYAQ5cLX",
-      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
-      "preco": 52.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T13:15:49.599Z"
-    },
-    {
-      "id": "8043",
-      "loja": "Shopee",
-      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1",
-      "link": "https://s.shopee.com.br/3g2vjOkR6D",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd48-lupf3z3a40mxf1_tn",
-      "preco": 18.99,
-      "precoDe": 90.43,
-      "desconto": 79,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T12:54:36.866Z"
-    },
-    {
-      "id": "7987",
-      "loja": "Mercado Livre",
-      "titulo": "Bolsa Puma Phase Small Sports Puma",
-      "link": "https://meli.la/283HTKg",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_698614-MLB113635082804_072026-O.webp",
-      "preco": 132.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SEMPREMODA",
-      "enviadoEm": "2026-08-16T12:46:21.219Z"
-    },
-    {
-      "id": "7986",
-      "loja": "Mercado Livre",
-      "titulo": "Geladeira Consul Frost Free 377 Litros Duplex Branca - CRM44MB",
-      "link": "https://meli.la/26wNP7Z",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_865325-MLA88056253823_072025-O.webp",
-      "preco": 2172.8,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "HOJEVALEAPENA",
-      "enviadoEm": "2026-08-16T12:42:20.041Z"
     }
   ]
 }
