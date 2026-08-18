@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T13:22:33.788Z",
+  "atualizadoEm": "2026-08-18T13:51:33.855Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -447,7 +447,7 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PRAVCSEMPRE",
+      "codigo": "CASAML",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
@@ -455,7 +455,7 @@
       "maximo": null,
       "limite": 150,
       "observacao": null,
-      "validadeAte": "2026-09-02T02:59:00.000Z",
+      "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -543,6 +543,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "SEMPRENAMODA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CORREAQUINOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -556,6 +568,18 @@
     },
     {
       "codigo": "CORRREPROML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SAUDEPRAVC",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
@@ -768,6 +792,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-19T13:01:41.181Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "V4NEXO26AF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 69,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-19T13:23:21.156Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
