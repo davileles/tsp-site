@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T01:40:24.983Z",
+  "atualizadoEm": "2026-08-18T03:10:25.188Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -217,18 +217,6 @@
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.605Z",
       "url": "https://amzn.to/4dFRSzy"
-    },
-    {
-      "codigo": "CABELOS30",
-      "loja": "BELEZA NA WEB",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 249,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-18T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
     },
     {
       "codigo": "AMOO20DAVINES",
