@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T12:41:38.906Z",
+  "atualizadoEm": "2026-08-18T12:55:41.021Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -471,6 +471,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PRAVCSEMPRE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-09-02T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CUPOMDOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -555,6 +567,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CORREAQUINOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CORRREPROML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -600,6 +624,18 @@
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados",
       "validadeAte": "2026-08-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOSCERTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-08-19T12:45:00.856Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -709,6 +745,42 @@
       "observacao": null,
       "validadeAte": "2026-08-19T12:00:23.181Z",
       "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "NOVA2",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 860,
+      "minimo": 5200,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons para AliExpress com valores fixos em reais",
+      "validadeAte": "2026-08-19T12:53:42.518Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "NOVA1",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 240,
+      "minimo": 1600,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons para AliExpress com valores fixos em reais",
+      "validadeAte": "2026-08-19T12:52:41.743Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "V4NEXO26AF",
+      "loja": "Outro: não informado",
+      "tipo": "pct",
+      "valor": 0,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Código de cupom fornecido, mas sem informações sobre tipo de desconto (% ou R$), valor, mínimo ou máximo de compra",
+      "validadeAte": "2026-08-19T12:43:45.554Z",
+      "url": null
     },
     {
       "codigo": "V4NEXO26AF",
