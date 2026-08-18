@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T09:40:24.878Z",
+  "atualizadoEm": "2026-08-18T10:10:24.884Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -387,6 +387,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LIQUIDA30",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 1000,
+      "observacao": "Cupom válido em selecionados do estoque do Meli",
+      "validadeAte": "2026-08-19T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ESTOQUEDOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 1,
+      "observacao": null,
+      "validadeAte": "2026-08-19T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "DESCOTOSMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -507,19 +531,19 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CORREAQUINOML",
+      "codigo": "SEMPRENAMODA",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
       "minimo": 19,
       "maximo": null,
-      "limite": 150,
+      "limite": 60,
       "observacao": null,
       "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SAUDEPRAVC",
+      "codigo": "CORREAQUINOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
@@ -648,18 +672,6 @@
       "limite": 15,
       "observacao": null,
       "validadeAte": "2026-08-18T11:27:23.383Z",
-      "url": "https://ze.onelink.me/qZhP/p8z09c1x"
-    },
-    {
-      "codigo": "ZEBORA30",
-      "loja": "Outro: Zé Delivery",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 15,
-      "observacao": null,
-      "validadeAte": "2026-08-18T09:50:34.796Z",
       "url": "https://ze.onelink.me/qZhP/p8z09c1x"
     },
     {
