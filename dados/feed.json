@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-18T17:09:57.129Z",
+  "atualizadoEm": "2026-08-18T17:45:23.660Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9392",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 48 Carrinhos Fricção + Pista Brinquedo Infantil Maleta",
+      "link": "https://meli.la/1RAdpjA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_757715-MLB107385414377_022026-O.webp",
+      "preco": 58.449999999999996,
+      "precoDe": 119.99,
+      "desconto": 43,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-18T17:35:23.658Z"
+    },
     {
       "id": "9373",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-16T19:37:59.825Z"
-    },
-    {
-      "id": "8092",
-      "loja": "Shopee",
-      "titulo": "mini processador de alimentos elétrico picador de alho triturador de pimenta 350ml",
-      "link": "https://s.shopee.com.br/2BE8MtWLEQ",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262a-mjeyzg7g2e4na3_tn",
-      "preco": 25.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T19:16:43.124Z"
     }
   ]
 }
