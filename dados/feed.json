@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-18T16:06:15.244Z",
+  "atualizadoEm": "2026-08-18T16:20:35.831Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9286",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Com 5 Tigelas Bowls Em Aço Inox De Excelente Qualidade",
+      "link": "https://meli.la/2iumSvJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_895228-MLA111915666074_062026-O.webp",
+      "preco": 38.92,
+      "precoDe": 58.1,
+      "desconto": 11,
+      "cupom": "DESCOTOSMELI ou MAISCUPONS ou QUEROCUPONS ou AVANT25 ou AVANT ou PRAVCSEMPRE ou CUPOMDOML ou MELHORNOML ou AQUITEMCUPOM",
+      "enviadoEm": "2026-08-18T16:17:42.702Z"
+    },
+    {
+      "id": "9285",
+      "loja": "Mercado Livre",
+      "titulo": "Braé Stages Kit Nutrition 2 Produtos (shampoo E Máscara)",
+      "link": "https://meli.la/2RRmBQS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_612770-MLA99880648221_112025-O.webp",
+      "preco": 73.99,
+      "precoDe": 143.45,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-08-18T16:14:06.345Z"
+    },
+    {
+      "id": "9283",
+      "loja": "Mercado Livre",
+      "titulo": "Brinquedo Pedagógico Madeira Montessoriano Educativo Formas Números Cores Tabuleiro Colorido TEA Autismo Atacarejo Kids",
+      "link": "https://meli.la/1JGvkYF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_716099-MLA110586139428_052026-O.webp",
+      "preco": 38.67,
+      "precoDe": 127.28,
+      "desconto": 64,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-18T16:11:57.046Z"
+    },
+    {
+      "id": "9282",
+      "loja": "Mercado Livre",
+      "titulo": "Tenis Kappa Treviso Original Unissex Confortável Academia",
+      "link": "https://meli.la/2gZZEgF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_717521-MLB114388674148_082026-O-tenis-kappa-treviso-original-unissex-confortavel-academia.webp",
+      "preco": 79.53,
+      "precoDe": 177.64,
+      "desconto": 45,
+      "cupom": "COMPENSAML",
+      "enviadoEm": "2026-08-18T16:10:47.346Z"
+    },
     {
       "id": "9281",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": 27,
       "cupom": "SEMPREMODA",
       "enviadoEm": "2026-08-16T16:56:35.608Z"
-    },
-    {
-      "id": "8076",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor gamer Aoc Série B30 21.5'' Full Hd Gaming 120hz 1ms 22b30hm23 cor preto",
-      "link": "https://meli.la/2UxRZa8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621055-MLA91966913733_092025-O.webp",
-      "preco": 355.21000000000004,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CASAINTELIGENTE ou FDSDOSECADOR ou HOJEVALEAPENA",
-      "enviadoEm": "2026-08-16T16:55:05.590Z"
-    },
-    {
-      "id": "8075",
-      "loja": "Mercado Livre",
-      "titulo": "Water Cooler Kalkan Aura Com Tela Lcd 360mm Argb Intel Amd",
-      "link": "https://meli.la/2GaYnHh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_942332-MLB114772078931_072026-O.webp",
-      "preco": 346.5,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CASAINTELIGENTE ou FDSDOSECADOR ou HOJEVALEAPENA",
-      "enviadoEm": "2026-08-16T16:52:14.312Z"
-    },
-    {
-      "id": "8074",
-      "loja": "Mercado Livre",
-      "titulo": "Mochila Tática Camping Militar 50 Litros Resistente A Água",
-      "link": "https://meli.la/2qNEPwF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_787659-MLB86276879975_062025-O.webp",
-      "preco": 72.95,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SEMPREMODA",
-      "enviadoEm": "2026-08-16T16:48:50.638Z"
-    },
-    {
-      "id": "8073",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
-      "link": "https://s.shopee.com.br/LmU1KDJCy",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
-      "preco": 49.52,
-      "precoDe": 66.03,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T16:48:08.939Z"
     }
   ]
 }
