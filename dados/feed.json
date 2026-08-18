@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-18T21:25:46.925Z",
+  "atualizadoEm": "2026-08-18T21:55:46.926Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9448",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Premium Care Pants Tamanho XXG, Fácil de Vestir, 90 Unidades",
+      "link": "https://www.amazon.com.br/dp/B08K4L452V?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/5129OXHjIvL._SL400_.jpg",
+      "preco": 160.48,
+      "precoDe": 182.45,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-08-18T21:47:41.174Z"
+    },
+    {
+      "id": "9447",
+      "loja": "Amazon",
+      "titulo": "Sabonete Líquido Refil Glicerina Da Cabeça Aos Pés Johnson's Baby, 380ml",
+      "link": "https://www.amazon.com.br/dp/B085CZ2F4J?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41nbW3WDHdL._SL400_.jpg",
+      "preco": 18.14,
+      "precoDe": 36.99,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-08-18T21:47:15.513Z"
+    },
+    {
+      "id": "9446",
+      "loja": "Amazon",
+      "titulo": "Jipe Infantil Elétrico 12v Carrinho Controle Remoto Música (Preto)",
+      "link": "https://www.amazon.com.br/dp/B0F8P8KKH1?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51l0YK-k9KL._SL400_.jpg",
+      "preco": 919.9,
+      "precoDe": 1499.9,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-08-18T21:45:44.479Z"
+    },
+    {
+      "id": "9443",
+      "loja": "Amazon",
+      "titulo": "Leite em Pó Ninho Integral Instantâneo Sachê 575g",
+      "link": "https://www.amazon.com.br/dp/B0F7LC7WYH?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/413CjOlTH2L._SL400_.jpg",
+      "preco": 26.24,
+      "precoDe": 34.69,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-08-18T21:38:34.301Z"
+    },
     {
       "id": "9437",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-17T11:29:51.023Z"
-    },
-    {
-      "id": "8246",
-      "loja": "Amazon",
-      "titulo": "Cereal Matinal Chocolate Kitkat Caixa 210g",
-      "link": "https://www.amazon.com.br/dp/B0CTD3QXV6?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41l3oWQdK7L._SL400_.jpg",
-      "preco": 9.9,
-      "precoDe": 15.99,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-08-17T11:29:27.221Z"
-    },
-    {
-      "id": "8217",
-      "loja": "Mercado Livre",
-      "titulo": "Maquina Cortar Cabelo Aparar Barba Kemei Km-032 Acabamento",
-      "link": "https://meli.la/2cfgw8j",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_696062-MLA106796835728_022026-O.webp",
-      "preco": 37,
-      "precoDe": 78.69,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-08-17T11:28:04.954Z"
-    },
-    {
-      "id": "8111",
-      "loja": "Amazon",
-      "titulo": "Parafusadeira Recarregável, Mondial, Vermelho/Preto, 4,8V, Bivolt - FPF-05",
-      "link": "https://www.amazon.com.br/dp/B076MFFR5Y?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/312JSyOa4SL._SL400_.jpg",
-      "preco": 65.9,
-      "precoDe": 129.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T22:59:42.955Z"
-    },
-    {
-      "id": "8108",
-      "loja": "Amazon",
-      "titulo": "Amaciante Concentrado Comfort 48 Segredos 1L",
-      "link": "https://www.amazon.com.br/dp/B0CKFTVTKB?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/414-p3xd27L._SL400_.jpg",
-      "preco": 19.69,
-      "precoDe": 24.99,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T22:26:20.188Z"
     }
   ]
 }
