@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T16:20:37.128Z",
+  "atualizadoEm": "2026-08-18T16:43:11.954Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -435,6 +435,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "CAZE10",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": 2000,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-19T16:27:49.518Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "INTERNACIONALCN",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -528,6 +540,18 @@
       "limite": 147,
       "observacao": null,
       "validadeAte": "2026-08-19T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CASAML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
