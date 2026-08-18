@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-18T12:55:39.731Z",
+  "atualizadoEm": "2026-08-18T15:12:39.563Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9134",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto de Taças de Vidro 340ml Diamond Line - 6 Peças Transparente",
+      "link": "https://meli.la/2J1jVcH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761729-MLA100084409089_122025-O.webp",
+      "preco": 25.71,
+      "precoDe": 49.9,
+      "desconto": 31,
+      "cupom": "DESCOTOSMELI ou MAISCUPONS ou QUEROCUPONS ou AVANT25 ou AVANT ou CUPOMDOML ou MELHORNOML ou AQUITEMCUPOM",
+      "enviadoEm": "2026-08-18T15:02:39.562Z"
+    },
     {
       "id": "8866",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 55,
       "cupom": "CASAINTELIGENTE ou FDSDOSECADOR ou HOJEVALEAPENA",
       "enviadoEm": "2026-08-16T16:25:26.387Z"
-    },
-    {
-      "id": "8065",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Árabe Qaed Al Fursan Lattafa Edp 90 Ml",
-      "link": "https://meli.la/12RRNCC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_741585-MLA108095507002_032026-O.webp",
-      "preco": 166.99,
-      "precoDe": 249.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T16:10:36.565Z"
     }
   ]
 }
