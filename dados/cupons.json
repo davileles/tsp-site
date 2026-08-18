@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T15:51:37.502Z",
+  "atualizadoEm": "2026-08-18T16:06:16.774Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -291,6 +291,42 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "MULTI100",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "OFFICE30OFF",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "ESSENTIALS28",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 28,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "DPI15",
       "loja": "Kabum",
       "tipo": "pct",
@@ -315,6 +351,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "ARREMATA12",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-20T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "GAMER10",
       "loja": "Kabum",
       "tipo": "pct",
@@ -324,6 +372,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-01T12:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "HUNTER",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-20T13:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -483,6 +543,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PRAVCSEMPRE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CUPOMDOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -579,19 +651,7 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CONSTRUIRMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CORREAQUINOML",
+      "codigo": "SAUDEPRAVC",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
@@ -817,6 +877,18 @@
       "observacao": null,
       "validadeAte": "2026-08-19T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=64086&id=1207116"
+    },
+    {
+      "codigo": "GANHEI",
+      "loja": "Posthaus",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-19T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17634&id=1207116"
     },
     {
       "codigo": "C4RR1NH0D30UR0",
