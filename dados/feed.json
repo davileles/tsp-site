@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-18T16:55:46.739Z",
+  "atualizadoEm": "2026-08-18T17:09:57.129Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9373",
+      "loja": "Mercado Livre",
+      "titulo": "Lixeira Antiodor Com Sensor Inteligente Abre Fácil Cesto 17l",
+      "link": "https://meli.la/2hasXsa",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_861586-MLB96417840536_102025-O.webp",
+      "preco": 43.129999999999995,
+      "precoDe": 59.9,
+      "desconto": 10,
+      "cupom": "APROVEITAGORA",
+      "enviadoEm": "2026-08-18T16:59:57.127Z"
+    },
+    {
+      "id": "9372",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Kappa Traker Masculino",
+      "link": "https://meli.la/1AnKpBa",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_910182-MLB109553572102_042026-O-tnis-kappa-traker-masculino.webp",
+      "preco": 100.8,
+      "precoDe": 269.99,
+      "desconto": 53,
+      "cupom": "SEMPRENAMODA",
+      "enviadoEm": "2026-08-18T16:58:57.443Z"
+    },
     {
       "id": "9370",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-16T19:16:43.124Z"
-    },
-    {
-      "id": "8091",
-      "loja": "Shopee",
-      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
-      "link": "https://s.shopee.com.br/9KhFpFS4A0",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
-      "preco": 199.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T18:55:27.104Z"
-    },
-    {
-      "id": "8090",
-      "loja": "Shopee",
-      "titulo": "Mini Blocos de Montar Cachorro Fofo Kawaii Presente Pinscher Poodle Shiba Ibu Schnauzer Infantil",
-      "link": "https://s.shopee.com.br/3qMMJ2SvED",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mrr89ftyrwnad8_tn",
-      "preco": 17.99,
-      "precoDe": 29.98,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T18:34:16.205Z"
     }
   ]
 }
