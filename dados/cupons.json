@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T12:55:41.021Z",
+  "atualizadoEm": "2026-08-18T13:10:38.018Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -288,30 +288,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-19T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "SEGUNDINHA",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-18T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "PEGA60",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 60,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-18T13:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -781,6 +757,18 @@
       "observacao": "Código de cupom fornecido, mas sem informações sobre tipo de desconto (% ou R$), valor, mínimo ou máximo de compra",
       "validadeAte": "2026-08-19T12:43:45.554Z",
       "url": null
+    },
+    {
+      "codigo": "C4RR1NH0D30UR0",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-19T13:01:41.181Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "V4NEXO26AF",
