@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-18T15:12:39.563Z",
+  "atualizadoEm": "2026-08-18T15:22:38.394Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9144",
+      "loja": "Mercado Livre",
+      "titulo": "Principia Kit Trio Limpeza Facial Personalizada",
+      "link": "https://meli.la/25LJCA8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_815750-MLA114039673349_072026-O.webp",
+      "preco": 91.62,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-18T15:21:53.031Z"
+    },
     {
       "id": "9134",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 43,
       "cupom": "TECHEPC1608",
       "enviadoEm": "2026-08-16T16:34:03.438Z"
-    },
-    {
-      "id": "8066",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Philco 24” 180Hz Full HD 1MS PMG24M23T",
-      "link": "https://meli.la/1ZCWaS3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_759118-MLA99588805332_122025-O.webp",
-      "preco": 602.91,
-      "precoDe": 1500,
-      "desconto": 55,
-      "cupom": "CASAINTELIGENTE ou FDSDOSECADOR ou HOJEVALEAPENA",
-      "enviadoEm": "2026-08-16T16:25:26.387Z"
     }
   ]
 }
