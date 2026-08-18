@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-18T16:20:35.831Z",
+  "atualizadoEm": "2026-08-18T16:26:46.737Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9291",
+      "loja": "Mercado Livre",
+      "titulo": "Brinquedo Pedagógico Madeira Montessoriano Educativo Formas Números Cores Tabuleiro Colorido TEA Autismo Atacarejo Kids",
+      "link": "https://meli.la/1JGvkYF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_716099-MLA110586139428_052026-O.webp",
+      "preco": 38.67,
+      "precoDe": 127.28,
+      "desconto": 64,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-18T16:25:11.070Z"
+    },
+    {
+      "id": "9290",
+      "loja": "Amazon",
+      "titulo": "Creme Preventivo Assaduras Huggies Pele Protegida c/3 de 80g",
+      "link": "https://www.amazon.com.br/dp/B08FVVH9BC?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41i70H0CvsL._SL400_.jpg",
+      "preco": 59.99,
+      "precoDe": 85.5,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-08-18T16:25:05.721Z"
+    },
     {
       "id": "9286",
       "loja": "Mercado Livre",
@@ -25,18 +49,6 @@
       "desconto": 48,
       "cupom": null,
       "enviadoEm": "2026-08-18T16:14:06.345Z"
-    },
-    {
-      "id": "9283",
-      "loja": "Mercado Livre",
-      "titulo": "Brinquedo Pedagógico Madeira Montessoriano Educativo Formas Números Cores Tabuleiro Colorido TEA Autismo Atacarejo Kids",
-      "link": "https://meli.la/1JGvkYF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_716099-MLA110586139428_052026-O.webp",
-      "preco": 38.67,
-      "precoDe": 127.28,
-      "desconto": 64,
-      "cupom": "BRINCADEIRAS",
-      "enviadoEm": "2026-08-18T16:11:57.046Z"
     },
     {
       "id": "9282",
@@ -229,18 +241,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-08-18T12:09:59.416Z"
-    },
-    {
-      "id": "8789",
-      "loja": "Amazon",
-      "titulo": "Creme Preventivo Assaduras Huggies Pele Protegida c/3 de 80g",
-      "link": "https://www.amazon.com.br/dp/B08FVVH9BC?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41i70H0CvsL._SL400_.jpg",
-      "preco": 59.99,
-      "precoDe": 85.5,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T12:07:51.348Z"
     },
     {
       "id": "8788",
