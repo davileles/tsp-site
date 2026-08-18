@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-18T15:51:35.830Z",
+  "atualizadoEm": "2026-08-18T16:06:15.244Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9281",
+      "loja": "Mercado Livre",
+      "titulo": "Smart Tv Samsung 32'' Hd Tizen Hdr Wi-fi Hdmi Monitor Bivolt Preta Preto",
+      "link": "https://meli.la/16G3dzt",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_924175-MLA99993108321_112025-O.webp",
+      "preco": 877.76,
+      "precoDe": 1679.9,
+      "desconto": 42,
+      "cupom": "MELICUPOM",
+      "enviadoEm": "2026-08-18T15:56:15.242Z"
+    },
     {
       "id": "9211",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-08-16T16:48:08.939Z"
-    },
-    {
-      "id": "8072",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Panos de Limpeza em Microfibra Alta Absorção Multiuso",
-      "link": "https://s.shopee.com.br/70JNxPRQyQ",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82607-ml9qs5gknq4h31_tn",
-      "preco": 17.64,
-      "precoDe": 36,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-08-16T16:45:39.045Z"
     }
   ]
 }
