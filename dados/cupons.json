@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T15:31:42.421Z",
+  "atualizadoEm": "2026-08-18T15:51:37.502Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -579,7 +579,7 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CORREAQUINOML",
+      "codigo": "CONSTRUIRMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
@@ -591,7 +591,7 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SAUDEPRAVC",
+      "codigo": "CORREAQUINOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
@@ -864,6 +864,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-18T18:28:32.186Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "PR0M0C4070P",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 5,
+      "minimo": 25,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-19T15:31:45.577Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
