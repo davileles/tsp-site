@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-19T12:22:37.712Z",
+  "atualizadoEm": "2026-08-19T12:52:37.814Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -447,18 +447,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "TODOSITE100",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-20T12:02:02.235Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "INTERNACIONALCN",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -723,6 +711,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-08-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "INTERNACIONALSALE",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -901,18 +901,6 @@
       "observacao": "Cupons para AliExpress com valores fixos em reais",
       "validadeAte": "2026-08-19T12:52:41.743Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "V4NEXO26AF",
-      "loja": "Outro: não informado",
-      "tipo": "pct",
-      "valor": 0,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Código de cupom fornecido, mas sem informações sobre tipo de desconto (% ou R$), valor, mínimo ou máximo de compra",
-      "validadeAte": "2026-08-19T12:43:45.554Z",
-      "url": null
     },
     {
       "codigo": "GANHE70",
