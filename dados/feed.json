@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-08-19T16:11:05.865Z",
+  "atualizadoEm": "2026-08-19T16:21:03.399Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9958",
+      "loja": "Shopee",
+      "titulo": "Caixa de Som Bluetooth Aiwa Boombox BS-01B 200W IP66",
+      "link": "https://s.shopee.com.br/9ANxHrDhmH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-malte8f3q0opdf_tn",
+      "preco": 1329,
+      "precoDe": 2013.43,
+      "desconto": 33,
+      "cupom": "C4RR1NH0D30UR0",
+      "enviadoEm": "2026-08-19T16:19:49.634Z"
+    },
+    {
+      "id": "9957",
+      "loja": "Shopee",
+      "titulo": "Notebook Vision R15M AMD Ryzen 5-5625U Linux 16GB RAM 512GB SSD Wi-Fi 6 15”  IPS",
+      "link": "https://s.shopee.com.br/3g30k6dELk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-midgk4b2sqo227_tn",
+      "preco": 3348.48,
+      "precoDe": 4010.1,
+      "desconto": 16,
+      "cupom": "C4RR1NH0D30UR0",
+      "enviadoEm": "2026-08-19T16:18:47.694Z"
+    },
+    {
+      "id": "9956",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
+      "link": "https://meli.la/1CvjMbu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_894230-MLA111390627295_052026-O.webp",
+      "preco": 68.9,
+      "precoDe": 239.9,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T16:17:59.797Z"
+    },
+    {
+      "id": "9952",
+      "loja": "Shopee",
+      "titulo": "Monitor LED 20\" Enterprise Widescreen 75Hz HDMI VGA - Tela Nítida e Fluida Preto",
+      "link": "https://s.shopee.com.br/1VyW9vYacY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mpkrt214u6f6b4_tn",
+      "preco": 210.19,
+      "precoDe": 371.27,
+      "desconto": 38,
+      "cupom": "C4RR1NH0D30UR0",
+      "enviadoEm": "2026-08-19T16:15:53.609Z"
+    },
+    {
+      "id": "9951",
+      "loja": "Shopee",
+      "titulo": "Fechadura Eletrônica Smart Door com Impressão Digital Senha Cartão NFC e Chave Mecânica",
+      "link": "https://s.shopee.com.br/5VUevCLFDl",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824ip-mpjobl1rr4sg3f_tn",
+      "preco": 179.99,
+      "precoDe": 399.98,
+      "desconto": 50,
+      "cupom": "C4RR1NH0D30UR0",
+      "enviadoEm": "2026-08-19T16:14:39.086Z"
+    },
+    {
+      "id": "9949",
+      "loja": "Amazon",
+      "titulo": "Chupeta Ultra Soft Unitária Branca Philips Avent 0-6M",
+      "link": "https://www.amazon.com.br/dp/B09JZTG4BJ?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41hjMGYA1sL._SL400_.jpg",
+      "preco": 45.9,
+      "precoDe": 52.9,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T16:12:25.572Z"
+    },
+    {
+      "id": "9946",
+      "loja": "Shopee",
+      "titulo": "Controle PS5 Dualsense Midnight Black Preto Sem Fio Sony Original Lacrado",
+      "link": "https://s.shopee.com.br/1gHwLn0rfS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6mtam4rfs7a7_tn",
+      "preco": 375.91,
+      "precoDe": 501.15,
+      "desconto": 21,
+      "cupom": "C4RR1NH0D30UR0",
+      "enviadoEm": "2026-08-19T16:11:44.620Z"
+    },
     {
       "id": "9945",
       "loja": "Mercado Livre",
@@ -25,18 +109,6 @@
       "desconto": null,
       "cupom": "LOVIV1TA",
       "enviadoEm": "2026-08-19T16:09:53.425Z"
-    },
-    {
-      "id": "9943",
-      "loja": "Shopee",
-      "titulo": "Controle PS5 Dualsense Midnight Black Preto Sem Fio Sony Original Lacrado",
-      "link": "https://s.shopee.com.br/1gHwLn0rfS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6mtam4rfs7a7_tn",
-      "preco": 375.91,
-      "precoDe": 501.15,
-      "desconto": 21,
-      "cupom": "C4RR1NH0D30UR0",
-      "enviadoEm": "2026-08-19T16:09:17.443Z"
     },
     {
       "id": "9942",
@@ -1369,78 +1441,6 @@
       "desconto": 15,
       "cupom": "MODAPAI20",
       "enviadoEm": "2026-08-18T12:18:25.829Z"
-    },
-    {
-      "id": "8796",
-      "loja": "Amazon",
-      "titulo": "Vonder, Fita Dupla Face Acrílica, 9 Mm X 2 M.",
-      "link": "https://www.amazon.com.br/dp/B07JD6DMYS?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/511Kp-FDfjL._SL400_.jpg",
-      "preco": 4.51,
-      "precoDe": 6.26,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T12:15:09.842Z"
-    },
-    {
-      "id": "8795",
-      "loja": "Mercado Livre",
-      "titulo": "Placa de vídeo msi geforce rtx 5060 shadow 2x oc 8gb gddr7 128-bit",
-      "link": "https://meli.la/1rUn3dK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_901198-MLA99972929477_112025-O.webp",
-      "preco": 2051.1400000000003,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELICUPOM",
-      "enviadoEm": "2026-08-18T12:14:26.717Z"
-    },
-    {
-      "id": "8791",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira 48v Profissional 2 Baterias Sem Fio",
-      "link": "https://meli.la/1uRXtqg",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_747397-MLB99751043566_122025-O.webp",
-      "preco": 55.5,
-      "precoDe": 149.99,
-      "desconto": 26,
-      "cupom": "INTERNACIONALCN",
-      "enviadoEm": "2026-08-18T12:10:59.692Z"
-    },
-    {
-      "id": "8790",
-      "loja": "Amazon",
-      "titulo": "Marco Boni Escova Profissional Thermal Metallic Vazada 25Mm 7750 Cores Sortidas",
-      "link": "https://www.amazon.com.br/dp/B07CGS1C6N?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31UNqiyKFlL._SL400_.jpg",
-      "preco": 19.9,
-      "precoDe": 34.79,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T12:09:59.416Z"
-    },
-    {
-      "id": "8788",
-      "loja": "Amazon",
-      "titulo": "Fralda Pom Pom Protek Proteção de Mãe Mega XG 38 Unidades",
-      "link": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51bACFNKwsL._SL400_.jpg",
-      "preco": 36.12,
-      "precoDe": 50.29,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T12:05:05.559Z"
-    },
-    {
-      "id": "8785",
-      "loja": "Amazon",
-      "titulo": "Duracell Pilha Alcalina AAA Palito Com 16 Unidades – Dura Mais – Ideal para Controles Remotos, Brinquedos e Lanternas",
-      "link": "https://www.amazon.com.br/dp/B078GSWP44?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51mjNX0bHVL._SL400_.jpg",
-      "preco": 70.48,
-      "precoDe": 82.9,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T12:02:55.714Z"
     }
   ]
 }
