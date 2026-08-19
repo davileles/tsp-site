@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-08-19T22:01:38.149Z",
+  "atualizadoEm": "2026-08-19T22:11:08.984Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10441",
+      "loja": "Amazon",
+      "titulo": "JBL, Caixa de Som, Go Essential 2, Bluetooth, Portátil, À Prova D'água e Poeira, Bateria de até 5h, Auracast, Som JBL Original Pro Sound, 3.1 W RMS - Preto",
+      "link": "https://www.amazon.com.br/dp/B0FPNXM7TF?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41iyGCvpRtL._SL400_.jpg",
+      "preco": 173.65,
+      "precoDe": 219,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T22:10:57.194Z"
+    },
+    {
+      "id": "10440",
+      "loja": "Mercado Livre",
+      "titulo": "Bateria Moura Titan Fan Biz Bros Fazer 125 150 160 Flex Xre ",
+      "link": "https://meli.la/2kH2Dhx",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_981911-MLB102983678007_122025-O.webp",
+      "preco": 111.28,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELIPROMO",
+      "enviadoEm": "2026-08-19T22:09:37.221Z"
+    },
+    {
+      "id": "10439",
+      "loja": "Mercado Livre",
+      "titulo": "Sapatênis Masculino Democrata Couro Denim Mike Original",
+      "link": "https://meli.la/32yPj4d",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_902554-MLB83446772249_032025-O.webp",
+      "preco": 186.89,
+      "precoDe": 299.99,
+      "desconto": 24,
+      "cupom": "COMPENSAML",
+      "enviadoEm": "2026-08-19T22:07:00.047Z"
+    },
+    {
+      "id": "10438",
+      "loja": "Mercado Livre",
+      "titulo": "Geladeira Brastemp Frost Free 415 Litros Duplex Branca - BRM52MB",
+      "link": "https://meli.la/2TZHjxp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_960830-MLA106047689844_022026-O.webp",
+      "preco": 2562.44,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PROMOTEC",
+      "enviadoEm": "2026-08-19T22:05:23.001Z"
+    },
+    {
+      "id": "10437",
+      "loja": "Mercado Livre",
+      "titulo": "Geladeira Refrigerador Hq Defrost 230l Inox Hq-230rdf",
+      "link": "https://meli.la/1EXf6bu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_651069-MLA82447685009_022025-O.webp",
+      "preco": 1421.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PROMOTEC",
+      "enviadoEm": "2026-08-19T22:03:31.102Z"
+    },
+    {
+      "id": "10436",
+      "loja": "Amazon",
+      "titulo": "Repelente para Bebê SBP Baby Loção Corporal com Icaridina 100ml",
+      "link": "https://www.amazon.com.br/dp/B08T6JZC6D?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41Ulvhs2ytL._SL400_.jpg",
+      "preco": 23.79,
+      "precoDe": 40.49,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T22:01:58.620Z"
+    },
     {
       "id": "10435",
       "loja": "Shopee",
@@ -1369,78 +1441,6 @@
       "desconto": 55,
       "cupom": "TODOSITE10",
       "enviadoEm": "2026-08-19T12:35:21.667Z"
-    },
-    {
-      "id": "9719",
-      "loja": "Shopee",
-      "titulo": "CADIVEU Professional NUTRI GLOW CERA Nutritiva  -  980ml",
-      "link": "https://s.shopee.com.br/AUtKdFToVE",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkdu8znzcr9fa7_tn",
-      "preco": 52.900000000000006,
-      "precoDe": 291.6,
-      "desconto": 75,
-      "cupom": "C4RR1NH0D30UR0",
-      "enviadoEm": "2026-08-19T12:34:19.446Z"
-    },
-    {
-      "id": "9720",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Confort Sec P 50 unidades",
-      "link": "https://meli.la/2vWorwu",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_871401-MLA99584710690_122025-O.webp",
-      "preco": 50.99,
-      "precoDe": 78.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T12:33:49.364Z"
-    },
-    {
-      "id": "9716",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Nike Sportswear Jdi Unissex",
-      "link": "https://meli.la/2t5x6Pk",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_688221-MLB109139442656_042026-O.webp",
-      "preco": 81.99,
-      "precoDe": 149.99,
-      "desconto": 33,
-      "cupom": "COMPENSAML",
-      "enviadoEm": "2026-08-19T12:33:38.209Z"
-    },
-    {
-      "id": "9715",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor AOC 22\" 120Hz 1ms Gaming HDMI 22B35HM23 Preto",
-      "link": "https://meli.la/1ZgRpA7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_744601-MLA99934274785_112025-O.webp",
-      "preco": 353.51,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FULLCUPONS ou PROMOTEC",
-      "enviadoEm": "2026-08-19T12:31:49.336Z"
-    },
-    {
-      "id": "9714",
-      "loja": "Shopee",
-      "titulo": "Cadiveu Repair Solution SHOT Reparadora 500ml",
-      "link": "https://s.shopee.com.br/9fKDdS47Ab",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zug-ml3rjbr1vthd16_tn",
-      "preco": 35.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "LOVIV1TA",
-      "enviadoEm": "2026-08-19T12:30:19.515Z"
-    },
-    {
-      "id": "9713",
-      "loja": "Mercado Livre",
-      "titulo": "Ar Condicionado Portátil Com Wi-fi Hisense 12.000 Btus Eletr",
-      "link": "https://meli.la/2saauzZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_711674-MLA99585997938_122025-O.webp",
-      "preco": 1710.72,
-      "precoDe": 3599,
-      "desconto": 47,
-      "cupom": "FULLCUPONS ou PROMOTEC",
-      "enviadoEm": "2026-08-19T12:30:10.996Z"
     }
   ]
 }
