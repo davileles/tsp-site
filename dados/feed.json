@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-19T12:52:36.277Z",
+  "atualizadoEm": "2026-08-19T13:09:18.298Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9738",
+      "loja": "Shopee",
+      "titulo": "Cápsula Nespresso Chocolate Cappuccino Cacau Café Italle 30 Capsulas",
+      "link": "https://s.shopee.com.br/9zx442b1Nx",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18gyik2bp7k43_tn",
+      "preco": 45.93,
+      "precoDe": 79.9,
+      "desconto": 30,
+      "cupom": "LOVIV1TA",
+      "enviadoEm": "2026-08-19T12:59:18.297Z"
+    },
     {
       "id": "9736",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 18,
       "cupom": "PR0M0C4070P",
       "enviadoEm": "2026-08-17T16:50:23.703Z"
-    },
-    {
-      "id": "8525",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Pneus Aro 14 175/70r14 84t Tl Fastway B2 Xbri",
-      "link": "https://meli.la/2mUxnWT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_989633-MLA100679069958_122025-O.webp",
-      "preco": 438.78999999999996,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PRAVCSEMPRE",
-      "enviadoEm": "2026-08-17T16:49:35.707Z"
     }
   ]
 }
