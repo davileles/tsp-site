@@ -1,7 +1,139 @@
 {
-  "atualizadoEm": "2026-08-19T16:21:03.399Z",
+  "atualizadoEm": "2026-08-19T16:33:31.713Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10025",
+      "loja": "Mercado Livre",
+      "titulo": "Auxiliar De Partida Compressor De Ar Portátil Para Carro 12V 4 funções em 1 Jump Starter Inflador Digital Power Bank Lanterna LED Bateria Emergência Moto SUV Caminhonete Pneu Bicic",
+      "link": "https://meli.la/1DFWyPo",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_757051-MLA112847786254_072026-O.webp",
+      "preco": 142.49,
+      "precoDe": 380,
+      "desconto": 50,
+      "cupom": "MELIPROMO",
+      "enviadoEm": "2026-08-19T16:32:25.661Z"
+    },
+    {
+      "id": "10022",
+      "loja": "Shopee",
+      "titulo": "Gabinete Gamer Aquário Aigo Apollo A275, Mini-Tower, Lateral de Vidro, Preto, AC-A275-B-HQ1",
+      "link": "https://s.shopee.com.br/6VNC8BjxAe",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82586-mge1m9qf16ve28_tn",
+      "preco": 106.41,
+      "precoDe": 341.65,
+      "desconto": 63,
+      "cupom": "C4RR1NH0D30UR0",
+      "enviadoEm": "2026-08-19T16:31:24.440Z"
+    },
+    {
+      "id": "10021",
+      "loja": "Shopee",
+      "titulo": "Kit 6 Organizador De Mala Necessaire Bolsa De Viagem Travel Bag Premium",
+      "link": "https://s.shopee.com.br/1Lf5yfUpUe",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repg-m2poj36o1kzt4b_tn",
+      "preco": 16.79,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "LOVIV1TA",
+      "enviadoEm": "2026-08-19T16:31:07.503Z"
+    },
+    {
+      "id": "10024",
+      "loja": "Amazon",
+      "titulo": "Toyster - Quebra-cabeça Grandão: Princesas - 48 peças - Disney - JAK",
+      "link": "https://www.amazon.com.br/dp/B07FYY4LH2?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51N1FtMcrvL._SL400_.jpg",
+      "preco": 66.48,
+      "precoDe": 104.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T16:30:49.038Z"
+    },
+    {
+      "id": "10023",
+      "loja": "Mercado Livre",
+      "titulo": "Secadora De Roupas Sun De Parede 8 Kg Branca Mueller 110v",
+      "link": "https://meli.la/13Geimx",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_801551-MLB93214934917_092025-O.webp",
+      "preco": 375.21,
+      "precoDe": 707.9,
+      "desconto": 41,
+      "cupom": "PROMOTEC",
+      "enviadoEm": "2026-08-19T16:30:48.261Z"
+    },
+    {
+      "id": "10020",
+      "loja": "Shopee",
+      "titulo": "Gabinete Gamer Aquário Pichau Atom, Mini-Tower, Lateral de Vidro, Com 1 Fan, Preto, PG-ATOM-BK",
+      "link": "https://s.shopee.com.br/5q7VKoHCj1",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwv-mc6er9xcmixa30_tn",
+      "preco": 93.45,
+      "precoDe": 252.11,
+      "desconto": 55,
+      "cupom": "C4RR1NH0D30UR0",
+      "enviadoEm": "2026-08-19T16:29:15.795Z"
+    },
+    {
+      "id": "10019",
+      "loja": "Shopee",
+      "titulo": "Placa Mãe MSI B840M Gaming WiFi 6E AM5 DDR5 mATX Ryzen M.2 NVMe HDMI DP Gamer",
+      "link": "https://s.shopee.com.br/6L3lgNhTuU",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824ig-mpmic8vfjyf59d_tn",
+      "preco": 779,
+      "precoDe": 815.31,
+      "desconto": 2,
+      "cupom": "C4RR1NH0D30UR0",
+      "enviadoEm": "2026-08-19T16:27:35.380Z"
+    },
+    {
+      "id": "9997",
+      "loja": "Mercado Livre",
+      "titulo": "Chaleira Elétrica 1,8L INOX 1200W 127V/110V Thype",
+      "link": "https://meli.la/1dchZEP",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_674057-MLA115642371279_082026-O.webp",
+      "preco": 37.44,
+      "precoDe": 45.99,
+      "desconto": 10,
+      "cupom": "PROMOTEC",
+      "enviadoEm": "2026-08-19T16:23:53.537Z"
+    },
+    {
+      "id": "9965",
+      "loja": "Amazon",
+      "titulo": "Cerveja Sem Álcool Budweiser, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0BWNN2482?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41NnWG7JmDL._SL400_.jpg",
+      "preco": 24.71,
+      "precoDe": 36.72,
+      "desconto": 16,
+      "cupom": "MODAPAI20",
+      "enviadoEm": "2026-08-19T16:23:17.920Z"
+    },
+    {
+      "id": "9964",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 6 Cuecas Boxer Lupo Sem Costura Box Microfibra Original",
+      "link": "https://meli.la/1mY6aWK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_628190-MLB106929969799_022026-O-kit-6-cuecas-boxer-lupo-sem-costura-box-microfibra-original.webp",
+      "preco": 119.83000000000001,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T16:22:19.764Z"
+    },
+    {
+      "id": "9963",
+      "loja": "Shopee",
+      "titulo": "Fechadura Eletrônica Smart Door com Impressão Digital Senha Cartão NFC e Chave Mecânica",
+      "link": "https://s.shopee.com.br/5VUevCLFDl",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824ip-mpjobl1rr4sg3f_tn",
+      "preco": 179.99,
+      "precoDe": 399.98,
+      "desconto": 50,
+      "cupom": "C4RR1NH0D30UR0",
+      "enviadoEm": "2026-08-19T16:22:18.908Z"
+    },
     {
       "id": "9958",
       "loja": "Shopee",
@@ -49,18 +181,6 @@
       "desconto": 38,
       "cupom": "C4RR1NH0D30UR0",
       "enviadoEm": "2026-08-19T16:15:53.609Z"
-    },
-    {
-      "id": "9951",
-      "loja": "Shopee",
-      "titulo": "Fechadura Eletrônica Smart Door com Impressão Digital Senha Cartão NFC e Chave Mecânica",
-      "link": "https://s.shopee.com.br/5VUevCLFDl",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824ip-mpjobl1rr4sg3f_tn",
-      "preco": 179.99,
-      "precoDe": 399.98,
-      "desconto": 50,
-      "cupom": "C4RR1NH0D30UR0",
-      "enviadoEm": "2026-08-19T16:14:39.086Z"
     },
     {
       "id": "9949",
@@ -433,18 +553,6 @@
       "desconto": 26,
       "cupom": "C4RR1NH0D30UR0",
       "enviadoEm": "2026-08-19T12:46:54.016Z"
-    },
-    {
-      "id": "9735",
-      "loja": "Shopee",
-      "titulo": "Placa Mãe MSI B840M Gaming WiFi 6E AM5 DDR5 mATX Ryzen M.2 NVMe HDMI DP Gamer",
-      "link": "https://s.shopee.com.br/6L3lgNhTuU",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824ig-mpmic8vfjyf59d_tn",
-      "preco": 779,
-      "precoDe": 815.31,
-      "desconto": 2,
-      "cupom": "C4RR1NH0D30UR0",
-      "enviadoEm": "2026-08-19T12:45:49.196Z"
     },
     {
       "id": "9734",
@@ -1333,114 +1441,6 @@
       "desconto": 34,
       "cupom": "APROVEITAGORA",
       "enviadoEm": "2026-08-18T15:41:53.469Z"
-    },
-    {
-      "id": "9210",
-      "loja": "Amazon",
-      "titulo": "O Pequeno Príncipe – Edição de luxo com capa dura almofadada e aquarelas originais do autor",
-      "link": "https://www.amazon.com.br/dp/6559801365?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41994e7I+PL._SL400_.jpg",
-      "preco": 13.88,
-      "precoDe": 19.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T15:40:31.176Z"
-    },
-    {
-      "id": "9209",
-      "loja": "Shopee",
-      "titulo": "Console Nintendo Switch 2 - 256gb Lcd Gray Novo Lacrado Acompanha adaptador de tomada",
-      "link": "https://s.shopee.com.br/4fvWIPqYlI",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mrqf53kdvqbp17_tn",
-      "preco": 3930,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "C4RR1NH0D30UR0",
-      "enviadoEm": "2026-08-18T15:40:20.827Z"
-    },
-    {
-      "id": "9144",
-      "loja": "Mercado Livre",
-      "titulo": "Principia Kit Trio Limpeza Facial Personalizada",
-      "link": "https://meli.la/25LJCA8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_815750-MLA114039673349_072026-O.webp",
-      "preco": 91.62,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T15:21:53.031Z"
-    },
-    {
-      "id": "9134",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto de Taças de Vidro 340ml Diamond Line - 6 Peças Transparente",
-      "link": "https://meli.la/2J1jVcH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761729-MLA100084409089_122025-O.webp",
-      "preco": 25.71,
-      "precoDe": 49.9,
-      "desconto": 31,
-      "cupom": "DESCOTOSMELI ou MAISCUPONS ou QUEROCUPONS ou AVANT25 ou AVANT ou CUPOMDOML ou MELHORNOML ou AQUITEMCUPOM",
-      "enviadoEm": "2026-08-18T15:02:39.562Z"
-    },
-    {
-      "id": "8866",
-      "loja": "Mercado Livre",
-      "titulo": "Ar Condicionado Split Agratto Liv Top Inverter 18.000 Btus Quente e Frio R-32",
-      "link": "https://meli.la/31Gfc9b",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_678379-MLA100006925887_122025-O.webp",
-      "preco": 2420.1,
-      "precoDe": 4399,
-      "desconto": 39,
-      "cupom": "MELICUPOM",
-      "enviadoEm": "2026-08-18T12:45:39.729Z"
-    },
-    {
-      "id": "8802",
-      "loja": "Mercado Livre",
-      "titulo": "Ar-condicionado Split Hw Inverter Elgin Eco Iii 12k Fr 220v",
-      "link": "https://meli.la/1jiCz4i",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_601089-MLB112507710248_062026-O.webp",
-      "preco": 1776.6,
-      "precoDe": 2149,
-      "desconto": 8,
-      "cupom": "MELICUPOM",
-      "enviadoEm": "2026-08-18T12:39:00.707Z"
-    },
-    {
-      "id": "8801",
-      "loja": "Mercado Livre",
-      "titulo": "Tablet HUAWEI MatePad SE 11 Wifi 6+128GB Tela HUAWEI FullView de 11\" para Conforto Visual, Superbateria de 7700 mAh 225W Câmera Traseira 8 MP, Câmera Frontal 5 MP Cinza Nebula",
-      "link": "https://meli.la/1kRtt6K",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_778430-MLA99478653530_112025-O.webp",
-      "preco": 899.1,
-      "precoDe": 2499,
-      "desconto": 60,
-      "cupom": "MELICUPOM",
-      "enviadoEm": "2026-08-18T12:36:59.882Z"
-    },
-    {
-      "id": "8800",
-      "loja": "Mercado Livre",
-      "titulo": "Frigobar Retrô Vermelho 93l Inverter Bivolt Midea Vermelho",
-      "link": "https://meli.la/2BUaivd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_867283-MLA97455585097_112025-O.webp",
-      "preco": 909.14,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELICUPOM",
-      "enviadoEm": "2026-08-18T12:29:07.365Z"
-    },
-    {
-      "id": "8798",
-      "loja": "Amazon",
-      "titulo": "Cerveja Stella Artois, Pure Gold, Lata 350ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0D7D6RKV9?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31rQ5nZ0SzL._SL400_.jpg",
-      "preco": 37.94,
-      "precoDe": 55.92,
-      "desconto": 15,
-      "cupom": "MODAPAI20",
-      "enviadoEm": "2026-08-18T12:18:25.829Z"
     }
   ]
 }
