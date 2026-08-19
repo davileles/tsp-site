@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-19T18:27:32.320Z",
+  "atualizadoEm": "2026-08-19T18:46:18.382Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10198",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
+      "link": "https://s.shopee.com.br/3g30tiMnK5",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
+      "preco": 12.589999999999998,
+      "precoDe": 21.42,
+      "desconto": 16,
+      "cupom": "LOVIV1TA",
+      "enviadoEm": "2026-08-19T18:39:07.539Z"
+    },
+    {
+      "id": "10197",
+      "loja": "Amazon",
+      "titulo": "Luminária Pendente LED Moderna 3 Anéis 72W, Redonda Embutida, Regulável, 3 Cores de Luz (3000K/4000K/6000K), Altura Ajustável, Design Luxuoso para Sala, Quarto ou Escritório (Preto",
+      "link": "https://www.amazon.com.br/dp/B0FMF4NMLY?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41z-fRJbizL._SL400_.jpg",
+      "preco": 89.32,
+      "precoDe": 150,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T18:29:15.843Z"
+    },
     {
       "id": "10196",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 14,
       "cupom": null,
       "enviadoEm": "2026-08-19T11:41:58.550Z"
-    },
-    {
-      "id": "9663",
-      "loja": "Amazon",
-      "titulo": "Cereal Sucrilhos® Original Kellogg's® 1kg",
-      "link": "https://www.amazon.com.br/dp/B09CRHZV85?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51hTDCe71vL._SL400_.jpg",
-      "preco": 27.83,
-      "precoDe": 117.83,
-      "desconto": 76,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T11:31:13.628Z"
-    },
-    {
-      "id": "9595",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51p7Q6bht8L._SL400_.jpg",
-      "preco": 199.29,
-      "precoDe": 229.49,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T11:16:21.561Z"
     }
   ]
 }
