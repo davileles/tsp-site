@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-19T01:16:11.975Z",
+  "atualizadoEm": "2026-08-19T01:46:12.161Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -479,7 +479,7 @@
       "maximo": null,
       "limite": 1000,
       "observacao": null,
-      "validadeAte": "2026-08-19T02:59:00.000Z",
+      "validadeAte": "2026-08-19T02:58:59.790Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -551,7 +551,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-08-20T02:59:00.000Z",
+      "validadeAte": "2026-08-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -639,18 +639,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SEMPRENAMODA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFERTAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -659,7 +647,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-08-20T02:59:00.000Z",
+      "validadeAte": "2026-08-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -755,7 +743,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-08-20T02:59:00.000Z",
+      "validadeAte": "2026-08-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -791,7 +779,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-08-20T02:59:00.000Z",
+      "validadeAte": "2026-08-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
