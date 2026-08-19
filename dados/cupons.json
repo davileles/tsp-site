@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T23:46:11.970Z",
+  "atualizadoEm": "2026-08-19T00:16:12.015Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -829,6 +829,18 @@
       "observacao": "Código de cupom fornecido, mas sem informações sobre tipo de desconto (% ou R$), valor, mínimo ou máximo de compra",
       "validadeAte": "2026-08-19T12:43:45.554Z",
       "url": null
+    },
+    {
+      "codigo": "GANHE70",
+      "loja": "Outro: Nike",
+      "tipo": "reais",
+      "valor": 70,
+      "minimo": 299,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-20T00:05:15.494Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17652&id=1207116"
     },
     {
       "codigo": "LEVEMAIS",
