@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-19T16:43:33.997Z",
+  "atualizadoEm": "2026-08-19T16:47:17.397Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10093",
+      "loja": "Shopee",
+      "titulo": "Conjunto 5 Panelas Cerâmica Cazza Tampa de Vidro Cinza",
+      "link": "https://s.shopee.com.br/1qbMaX0h1J",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b1-ms1h359w9wci2c_tn",
+      "preco": 159.91,
+      "precoDe": 304.93,
+      "desconto": 41,
+      "cupom": "C4RR1NH0D30UR0",
+      "enviadoEm": "2026-08-19T16:44:47.561Z"
+    },
+    {
+      "id": "10087",
+      "loja": "Amazon",
+      "titulo": "Cerveja Stella Artois, Pure Gold, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0D7D6RKV9?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31rQ5nZ0SzL._SL400_.jpg",
+      "preco": 47.53,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "EXPERIMENTAR",
+      "enviadoEm": "2026-08-19T16:44:29.234Z"
+    },
     {
       "id": "10087",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-08-18T16:27:43.051Z"
-    },
-    {
-      "id": "9291",
-      "loja": "Mercado Livre",
-      "titulo": "Brinquedo Pedagógico Madeira Montessoriano Educativo Formas Números Cores Tabuleiro Colorido TEA Autismo Atacarejo Kids",
-      "link": "https://meli.la/1JGvkYF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_716099-MLA110586139428_052026-O.webp",
-      "preco": 38.67,
-      "precoDe": 127.28,
-      "desconto": 64,
-      "cupom": "BRINCADEIRAS",
-      "enviadoEm": "2026-08-18T16:25:11.070Z"
-    },
-    {
-      "id": "9290",
-      "loja": "Amazon",
-      "titulo": "Creme Preventivo Assaduras Huggies Pele Protegida c/3 de 80g",
-      "link": "https://www.amazon.com.br/dp/B08FVVH9BC?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41i70H0CvsL._SL400_.jpg",
-      "preco": 59.99,
-      "precoDe": 85.5,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T16:25:05.721Z"
     }
   ]
 }
