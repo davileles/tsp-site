@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-19T19:00:27.909Z",
+  "atualizadoEm": "2026-08-19T19:10:52.701Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10209",
+      "loja": "Shopee",
+      "titulo": "Mop Com Centrifuga Inox e Cabo em Inox Com Refil De Microfibra 9 Litros Mopi",
+      "link": "https://s.shopee.com.br/6L3m66sbdI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mqdqvf8wjr4316_tn",
+      "preco": 36.11,
+      "precoDe": 82.34,
+      "desconto": 44,
+      "cupom": "LOVIV1TA",
+      "enviadoEm": "2026-08-19T19:00:52.700Z"
+    },
     {
       "id": "10205",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 27,
       "cupom": null,
       "enviadoEm": "2026-08-19T12:06:06.847Z"
-    },
-    {
-      "id": "9684",
-      "loja": "Amazon",
-      "titulo": "Parafusadeira com Bateria de Lítio, FPF-06M - Mondial, Pequeno",
-      "link": "https://www.amazon.com.br/dp/B077VW15YL?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41DxfzCQiVL._SL400_.jpg",
-      "preco": 89,
-      "precoDe": 99,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T12:03:41.058Z"
     }
   ]
 }
