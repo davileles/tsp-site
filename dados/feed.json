@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-19T20:24:05.099Z",
+  "atualizadoEm": "2026-08-19T20:36:28.317Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10361",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
+      "link": "https://s.shopee.com.br/9zx4YkG3xF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
+      "preco": 23.990000000000002,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "LOVIV1TA",
+      "enviadoEm": "2026-08-19T20:26:28.251Z"
+    },
     {
       "id": "10315",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 71,
       "cupom": "LOVIV1TA",
       "enviadoEm": "2026-08-19T12:15:43.384Z"
-    },
-    {
-      "id": "9692",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor LG UltraGear™ 24G411A-B 24\",FHD, 144Hz, 1ms (MBR), NVIDIA G-SYNC, AMD FreeSync, HDR10",
-      "link": "https://meli.la/1bkSqqS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685909-MLA101438581463_122025-O.webp",
-      "preco": 539.1,
-      "precoDe": 699,
-      "desconto": 14,
-      "cupom": "FULLCUPONS ou PROMOTEC",
-      "enviadoEm": "2026-08-19T12:14:23.111Z"
     }
   ]
 }
