@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-19T20:24:06.489Z",
+  "atualizadoEm": "2026-08-19T21:40:19.361Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -289,6 +289,18 @@
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
+    },
+    {
+      "codigo": "HISENSE150",
+      "loja": "Dufrio",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-21T21:08:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=23524&id=1207116"
     },
     {
       "codigo": "MULTI6",
@@ -723,18 +735,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SEMPRENAMODA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFERTAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -912,18 +912,6 @@
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
       "validadeAte": "2026-08-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DECOR15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupons válidos em categorias selecionadas conforme listas fornecidas",
-      "validadeAte": "2026-08-19T22:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
