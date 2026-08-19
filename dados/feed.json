@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-19T13:22:36.278Z",
+  "atualizadoEm": "2026-08-19T13:51:39.065Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9821",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Inox 2l Com Desligamento Automático Full",
+      "link": "https://s.shopee.com.br/4AzHAFGiIE",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820nf-mnfpx6z1slc5e1_tn",
+      "preco": 49.87,
+      "precoDe": 199.57,
+      "desconto": 70,
+      "cupom": "LOVIV1TA",
+      "enviadoEm": "2026-08-19T13:41:38.972Z"
+    },
     {
       "id": "9761",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "V4NEXO26AF",
       "enviadoEm": "2026-08-17T17:11:49.167Z"
-    },
-    {
-      "id": "8527",
-      "loja": "Mercado Livre",
-      "titulo": "Hiper Mass 1kg Growth Supplements - Sabor Chocolate",
-      "link": "https://meli.la/28Y2LR1",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_713346-MLA107082143625_022026-O.webp",
-      "preco": 48.72,
-      "precoDe": 79.9,
-      "desconto": 24,
-      "cupom": "SAUDEPRAVC",
-      "enviadoEm": "2026-08-17T16:51:51.174Z"
     }
   ]
 }
