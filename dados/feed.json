@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-19T14:12:05.578Z",
+  "atualizadoEm": "2026-08-19T14:34:18.180Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9894",
+      "loja": "Shopee",
+      "titulo": "Cooktop a Gás Atlas 4 Bocas Agile Up Preto - Bivolt",
+      "link": "https://s.shopee.com.br/6q02O3YyYr",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ras9-ma4hfpfmk0x7c7_tn",
+      "preco": 418.89,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "C4RR1NH0D30UR0",
+      "enviadoEm": "2026-08-19T14:24:18.178Z"
+    },
     {
       "id": "9830",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 50,
       "cupom": "LOVIV1TA",
       "enviadoEm": "2026-08-17T17:54:19.744Z"
-    },
-    {
-      "id": "8539",
-      "loja": "Shopee",
-      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
-      "link": "https://s.shopee.com.br/6fgZCvik0I",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
-      "preco": 182.9,
-      "precoDe": 599.7,
-      "desconto": 67,
-      "cupom": "V4NEXO26AF",
-      "enviadoEm": "2026-08-17T17:33:02.799Z"
     }
   ]
 }
