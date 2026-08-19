@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-19T14:55:28.098Z",
+  "atualizadoEm": "2026-08-19T15:11:05.578Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9907",
+      "loja": "Shopee",
+      "titulo": "Envio Imediato - Creatina Dux n Monohidratada 300g - 100% ORIGINAL",
+      "link": "https://s.shopee.com.br/6AkLdkYeoS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mikc8avmgfer12_tn",
+      "preco": 30,
+      "precoDe": 95.24,
+      "desconto": 58,
+      "cupom": "LOVIV1TA",
+      "enviadoEm": "2026-08-19T15:06:35.266Z"
+    },
+    {
+      "id": "9906",
+      "loja": "Mercado Livre",
+      "titulo": "Short Academia Feminino Poliamida Selene Zero Transparência",
+      "link": "https://meli.la/233vMd8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_704152-MLB107727811689_022026-O.webp",
+      "preco": 32.79,
+      "precoDe": 129.99,
+      "desconto": 69,
+      "cupom": "COMPENSAML",
+      "enviadoEm": "2026-08-19T15:06:25.482Z"
+    },
     {
       "id": "9898",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 63,
       "cupom": null,
       "enviadoEm": "2026-08-17T18:54:44.754Z"
-    },
-    {
-      "id": "8613",
-      "loja": "Shopee",
-      "titulo": "Organizador de maquiagem Giratório 360º Acrílico Suporte de Cosméticos",
-      "link": "https://s.shopee.com.br/2gAQW0AcIX",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd6c-m729rq2ye1aka6_tn",
-      "preco": 33.98,
-      "precoDe": 90.65,
-      "desconto": 57,
-      "cupom": "PR0M0C4070P",
-      "enviadoEm": "2026-08-17T18:37:25.267Z"
-    },
-    {
-      "id": "8547",
-      "loja": "Shopee",
-      "titulo": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
-      "link": "https://s.shopee.com.br/904U28X0Am",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902_tn",
-      "preco": 34.89,
-      "precoDe": 199.45,
-      "desconto": 80,
-      "cupom": "PR0M0C4070P",
-      "enviadoEm": "2026-08-17T18:16:03.095Z"
     }
   ]
 }
