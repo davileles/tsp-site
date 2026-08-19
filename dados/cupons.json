@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-19T19:46:20.036Z",
+  "atualizadoEm": "2026-08-19T19:49:14.292Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -723,19 +723,7 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SEMPRENAMODA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SAUDEPRAVC",
+      "codigo": "CORREAQUINOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
@@ -756,18 +744,6 @@
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
       "validadeAte": "2026-08-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "APROVEITAGORA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -939,18 +915,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TVSECELULARES100",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 899,
-      "maximo": null,
-      "limite": 189,
-      "observacao": "Cupons válidos em categorias selecionadas conforme listas fornecidas",
-      "validadeAte": "2026-08-20T18:00:21.995Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DECOR15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -959,7 +923,7 @@
       "maximo": null,
       "limite": 20,
       "observacao": "Cupons válidos em categorias selecionadas conforme listas fornecidas",
-      "validadeAte": "2026-08-20T18:01:40.941Z",
+      "validadeAte": "2026-08-19T22:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1000,6 +964,18 @@
     },
     {
       "codigo": "KIDS",
+      "loja": "Riachuelo",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
+    },
+    {
+      "codigo": "SALDOS",
       "loja": "Riachuelo",
       "tipo": "pct",
       "valor": 30,
