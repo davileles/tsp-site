@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-08-19T16:47:17.397Z",
+  "atualizadoEm": "2026-08-19T17:16:17.396Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10165",
+      "loja": "Shopee",
+      "titulo": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
+      "link": "https://s.shopee.com.br/7KwJAc14ii",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mq3nf4vg8k5f75_tn",
+      "preco": 34.17,
+      "precoDe": 55.91,
+      "desconto": 21,
+      "cupom": "LOVIV1TA",
+      "enviadoEm": "2026-08-19T17:13:32.729Z"
+    },
+    {
+      "id": "10163",
+      "loja": "Amazon",
+      "titulo": "WOLFF Faqueiro de Aço Inox Pérola 30 Peças - Jogos de Talheres - Mesa Posta - Utensílios de Cozinha, Enxoval, Casamento, Decoração",
+      "link": "https://www.amazon.com.br/dp/B08R11YBCW?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31RKh0lXtiL._SL400_.jpg",
+      "preco": 246,
+      "precoDe": 376.1,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T17:11:23.120Z"
+    },
+    {
+      "id": "10160",
+      "loja": "Amazon",
+      "titulo": "Brastoy Blocos de Montar Magnéticos Construção Infantil Brinquedo Educativo (120 Peças Roda-gigante)",
+      "link": "https://www.amazon.com.br/dp/B097K16GKC?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51WcOuOTsRL._SL400_.jpg",
+      "preco": 151.19,
+      "precoDe": 229,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T17:03:38.414Z"
+    },
+    {
+      "id": "10158",
+      "loja": "Mercado Livre",
+      "titulo": "Fritadeira Sem Óleo Super Cook Fryer Frt410 3,8l Cadence Cor Preto",
+      "link": "https://meli.la/1dH6jRg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_675450-MLA99510361752_112025-O.webp",
+      "preco": 164.24,
+      "precoDe": 231.34,
+      "desconto": 21,
+      "cupom": "PROMOTEC",
+      "enviadoEm": "2026-08-19T16:57:39.415Z"
+    },
+    {
+      "id": "10157",
+      "loja": "Mercado Livre",
+      "titulo": "Bola De Basquete Mikasa 1110 Laranja - Padrão Fiba",
+      "link": "https://meli.la/17N7U1K",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_728044-MLB98304533208_112025-O.webp",
+      "preco": 48.86,
+      "precoDe": 219.99,
+      "desconto": 68,
+      "cupom": "LIQUIDA30",
+      "enviadoEm": "2026-08-19T16:56:47.124Z"
+    },
+    {
+      "id": "10154",
+      "loja": "Shopee",
+      "titulo": "Kit Até 4 Sacos de Lixo Perfumados Lavanda | 160 Sacos | Pia e Banheiro | 34x38cm | Neutraliza Odores",
+      "link": "https://s.shopee.com.br/AUtKuyLJHQ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mlpok0p0fg933f_tn",
+      "preco": 8.33,
+      "precoDe": 24.29,
+      "desconto": 51,
+      "cupom": "LOVIV1TA",
+      "enviadoEm": "2026-08-19T16:52:21.363Z"
+    },
+    {
+      "id": "10095",
+      "loja": "Mercado Livre",
+      "titulo": "Tomada Inteligente Wi-Fi Kateluo 16A com Monitor de Consumo para Alexa e Google Home",
+      "link": "https://meli.la/1b82haJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_829204-MLA111083065463_042026-O.webp",
+      "preco": 17.97,
+      "precoDe": 65,
+      "desconto": 45,
+      "cupom": "INTERNACIONALCN",
+      "enviadoEm": "2026-08-19T16:48:17.702Z"
+    },
+    {
+      "id": "10094",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Com 3 Camisetas Masculinas Básicas Slim Cor Preto Hering",
+      "link": "https://meli.la/2mpTxTB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_768385-MLB89567140198_082025-O.webp",
+      "preco": 64.78,
+      "precoDe": 99.99,
+      "desconto": 21,
+      "cupom": "COMPENSAML",
+      "enviadoEm": "2026-08-19T16:47:56.427Z"
+    },
     {
       "id": "10093",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 65,
       "cupom": "MELICUPOM",
       "enviadoEm": "2026-08-18T16:54:49.084Z"
-    },
-    {
-      "id": "9368",
-      "loja": "Mercado Livre",
-      "titulo": "Fritadeira Air Fryer 5,5l Cyclone Preto E Inox Midea",
-      "link": "https://meli.la/1qgbhFs",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_958864-MLA99478909748_112025-O.webp",
-      "preco": 214.2,
-      "precoDe": 377.9,
-      "desconto": 37,
-      "cupom": "MELICUPOM",
-      "enviadoEm": "2026-08-18T16:52:58.180Z"
-    },
-    {
-      "id": "9367",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 6 Potes 640ml Vidro Hermético 4 Travas Marmita Refratario Star House com 4 travas de super vedação",
-      "link": "https://meli.la/2DMuqGW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_949846-MLA112368844650_062026-O.webp",
-      "preco": 56.62,
-      "precoDe": 149.99,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T16:51:46.381Z"
-    },
-    {
-      "id": "9366",
-      "loja": "Mercado Livre",
-      "titulo": "Micro-ondas Consul 23l Branco Cms23ab",
-      "link": "https://meli.la/32USXtj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_812872-MLA110472856286_052026-O.webp",
-      "preco": 392.44,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELICUPOM",
-      "enviadoEm": "2026-08-18T16:50:53.363Z"
-    },
-    {
-      "id": "9365",
-      "loja": "Mercado Livre",
-      "titulo": "Kit6 Saco Organizador Guarda Roupa Dobrável Edredom Cobertor",
-      "link": "https://meli.la/2AgNuug",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_930813-MLB84491741787_052025-O.webp",
-      "preco": 54.14,
-      "precoDe": 109,
-      "desconto": 38,
-      "cupom": "APROVEITAGORA",
-      "enviadoEm": "2026-08-18T16:49:08.382Z"
-    },
-    {
-      "id": "9363",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Rabanne 1 Million Eau de Toilette 100 ml masculino",
-      "link": "https://meli.la/31DTCUJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_825541-MLA93843609108_102025-O.webp",
-      "preco": 389.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T16:47:15.421Z"
-    },
-    {
-      "id": "9361",
-      "loja": "Mercado Livre",
-      "titulo": "Eps-6905 Balança Epsilon Inteligente Bluetooth Com App, Lcd, Vidro Temperado, 180kg",
-      "link": "https://meli.la/21dQjmZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_941738-MLA106814881195_022026-O.webp",
-      "preco": 26.870000000000005,
-      "precoDe": 59.99,
-      "desconto": 44,
-      "cupom": "SAUDEPRAVC",
-      "enviadoEm": "2026-08-18T16:33:10.345Z"
-    },
-    {
-      "id": "9360",
-      "loja": "Mercado Livre",
-      "titulo": "Caixa Termica Media Primeplas 20 Litros Com Isolamento Na Tampa - Cooler Preto para Praia Camping Viagem",
-      "link": "https://meli.la/1hScEVq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_961709-MLA113674048787_062026-O.webp",
-      "preco": 45.6,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SUPERPROMO ou SHOWDEPROMO ou SEMPRENAMODA ou SAUDEPRAVC ou OFERTAS ou APROVEITAGORA ou COMMELI ou PROMOSCERTAS",
-      "enviadoEm": "2026-08-18T16:29:56.556Z"
-    },
-    {
-      "id": "9296",
-      "loja": "Mercado Livre",
-      "titulo": "Liquidificador Philco 1500W 3,1L 12 Velocidades com 6 Lâminas PLQ15A",
-      "link": "https://meli.la/2cYuZVG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_707636-MLA99987816335_112025-O.webp",
-      "preco": 179,
-      "precoDe": 239.9,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T16:27:43.051Z"
     }
   ]
 }
