@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-19T12:52:37.814Z",
+  "atualizadoEm": "2026-08-19T12:56:54.330Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -877,30 +877,6 @@
       "observacao": null,
       "validadeAte": "2026-08-20T12:02:02.217Z",
       "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "NOVA2",
-      "loja": "Outro: AliExpress",
-      "tipo": "reais",
-      "valor": 860,
-      "minimo": 5200,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons para AliExpress com valores fixos em reais",
-      "validadeAte": "2026-08-19T12:53:42.518Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "NOVA1",
-      "loja": "Outro: AliExpress",
-      "tipo": "reais",
-      "valor": 240,
-      "minimo": 1600,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons para AliExpress com valores fixos em reais",
-      "validadeAte": "2026-08-19T12:52:41.743Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
       "codigo": "GANHE70",
