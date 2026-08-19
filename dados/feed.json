@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-19T19:32:19.524Z",
+  "atualizadoEm": "2026-08-19T19:46:18.383Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10217",
+      "loja": "Shopee",
+      "titulo": "Organizador de Geladeira Multiuso Plasutil Para Armario Dispensa Cozinha",
+      "link": "https://s.shopee.com.br/5ArokvFek4",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkxr03l1t53609_tn",
+      "preco": 18.08,
+      "precoDe": 28.7,
+      "desconto": 10,
+      "cupom": "LOVIV1TA",
+      "enviadoEm": "2026-08-19T19:43:46.479Z"
+    },
+    {
+      "id": "10216",
+      "loja": "Amazon",
+      "titulo": "Mordedor Em Silicone Leãozinho Verde",
+      "link": "https://www.amazon.com.br/dp/B0CWS1YLBT?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31Nlvwcx9bL._SL400_.jpg",
+      "preco": 23.74,
+      "precoDe": 26.4,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T19:34:34.838Z"
+    },
     {
       "id": "10212",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "PROMOTEC",
       "enviadoEm": "2026-08-19T12:09:52.630Z"
-    },
-    {
-      "id": "9688",
-      "loja": "Mercado Livre",
-      "titulo": "Placa De Vídeo Msi Geforce Rtx 5060 8gb Ventus 2x Oc Edition",
-      "link": "https://meli.la/2jDjoBT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_773798-MLA99937818007_112025-O.webp",
-      "preco": 2136.6400000000003,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FULLCUPONS ou PROMOTEC",
-      "enviadoEm": "2026-08-19T12:08:32.751Z"
-    },
-    {
-      "id": "9687",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Cetaphil: 1 Creme Hidratante Neutra 453g + 1 Loção Hidratante Neutra 473ml",
-      "link": "https://meli.la/1AttFQp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_920737-MLB113587635272_072026-O.webp",
-      "preco": 129.04,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TODOSITE10",
-      "enviadoEm": "2026-08-19T12:08:29.139Z"
     }
   ]
 }
