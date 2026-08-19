@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-19T13:09:18.298Z",
+  "atualizadoEm": "2026-08-19T13:22:36.278Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9761",
+      "loja": "Shopee",
+      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
+      "link": "https://s.shopee.com.br/7VFj6uEBBx",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
+      "preco": 65.39,
+      "precoDe": 328.42,
+      "desconto": 74,
+      "cupom": "C4RR1NH0D30UR0",
+      "enviadoEm": "2026-08-19T13:20:30.687Z"
+    },
     {
       "id": "9738",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 24,
       "cupom": "SAUDEPRAVC",
       "enviadoEm": "2026-08-17T16:51:51.174Z"
-    },
-    {
-      "id": "8526",
-      "loja": "Shopee",
-      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
-      "link": "https://s.shopee.com.br/AUtHj3X0Jd",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
-      "preco": 49.32,
-      "precoDe": 66.24,
-      "desconto": 18,
-      "cupom": "PR0M0C4070P",
-      "enviadoEm": "2026-08-17T16:50:23.703Z"
     }
   ]
 }
