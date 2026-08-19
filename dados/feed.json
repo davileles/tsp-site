@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-19T18:46:18.382Z",
+  "atualizadoEm": "2026-08-19T19:00:27.909Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10205",
+      "loja": "Amazon",
+      "titulo": "LYOR - Coqueleira shaker 3 em 1 - Performance Cinza 650ml",
+      "link": "https://www.amazon.com.br/dp/B0DJF28PY4?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31qYlbD0qyL._SL400_.jpg",
+      "preco": 23.92,
+      "precoDe": 36.5,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T18:50:27.906Z"
+    },
+    {
+      "id": "10203",
+      "loja": "Mercado Livre",
+      "titulo": "Babá Eletrônica Monitor 2.4 Sem Fio Zoom Baby On Maxi Baby",
+      "link": "https://meli.la/2raauiL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_900181-MLA100655071871_122025-O.webp",
+      "preco": 169.91,
+      "precoDe": 447.82,
+      "desconto": 55,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-19T18:47:32.080Z"
+    },
     {
       "id": "10198",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-08-19T12:03:41.058Z"
-    },
-    {
-      "id": "9670",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pom Pom Protek Proteção de Mãe G 68 Unidades",
-      "link": "https://meli.la/2RAoNfW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_684445-MLA99450736120_112025-O.webp",
-      "preco": 44.050000000000004,
-      "precoDe": 77.37,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T11:50:44.904Z"
-    },
-    {
-      "id": "9668",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Descartável Baby M Pacote 50 Unidades Turma da Mônica",
-      "link": "https://meli.la/2QL4NsC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_738296-MLA110297780960_052026-O.webp",
-      "preco": 34.39,
-      "precoDe": 50.05,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T11:41:58.550Z"
     }
   ]
 }
