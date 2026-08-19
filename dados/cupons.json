@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-19T13:22:37.854Z",
+  "atualizadoEm": "2026-08-19T13:30:31.000Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -639,6 +639,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CORRREPROML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OFERTAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -708,30 +720,6 @@
       "limite": 500,
       "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
       "validadeAte": "2026-08-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOSITE20",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 199,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-19T15:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-08-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -879,18 +867,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOSITE10",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-20T12:02:02.217Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "GANHE70",
       "loja": "Outro: Nike",
       "tipo": "reais",
@@ -936,18 +912,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-20T13:02:40.988Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "V4NEXO26AF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 69,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-19T13:23:21.156Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
