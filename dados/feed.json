@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-19T19:16:18.382Z",
+  "atualizadoEm": "2026-08-19T19:32:19.524Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10212",
+      "loja": "Shopee",
+      "titulo": "Multiprocessador de Alimentos Turbo Chef 9 em 1 MPN-01-BF Mondial",
+      "link": "https://s.shopee.com.br/7psZuLP4KX",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82608-mlgfmgmedhjca8_tn",
+      "preco": 296.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFERTAS10",
+      "enviadoEm": "2026-08-19T19:22:19.522Z"
+    },
     {
       "id": "10210",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "TODOSITE10",
       "enviadoEm": "2026-08-19T12:08:29.139Z"
-    },
-    {
-      "id": "9686",
-      "loja": "Amazon",
-      "titulo": "Limpeza Automotiva Completa Shampoo V-floc Revitalizador Intense Cera Tok Final Limpador Sintra Fast Pano Vonixx",
-      "link": "https://www.amazon.com.br/dp/B0C6N14MW2?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51XrZjf-zBL._SL400_.jpg",
-      "preco": 90.57,
-      "precoDe": 100.64,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T12:07:24.197Z"
     }
   ]
 }
