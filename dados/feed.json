@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-19T21:41:08.984Z",
+  "atualizadoEm": "2026-08-19T22:01:38.149Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10435",
+      "loja": "Shopee",
+      "titulo": "Ugreen - Hub USB-C 7X1 Multifunctional  1*HDMI 4K 60@ -  2*USB-C 3.2 - 1*USB-A 3.2 - SD/TF - 100W PD",
+      "link": "https://s.shopee.com.br/7fZ9sJ1VP6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdam700q9q8106_tn",
+      "preco": 278.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFERTAS10",
+      "enviadoEm": "2026-08-19T21:51:37.819Z"
+    },
     {
       "id": "10433",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 47,
       "cupom": "FULLCUPONS ou PROMOTEC",
       "enviadoEm": "2026-08-19T12:30:10.996Z"
-    },
-    {
-      "id": "9711",
-      "loja": "Shopee",
-      "titulo": "Kit Rosas e Sedução - Limpador 500ml + Multiuso",
-      "link": "https://s.shopee.com.br/AAGUEDS70f",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mon1tsk6sp375e_tn",
-      "preco": 10.3,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "LOVIV1TA",
-      "enviadoEm": "2026-08-19T12:28:08.130Z"
     }
   ]
 }
