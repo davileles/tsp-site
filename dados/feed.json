@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-19T18:16:17.396Z",
+  "atualizadoEm": "2026-08-19T18:27:32.320Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10196",
+      "loja": "Shopee",
+      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
+      "link": "https://s.shopee.com.br/AUtL0oT4So",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
+      "preco": 177.9,
+      "precoDe": 599.7,
+      "desconto": 67,
+      "cupom": "C4RR1NH0D30UR0",
+      "enviadoEm": "2026-08-19T18:17:32.318Z"
+    },
     {
       "id": "10194",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 13,
       "cupom": null,
       "enviadoEm": "2026-08-19T11:16:21.561Z"
-    },
-    {
-      "id": "9520",
-      "loja": "Amazon",
-      "titulo": "GA.MA ITALY Prancha Wide Keration Pro – Bivolt",
-      "link": "https://www.amazon.com.br/dp/B07C7Q2FP4?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31tdOZu94WL._SL400_.jpg",
-      "preco": 203,
-      "precoDe": 219.9,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T22:59:08.079Z"
     }
   ]
 }
