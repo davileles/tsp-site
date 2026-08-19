@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-19T19:59:32.178Z",
+  "atualizadoEm": "2026-08-19T20:13:28.558Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10312",
+      "loja": "Shopee",
+      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
+      "link": "https://s.shopee.com.br/4LIhmrHGec",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
+      "preco": 69,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "C4RR1NH0D30UR0",
+      "enviadoEm": "2026-08-19T20:05:02.637Z"
+    },
     {
       "id": "10265",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-08-19T12:14:07.828Z"
-    },
-    {
-      "id": "9691",
-      "loja": "Mercado Livre",
-      "titulo": "Ssd 1tb M.2 Nvme Pcie 4.0 Western Digital Sn3000 Velocidade De Leitura E Gravação 5000/4200 Mb/s Wds100t4g0e-00cps0 Preto",
-      "link": "https://meli.la/2cNaLtE",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_763059-MLA113958735025_062026-O-ssd-1tb-m2-nvme-pcie-40-western-digital-sn3000-velocidade-de-leitura-e-gravaco-50004200-mbs-wds100t4g0e-00cps0-preto.webp",
-      "preco": 764.1,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROMOTEC",
-      "enviadoEm": "2026-08-19T12:12:13.472Z"
     }
   ]
 }
