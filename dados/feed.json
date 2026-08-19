@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-19T20:13:28.558Z",
+  "atualizadoEm": "2026-08-19T20:24:05.099Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10315",
+      "loja": "Amazon",
+      "titulo": "Eudora Siàge Hair-Plastia Máscara Capilar 250g",
+      "link": "https://www.amazon.com.br/dp/B09HW92VTZ?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/3159MbW335L._SL400_.jpg",
+      "preco": 49.55,
+      "precoDe": 85.99,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T20:14:05.024Z"
+    },
     {
       "id": "10312",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 14,
       "cupom": "FULLCUPONS ou PROMOTEC",
       "enviadoEm": "2026-08-19T12:14:23.111Z"
-    },
-    {
-      "id": "9694",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pom Pom Proteção de Mãe XG com 38 Unidades",
-      "link": "https://meli.la/32tyGLT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_749805-MLA99439515898_112025-O.webp",
-      "preco": 28.9,
-      "precoDe": 50.3,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T12:14:07.828Z"
     }
   ]
 }
