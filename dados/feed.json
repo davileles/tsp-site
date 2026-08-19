@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-19T19:46:18.383Z",
+  "atualizadoEm": "2026-08-19T19:59:32.178Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10265",
+      "loja": "Amazon",
+      "titulo": "Danone Nutricia Fórmula Infantil Infatrini Pó 400G",
+      "link": "https://www.amazon.com.br/dp/B07MFFR6PV?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41kNps7WwbL._SL400_.jpg",
+      "preco": 148.79,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T19:54:14.128Z"
+    },
     {
       "id": "10217",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "PROMOTEC",
       "enviadoEm": "2026-08-19T12:12:13.472Z"
-    },
-    {
-      "id": "9690",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer LG UltraGear Curvo 34G600A-B 34\" QuadHD 2K, UltraWide 1800R, 160Hz, 1ms (MBR), AMD FreeSync Premium, HDR10, MaxxAudio",
-      "link": "https://meli.la/2C5PmA1",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_790527-MLA105314750110_012026-O.webp",
-      "preco": 1580.8899999999999,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROMOTEC",
-      "enviadoEm": "2026-08-19T12:09:52.630Z"
     }
   ]
 }
