@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-19T22:41:08.985Z",
+  "atualizadoEm": "2026-08-19T23:06:43.709Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10455",
+      "loja": "Mercado Livre",
+      "titulo": "Relógio Tommy Hilfiger Norris Masculino Couro Azul - 1710666",
+      "link": "https://meli.la/2PgrKXq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_666524-MLA80164536377_102024-O.webp",
+      "preco": 409.85999999999996,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PROMOTEC",
+      "enviadoEm": "2026-08-19T22:58:49.208Z"
+    },
+    {
+      "id": "10454",
+      "loja": "Mercado Livre",
+      "titulo": "Relógio de couro masculino Tommy Hilfiger 1710549",
+      "link": "https://meli.la/2CNKM2Z",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_618629-MLU77158743844_072024-O.webp",
+      "preco": 409.85999999999996,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PROMOTEC",
+      "enviadoEm": "2026-08-19T22:52:32.077Z"
+    },
+    {
+      "id": "10453",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino Casual Aramis Daily Slip Confortável Moderno",
+      "link": "https://meli.la/291kfBF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_741024-MLB114244636256_082026-O.webp",
+      "preco": 135.54,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "COMPENSAML",
+      "enviadoEm": "2026-08-19T22:51:23.569Z"
+    },
+    {
+      "id": "10452",
+      "loja": "Amazon",
+      "titulo": "WAP Vassoura MOP com Balde MOP DUPLO COMPACTO Multiuso, Lava e Seca, com Refil de Microfibra, 8 Litros",
+      "link": "https://www.amazon.com.br/dp/B08CBGQ97G?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31rN8QvW2cL._SL400_.jpg",
+      "preco": 44,
+      "precoDe": 109.9,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T22:50:45.532Z"
+    },
+    {
+      "id": "10451",
+      "loja": "Amazon",
+      "titulo": "Carter's Conjunto curto de 3 peças para bebês meninas, Rosa/creme, 24 Meses",
+      "link": "https://www.amazon.com.br/dp/B0GHBDPMH9?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41jMjM+5wHL._SL400_.jpg",
+      "preco": 122.89,
+      "precoDe": 134.52,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T22:49:41.564Z"
+    },
     {
       "id": "10449",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": null,
       "cupom": "APROVEITAGORA",
       "enviadoEm": "2026-08-19T12:44:42.299Z"
-    },
-    {
-      "id": "9732",
-      "loja": "Mercado Livre",
-      "titulo": "Ar Condicionado Split Hi Wall TCL T-Pro 2.0 Inverter 9.000 Btus Frio R-32",
-      "link": "https://meli.la/19HYmpj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_851669-MLA99906883721_112025-O.webp",
-      "preco": 1529.1,
-      "precoDe": 2849,
-      "desconto": 40,
-      "cupom": "FULLCUPONS ou PROMOTEC",
-      "enviadoEm": "2026-08-19T12:43:56.632Z"
-    },
-    {
-      "id": "9731",
-      "loja": "Shopee",
-      "titulo": "Suporte Articulado Para 2 Monitores 13 a 32 Pistão a Gás Zinnia Nimbo 210 Preto",
-      "link": "https://s.shopee.com.br/6VNBsXokEZ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mikhj1g2xa82e7_tn",
-      "preco": 125.47,
-      "precoDe": 538.78,
-      "desconto": 73,
-      "cupom": "C4RR1NH0D30UR0",
-      "enviadoEm": "2026-08-19T12:43:40.860Z"
-    },
-    {
-      "id": "9730",
-      "loja": "Shopee",
-      "titulo": "Lavadora Semi Automática Tanquinho Colormaq 15kg",
-      "link": "https://s.shopee.com.br/5fo4srVDwL",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zw2-mmusswqxga2w4d_tn",
-      "preco": 520.99,
-      "precoDe": 901.65,
-      "desconto": 40,
-      "cupom": "C4RR1NH0D30UR0",
-      "enviadoEm": "2026-08-19T12:42:36.193Z"
-    },
-    {
-      "id": "9729",
-      "loja": "Shopee",
-      "titulo": "Lavadora Semi Automática Tanquinho Colormaq 10kg",
-      "link": "https://s.shopee.com.br/2qTtVeg4td",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd6p-m76o1ccuhj6cdf_tn",
-      "preco": 460.99,
-      "precoDe": 801.65,
-      "desconto": 40,
-      "cupom": "C4RR1NH0D30UR0",
-      "enviadoEm": "2026-08-19T12:41:35.043Z"
-    },
-    {
-      "id": "9728",
-      "loja": "Shopee",
-      "titulo": "Dispenser De Alimentos Grãos E Cereais Giratório Com 6 Divisões 23cm - Wing",
-      "link": "https://s.shopee.com.br/AKZuRMFTdO",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823os-mpcbfgejpr0g25_tn",
-      "preco": 74.9,
-      "precoDe": 149.8,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T12:40:20.227Z"
     }
   ]
 }
