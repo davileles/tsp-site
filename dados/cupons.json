@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-19T16:21:05.005Z",
+  "atualizadoEm": "2026-08-19T16:33:33.168Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -471,15 +471,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "CAZE10",
+      "codigo": "INFLU200",
       "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": 2000,
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 2000,
+      "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-19T16:27:49.518Z",
+      "validadeAte": "2026-08-20T16:24:01.373Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -567,18 +567,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CASAML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CUPOMDOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -612,18 +600,6 @@
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados",
       "validadeAte": "2026-08-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFFHOJE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -699,7 +675,7 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CONSTRUIRMELI",
+      "codigo": "SAUDEPRAVC",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
@@ -975,6 +951,18 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
+      "codigo": "V0UCH3R15",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-20T16:24:00.326Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "C0UP0M10",
       "loja": "Shopee",
       "tipo": "reais",
@@ -984,6 +972,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-20T15:01:08.902Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "4CH4D1NH0S",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 5,
+      "minimo": 25,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-20T16:21:12.286Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
