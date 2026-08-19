@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-08-19T17:46:17.396Z",
+  "atualizadoEm": "2026-08-19T18:16:17.396Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10194",
+      "loja": "Amazon",
+      "titulo": "Rum Bacardi Carta Blanca 980ml",
+      "link": "https://www.amazon.com.br/dp/B07XYH874V?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41ZiyV9P38L._SL400_.jpg",
+      "preco": 39.9,
+      "precoDe": 52.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T18:14:14.609Z"
+    },
+    {
+      "id": "10190",
+      "loja": "Amazon",
+      "titulo": "Jipe Infantil Elétrico 12v Carrinho Controle Remoto Música (Preto)",
+      "link": "https://www.amazon.com.br/dp/B0F8P8KKH1?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51l0YK-k9KL._SL400_.jpg",
+      "preco": 919.9,
+      "precoDe": 1499.9,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T18:07:36.719Z"
+    },
+    {
+      "id": "10184",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Protect E Sec M Hiper, 70 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41VhQ4JSbGL._SL400_.jpg",
+      "preco": 55.19,
+      "precoDe": 64.64,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T17:59:53.538Z"
+    },
+    {
+      "id": "10183",
+      "loja": "Amazon",
+      "titulo": "PAMPERS SABONETE LÍQUIDO RELAXAMENTO 400ml",
+      "link": "https://www.amazon.com.br/dp/B0F1DWXMXC?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31vdop9RHWL._SL400_.jpg",
+      "preco": 25.08,
+      "precoDe": 39.99,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T17:59:52.516Z"
+    },
+    {
+      "id": "10182",
+      "loja": "Shopee",
+      "titulo": "Mala Pequena de Bordo 10kg TSA Polipropileno Giro 360º Munique Polo King",
+      "link": "https://s.shopee.com.br/5ArodX6wIy",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfrbrzcgpqtj8e_tn",
+      "preco": 269.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFERTAS10",
+      "enviadoEm": "2026-08-19T17:56:06.417Z"
+    },
+    {
+      "id": "10177",
+      "loja": "Amazon",
+      "titulo": "WOLFF - Garrafa Térmica de Aço Inox com Termômetro em Led 500ml - Conserva Bebidas Quentes e Frias",
+      "link": "https://www.amazon.com.br/dp/B0B1N2N6P5?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31VzEEhT80L._SL400_.jpg",
+      "preco": 35.99,
+      "precoDe": 47.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T17:46:18.698Z"
+    },
     {
       "id": "10176",
       "loja": "Amazon",
@@ -1369,78 +1441,6 @@
       "desconto": 8,
       "cupom": null,
       "enviadoEm": "2026-08-18T22:59:08.079Z"
-    },
-    {
-      "id": "9448",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Pants Tamanho XXG, Fácil de Vestir, 90 Unidades",
-      "link": "https://www.amazon.com.br/dp/B08K4L452V?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/5129OXHjIvL._SL400_.jpg",
-      "preco": 160.48,
-      "precoDe": 182.45,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T21:47:41.174Z"
-    },
-    {
-      "id": "9447",
-      "loja": "Amazon",
-      "titulo": "Sabonete Líquido Refil Glicerina Da Cabeça Aos Pés Johnson's Baby, 380ml",
-      "link": "https://www.amazon.com.br/dp/B085CZ2F4J?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41nbW3WDHdL._SL400_.jpg",
-      "preco": 18.14,
-      "precoDe": 36.99,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T21:47:15.513Z"
-    },
-    {
-      "id": "9446",
-      "loja": "Amazon",
-      "titulo": "Jipe Infantil Elétrico 12v Carrinho Controle Remoto Música (Preto)",
-      "link": "https://www.amazon.com.br/dp/B0F8P8KKH1?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51l0YK-k9KL._SL400_.jpg",
-      "preco": 919.9,
-      "precoDe": 1499.9,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T21:45:44.479Z"
-    },
-    {
-      "id": "9443",
-      "loja": "Amazon",
-      "titulo": "Leite em Pó Ninho Integral Instantâneo Sachê 575g",
-      "link": "https://www.amazon.com.br/dp/B0F7LC7WYH?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/413CjOlTH2L._SL400_.jpg",
-      "preco": 26.24,
-      "precoDe": 34.69,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T21:38:34.301Z"
-    },
-    {
-      "id": "9437",
-      "loja": "Amazon",
-      "titulo": "PHILIPS, Smart TV Ambilight 55\" 4K, 55PUG8100/78 + PHILIPS, Soundbar, TAB4000, Aparelho de Áudio para TV com Bluetooth, HDMI ARC e USB",
-      "link": "https://www.amazon.com.br/dp/B0H6W3NJXL?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31tHj-UePmL._SL400_.jpg",
-      "preco": 2776.94,
-      "precoDe": 3070.31,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T21:25:31.436Z"
-    },
-    {
-      "id": "9436",
-      "loja": "Mercado Livre",
-      "titulo": "Panela Pipoca Pipoqueira N°20 Preto Liso Com Tampa De Vidro Cor Vermelho",
-      "link": "https://meli.la/1U7bPoL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_830601-MLA108417312831_032026-O.webp",
-      "preco": 44.870000000000005,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "APROVEITAGORA",
-      "enviadoEm": "2026-08-18T21:23:53.229Z"
     }
   ]
 }
