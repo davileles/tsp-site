@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-08-19T17:16:17.396Z",
+  "atualizadoEm": "2026-08-19T17:46:17.396Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10176",
+      "loja": "Amazon",
+      "titulo": "Brastoy Blocos de Montar Magnéticos Construção Infantil Brinquedos Educativo STEM (62 Peças)",
+      "link": "https://www.amazon.com.br/dp/B0H11YLMMJ?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51eLbop+Q4L._SL400_.jpg",
+      "preco": 128.25,
+      "precoDe": 149,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T17:42:34.700Z"
+    },
+    {
+      "id": "10174",
+      "loja": "Amazon",
+      "titulo": "Lansinoh Bolsas de Armazenamento de Leite Materno, 50 Contagem, 6 Onças, Resistente a Fugas, Zíper, Livre de Bisfenol-A",
+      "link": "https://www.amazon.com.br/dp/B075HPVKH1?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41n9cUGs5pL._SL400_.jpg",
+      "preco": 76.68,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T17:38:01.886Z"
+    },
+    {
+      "id": "10171",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário para Cozinha Multiuso Taças Pratos Prateleiras Aramado Aço Dicarlo 5 Peças",
+      "link": "https://s.shopee.com.br/1gHwRdqchr",
+      "imagem": "https://cf.shopee.com.br/file/0913c6b2091f5d1f1b53d3b9e5624b4e_tn",
+      "preco": 93.5,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "C4RR1NH0D30UR0",
+      "enviadoEm": "2026-08-19T17:34:37.769Z"
+    },
+    {
+      "id": "10170",
+      "loja": "Amazon",
+      "titulo": "WOLFF - Garrafa Térmica de Aço Inox com Termômetro em Led 500ml Preto - Conserva Bebidas Quentes e Frias",
+      "link": "https://www.amazon.com.br/dp/B0B1N25YY5?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31wFqfyyWNL._SL400_.jpg",
+      "preco": 37.45,
+      "precoDe": 57.7,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T17:32:39.357Z"
+    },
+    {
+      "id": "10168",
+      "loja": "Amazon",
+      "titulo": "Caixa de Pilha AAA com 40 unidades Elgin Palito - Tubo, Zinco",
+      "link": "https://www.amazon.com.br/dp/B09LD48ZZ4?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31wIxVjKeFL._SL400_.jpg",
+      "preco": 21.59,
+      "precoDe": 36.81,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T17:24:53.756Z"
+    },
+    {
+      "id": "10167",
+      "loja": "Amazon",
+      "titulo": "NIVEA SUN Protetor Solar Kids Brincando na Água FPS 60 150ml - Infantil, especialmente formulado para a pele delicada das crianças, muito resistente à água, alta proteção UVA/UVB",
+      "link": "https://www.amazon.com.br/dp/B07LF7C7YL?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41Tf5G7g+6L._SL400_.jpg",
+      "preco": 54.78,
+      "precoDe": 87.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T17:23:01.610Z"
+    },
     {
       "id": "10165",
       "loja": "Shopee",
@@ -1369,78 +1441,6 @@
       "desconto": null,
       "cupom": "APROVEITAGORA",
       "enviadoEm": "2026-08-18T21:23:53.229Z"
-    },
-    {
-      "id": "9435",
-      "loja": "Mercado Livre",
-      "titulo": "Furadeira Parafusadeira Sem Fio 3/8 Maleta + Kit Ferramentas",
-      "link": "https://meli.la/1koAdKd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_743443-MLB96980705310_112025-O.webp",
-      "preco": 169.57,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "DESCOTOSMELI ou MAISCUPONS ou QUEROCUPONS ou AVANT25 ou AVANT ou PRAVCSEMPRE ou CUPOMDOML ou MELHORNOML ou AQUITEMCUPOM ou OFFHOJE",
-      "enviadoEm": "2026-08-18T21:13:00.558Z"
-    },
-    {
-      "id": "9404",
-      "loja": "Amazon",
-      "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
-      "link": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41IuHcLgjgL._SL400_.jpg",
-      "preco": 43.41,
-      "precoDe": 55.53,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-08-18T18:29:16.758Z"
-    },
-    {
-      "id": "9392",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 48 Carrinhos Fricção + Pista Brinquedo Infantil Maleta",
-      "link": "https://meli.la/1RAdpjA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_757715-MLB107385414377_022026-O.webp",
-      "preco": 58.449999999999996,
-      "precoDe": 119.99,
-      "desconto": 43,
-      "cupom": "BRINCADEIRAS",
-      "enviadoEm": "2026-08-18T17:35:23.658Z"
-    },
-    {
-      "id": "9373",
-      "loja": "Mercado Livre",
-      "titulo": "Lixeira Antiodor Com Sensor Inteligente Abre Fácil Cesto 17l",
-      "link": "https://meli.la/2hasXsa",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_861586-MLB96417840536_102025-O.webp",
-      "preco": 43.129999999999995,
-      "precoDe": 59.9,
-      "desconto": 10,
-      "cupom": "APROVEITAGORA",
-      "enviadoEm": "2026-08-18T16:59:57.127Z"
-    },
-    {
-      "id": "9372",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Kappa Traker Masculino",
-      "link": "https://meli.la/1AnKpBa",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_910182-MLB109553572102_042026-O-tnis-kappa-traker-masculino.webp",
-      "preco": 100.8,
-      "precoDe": 269.99,
-      "desconto": 53,
-      "cupom": "SEMPRENAMODA",
-      "enviadoEm": "2026-08-18T16:58:57.443Z"
-    },
-    {
-      "id": "9370",
-      "loja": "Mercado Livre",
-      "titulo": "Fone de Ouvido Sem Fio Huawei FreeBuds SE 2 com Bluetooth 5.3 e 40 Horas de Bateria na Cor Preto",
-      "link": "https://meli.la/1k1c4jx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_852682-MLA111154963746_052026-O.webp",
-      "preco": 125.1,
-      "precoDe": 399,
-      "desconto": 65,
-      "cupom": "MELICUPOM",
-      "enviadoEm": "2026-08-18T16:54:49.084Z"
     }
   ]
 }
