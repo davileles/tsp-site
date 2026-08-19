@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-19T13:51:39.065Z",
+  "atualizadoEm": "2026-08-19T14:12:05.578Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9830",
+      "loja": "Shopee",
+      "titulo": "Conjunto Tal Mãe e Filha Baby Doll Preto Pijama Feminino Lua Cinza",
+      "link": "https://s.shopee.com.br/2qTtbElMiq",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwyr4mfbl8r652_tn",
+      "preco": 35.5,
+      "precoDe": 65,
+      "desconto": 30,
+      "cupom": "LOVIV1TA",
+      "enviadoEm": "2026-08-19T14:02:50.553Z"
+    },
     {
       "id": "9821",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 67,
       "cupom": "V4NEXO26AF",
       "enviadoEm": "2026-08-17T17:33:02.799Z"
-    },
-    {
-      "id": "8529",
-      "loja": "Shopee",
-      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
-      "link": "https://s.shopee.com.br/40fo0ZP7AK",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
-      "preco": 134.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "V4NEXO26AF",
-      "enviadoEm": "2026-08-17T17:11:49.167Z"
     }
   ]
 }
