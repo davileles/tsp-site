@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-19T19:32:20.767Z",
+  "atualizadoEm": "2026-08-19T19:46:20.036Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -997,6 +997,18 @@
       "observacao": null,
       "validadeAte": "2026-08-20T00:05:15.494Z",
       "url": "https://www.awin1.com/awclick.php?mid=17652&id=1207116"
+    },
+    {
+      "codigo": "KIDS",
+      "loja": "Riachuelo",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
     },
     {
       "codigo": "LOVIV1TA",
