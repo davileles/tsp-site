@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-19T14:34:18.180Z",
+  "atualizadoEm": "2026-08-19T14:55:28.098Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "9898",
+      "loja": "Shopee",
+      "titulo": "Dispositivo Elétrico De Enxágue Nasal 360 ° Limpador De Sinusite Portátil Giratório De Cabeça Dupla Para Recuperação Aut",
+      "link": "https://s.shopee.com.br/5AroQS96BA",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mjme2wakn8qt69_tn",
+      "preco": 300,
+      "precoDe": 533.33,
+      "desconto": 40,
+      "cupom": "C4RR1NH0D30UR0",
+      "enviadoEm": "2026-08-19T14:45:28.097Z"
+    },
     {
       "id": "9894",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 80,
       "cupom": "PR0M0C4070P",
       "enviadoEm": "2026-08-17T18:16:03.095Z"
-    },
-    {
-      "id": "8547",
-      "loja": "Shopee",
-      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
-      "link": "https://s.shopee.com.br/4Vc4ePKUdk",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
-      "preco": 16.79,
-      "precoDe": 47.98,
-      "desconto": 50,
-      "cupom": "LOVIV1TA",
-      "enviadoEm": "2026-08-17T17:54:19.744Z"
     }
   ]
 }
