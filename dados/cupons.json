@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-19T12:00:45.214Z",
+  "atualizadoEm": "2026-08-19T12:22:37.712Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -447,6 +447,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "TODOSITE100",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-20T12:02:02.235Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "INTERNACIONALCN",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -591,6 +603,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CORREPROAPP",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 22,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-08-20T12:01:56.268Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SUPERPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -660,6 +684,42 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-08-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTAJA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-08-22T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELHORESPROMOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-08-22T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITE20",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 199,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-19T15:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -735,6 +795,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "VEMPROMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-08-20T12:01:56.292Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "BRINCADEIRAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -792,6 +864,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-08-20T12:00:40.371Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITE10",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-20T12:02:02.217Z",
       "url": "https://meli.la/2xystLt"
     },
     {
