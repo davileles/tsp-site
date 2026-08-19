@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-19T21:40:18.169Z",
+  "atualizadoEm": "2026-08-19T21:41:08.984Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10433",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut - 1 Litro",
+      "link": "https://www.amazon.com.br/dp/B004V54ZVK?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31UYeZ+swCL._SL400_.jpg",
+      "preco": 78.9,
+      "precoDe": 136.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T21:40:42.834Z"
+    },
     {
       "id": "10429",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "LOVIV1TA",
       "enviadoEm": "2026-08-19T12:28:08.130Z"
-    },
-    {
-      "id": "9708",
-      "loja": "Shopee",
-      "titulo": "Óleo Capilar Superpoderoso Cresce E Acontece 7Ml",
-      "link": "https://s.shopee.com.br/7KwIqrKjyZ",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-822zh-mibq0gk00b2b02_tn",
-      "preco": 7.630000000000001,
-      "precoDe": 24.77,
-      "desconto": 56,
-      "cupom": "LOVIV1TA",
-      "enviadoEm": "2026-08-19T12:25:54.287Z"
     }
   ]
 }
