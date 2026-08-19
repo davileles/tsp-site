@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-19T21:12:08.972Z",
+  "atualizadoEm": "2026-08-19T21:40:18.169Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10429",
+      "loja": "Shopee",
+      "titulo": "Tela Protetora Cães Pet Gato Divisória Removivel 180Cm Cerca Portão Para Portas Escada Rede Proteção",
+      "link": "https://s.shopee.com.br/W5zJfz9E0",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdi-ls9rg1qfduoaab_tn",
+      "preco": 16.029999999999998,
+      "precoDe": 57.25,
+      "desconto": 60,
+      "cupom": "LOVIV1TA",
+      "enviadoEm": "2026-08-19T21:30:18.154Z"
+    },
+    {
+      "id": "10427",
+      "loja": "Mercado Livre",
+      "titulo": "Processador de Alimentos Philco 420W 500ml com Pulsar Compacto PMN04A",
+      "link": "https://meli.la/2ynAVD2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_734135-MLA97524763156_112025-O.webp",
+      "preco": 145.49,
+      "precoDe": 189.9,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T21:23:20.029Z"
+    },
+    {
+      "id": "10426",
+      "loja": "Amazon",
+      "titulo": "Maxi-Cosi Cadeira de Refeição Minla, Essential Graphite",
+      "link": "https://www.amazon.com.br/dp/B07S3S3L6T?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31X1l3UNbEL._SL400_.jpg",
+      "preco": 1339.89,
+      "precoDe": 2199,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T21:21:19.999Z"
+    },
+    {
+      "id": "10425",
+      "loja": "Mercado Livre",
+      "titulo": " Bancada De Parede Dobrável De Apartamento Envio Rápido",
+      "link": "https://meli.la/2Xe33YA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_856360-MLB72164158819_102023-O.webp",
+      "preco": 119.32,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T21:15:50.908Z"
+    },
+    {
+      "id": "10389",
+      "loja": "Amazon",
+      "titulo": "Umidificador de Ar Ultrassônico 3,4 Litros Bivolt Fisher Price - HC115",
+      "link": "https://www.amazon.com.br/dp/B07HR1MZQP?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/315heWNPGOL._SL400_.jpg",
+      "preco": 160,
+      "precoDe": 269.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-08-19T21:13:49.103Z"
+    },
     {
       "id": "10379",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": 56,
       "cupom": "LOVIV1TA",
       "enviadoEm": "2026-08-19T12:25:54.287Z"
-    },
-    {
-      "id": "9709",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
-      "link": "https://meli.la/1ieWB4c",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_624574-MLA107288145353_022026-O.webp",
-      "preco": 188.59,
-      "precoDe": 329.99,
-      "desconto": 30,
-      "cupom": "COMPENSAML",
-      "enviadoEm": "2026-08-19T12:25:52.391Z"
-    },
-    {
-      "id": "9707",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer TCL 25 Polegadas QLED Mini LED Full HD G64 300Hz 1ms (GtG) Freesync HDR 600 nits 25G64",
-      "link": "https://meli.la/2wfHRhD",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_723939-MLA103720530496_012026-O.webp",
-      "preco": 1173.8799999999999,
-      "precoDe": 1699,
-      "desconto": 23,
-      "cupom": "FULLCUPONS ou PROMOTEC",
-      "enviadoEm": "2026-08-19T12:24:34.336Z"
-    },
-    {
-      "id": "9706",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Turma Da Mônica Baby Mega G 44 Unidades G",
-      "link": "https://meli.la/31bNxNT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_990051-MLA110123026010_042026-O.webp",
-      "preco": 29.340000000000003,
-      "precoDe": 50.04,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T12:23:26.425Z"
-    },
-    {
-      "id": "9700",
-      "loja": "Mercado Livre",
-      "titulo": "Water Cooler Obsid Pro 360 C/ Display Lcd E Argb Amd E Intel",
-      "link": "https://meli.la/2RLCekw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_906182-MLB114702463289_072026-O.webp",
-      "preco": 305.1,
-      "precoDe": 499,
-      "desconto": 32,
-      "cupom": "FULLCUPONS ou PROMOTEC",
-      "enviadoEm": "2026-08-19T12:20:57.031Z"
-    },
-    {
-      "id": "9702",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pom Pom Protek Grandinhos para Bebês (15 a 24kg) com 14 Unidades",
-      "link": "https://meli.la/2BHTmXx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_977074-MLA99924977877_112025-O.webp",
-      "preco": 15.080000000000002,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "INTERNACIONALCN",
-      "enviadoEm": "2026-08-19T12:20:35.814Z"
     }
   ]
 }
