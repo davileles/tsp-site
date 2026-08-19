@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-19T19:00:29.094Z",
+  "atualizadoEm": "2026-08-19T19:32:20.767Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
+    {
+      "codigo": "NOVA3",
+      "loja": "Aliexpress",
+      "tipo": "reais",
+      "valor": 650,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-21T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
     {
       "codigo": "MEGABR09",
       "loja": "Aliexpress",
