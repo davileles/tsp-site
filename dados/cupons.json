@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-20T18:47:05.817Z",
+  "atualizadoEm": "2026-08-20T19:14:15.393Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -540,18 +540,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-20T19:51:35.267Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "TOMA10",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": 600,
-      "limite": null,
-      "observacao": "Válido no app Magalu",
-      "validadeAte": "2026-08-20T18:51:21.720Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
