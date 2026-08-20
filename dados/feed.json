@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-20T17:10:09.401Z",
+  "atualizadoEm": "2026-08-20T17:15:00.516Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10786",
+      "loja": "Amazon",
+      "titulo": "Huggies Fralda Supreme Care M 196 Un",
+      "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51+st-gYHFL._SL400_.jpg",
+      "preco": 174.9,
+      "precoDe": 229.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T17:13:57.983Z"
+    },
+    {
+      "id": "10785",
+      "loja": "Shopee",
+      "titulo": "JOGO DE CAMA Queen 500 Fios Percal Toque Algodão + 2 Fronhas 50x70 | Cobre Leito Luxo Sem Elástico",
+      "link": "https://s.shopee.com.br/904YkWvuMS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mnmy209iybcya0_tn",
+      "preco": 37.57,
+      "precoDe": 72.15,
+      "desconto": 41,
+      "cupom": "L3V3M415",
+      "enviadoEm": "2026-08-20T17:13:12.385Z"
+    },
     {
       "id": "10782",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 11,
       "cupom": null,
       "enviadoEm": "2026-08-19T22:18:22.209Z"
-    },
-    {
-      "id": "10441",
-      "loja": "Amazon",
-      "titulo": "JBL, Caixa de Som, Go Essential 2, Bluetooth, Portátil, À Prova D'água e Poeira, Bateria de até 5h, Auracast, Som JBL Original Pro Sound, 3.1 W RMS - Preto",
-      "link": "https://www.amazon.com.br/dp/B0FPNXM7TF?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41iyGCvpRtL._SL400_.jpg",
-      "preco": 173.65,
-      "precoDe": 219,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T22:10:57.194Z"
-    },
-    {
-      "id": "10440",
-      "loja": "Mercado Livre",
-      "titulo": "Bateria Moura Titan Fan Biz Bros Fazer 125 150 160 Flex Xre ",
-      "link": "https://meli.la/2kH2Dhx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_981911-MLB102983678007_122025-O.webp",
-      "preco": 111.28,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELIPROMO",
-      "enviadoEm": "2026-08-19T22:09:37.221Z"
     }
   ]
 }
