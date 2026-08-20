@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-20T11:35:44.996Z",
+  "atualizadoEm": "2026-08-20T12:05:45.141Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -423,18 +423,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "AQUARIO10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-20T12:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "FILTRIN10",
       "loja": "Kabum",
       "tipo": "pct",
@@ -444,18 +432,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-24T11:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "KORUJAO",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-20T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -900,6 +876,18 @@
       "limite": 10,
       "observacao": null,
       "validadeAte": "2026-08-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELITEC",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Válido em produtos selecionados conforme lista",
+      "validadeAte": "2026-08-21T12:00:48.071Z",
       "url": "https://meli.la/2xystLt"
     },
     {
