@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-20T13:29:28.591Z",
+  "atualizadoEm": "2026-08-20T13:52:00.442Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -949,6 +949,18 @@
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
+    },
+    {
+      "codigo": "C0MP74RN4SH0P33",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-21T13:38:48.390Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "V0UCH3R15",
