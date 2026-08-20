@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-20T09:35:44.003Z",
+  "atualizadoEm": "2026-08-20T10:35:43.979Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -639,6 +639,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OFFHOJE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MELIPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -712,18 +724,6 @@
     },
     {
       "codigo": "CORREAQUINOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SAUDEPRAVC",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
