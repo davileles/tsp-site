@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-20T22:17:16.129Z",
+  "atualizadoEm": "2026-08-20T22:36:18.416Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "11159",
+      "loja": "Amazon",
+      "titulo": "Carter's Baby 7-Pack Long Sleeve Bodysuits",
+      "link": "https://www.amazon.com.br/dp/B07WTXGG8Z?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41nuWvpb6vL._SL400_.jpg",
+      "preco": 134.99,
+      "precoDe": 162.4,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T22:33:17.853Z"
+    },
     {
       "id": "11116",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 68,
       "cupom": null,
       "enviadoEm": "2026-08-20T12:37:12.170Z"
-    },
-    {
-      "id": "10554",
-      "loja": "Shopee",
-      "titulo": "1080° Torneira Giratória de Braço Robótico Chuveiro À Prova De Respingos Banheiro Cozinha Do Aerador Dois Modos",
-      "link": "https://s.shopee.com.br/5fo6TOrkSs",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mev5hs72r2mac1_tn",
-      "preco": 23.98,
-      "precoDe": 63,
-      "desconto": 54,
-      "cupom": "4CH4D1NH0S",
-      "enviadoEm": "2026-08-20T12:36:22.349Z"
     }
   ]
 }
