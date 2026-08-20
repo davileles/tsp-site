@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-20T16:15:00.512Z",
+  "atualizadoEm": "2026-08-20T16:45:00.515Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10774",
+      "loja": "Amazon",
+      "titulo": "Lillo Kit De Higiene Para Recém Nascido com Aspirador Nasal, Tesoura, Pente e Escova de Cabelo, Rosa",
+      "link": "https://www.amazon.com.br/dp/B07FRYKPRL?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41zWPYQRCjL._SL400_.jpg",
+      "preco": 28.39,
+      "precoDe": 29.9,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T16:37:47.852Z"
+    },
+    {
+      "id": "10773",
+      "loja": "Amazon",
+      "titulo": "Exposis Bebe, Repelente Baby com Icaridina, Gel 117g",
+      "link": "https://www.amazon.com.br/dp/B08N8PWLM6?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41XCcF6As9L._SL400_.jpg",
+      "preco": 45.46,
+      "precoDe": 73.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T16:37:45.615Z"
+    },
+    {
+      "id": "10768",
+      "loja": "Shopee",
+      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
+      "link": "https://s.shopee.com.br/5q7Wvn6Q7b",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
+      "preco": 59,
+      "precoDe": 158,
+      "desconto": 50,
+      "cupom": "C0MP74RN4SH0P33",
+      "enviadoEm": "2026-08-20T16:30:40.013Z"
+    },
+    {
+      "id": "10767",
+      "loja": "Amazon",
+      "titulo": "Heinz Ketchup Picante 397g",
+      "link": "https://www.amazon.com.br/dp/B07YN95VL9?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/3119NZszl5L._SL400_.jpg",
+      "preco": 11.99,
+      "precoDe": 15.79,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T16:28:50.765Z"
+    },
+    {
+      "id": "10766",
+      "loja": "Amazon",
+      "titulo": "JBL, Caixa de Som, PartyBox Club 120, Bluetooth, Show de Luzes, À Prova de Respingos, Som JBL Pro Sound, 160W RMS - Preta",
+      "link": "https://www.amazon.com.br/dp/B0G4SQNDHB?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31lorpWCGWL._SL400_.jpg",
+      "preco": 1825,
+      "precoDe": 3099,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T16:26:58.010Z"
+    },
     {
       "id": "10764",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": null,
       "cupom": "OFERTAS10",
       "enviadoEm": "2026-08-19T21:51:37.819Z"
-    },
-    {
-      "id": "10433",
-      "loja": "Amazon",
-      "titulo": "Vodka Absolut - 1 Litro",
-      "link": "https://www.amazon.com.br/dp/B004V54ZVK?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31UYeZ+swCL._SL400_.jpg",
-      "preco": 78.9,
-      "precoDe": 136.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T21:40:42.834Z"
-    },
-    {
-      "id": "10429",
-      "loja": "Shopee",
-      "titulo": "Tela Protetora Cães Pet Gato Divisória Removivel 180Cm Cerca Portão Para Portas Escada Rede Proteção",
-      "link": "https://s.shopee.com.br/W5zJfz9E0",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdi-ls9rg1qfduoaab_tn",
-      "preco": 16.029999999999998,
-      "precoDe": 57.25,
-      "desconto": 60,
-      "cupom": "LOVIV1TA",
-      "enviadoEm": "2026-08-19T21:30:18.154Z"
-    },
-    {
-      "id": "10427",
-      "loja": "Mercado Livre",
-      "titulo": "Processador de Alimentos Philco 420W 500ml com Pulsar Compacto PMN04A",
-      "link": "https://meli.la/2ynAVD2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_734135-MLA97524763156_112025-O.webp",
-      "preco": 145.49,
-      "precoDe": 189.9,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T21:23:20.029Z"
-    },
-    {
-      "id": "10426",
-      "loja": "Amazon",
-      "titulo": "Maxi-Cosi Cadeira de Refeição Minla, Essential Graphite",
-      "link": "https://www.amazon.com.br/dp/B07S3S3L6T?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31X1l3UNbEL._SL400_.jpg",
-      "preco": 1339.89,
-      "precoDe": 2199,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T21:21:19.999Z"
-    },
-    {
-      "id": "10425",
-      "loja": "Mercado Livre",
-      "titulo": " Bancada De Parede Dobrável De Apartamento Envio Rápido",
-      "link": "https://meli.la/2Xe33YA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_856360-MLB72164158819_102023-O.webp",
-      "preco": 119.32,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T21:15:50.908Z"
     }
   ]
 }
