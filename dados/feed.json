@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-08-20T16:05:35.142Z",
+  "atualizadoEm": "2026-08-20T16:15:00.512Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10764",
+      "loja": "Mercado Livre",
+      "titulo": "Barraca Infantil Cabana Tenda Festa Do Pijama Menino Criança Bebê Iglu Portátil Circus Azul",
+      "link": "https://meli.la/2kAJV27",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_948699-MLA110358966152_052026-O.webp",
+      "preco": 62.580000000000005,
+      "precoDe": 99.99,
+      "desconto": 26,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-20T16:12:15.446Z"
+    },
+    {
+      "id": "10763",
+      "loja": "Amazon",
+      "titulo": "Buba, Kit 3 Mamadeiras Easy Flow Nuvem Azul 120/270/330ml",
+      "link": "https://www.amazon.com.br/dp/B0FVB7KV7G?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41TEgv4sPeL._SL400_.jpg",
+      "preco": 70.4,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T16:12:10.670Z"
+    },
+    {
+      "id": "10761",
+      "loja": "Mercado Livre",
+      "titulo": "Jipe Infantil Elétrico 12v Carrinho Controle Remoto Música Brinq Kids",
+      "link": "https://meli.la/2drY4Wb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_826715-MLA105259875841_012026-O.webp",
+      "preco": 719.3599999999999,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-20T16:12:06.229Z"
+    },
+    {
+      "id": "10760",
+      "loja": "Mercado Livre",
+      "titulo": "Lego Classic 10713 - Maleta da Criatividade - Quantidade de peças 213",
+      "link": "https://meli.la/2cKbkFt",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_678645-MLA99447823800_112025-O.webp",
+      "preco": 91.03,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-20T16:12:01.878Z"
+    },
+    {
+      "id": "10759",
+      "loja": "Mercado Livre",
+      "titulo": "Babuu Bomba Tira Leite Materno Para Amamentação",
+      "link": "https://meli.la/1CyGEsf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_946012-MLB112282501989_052026-O.webp",
+      "preco": 202.74,
+      "precoDe": 268,
+      "desconto": 11,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-20T16:11:57.475Z"
+    },
+    {
+      "id": "10758",
+      "loja": "Shopee",
+      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
+      "link": "https://s.shopee.com.br/2BEEXaqfaD",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
+      "preco": 59.980000000000004,
+      "precoDe": 199.95,
+      "desconto": 60,
+      "cupom": "C0MP74RN4SH0P33",
+      "enviadoEm": "2026-08-20T16:09:26.622Z"
+    },
     {
       "id": "10755",
       "loja": "Mercado Livre",
@@ -469,18 +541,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-08-20T13:12:14.969Z"
-    },
-    {
-      "id": "10572",
-      "loja": "Amazon",
-      "titulo": "Buba, Kit 3 Mamadeiras Easy Flow Nuvem Azul 120/270/330ml",
-      "link": "https://www.amazon.com.br/dp/B0FVB7KV7G?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41TEgv4sPeL._SL400_.jpg",
-      "preco": 70.4,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T13:12:09.527Z"
     },
     {
       "id": "10571",
@@ -1381,66 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-19T21:15:50.908Z"
-    },
-    {
-      "id": "10389",
-      "loja": "Amazon",
-      "titulo": "Umidificador de Ar Ultrassônico 3,4 Litros Bivolt Fisher Price - HC115",
-      "link": "https://www.amazon.com.br/dp/B07HR1MZQP?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/315heWNPGOL._SL400_.jpg",
-      "preco": 160,
-      "precoDe": 269.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T21:13:49.103Z"
-    },
-    {
-      "id": "10379",
-      "loja": "Mercado Livre",
-      "titulo": "Esmerilhadeira angular Bosch Professional GWS 700 azul 710 W",
-      "link": "https://meli.la/2MTELRd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_670719-MLA99986706915_112025-O.webp",
-      "preco": 293,
-      "precoDe": 413.5,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T21:10:23.020Z"
-    },
-    {
-      "id": "10378",
-      "loja": "Shopee",
-      "titulo": "Sutiã Santa Passion Tomara que Caia com Bojo e Aro Liso de Alta Sustentação Push Up Confortável",
-      "link": "https://s.shopee.com.br/1BLg5QkyJR",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-822z4-mi3ba3rgqmfbee_tn",
-      "preco": 46.26,
-      "precoDe": 100.46,
-      "desconto": 44,
-      "cupom": "LOVIV1TA",
-      "enviadoEm": "2026-08-19T21:08:57.441Z"
-    },
-    {
-      "id": "10377",
-      "loja": "Amazon",
-      "titulo": "OAZ Gel Pós-Sol Infantil Bob Esponja 120ml",
-      "link": "https://www.amazon.com.br/dp/B0BXV3STFF?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31N2eXFMopL._SL400_.jpg",
-      "preco": 16.99,
-      "precoDe": 23.9,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T21:07:20.150Z"
-    },
-    {
-      "id": "10376",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Olympikus Nuvem Leve Running Original",
-      "link": "https://meli.la/2a3mVPm",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_844281-MLA115082715157_072026-O.webp",
-      "preco": 257.7,
-      "precoDe": 449.99,
-      "desconto": 30,
-      "cupom": "COMPENSAML",
-      "enviadoEm": "2026-08-19T21:02:24.882Z"
     }
   ]
 }
