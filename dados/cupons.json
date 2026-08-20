@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-20T00:05:44.059Z",
+  "atualizadoEm": "2026-08-20T00:35:44.040Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -671,7 +671,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-08-21T02:59:00.000Z",
+      "validadeAte": "2026-08-22T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -759,6 +759,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "SEMPRENAMODA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OFERTAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -771,6 +783,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "APROVEITAGORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "COMMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -779,7 +803,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-08-21T02:59:00.000Z",
+      "validadeAte": "2026-08-22T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -791,7 +815,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Válido para produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-08-21T02:59:00.000Z",
+      "validadeAte": "2026-08-22T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
