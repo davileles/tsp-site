@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-20T14:57:53.785Z",
+  "atualizadoEm": "2026-08-20T15:15:50.820Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10685",
+      "loja": "Amazon",
+      "titulo": "Rum Bacardi Carta Blanca 980ml",
+      "link": "https://www.amazon.com.br/dp/B07XYH874V?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41ZiyV9P38L._SL400_.jpg",
+      "preco": 39.9,
+      "precoDe": 52.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T15:05:50.780Z"
+    },
+    {
+      "id": "10684",
+      "loja": "Shopee",
+      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
+      "link": "https://s.shopee.com.br/3qMSSEgXqb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
+      "preco": 73.92,
+      "precoDe": 323.86,
+      "desconto": 71,
+      "cupom": "C0MP74RN4SH0P33",
+      "enviadoEm": "2026-08-20T15:05:32.131Z"
+    },
+    {
+      "id": "10683",
+      "loja": "Amazon",
+      "titulo": "Vinho Fino Rosé Chileno Santa Loreto Varietal 750ml",
+      "link": "https://www.amazon.com.br/dp/B0D543CTX1?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/318qjMtTNFL._SL400_.jpg",
+      "preco": 22.8,
+      "precoDe": 28.37,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T15:04:34.930Z"
+    },
+    {
+      "id": "10653",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira de Refeição Maxi Baby Mug Coffee",
+      "link": "https://meli.la/2omg1pu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_789412-MLA113718054751_062026-O.webp",
+      "preco": 169.91,
+      "precoDe": 639.9,
+      "desconto": 69,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-20T14:59:41.865Z"
+    },
     {
       "id": "10629",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-08-19T18:29:15.843Z"
-    },
-    {
-      "id": "10196",
-      "loja": "Shopee",
-      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
-      "link": "https://s.shopee.com.br/AUtL0oT4So",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
-      "preco": 177.9,
-      "precoDe": 599.7,
-      "desconto": 67,
-      "cupom": "C4RR1NH0D30UR0",
-      "enviadoEm": "2026-08-19T18:17:32.318Z"
-    },
-    {
-      "id": "10194",
-      "loja": "Amazon",
-      "titulo": "Rum Bacardi Carta Blanca 980ml",
-      "link": "https://www.amazon.com.br/dp/B07XYH874V?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41ZiyV9P38L._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 52.9,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T18:14:14.609Z"
-    },
-    {
-      "id": "10190",
-      "loja": "Amazon",
-      "titulo": "Jipe Infantil Elétrico 12v Carrinho Controle Remoto Música (Preto)",
-      "link": "https://www.amazon.com.br/dp/B0F8P8KKH1?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51l0YK-k9KL._SL400_.jpg",
-      "preco": 919.9,
-      "precoDe": 1499.9,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T18:07:36.719Z"
-    },
-    {
-      "id": "10183",
-      "loja": "Amazon",
-      "titulo": "PAMPERS SABONETE LÍQUIDO RELAXAMENTO 400ml",
-      "link": "https://www.amazon.com.br/dp/B0F1DWXMXC?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31vdop9RHWL._SL400_.jpg",
-      "preco": 25.08,
-      "precoDe": 39.99,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T17:59:52.516Z"
     }
   ]
 }
