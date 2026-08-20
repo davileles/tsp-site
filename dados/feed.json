@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-20T21:24:01.835Z",
+  "atualizadoEm": "2026-08-20T21:32:59.422Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "11017",
+      "loja": "Shopee",
+      "titulo": "Seringa de Segurança Retrátil para Insulina (1ml) com Agulha Fixa 0,3x13mm (30G 1/2) c/10 | - SOL",
+      "link": "https://s.shopee.com.br/60QxSjlcqu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mnepe0233aptdf_tn",
+      "preco": 15,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T21:31:40.830Z"
+    },
+    {
+      "id": "11015",
+      "loja": "Amazon",
+      "titulo": "Comfort Amaciante Concentrado 36 Segredos 1,5L",
+      "link": "https://www.amazon.com.br/dp/B0CJG18XKM?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41lUvlTHdDL._SL400_.jpg",
+      "preco": 23.89,
+      "precoDe": 36.99,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T21:30:10.835Z"
+    },
+    {
+      "id": "11014",
+      "loja": "Mercado Livre",
+      "titulo": "Mixer Bmx360 2 Em 1 350w Com Lâminas Pro Maxx Preto Britânia",
+      "link": "https://meli.la/31oUXp4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_967897-MLU73024944098_112023-O.webp",
+      "preco": 69.98,
+      "precoDe": 199.9,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T21:28:33.479Z"
+    },
+    {
+      "id": "11013",
+      "loja": "Amazon",
+      "titulo": "GameSir X2s Type-C Controlador de jogos móvel para Android e iPhone Série 15 (USB-C)",
+      "link": "https://www.amazon.com.br/dp/B0CRTMNQBL?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41sc-PeH5UL._SL400_.jpg",
+      "preco": 229.99,
+      "precoDe": 399,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T21:27:48.646Z"
+    },
+    {
+      "id": "11011",
+      "loja": "Amazon",
+      "titulo": "SKIN AQUA® Super Moisture Milk 40g - Protetor Solar Facial sem cor FPS50 com Ácido Hialurônico e Textura Leve",
+      "link": "https://www.amazon.com.br/dp/B0C9L4ZNZ8?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/21GEOjeSdAL._SL400_.jpg",
+      "preco": 51.21,
+      "precoDe": 69,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T21:24:11.718Z"
+    },
     {
       "id": "11009",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-08-20T12:16:57.824Z"
-    },
-    {
-      "id": "10539",
-      "loja": "Shopee",
-      "titulo": "1 unidade Saquinho de veludo 13cm x 18cm p/ embalagem presente",
-      "link": "https://s.shopee.com.br/qiqh3c2ZF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lth372jhd161e3_tn",
-      "preco": 15.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T12:15:12.201Z"
-    },
-    {
-      "id": "10537",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino Casual Aramis Daily Slip Confortável Moderno",
-      "link": "https://meli.la/22Ki9L8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_741024-MLB114244636256_082026-O.webp",
-      "preco": 278.79,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COMPENSAML",
-      "enviadoEm": "2026-08-20T12:14:07.034Z"
-    },
-    {
-      "id": "10536",
-      "loja": "Mercado Livre",
-      "titulo": "Ssd 1tb M.2 Nvme Pcie 4.0 Western Digital Sn3000 Velocidade De Leitura E Gravação 5000/4200 Mb/s Wds100t4g0e-00cps0 Preto",
-      "link": "https://meli.la/2GvZzu4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_763059-MLA113958735025_062026-O-ssd-1tb-m2-nvme-pcie-40-western-digital-sn3000-velocidade-de-leitura-e-gravaco-50004200-mbs-wds100t4g0e-00cps0-preto.webp",
-      "preco": 594.3,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "ESTOQUEDOMELI",
-      "enviadoEm": "2026-08-20T12:14:06.442Z"
-    },
-    {
-      "id": "10538",
-      "loja": "Amazon",
-      "titulo": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
-      "link": "https://www.amazon.com.br/dp/B093G9PSPP?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/414v-0iBtHL._SL400_.jpg",
-      "preco": 37.86,
-      "precoDe": 50.29,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T12:13:22.472Z"
-    },
-    {
-      "id": "10535",
-      "loja": "Mercado Livre",
-      "titulo": "Placa-mãe MSI B550m Pro-VDH Am4 HDMI VGA Dport",
-      "link": "https://meli.la/2Eij83d",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753177-MLA99409945572_112025-O.webp",
-      "preco": 657.27,
-      "precoDe": 964.36,
-      "desconto": 24,
-      "cupom": "LOJASOFICIASCUPONEIR ou LOJASOFICIAIS ou MELITEC",
-      "enviadoEm": "2026-08-20T12:12:39.729Z"
     }
   ]
 }
