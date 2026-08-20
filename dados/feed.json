@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-20T13:51:58.069Z",
+  "atualizadoEm": "2026-08-20T14:05:43.718Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10612",
+      "loja": "Shopee",
+      "titulo": "Cadeirinha Infantil para Carro Omni 0-36Kg (40-150cm) Preto e Cinza Multikids - BB712",
+      "link": "https://s.shopee.com.br/7fZAwwr9r9",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvx-mn4nj7f94z5vbe_tn",
+      "preco": 774.89,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFERTAS10",
+      "enviadoEm": "2026-08-20T14:02:15.232Z"
+    },
+    {
+      "id": "10610",
+      "loja": "Amazon",
+      "titulo": "Aptanutri Soja 3 Fórmula Infantil 800g",
+      "link": "https://www.amazon.com.br/dp/B0D292HCS7?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41X0UwA6OwL._SL400_.jpg",
+      "preco": 87.26,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T13:59:15.572Z"
+    },
+    {
+      "id": "10609",
+      "loja": "Amazon",
+      "titulo": "Buba Pote Termico C/Colher Degrade Azul",
+      "link": "https://www.amazon.com.br/dp/B0CGFSD6TR?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31f7TKapwdL._SL400_.jpg",
+      "preco": 78.88,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T13:59:14.821Z"
+    },
+    {
+      "id": "10608",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira Carro Reclinável 5P 0-36kg Bauhaus Preto Maxi Baby",
+      "link": "https://meli.la/1sGA1n2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_882497-MLA113716578405_062026-O.webp",
+      "preco": 382.40999999999997,
+      "precoDe": 879.9,
+      "desconto": 49,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-20T13:59:13.843Z"
+    },
     {
       "id": "10590",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-08-19T17:23:01.610Z"
-    },
-    {
-      "id": "10165",
-      "loja": "Shopee",
-      "titulo": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
-      "link": "https://s.shopee.com.br/7KwJAc14ii",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mq3nf4vg8k5f75_tn",
-      "preco": 34.17,
-      "precoDe": 55.91,
-      "desconto": 21,
-      "cupom": "LOVIV1TA",
-      "enviadoEm": "2026-08-19T17:13:32.729Z"
-    },
-    {
-      "id": "10163",
-      "loja": "Amazon",
-      "titulo": "WOLFF Faqueiro de Aço Inox Pérola 30 Peças - Jogos de Talheres - Mesa Posta - Utensílios de Cozinha, Enxoval, Casamento, Decoração",
-      "link": "https://www.amazon.com.br/dp/B08R11YBCW?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31RKh0lXtiL._SL400_.jpg",
-      "preco": 246,
-      "precoDe": 376.1,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T17:11:23.120Z"
-    },
-    {
-      "id": "10160",
-      "loja": "Amazon",
-      "titulo": "Brastoy Blocos de Montar Magnéticos Construção Infantil Brinquedo Educativo (120 Peças Roda-gigante)",
-      "link": "https://www.amazon.com.br/dp/B097K16GKC?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51WcOuOTsRL._SL400_.jpg",
-      "preco": 151.19,
-      "precoDe": 229,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T17:03:38.414Z"
-    },
-    {
-      "id": "10158",
-      "loja": "Mercado Livre",
-      "titulo": "Fritadeira Sem Óleo Super Cook Fryer Frt410 3,8l Cadence Cor Preto",
-      "link": "https://meli.la/1dH6jRg",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_675450-MLA99510361752_112025-O.webp",
-      "preco": 164.24,
-      "precoDe": 231.34,
-      "desconto": 21,
-      "cupom": "PROMOTEC",
-      "enviadoEm": "2026-08-19T16:57:39.415Z"
     }
   ]
 }
