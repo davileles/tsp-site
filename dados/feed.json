@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-08-20T18:45:00.516Z",
+  "atualizadoEm": "2026-08-20T19:14:14.035Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10824",
+      "loja": "Mercado Livre",
+      "titulo": "Boneco Dinossauro Infantil Didático Dino Papa Tudo - Elka",
+      "link": "https://meli.la/2rNbyxi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_939941-MLB91918388696_092025-O.webp",
+      "preco": 59.489999999999995,
+      "precoDe": 78.99,
+      "desconto": 11,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-20T19:06:41.634Z"
+    },
+    {
+      "id": "10823",
+      "loja": "Amazon",
+      "titulo": "Saco Para Armazenar Leite Materno, Buba, Branco",
+      "link": "https://www.amazon.com.br/dp/B07RPGHYJ2?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41q0a0zliML._SL400_.jpg",
+      "preco": 28.49,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T19:06:37.781Z"
+    },
+    {
+      "id": "10822",
+      "loja": "Amazon",
+      "titulo": "Alfabeto - Sílabas e Palavras",
+      "link": "https://www.amazon.com.br/dp/8538099396?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51Tw6c2JMvL._SL400_.jpg",
+      "preco": 17.93,
+      "precoDe": 29.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T19:06:37.211Z"
+    },
+    {
+      "id": "10821",
+      "loja": "Amazon",
+      "titulo": "Box - Turma da Mônica Coleção Minha Primeira Biblioteca",
+      "link": "https://www.amazon.com.br/dp/6561261801?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51ZZVf12HXL._SL400_.jpg",
+      "preco": 41,
+      "precoDe": 89.9,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T19:06:36.598Z"
+    },
+    {
+      "id": "10819",
+      "loja": "Mercado Livre",
+      "titulo": "Mesinha Atividades Infantil Didática Mesa Bebe Interativa Cor Rosa",
+      "link": "https://meli.la/2JYY381",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_868561-MLA95704197956_102025-O.webp",
+      "preco": 77.38000000000001,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-20T18:59:41.919Z"
+    },
+    {
+      "id": "10818",
+      "loja": "Amazon",
+      "titulo": "Carro Vira Robo Som Luz Carrinho BMW BRANCO Brinquedo Menino Pilha Cor CAMARO AMARELO - TYDA (CAMARO AMARELO)",
+      "link": "https://www.amazon.com.br/dp/B0DSV4DY9P?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/410ZGMCjJuL._SL400_.jpg",
+      "preco": 49.61,
+      "precoDe": 69.47,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T18:59:38.101Z"
+    },
+    {
+      "id": "10817",
+      "loja": "Mercado Livre",
+      "titulo": "Cercadinho Para Bebê Infantil Chiqueirinho 127x127cm Pipdip",
+      "link": "https://meli.la/2s4zf3B",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_923847-MLB92222766840_092025-O.webp",
+      "preco": 212.41,
+      "precoDe": 459.9,
+      "desconto": 46,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-20T18:59:37.405Z"
+    },
+    {
+      "id": "10814",
+      "loja": "Shopee",
+      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
+      "link": "https://s.shopee.com.br/7KwKshF0dQ",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
+      "preco": 58.989999999999995,
+      "precoDe": 202.54,
+      "desconto": 61,
+      "cupom": "C0MP74RN4SH0P33",
+      "enviadoEm": "2026-08-20T18:58:34.507Z"
+    },
     {
       "id": "10810",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 13,
       "cupom": null,
       "enviadoEm": "2026-08-20T11:13:03.232Z"
-    },
-    {
-      "id": "10510",
-      "loja": "Amazon",
-      "titulo": "OMO Lava-Roupas Líquido Ultra Power Frasco 1,8L",
-      "link": "https://www.amazon.com.br/dp/B0CBCRP3BS?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/416Ap+9jf6L._SL400_.jpg",
-      "preco": 23.98,
-      "precoDe": 32.99,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T11:12:01.778Z"
-    },
-    {
-      "id": "10509",
-      "loja": "Amazon",
-      "titulo": "Bombom NESTLÉ Especialidades Caixa 220g",
-      "link": "https://www.amazon.com.br/dp/B0GFGBVRLK?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41xUsrAPzFL._SL400_.jpg",
-      "preco": 10.99,
-      "precoDe": 18.89,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T11:10:43.261Z"
-    },
-    {
-      "id": "10508",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Nike Sb Force 58 Masculino",
-      "link": "https://meli.la/2kbNYKe",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_951903-MLB113674322118_072026-O.webp",
-      "preco": 255.10000000000002,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COMPENSAML",
-      "enviadoEm": "2026-08-20T11:09:28.258Z"
-    },
-    {
-      "id": "10506",
-      "loja": "Shopee",
-      "titulo": "Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Original Lacrado e Envio Imediato ADS",
-      "link": "https://s.shopee.com.br/5LBFyY8Ld0",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd5d-m70xc8ny0lbm09_tn",
-      "preco": 2129,
-      "precoDe": 3870.91,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T11:06:05.359Z"
-    },
-    {
-      "id": "10455",
-      "loja": "Mercado Livre",
-      "titulo": "Relógio Tommy Hilfiger Norris Masculino Couro Azul - 1710666",
-      "link": "https://meli.la/2PgrKXq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_666524-MLA80164536377_102024-O.webp",
-      "preco": 409.85999999999996,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROMOTEC",
-      "enviadoEm": "2026-08-19T22:58:49.208Z"
-    },
-    {
-      "id": "10454",
-      "loja": "Mercado Livre",
-      "titulo": "Relógio de couro masculino Tommy Hilfiger 1710549",
-      "link": "https://meli.la/2CNKM2Z",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_618629-MLU77158743844_072024-O.webp",
-      "preco": 409.85999999999996,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROMOTEC",
-      "enviadoEm": "2026-08-19T22:52:32.077Z"
-    },
-    {
-      "id": "10453",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino Casual Aramis Daily Slip Confortável Moderno",
-      "link": "https://meli.la/291kfBF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_741024-MLB114244636256_082026-O.webp",
-      "preco": 135.54,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COMPENSAML",
-      "enviadoEm": "2026-08-19T22:51:23.569Z"
-    },
-    {
-      "id": "10452",
-      "loja": "Amazon",
-      "titulo": "WAP Vassoura MOP com Balde MOP DUPLO COMPACTO Multiuso, Lava e Seca, com Refil de Microfibra, 8 Litros",
-      "link": "https://www.amazon.com.br/dp/B08CBGQ97G?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31rN8QvW2cL._SL400_.jpg",
-      "preco": 44,
-      "precoDe": 109.9,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T22:50:45.532Z"
     }
   ]
 }
