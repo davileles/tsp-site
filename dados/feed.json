@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-20T21:32:59.422Z",
+  "atualizadoEm": "2026-08-20T21:48:16.130Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "11065",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Malbec 750ml",
+      "link": "https://www.amazon.com.br/dp/B09Q4GD377?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31zOsv7oefL._SL400_.jpg",
+      "preco": 22.1,
+      "precoDe": 39.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T21:46:30.251Z"
+    },
+    {
+      "id": "11064",
+      "loja": "Amazon",
+      "titulo": "Wella Professionals Blondorplex Máscara 30ml",
+      "link": "https://www.amazon.com.br/dp/B0FCV8MXTR?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/21fLBSfaRIL._SL400_.jpg",
+      "preco": 15.1,
+      "precoDe": 50,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T21:44:46.590Z"
+    },
+    {
+      "id": "11061",
+      "loja": "Amazon",
+      "titulo": "Fralda Huggies Premium Dermacare RN - 34 Un",
+      "link": "https://www.amazon.com.br/dp/B0DR9PH47L?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41CEDiAYGTL._SL400_.jpg",
+      "preco": 49.9,
+      "precoDe": 54.59,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T21:39:10.127Z"
+    },
+    {
+      "id": "11058",
+      "loja": "Amazon",
+      "titulo": "Brincando de Engenheiro 73 Peças Xalingo",
+      "link": "https://www.amazon.com.br/dp/B0779LGJG3?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51IW+U3UByL._SL400_.jpg",
+      "preco": 19.35,
+      "precoDe": 42.51,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T21:34:02.430Z"
+    },
     {
       "id": "11017",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": null,
       "cupom": "LOJASOFICIASCUPONEIR ou LOJASOFICIAIS ou MELITEC",
       "enviadoEm": "2026-08-20T12:22:23.769Z"
-    },
-    {
-      "id": "10543",
-      "loja": "Amazon",
-      "titulo": "Lava-Roupas em Pó Roupas Brancas Omo Expert Caixa 720g",
-      "link": "https://www.amazon.com.br/dp/B0F5DLRYJ5?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41k+6azFGsL._SL400_.jpg",
-      "preco": 21.98,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T12:21:30.385Z"
-    },
-    {
-      "id": "10542",
-      "loja": "Amazon",
-      "titulo": "Kit Cuidado Completo Bumbum de Milhões - Esfoliante, Creme Antiatrito e Firmador - LabPop by Labotrat - Hidratação, Firmeza e Proteção para Glúteos",
-      "link": "https://www.amazon.com.br/dp/B0DMMC8BJB?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41ofwjoUsUL._SL400_.jpg",
-      "preco": 69.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T12:21:17.386Z"
-    },
-    {
-      "id": "10541",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer LG UltraGear Curvo 34G600A-B 34\" QuadHD 2K, UltraWide 1800R, 160Hz, 1ms (MBR), AMD FreeSync Premium, HDR10, MaxxAudio",
-      "link": "https://meli.la/1hXRs6n",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_790527-MLA105314750110_012026-O.webp",
-      "preco": 1580.8899999999999,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "LOJASOFICIASCUPONEIR ou LOJASOFICIAIS ou MELITEC",
-      "enviadoEm": "2026-08-20T12:18:40.809Z"
-    },
-    {
-      "id": "10540",
-      "loja": "Amazon",
-      "titulo": "Whisky Jack Daniel’s Old No. 7 Tennessee Whiskey 700ml",
-      "link": "https://www.amazon.com.br/dp/B000TVHK26?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31xKe7q30bL._SL400_.jpg",
-      "preco": 89.5,
-      "precoDe": 144.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T12:16:57.824Z"
     }
   ]
 }
