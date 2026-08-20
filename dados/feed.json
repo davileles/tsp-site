@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-20T20:36:29.295Z",
+  "atualizadoEm": "2026-08-20T20:54:01.553Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10998",
+      "loja": "Shopee",
+      "titulo": "Processador Processadores 3 Laminas De Alimentos Manual 500ml Multiuso Universal",
+      "link": "https://s.shopee.com.br/904YzGE8rL",
+      "imagem": "https://cf.shopee.com.br/file/ec94a44236e11acb0440dc5bd1a79843_tn",
+      "preco": 14.99,
+      "precoDe": 22.04,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T20:48:08.840Z"
+    },
+    {
+      "id": "10997",
+      "loja": "Mercado Livre",
+      "titulo": "Esmerilhadeira Lixadeira Angular Bte750 4.1/2 750w Com Discos 4.1/2 The Black Tools",
+      "link": "https://meli.la/2zfLei3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_925184-MLA99848508979_112025-O.webp",
+      "preco": 99.04000000000002,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFFNOMELI",
+      "enviadoEm": "2026-08-20T20:46:44.631Z"
+    },
     {
       "id": "10955",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 24,
       "cupom": "LOJASOFICIASCUPONEIR ou LOJASOFICIAIS ou MELITEC",
       "enviadoEm": "2026-08-20T12:08:03.587Z"
-    },
-    {
-      "id": "10524",
-      "loja": "Amazon",
-      "titulo": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha, 72 Unidades, Tamanho M 5 - 9, 5 Kg, Babysec, Azul, M",
-      "link": "https://www.amazon.com.br/dp/B07Z9T391C?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41MDDM2pBSL._SL400_.jpg",
-      "preco": 65.33,
-      "precoDe": 101.58,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T11:57:26.832Z"
-    },
-    {
-      "id": "10523",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Proteção Dia Tam. G - 52 fraldas",
-      "link": "https://www.amazon.com.br/dp/B0CJCKRYLP?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51PqX4xpVRL._SL400_.jpg",
-      "preco": 58.11,
-      "precoDe": 72.65,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T11:39:11.380Z"
     }
   ]
 }
