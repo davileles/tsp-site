@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-20T19:51:25.543Z",
+  "atualizadoEm": "2026-08-20T20:05:55.102Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -517,18 +517,6 @@
       "observacao": null,
       "validadeAte": "2026-08-21T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "TOMA1000",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 1000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-20T19:51:35.267Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "TOMA10",
