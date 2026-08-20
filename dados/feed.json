@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-20T20:05:53.642Z",
+  "atualizadoEm": "2026-08-20T20:36:29.295Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10955",
+      "loja": "Shopee",
+      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
+      "link": "https://s.shopee.com.br/3B6m0ty9ty",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
+      "preco": 69,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "C0MP74RN4SH0P33",
+      "enviadoEm": "2026-08-20T20:26:29.294Z"
+    },
     {
       "id": "10950",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 20,
       "cupom": null,
       "enviadoEm": "2026-08-20T11:39:11.380Z"
-    },
-    {
-      "id": "10522",
-      "loja": "Amazon",
-      "titulo": "Neslac Comfor - Composto Lácteo, 800g",
-      "link": "https://www.amazon.com.br/dp/B07MBTSMM8?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41RBXFaoWHL._SL400_.jpg",
-      "preco": 54.94,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T11:39:07.561Z"
     }
   ]
 }
