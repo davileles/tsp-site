@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-20T13:29:27.263Z",
+  "atualizadoEm": "2026-08-20T13:51:58.069Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10590",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeirinha Bebê Descanso Musical Vibratória Rosa Maxi Baby",
+      "link": "https://meli.la/1mTRUdJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_732532-MLA95142110312_102025-O.webp",
+      "preco": 84.91000000000001,
+      "precoDe": 239.9,
+      "desconto": 58,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-20T13:41:58.066Z"
+    },
+    {
+      "id": "10589",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira Descanso Bebê Musical Vibratória Space Maxi Baby",
+      "link": "https://meli.la/22Tq14N",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_910669-MLA96179966851_102025-O.webp",
+      "preco": 84.91000000000001,
+      "precoDe": 239.9,
+      "desconto": 58,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-20T13:41:53.934Z"
+    },
+    {
+      "id": "10588",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeirinha Descanso Bebe Musical Maxi Baby Até 18kgs Azul",
+      "link": "https://meli.la/2tmN9yh",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_604756-MLA96100314723_102025-O.webp",
+      "preco": 118.15,
+      "precoDe": 349.9,
+      "desconto": 60,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-20T13:41:49.590Z"
+    },
+    {
+      "id": "10587",
+      "loja": "Amazon",
+      "titulo": "Lenços Umedecidos Pampers Cuidado de Bebê 192 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CGY62F23?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41EIsh0FsjL._SL400_.jpg",
+      "preco": 31.49,
+      "precoDe": 46.7,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T13:41:42.635Z"
+    },
+    {
+      "id": "10585",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
+      "link": "https://s.shopee.com.br/5ArpwtX27W",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-k1jd7z81yzkv2f_tn",
+      "preco": 20,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "4CH4D1NH0S",
+      "enviadoEm": "2026-08-20T13:40:42.466Z"
+    },
     {
       "id": "10579",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 21,
       "cupom": "PROMOTEC",
       "enviadoEm": "2026-08-19T16:57:39.415Z"
-    },
-    {
-      "id": "10157",
-      "loja": "Mercado Livre",
-      "titulo": "Bola De Basquete Mikasa 1110 Laranja - Padrão Fiba",
-      "link": "https://meli.la/17N7U1K",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_728044-MLB98304533208_112025-O.webp",
-      "preco": 48.86,
-      "precoDe": 219.99,
-      "desconto": 68,
-      "cupom": "LIQUIDA30",
-      "enviadoEm": "2026-08-19T16:56:47.124Z"
-    },
-    {
-      "id": "10154",
-      "loja": "Shopee",
-      "titulo": "Kit Até 4 Sacos de Lixo Perfumados Lavanda | 160 Sacos | Pia e Banheiro | 34x38cm | Neutraliza Odores",
-      "link": "https://s.shopee.com.br/AUtKuyLJHQ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mlpok0p0fg933f_tn",
-      "preco": 8.33,
-      "precoDe": 24.29,
-      "desconto": 51,
-      "cupom": "LOVIV1TA",
-      "enviadoEm": "2026-08-19T16:52:21.363Z"
-    },
-    {
-      "id": "10095",
-      "loja": "Mercado Livre",
-      "titulo": "Tomada Inteligente Wi-Fi Kateluo 16A com Monitor de Consumo para Alexa e Google Home",
-      "link": "https://meli.la/1b82haJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_829204-MLA111083065463_042026-O.webp",
-      "preco": 17.97,
-      "precoDe": 65,
-      "desconto": 45,
-      "cupom": "INTERNACIONALCN",
-      "enviadoEm": "2026-08-19T16:48:17.702Z"
-    },
-    {
-      "id": "10094",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Com 3 Camisetas Masculinas Básicas Slim Cor Preto Hering",
-      "link": "https://meli.la/2mpTxTB",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_768385-MLB89567140198_082025-O.webp",
-      "preco": 64.78,
-      "precoDe": 99.99,
-      "desconto": 21,
-      "cupom": "COMPENSAML",
-      "enviadoEm": "2026-08-19T16:47:56.427Z"
-    },
-    {
-      "id": "10093",
-      "loja": "Shopee",
-      "titulo": "Conjunto 5 Panelas Cerâmica Cazza Tampa de Vidro Cinza",
-      "link": "https://s.shopee.com.br/1qbMaX0h1J",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b1-ms1h359w9wci2c_tn",
-      "preco": 159.91,
-      "precoDe": 304.93,
-      "desconto": 41,
-      "cupom": "C4RR1NH0D30UR0",
-      "enviadoEm": "2026-08-19T16:44:47.561Z"
     }
   ]
 }
