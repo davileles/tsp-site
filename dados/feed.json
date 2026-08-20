@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-20T17:15:00.516Z",
+  "atualizadoEm": "2026-08-20T17:28:27.365Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10788",
+      "loja": "Mercado Livre",
+      "titulo": "Carrinho de Bebê Cosco Kids, Toffy, Preto Absoluto",
+      "link": "https://meli.la/2CRSfug",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_963506-MLA99547392476_122025-O.webp",
+      "preco": 381.05,
+      "precoDe": 599,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T17:18:27.364Z"
+    },
     {
       "id": "10786",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-19T22:18:28.531Z"
-    },
-    {
-      "id": "10443",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Hugo Boss Bottled Night Masculino Eau De Toilette 100Ml",
-      "link": "https://meli.la/2BXiFWB",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_836103-MLA84833570173_052025-O.webp",
-      "preco": 302,
-      "precoDe": 337.99,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T22:18:22.209Z"
     }
   ]
 }
