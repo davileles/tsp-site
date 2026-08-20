@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-20T11:35:43.714Z",
+  "atualizadoEm": "2026-08-20T11:49:11.381Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10523",
+      "loja": "Amazon",
+      "titulo": "Huggies Fralda Proteção Dia Tam. G - 52 fraldas",
+      "link": "https://www.amazon.com.br/dp/B0CJCKRYLP?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51PqX4xpVRL._SL400_.jpg",
+      "preco": 58.11,
+      "precoDe": 72.65,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T11:39:11.380Z"
+    },
+    {
+      "id": "10522",
+      "loja": "Amazon",
+      "titulo": "Neslac Comfor - Composto Lácteo, 800g",
+      "link": "https://www.amazon.com.br/dp/B07MBTSMM8?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41RBXFaoWHL._SL400_.jpg",
+      "preco": 54.94,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T11:39:07.561Z"
+    },
+    {
+      "id": "10521",
+      "loja": "Amazon",
+      "titulo": "AUSTRALIAN GOLD PROTETOR CORPORAL GEL CREME KIDS FPS 70 120g",
+      "link": "https://www.amazon.com.br/dp/B0CQ454DXM?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31ggqanmm+L._SL400_.jpg",
+      "preco": 28.9,
+      "precoDe": 89.99,
+      "desconto": 68,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T11:39:06.338Z"
+    },
     {
       "id": "10519",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 22,
       "cupom": "C4RR1NH0D30UR0",
       "enviadoEm": "2026-08-19T15:39:25.329Z"
-    },
-    {
-      "id": "9917",
-      "loja": "Shopee",
-      "titulo": "Kit 3 Lava Roupas Liquido Baby Soft Max Performance Azul - 3L",
-      "link": "https://s.shopee.com.br/2qTtgtfyGG",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me5uz8yynbia24_tn",
-      "preco": 45.900000000000006,
-      "precoDe": 98.36,
-      "desconto": 33,
-      "cupom": "C4RR1NH0D30UR0",
-      "enviadoEm": "2026-08-19T15:38:16.641Z"
-    },
-    {
-      "id": "9916",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Eudora Diva Fabulosa (3 Produtos)",
-      "link": "https://meli.la/18kmKyC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_890633-MLA109638805503_032026-O.webp",
-      "preco": 55.63,
-      "precoDe": 125.9,
-      "desconto": 48,
-      "cupom": "MODA15",
-      "enviadoEm": "2026-08-19T15:36:57.628Z"
-    },
-    {
-      "id": "9914",
-      "loja": "Mercado Livre",
-      "titulo": "Air Fryer Philco 6,5L Visor Glass e Redstone 1700W PAF65A",
-      "link": "https://meli.la/1DjdF4d",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761173-MLA99475995202_112025-O.webp",
-      "preco": 314.77,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROMOTEC",
-      "enviadoEm": "2026-08-19T15:32:28.098Z"
     }
   ]
 }
