@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-20T19:14:14.035Z",
+  "atualizadoEm": "2026-08-20T19:24:13.707Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10870",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
+      "link": "https://s.shopee.com.br/50YQ7sdrRb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
+      "preco": 17.99,
+      "precoDe": 21.42,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T19:19:55.619Z"
+    },
     {
       "id": "10824",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-08-20T11:17:03.985Z"
-    },
-    {
-      "id": "10511",
-      "loja": "Amazon",
-      "titulo": "Colgate Luminous White Carvão Ativado Creme Dental Clareador, 4x70g",
-      "link": "https://www.amazon.com.br/dp/B0CQ1QVJ3L?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51d59iWlVfL._SL400_.jpg",
-      "preco": 26.5,
-      "precoDe": 30.48,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T11:13:03.232Z"
     }
   ]
 }
