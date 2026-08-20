@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-20T18:04:44.976Z",
+  "atualizadoEm": "2026-08-20T18:15:00.516Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10800",
+      "loja": "Amazon",
+      "titulo": "Kit 8 Pratos Infantis com Escorredor e Suporte Organizador – Estampa Frutinhas, Pratos 16cm em Plástico Resistente, Leve e Durável, Ideal para Bebês, Crianças, Lanches, Sobremesas ",
+      "link": "https://www.amazon.com.br/dp/B0HC83WKTR?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41QjmH3MTJL._SL400_.jpg",
+      "preco": 39.89,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T18:07:11.647Z"
+    },
     {
       "id": "10797",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 55,
       "cupom": "BRINCADEIRAS",
       "enviadoEm": "2026-08-19T22:25:14.902Z"
-    },
-    {
-      "id": "10445",
-      "loja": "Amazon",
-      "titulo": "Simple Joys by Carter's Pacote com 3 bebês neutros para dormir e brincar, urso/lhama/arco-íris, 0 a 3 meses, Urso/lhama/arco-íris, 0-3 Meses",
-      "link": "https://www.amazon.com.br/dp/B08G8TDFT7?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41m605R1o8L._SL400_.jpg",
-      "preco": 171.76,
-      "precoDe": 187.38,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T22:21:43.526Z"
     }
   ]
 }
