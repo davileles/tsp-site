@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-20T15:46:00.513Z",
+  "atualizadoEm": "2026-08-20T16:05:35.142Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10755",
+      "loja": "Mercado Livre",
+      "titulo": "Filtro De Ar Esportivo K&n Kn Duplo Fluxo Rg1001 Conico Universal Rg-1001rd Vermelho",
+      "link": "https://meli.la/1csBFTe",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_816894-MLB83465292037_042025-O.webp",
+      "preco": 299.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELIPROMO",
+      "enviadoEm": "2026-08-20T15:55:35.110Z"
+    },
+    {
+      "id": "10754",
+      "loja": "Mercado Livre",
+      "titulo": "Power Bank Basike 20000mAh para Notebook e Celular com Cabo USB-C 65W",
+      "link": "https://meli.la/12ZFdQY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_955455-MLA101721478280_122025-O.webp",
+      "preco": 182.88,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "LOJASOFICIASCUPONEIR ou LOJASOFICIAIS ou MELITEC",
+      "enviadoEm": "2026-08-20T15:53:49.564Z"
+    },
+    {
+      "id": "10718",
+      "loja": "Shopee",
+      "titulo": "HEROI Banco Dobrável Para Exercícios Em Casa, Multifuncional com Banco Pastor Removível + Até 150kg",
+      "link": "https://s.shopee.com.br/30nLVfFFcR",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgq65zdx3i84f2_tn",
+      "preco": 449.1,
+      "precoDe": 998,
+      "desconto": 50,
+      "cupom": "OFERTAS10",
+      "enviadoEm": "2026-08-20T15:48:07.475Z"
+    },
     {
       "id": "10710",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 30,
       "cupom": "COMPENSAML",
       "enviadoEm": "2026-08-19T21:02:24.882Z"
-    },
-    {
-      "id": "10371",
-      "loja": "Amazon",
-      "titulo": "WOLFF - Copo Térmico de Aço Inox Parede Dupla Com Tampa 600ml Preto - Para Viagem - Mantém a Bebida na Temperatura Ideal",
-      "link": "https://www.amazon.com.br/dp/B09RFZ7DC7?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31hwlb5nEnL._SL400_.jpg",
-      "preco": 39.89,
-      "precoDe": 63.8,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T20:55:40.337Z"
-    },
-    {
-      "id": "10366",
-      "loja": "Shopee",
-      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
-      "link": "https://s.shopee.com.br/5q7VcXzMKe",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
-      "preco": 10.49,
-      "precoDe": 19.99,
-      "desconto": 25,
-      "cupom": "LOVIV1TA",
-      "enviadoEm": "2026-08-19T20:47:40.556Z"
-    },
-    {
-      "id": "10361",
-      "loja": "Shopee",
-      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
-      "link": "https://s.shopee.com.br/9zx4YkG3xF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
-      "preco": 23.990000000000002,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "LOVIV1TA",
-      "enviadoEm": "2026-08-19T20:26:28.251Z"
     }
   ]
 }
