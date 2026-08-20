@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-20T19:24:13.707Z",
+  "atualizadoEm": "2026-08-20T19:36:53.648Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10897",
+      "loja": "Amazon",
+      "titulo": "G-Tech, Termômetro Digital de Ponta Flexível - Alimentado por pilha/bateria",
+      "link": "https://www.amazon.com.br/dp/B076VYL3PX?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/21TMzAsMuCL._SL400_.jpg",
+      "preco": 15.87,
+      "precoDe": 26.5,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T19:34:07.345Z"
+    },
     {
       "id": "10870",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 26,
       "cupom": null,
       "enviadoEm": "2026-08-20T11:26:13.963Z"
-    },
-    {
-      "id": "10512",
-      "loja": "Amazon",
-      "titulo": "Giovanna Baby - Kit Giovanna Baby Col 20Ml+Locao 200Ml+Sab 90G Classic (Novo)",
-      "link": "https://www.amazon.com.br/dp/B0BPTN79N2?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41Xh2fOvZNL._SL400_.jpg",
-      "preco": 26.75,
-      "precoDe": 41.5,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T11:17:03.985Z"
     }
   ]
 }
