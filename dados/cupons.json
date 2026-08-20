@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-20T16:22:15.792Z",
+  "atualizadoEm": "2026-08-20T16:45:01.820Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -519,18 +519,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "INFLU200",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 2000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-20T16:24:01.373Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "TOMA100",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -1044,18 +1032,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-21T13:38:48.390Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "V0UCH3R15",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-20T16:24:00.326Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
