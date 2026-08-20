@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-08-20T22:36:18.416Z",
+  "atualizadoEm": "2026-08-20T23:05:18.417Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "11206",
+      "loja": "Mercado Livre",
+      "titulo": "Alicate 5 Pontas Multifuncional Universal Linha Profissional",
+      "link": "https://meli.la/2VSywLx",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_882499-MLB112503418189_052026-O.webp",
+      "preco": 86.92999999999999,
+      "precoDe": 160.99,
+      "desconto": 28,
+      "cupom": "OFFNOMELI",
+      "enviadoEm": "2026-08-20T22:59:11.773Z"
+    },
+    {
+      "id": "11205",
+      "loja": "Mercado Livre",
+      "titulo": "3 Câmera Automotiva Veicular Carro Hd Noturna 1080p Icarbonx",
+      "link": "https://meli.la/2bj9mXa",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_928984-MLA99926475771_112025-O.webp",
+      "preco": 63.67,
+      "precoDe": 123.9,
+      "desconto": 31,
+      "cupom": "MELIPROMO",
+      "enviadoEm": "2026-08-20T22:56:17.462Z"
+    },
+    {
+      "id": "11204",
+      "loja": "Mercado Livre",
+      "titulo": "Chave De Impacto A Bateria 21V 1/2\" Pol 2400 Rpm Bivolt Com Acessórios E Maleta The Black Tools",
+      "link": "https://meli.la/2GxZFs7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652182-MLA113971474078_072026-O.webp",
+      "preco": 193.87,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFFNOMELI",
+      "enviadoEm": "2026-08-20T22:54:37.377Z"
+    },
+    {
+      "id": "11203",
+      "loja": "Amazon",
+      "titulo": "Speaker Philco PBS220BT Extreme Bluetooth 5.3 Flash Light 220W Bivolt",
+      "link": "https://www.amazon.com.br/dp/B0CB1W2591?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51SIqR-5VCL._SL400_.jpg",
+      "preco": 329,
+      "precoDe": 355,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T22:50:27.479Z"
+    },
+    {
+      "id": "11202",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Refletores LED 400W Double Wise Branco Frio IP67 Áreas Externas",
+      "link": "https://meli.la/1YYSTXN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_898546-MLA111674889028_062026-O.webp",
+      "preco": 31.57,
+      "precoDe": 99.98,
+      "desconto": 61,
+      "cupom": "APROVEITAESSA",
+      "enviadoEm": "2026-08-20T22:48:54.382Z"
+    },
+    {
+      "id": "11201",
+      "loja": "Mercado Livre",
+      "titulo": "Bicicleta Ergométrica Bike Spinning 6kg Sensação inércia Fitness Preto e Vermelho Sevenfit Para Cardio E Musculação",
+      "link": "https://meli.la/1fJZZPc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745785-MLA114987927277_072026-O.webp",
+      "preco": 429.9,
+      "precoDe": 1094.99,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T22:47:14.491Z"
+    },
     {
       "id": "11159",
       "loja": "Amazon",
@@ -1369,78 +1441,6 @@
       "desconto": 70,
       "cupom": "LOJASOFICIASCUPONEIR ou LOJASOFICIAIS ou MELITEC",
       "enviadoEm": "2026-08-20T12:43:22.547Z"
-    },
-    {
-      "id": "10564",
-      "loja": "Amazon",
-      "titulo": "Cerveja Corona, Lata 269ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0F3XRNDMK?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31ETw4fyieL._SL400_.jpg",
-      "preco": 34.32,
-      "precoDe": 39.9,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T12:43:00.188Z"
-    },
-    {
-      "id": "10563",
-      "loja": "Mercado Livre",
-      "titulo": "Teclado Mecânico Gamer Sem Fio Attack Shark X85 75%",
-      "link": "https://meli.la/2xU1b96",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_941081-CBT114411534856_082026-O.webp",
-      "preco": 81.39999999999998,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T12:40:49.329Z"
-    },
-    {
-      "id": "10562",
-      "loja": "Mercado Livre",
-      "titulo": "Escova Secadora rosa Britânia",
-      "link": "https://meli.la/1SXRLfe",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_665652-MLA85349833890_062025-O.webp",
-      "preco": 71.01,
-      "precoDe": 160.9,
-      "desconto": 51,
-      "cupom": "LOJASOFICIASCUPONEIR",
-      "enviadoEm": "2026-08-20T12:39:28.601Z"
-    },
-    {
-      "id": "10561",
-      "loja": "Mercado Livre",
-      "titulo": "Ar-condicionado Lg Split Hi Wall Inverter 12.000 Btus Frio",
-      "link": "https://meli.la/31YLVXC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774930-MLB111696033119_052026-O.webp",
-      "preco": 1939.9900000000002,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "LOJASOFICIASCUPONEIR ou LOJASOFICIAIS ou MELITEC",
-      "enviadoEm": "2026-08-20T12:39:27.602Z"
-    },
-    {
-      "id": "10560",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
-      "link": "https://meli.la/1rkG4wd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_705629-MLA107373286811_022026-O.webp",
-      "preco": 188.59,
-      "precoDe": 329.99,
-      "desconto": 30,
-      "cupom": "COMPENSAML",
-      "enviadoEm": "2026-08-20T12:38:19.505Z"
-    },
-    {
-      "id": "10558",
-      "loja": "Amazon",
-      "titulo": "AUSTRALIAN GOLD PROTETOR CORPORAL GEL CREME KIDS FPS 70 120g",
-      "link": "https://www.amazon.com.br/dp/B0CQ454DXM?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31ggqanmm+L._SL400_.jpg",
-      "preco": 28.9,
-      "precoDe": 89.99,
-      "desconto": 68,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T12:37:12.170Z"
     }
   ]
 }
