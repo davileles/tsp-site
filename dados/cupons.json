@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-20T16:47:48.203Z",
+  "atualizadoEm": "2026-08-20T17:15:01.906Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -1044,18 +1044,6 @@
       "limite": null,
       "observacao": "Cupons em esgotamento",
       "validadeAte": "2026-08-21T15:46:17.484Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "OFERTAS10",
-      "loja": "Shopee",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 59,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-08-20T17:11:20.806Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
