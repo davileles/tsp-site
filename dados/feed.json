@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-08-20T20:54:01.553Z",
+  "atualizadoEm": "2026-08-20T21:24:01.835Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "11009",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Yara Moi Lattafa Feminino 100ml Edp",
+      "link": "https://meli.la/1gRnwKN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_609366-MLU75124250249_032024-O.webp",
+      "preco": 168.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T21:20:53.663Z"
+    },
+    {
+      "id": "11005",
+      "loja": "Amazon",
+      "titulo": "Lenços Umedecidos Pampers Cuidado de Bebê 192 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CGY62F23?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41EIsh0FsjL._SL400_.jpg",
+      "preco": 31.49,
+      "precoDe": 46.7,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T21:11:22.663Z"
+    },
+    {
+      "id": "11004",
+      "loja": "Shopee",
+      "titulo": "Regata Masculina Americana Ribana Canelada Slim Justa ao Corpo Marrom",
+      "link": "https://s.shopee.com.br/6VNE29zI5o",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcri0jg5g27mb2_tn",
+      "preco": 24.97,
+      "precoDe": 39.96,
+      "desconto": 25,
+      "cupom": "4CH4D1NH0S",
+      "enviadoEm": "2026-08-20T21:09:57.245Z"
+    },
+    {
+      "id": "11003",
+      "loja": "Mercado Livre",
+      "titulo": "Shampoo Kérastase Première Décalcifiant Reparador 80ml",
+      "link": "https://meli.la/1EmXjik",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_725904-MLA114286489047_072026-O.webp",
+      "preco": 113.89,
+      "precoDe": 119,
+      "desconto": 4,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T21:07:51.024Z"
+    },
+    {
+      "id": "11002",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira Carro Reclinável 5P 0-36kg Bauhaus Preto Maxi Baby",
+      "link": "https://meli.la/1sGA1n2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_882497-MLA113716578405_062026-O.webp",
+      "preco": 382.40999999999997,
+      "precoDe": 879.9,
+      "desconto": 49,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-20T21:06:05.643Z"
+    },
+    {
+      "id": "11001",
+      "loja": "Amazon",
+      "titulo": "Hastes Flexíveis Clingo - Branco",
+      "link": "https://www.amazon.com.br/dp/B07D5JZ4B8?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41Ue+cDnIxL._SL400_.jpg",
+      "preco": 9.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T21:02:56.719Z"
+    },
+    {
+      "id": "11000",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Ferramentas 169 Peças E Furadeira Parafusadeira 21v",
+      "link": "https://meli.la/1LDfA9s",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_936788-MLB112756485768_062026-O.webp",
+      "preco": 193.96,
+      "precoDe": 530.67,
+      "desconto": 51,
+      "cupom": "DESCOTOSMELI ou MAISCUPONS ou QUEROCUPONS ou AVANT25 ou AVANT ou CUPOMDOML ou MELHORNOML ou AQUITEMCUPOM ou MELIPROMO ou CORREAQUIML ou MELIVIP ou OFFNOMELI",
+      "enviadoEm": "2026-08-20T21:00:19.602Z"
+    },
     {
       "id": "10998",
       "loja": "Shopee",
@@ -73,18 +157,6 @@
       "desconto": 49,
       "cupom": "COMPENSAML",
       "enviadoEm": "2026-08-20T19:56:00.190Z"
-    },
-    {
-      "id": "10947",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira Carro Reclinável 5P 0-36kg Bauhaus Preto Maxi Baby",
-      "link": "https://meli.la/1sGA1n2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_882497-MLA113716578405_062026-O.webp",
-      "preco": 382.40999999999997,
-      "precoDe": 879.9,
-      "desconto": 49,
-      "cupom": "BRINCADEIRAS",
-      "enviadoEm": "2026-08-20T19:54:35.260Z"
     },
     {
       "id": "10946",
@@ -963,18 +1035,6 @@
       "enviadoEm": "2026-08-20T13:41:49.590Z"
     },
     {
-      "id": "10587",
-      "loja": "Amazon",
-      "titulo": "Lenços Umedecidos Pampers Cuidado de Bebê 192 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CGY62F23?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41EIsh0FsjL._SL400_.jpg",
-      "preco": 31.49,
-      "precoDe": 46.7,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T13:41:42.635Z"
-    },
-    {
       "id": "10585",
       "loja": "Shopee",
       "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
@@ -1381,66 +1441,6 @@
       "desconto": 24,
       "cupom": "LOJASOFICIASCUPONEIR ou LOJASOFICIAIS ou MELITEC",
       "enviadoEm": "2026-08-20T12:12:39.729Z"
-    },
-    {
-      "id": "10534",
-      "loja": "Amazon",
-      "titulo": "HEPTA WORLD Ventilador de Coluna, Resfriamento, Silencioso, Design Slim para Casa Escritório (PRETO, 110V, 101)",
-      "link": "https://www.amazon.com.br/dp/B0FFHLXXDN?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31uoDQT9xZL._SL400_.jpg",
-      "preco": 98.99,
-      "precoDe": 109.99,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T12:11:56.936Z"
-    },
-    {
-      "id": "10533",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor LG UltraGear™ 24G411A-B 24\",FHD, 144Hz, 1ms (MBR), NVIDIA G-SYNC, AMD FreeSync, HDR10",
-      "link": "https://meli.la/1E9oqAL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685909-MLA101438581463_122025-O.webp",
-      "preco": 539.1,
-      "precoDe": 699,
-      "desconto": 14,
-      "cupom": "LOJASOFICIASCUPONEIR ou LOJASOFICIAIS ou MELITEC",
-      "enviadoEm": "2026-08-20T12:11:20.892Z"
-    },
-    {
-      "id": "10532",
-      "loja": "Mercado Livre",
-      "titulo": "Copo Térmico Para Cerveja Emborrachado 450ml Original Times",
-      "link": "https://meli.la/2Zn7Kgw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_750197-MLB89224394819_082025-O.webp",
-      "preco": 57.58,
-      "precoDe": 78.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T12:10:52.210Z"
-    },
-    {
-      "id": "10531",
-      "loja": "Amazon",
-      "titulo": "Head & Shoulders Shampoo Anticaspa Menta Ice 400 ml",
-      "link": "https://www.amazon.com.br/dp/B0042R36DK?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41neB7zjqfL._SL400_.jpg",
-      "preco": 22.59,
-      "precoDe": 31.93,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T12:09:18.908Z"
-    },
-    {
-      "id": "10529",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer TCL 25 Polegadas QLED Mini LED Full HD G64 300Hz 1ms (GtG) Freesync HDR 600 nits 25G64",
-      "link": "https://meli.la/33RcBP9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_723939-MLA103720530496_012026-O.webp",
-      "preco": 1169.1,
-      "precoDe": 1699,
-      "desconto": 24,
-      "cupom": "LOJASOFICIASCUPONEIR ou LOJASOFICIAIS ou MELITEC",
-      "enviadoEm": "2026-08-20T12:08:03.587Z"
     }
   ]
 }
