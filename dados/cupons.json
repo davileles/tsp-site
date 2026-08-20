@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-20T02:35:43.971Z",
+  "atualizadoEm": "2026-08-20T03:05:44.017Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -399,42 +399,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "AGOSTOPSU",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-20T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "ARREMATA12",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 12,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-20T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "COOLER11",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 11,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-20T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "GAMER10",
       "loja": "Kabum",
       "tipo": "pct",
@@ -747,18 +711,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OFERTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-08-20T02:59:00.246Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "COMMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -867,18 +819,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PROMONOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-08-20T02:59:00.246Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "COMPENSAML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -912,18 +852,6 @@
       "limite": 50,
       "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
       "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "APROVEITANOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-08-20T02:59:00.288Z",
       "url": "https://meli.la/2xystLt"
     },
     {
