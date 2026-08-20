@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-20T16:45:00.515Z",
+  "atualizadoEm": "2026-08-20T17:10:09.401Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10782",
+      "loja": "Mercado Livre",
+      "titulo": "Relógio Garmin Forerunner 55 Monitor Cardíaco E Gps 42mm Bla",
+      "link": "https://meli.la/2Bb2yPe",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_778972-MLA99932709235_112025-O.webp",
+      "preco": 971.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "LOJASOFICIASCUPONEIR ou LOJASOFICIAIS ou MELITEC",
+      "enviadoEm": "2026-08-20T17:00:09.400Z"
+    },
+    {
+      "id": "10780",
+      "loja": "Amazon",
+      "titulo": "Café Gourmet Appassionato Em Grãos Expresso 100% Arábica - 1kg",
+      "link": "https://www.amazon.com.br/dp/B0FF89PVB1?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31Nmt74IejL._SL400_.jpg",
+      "preco": 85.2,
+      "precoDe": 120,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T16:55:00.218Z"
+    },
+    {
+      "id": "10779",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
+      "link": "https://s.shopee.com.br/8pl8WlSlRn",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnyps41y3uo4c6_tn",
+      "preco": 79.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PR1OR1D8AF",
+      "enviadoEm": "2026-08-20T16:51:54.894Z"
+    },
+    {
+      "id": "10776",
+      "loja": "Mercado Livre",
+      "titulo": "Máquina De Solda Inversora Digital Bivolt 110v/220v Dobevi Azul",
+      "link": "https://meli.la/1DjLSPs",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_734830-MLA110467222906_052026-O.webp",
+      "preco": 210.75,
+      "precoDe": 499.56,
+      "desconto": 44,
+      "cupom": "DESCOTOSMELI ou MAISCUPONS ou QUEROCUPONS ou AVANT25 ou AVANT ou CUPOMDOML ou MELHORNOML ou AQUITEMCUPOM ou MELIPROMO ou CORREAQUIML ou MELIVIP ou OFFNOMELI",
+      "enviadoEm": "2026-08-20T16:47:57.787Z"
+    },
     {
       "id": "10774",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": null,
       "cupom": "MELIPROMO",
       "enviadoEm": "2026-08-19T22:09:37.221Z"
-    },
-    {
-      "id": "10439",
-      "loja": "Mercado Livre",
-      "titulo": "Sapatênis Masculino Democrata Couro Denim Mike Original",
-      "link": "https://meli.la/32yPj4d",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_902554-MLB83446772249_032025-O.webp",
-      "preco": 186.89,
-      "precoDe": 299.99,
-      "desconto": 24,
-      "cupom": "COMPENSAML",
-      "enviadoEm": "2026-08-19T22:07:00.047Z"
-    },
-    {
-      "id": "10438",
-      "loja": "Mercado Livre",
-      "titulo": "Geladeira Brastemp Frost Free 415 Litros Duplex Branca - BRM52MB",
-      "link": "https://meli.la/2TZHjxp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_960830-MLA106047689844_022026-O.webp",
-      "preco": 2562.44,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROMOTEC",
-      "enviadoEm": "2026-08-19T22:05:23.001Z"
-    },
-    {
-      "id": "10437",
-      "loja": "Mercado Livre",
-      "titulo": "Geladeira Refrigerador Hq Defrost 230l Inox Hq-230rdf",
-      "link": "https://meli.la/1EXf6bu",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_651069-MLA82447685009_022025-O.webp",
-      "preco": 1421.1,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROMOTEC",
-      "enviadoEm": "2026-08-19T22:03:31.102Z"
-    },
-    {
-      "id": "10435",
-      "loja": "Shopee",
-      "titulo": "Ugreen - Hub USB-C 7X1 Multifunctional  1*HDMI 4K 60@ -  2*USB-C 3.2 - 1*USB-A 3.2 - SD/TF - 100W PD",
-      "link": "https://s.shopee.com.br/7fZ9sJ1VP6",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdam700q9q8106_tn",
-      "preco": 278.1,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFERTAS10",
-      "enviadoEm": "2026-08-19T21:51:37.819Z"
     }
   ]
 }
