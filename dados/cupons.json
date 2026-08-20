@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-20T19:14:15.393Z",
+  "atualizadoEm": "2026-08-20T19:24:15.043Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -543,6 +543,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "TOMA10",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": 600,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-21T19:15:52.019Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "INTERNACIONALCN",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1023,6 +1035,18 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
+      "codigo": "OFERTAS10",
+      "loja": "Shopee",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 59,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Dois cupons ativos na Shopee",
+      "validadeAte": "2026-08-21T19:16:18.260Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "D31X4C0M1G0",
       "loja": "Shopee",
       "tipo": "reais",
@@ -1032,6 +1056,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-21T18:32:04.021Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "4CH4D1NH0S",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 5,
+      "minimo": 25,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons Shopee com diferentes valores mínimos de compra",
+      "validadeAte": "2026-08-21T19:16:03.387Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
