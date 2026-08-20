@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-20T14:35:43.718Z",
+  "atualizadoEm": "2026-08-20T14:57:53.785Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10629",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Baby Protect&Sec G, Leve 60 Pague 57 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0BCHWGG5P?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41gYTgk90DL._SL400_.jpg",
+      "preco": 55.09,
+      "precoDe": 64.64,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T14:48:24.625Z"
+    },
+    {
+      "id": "10628",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Protect E Sec M Hiper, 70 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41VhQ4JSbGL._SL400_.jpg",
+      "preco": 55.19,
+      "precoDe": 64.64,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T14:48:23.543Z"
+    },
+    {
+      "id": "10627",
+      "loja": "Mercado Livre",
+      "titulo": "Lançador de Dardos Nerf N Series Pinpoint - Clip Interno para 10 Dardos Inclui 18 Dardos - A partir de 8 Anos",
+      "link": "https://meli.la/2TkwUV6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_946376-MLA99965225951_112025-O.webp",
+      "preco": 140.5,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-20T14:48:22.713Z"
+    },
     {
       "id": "10620",
       "loja": "Mercado Livre",
@@ -1395,18 +1431,6 @@
       "enviadoEm": "2026-08-19T18:07:36.719Z"
     },
     {
-      "id": "10184",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Protect E Sec M Hiper, 70 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41VhQ4JSbGL._SL400_.jpg",
-      "preco": 55.19,
-      "precoDe": 64.64,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T17:59:53.538Z"
-    },
-    {
       "id": "10183",
       "loja": "Amazon",
       "titulo": "PAMPERS SABONETE LÍQUIDO RELAXAMENTO 400ml",
@@ -1417,30 +1441,6 @@
       "desconto": 37,
       "cupom": null,
       "enviadoEm": "2026-08-19T17:59:52.516Z"
-    },
-    {
-      "id": "10182",
-      "loja": "Shopee",
-      "titulo": "Mala Pequena de Bordo 10kg TSA Polipropileno Giro 360º Munique Polo King",
-      "link": "https://s.shopee.com.br/5ArodX6wIy",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfrbrzcgpqtj8e_tn",
-      "preco": 269.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFERTAS10",
-      "enviadoEm": "2026-08-19T17:56:06.417Z"
-    },
-    {
-      "id": "10177",
-      "loja": "Amazon",
-      "titulo": "WOLFF - Garrafa Térmica de Aço Inox com Termômetro em Led 500ml - Conserva Bebidas Quentes e Frias",
-      "link": "https://www.amazon.com.br/dp/B0B1N2N6P5?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31VzEEhT80L._SL400_.jpg",
-      "preco": 35.99,
-      "precoDe": 47.9,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T17:46:18.698Z"
     }
   ]
 }
