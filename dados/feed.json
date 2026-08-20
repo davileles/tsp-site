@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-20T19:36:53.648Z",
+  "atualizadoEm": "2026-08-20T19:51:24.203Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10942",
+      "loja": "Shopee",
+      "titulo": "Mochila Moto LED Olhos 3D Casca Rígida Impermeável Grande Capacidade Mochila Moderna para Viagem Trabalho Dia a Dia",
+      "link": "https://s.shopee.com.br/4Vc9YQrCCC",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mlwrlh9oi1hi51_tn",
+      "preco": 359.99,
+      "precoDe": 1904.71,
+      "desconto": 79,
+      "cupom": "OFERTAS10",
+      "enviadoEm": "2026-08-20T19:41:24.201Z"
+    },
     {
       "id": "10897",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 12,
       "cupom": null,
       "enviadoEm": "2026-08-20T11:26:25.657Z"
-    },
-    {
-      "id": "10513",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
-      "link": "https://www.amazon.com.br/dp/B095R9CKYR?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41srPqkVhsL._SL400_.jpg",
-      "preco": 32.17,
-      "precoDe": 43.59,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T11:26:13.963Z"
     }
   ]
 }
