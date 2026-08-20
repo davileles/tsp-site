@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-20T17:28:27.365Z",
+  "atualizadoEm": "2026-08-20T18:04:44.976Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10797",
+      "loja": "Shopee",
+      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
+      "link": "https://s.shopee.com.br/7psbPEhVhp",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
+      "preco": 44.52,
+      "precoDe": 66.03,
+      "desconto": 25,
+      "cupom": "L3V3M415",
+      "enviadoEm": "2026-08-20T17:54:44.019Z"
+    },
     {
       "id": "10788",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 8,
       "cupom": null,
       "enviadoEm": "2026-08-19T22:21:43.526Z"
-    },
-    {
-      "id": "10444",
-      "loja": "Amazon",
-      "titulo": "Simple Joys by Carter's Body unissex para bebês com 8 unidades de manga curta, Azul-marinho/branco/aveia, 12 Meses",
-      "link": "https://www.amazon.com.br/dp/B08G8TGLV2?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41gyZFcVjmL._SL400_.jpg",
-      "preco": 177.53,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-19T22:18:28.531Z"
     }
   ]
 }
