@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-20T11:49:11.381Z",
+  "atualizadoEm": "2026-08-20T12:05:43.714Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "10524",
+      "loja": "Amazon",
+      "titulo": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha, 72 Unidades, Tamanho M 5 - 9, 5 Kg, Babysec, Azul, M",
+      "link": "https://www.amazon.com.br/dp/B07Z9T391C?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41MDDM2pBSL._SL400_.jpg",
+      "preco": 65.33,
+      "precoDe": 101.58,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-08-20T11:57:26.832Z"
+    },
     {
       "id": "10523",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 34,
       "cupom": "C4RR1NH0D30UR0",
       "enviadoEm": "2026-08-19T15:40:55.284Z"
-    },
-    {
-      "id": "9918",
-      "loja": "Shopee",
-      "titulo": "Kit mini body 3 Fragrâncias (60ml)",
-      "link": "https://s.shopee.com.br/7KwJ499006",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mpl5wfqwpp8g3c_tn",
-      "preco": 54.900000000000006,
-      "precoDe": 96.03,
-      "desconto": 22,
-      "cupom": "C4RR1NH0D30UR0",
-      "enviadoEm": "2026-08-19T15:39:25.329Z"
     }
   ]
 }
