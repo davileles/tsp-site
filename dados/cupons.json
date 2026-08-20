@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-20T23:05:19.829Z",
+  "atualizadoEm": "2026-08-20T23:09:33.500Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -996,6 +996,18 @@
       "limite": 10,
       "observacao": null,
       "validadeAte": "2026-08-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TBTSTOCK10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 9.9,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-09-01T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
