@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-20T15:15:52.127Z",
+  "atualizadoEm": "2026-08-20T15:46:01.743Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -315,6 +315,30 @@
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
+      "codigo": "TEL200",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-24T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "TOMA200",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-21T15:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "PEGADESCONTO",
       "loja": "Kabum",
       "tipo": "reais",
@@ -348,6 +372,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-25T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "TEL100",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-24T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "PRINT40",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-24T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -399,6 +447,30 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "ENDGAME",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "ATTACKSHARK",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "GAMER10",
       "loja": "Kabum",
       "tipo": "pct",
@@ -432,6 +504,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "HYTE5",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-21T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
