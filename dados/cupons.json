@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-20T21:33:01.351Z",
+  "atualizadoEm": "2026-08-20T21:48:17.364Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -997,6 +997,30 @@
       "observacao": "Cupom para tênis PUMA por R$199,99",
       "validadeAte": "2026-08-21T21:14:05.347Z",
       "url": null
+    },
+    {
+      "codigo": "PUMACOM15",
+      "loja": "Outro: Ofertou",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto aplicável em vários tênis PUMA por R$199,99",
+      "validadeAte": "2026-08-21T21:33:27.520Z",
+      "url": null
+    },
+    {
+      "codigo": "PUMACOM15",
+      "loja": "Outro: Puma",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Promoção menciona até 80% OFF, mas o código fornecido é para 15% OFF",
+      "validadeAte": "2026-08-21T21:33:25.298Z",
+      "url": "https://www.awin1.com/awclick.php?mid=32675&id=1207116"
     },
     {
       "codigo": "KIDS",
