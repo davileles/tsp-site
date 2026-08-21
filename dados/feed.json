@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-21T17:40:23.261Z",
+  "atualizadoEm": "2026-08-21T18:22:52.381Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "11642",
+      "loja": "Mercado Livre",
+      "titulo": "Manta Cobertor Soft Com Naninha De Pelúcia Bebê Antialergico Cor Amarelo Girafinha",
+      "link": "https://meli.la/2iaG8Yn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_657360-MLA96103316489_102025-O.webp",
+      "preco": 51,
+      "precoDe": 99.9,
+      "desconto": 40,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-21T18:12:52.379Z"
+    },
     {
       "id": "11633",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 54,
       "cupom": null,
       "enviadoEm": "2026-08-20T21:34:02.430Z"
-    },
-    {
-      "id": "11017",
-      "loja": "Shopee",
-      "titulo": "Seringa de Segurança Retrátil para Insulina (1ml) com Agulha Fixa 0,3x13mm (30G 1/2) c/10 | - SOL",
-      "link": "https://s.shopee.com.br/60QxSjlcqu",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mnepe0233aptdf_tn",
-      "preco": 15,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T21:31:40.830Z"
     }
   ]
 }
