@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-21T19:21:46.799Z",
+  "atualizadoEm": "2026-08-21T19:50:46.859Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -555,6 +555,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "TOMA10",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": 600,
+      "observacao": null,
+      "validadeAte": "2026-08-22T19:22:22.636Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "INTERNACIONALCN",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -719,6 +731,18 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados. Limite de desconto é R$ 500 por cupom.",
+      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFFNOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
       "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -948,6 +972,18 @@
       "limite": 40,
       "observacao": null,
       "validadeAte": "2026-08-21T22:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AUTOEFERAMENTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-08-23T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
