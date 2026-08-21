@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-21T08:56:30.914Z",
+  "atualizadoEm": "2026-08-21T09:56:30.913Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -636,18 +636,6 @@
       "limite": 500,
       "observacao": "Múltiplos cupons de desconto percentual para Mercado Livre com diferentes percentuais, valores mínimos de compra e limites de desconto",
       "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFFHOJE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
