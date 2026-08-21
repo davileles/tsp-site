@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-21T13:43:50.609Z",
+  "atualizadoEm": "2026-08-21T14:01:46.385Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "11482",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Unidades De Bico Pétala 3.0 T5 Para Bebês De 6 Meses Phillips Avent",
+      "link": "https://meli.la/2oCZLHg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_653510-MLA110085549759_042026-O.webp",
+      "preco": 40.76,
+      "precoDe": 59.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T13:51:46.384Z"
+    },
+    {
+      "id": "11472",
+      "loja": "Mercado Livre",
+      "titulo": "Carrinho Guarda Chuva De passeio Maxi Baby Até 15kgs cor Preto",
+      "link": "https://meli.la/1vvP7Jo",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_935560-MLA100005231121_122025-O.webp",
+      "preco": 271.90999999999997,
+      "precoDe": 477.3,
+      "desconto": 33,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-21T13:46:02.420Z"
+    },
     {
       "id": "11469",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "BRINCADEIRAS",
       "enviadoEm": "2026-08-20T16:12:06.229Z"
-    },
-    {
-      "id": "10760",
-      "loja": "Mercado Livre",
-      "titulo": "Lego Classic 10713 - Maleta da Criatividade - Quantidade de peças 213",
-      "link": "https://meli.la/2cKbkFt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_678645-MLA99447823800_112025-O.webp",
-      "preco": 91.03,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "BRINCADEIRAS",
-      "enviadoEm": "2026-08-20T16:12:01.878Z"
-    },
-    {
-      "id": "10759",
-      "loja": "Mercado Livre",
-      "titulo": "Babuu Bomba Tira Leite Materno Para Amamentação",
-      "link": "https://meli.la/1CyGEsf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_946012-MLB112282501989_052026-O.webp",
-      "preco": 202.74,
-      "precoDe": 268,
-      "desconto": 11,
-      "cupom": "BRINCADEIRAS",
-      "enviadoEm": "2026-08-20T16:11:57.475Z"
     }
   ]
 }
