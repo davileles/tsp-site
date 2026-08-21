@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-21T19:04:21.010Z",
+  "atualizadoEm": "2026-08-21T19:21:45.590Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11714",
+      "loja": "Mercado Livre",
+      "titulo": "Principia Kit Gel de Limpeza GL-01 + Protetor Solar Facial PS-01 FPS 60",
+      "link": "https://meli.la/2AGwo5C",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_908971-MLA103561914983_012026-O.webp",
+      "preco": 69.03999999999999,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PROMOAQUI ou MODAEBELEZA ou FERRAMENTASEAUTO",
+      "enviadoEm": "2026-08-21T19:15:09.886Z"
+    },
+    {
+      "id": "11712",
+      "loja": "Mercado Livre",
+      "titulo": "Copo Térmico Dapon 1200ml Inox Com Canudo Tampa Vedada Quente E Frio Cor Preto",
+      "link": "https://meli.la/2iMt86V",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_901329-MLA110230571375_042026-O.webp",
+      "preco": 45.9,
+      "precoDe": 99.9,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T19:12:18.363Z"
+    },
     {
       "id": "11689",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-08-20T21:46:30.251Z"
-    },
-    {
-      "id": "11064",
-      "loja": "Amazon",
-      "titulo": "Wella Professionals Blondorplex Máscara 30ml",
-      "link": "https://www.amazon.com.br/dp/B0FCV8MXTR?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/21fLBSfaRIL._SL400_.jpg",
-      "preco": 15.1,
-      "precoDe": 50,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T21:44:46.590Z"
-    },
-    {
-      "id": "11061",
-      "loja": "Amazon",
-      "titulo": "Fralda Huggies Premium Dermacare RN - 34 Un",
-      "link": "https://www.amazon.com.br/dp/B0DR9PH47L?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41CEDiAYGTL._SL400_.jpg",
-      "preco": 49.9,
-      "precoDe": 54.59,
-      "desconto": 9,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T21:39:10.127Z"
     }
   ]
 }
