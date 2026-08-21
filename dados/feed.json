@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-21T20:08:07.386Z",
+  "atualizadoEm": "2026-08-21T22:10:01.376Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11761",
+      "loja": "Mercado Livre",
+      "titulo": "Geladeira Side By Side 511l Inverter Cor Preto Conectada Mid",
+      "link": "https://meli.la/1Wj5sfJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_633208-MLA99501448850_112025-O.webp",
+      "preco": 4599.08,
+      "precoDe": 5262.12,
+      "desconto": 5,
+      "cupom": "OFERTA",
+      "enviadoEm": "2026-08-21T22:00:01.373Z"
+    },
+    {
+      "id": "11759",
+      "loja": "Mercado Livre",
+      "titulo": "Siàge Nutri Acid.complex Shampoo + Condicionador + Máscara",
+      "link": "https://meli.la/1q5z8zs",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_733444-MLA99882997327_112025-O.webp",
+      "preco": 129.9,
+      "precoDe": 190,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T21:52:05.540Z"
+    },
     {
       "id": "11750",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 7,
       "cupom": null,
       "enviadoEm": "2026-08-20T22:50:27.479Z"
-    },
-    {
-      "id": "11202",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Refletores LED 400W Double Wise Branco Frio IP67 Áreas Externas",
-      "link": "https://meli.la/1YYSTXN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_898546-MLA111674889028_062026-O.webp",
-      "preco": 31.57,
-      "precoDe": 99.98,
-      "desconto": 61,
-      "cupom": "APROVEITAESSA",
-      "enviadoEm": "2026-08-20T22:48:54.382Z"
-    },
-    {
-      "id": "11201",
-      "loja": "Mercado Livre",
-      "titulo": "Bicicleta Ergométrica Bike Spinning 6kg Sensação inércia Fitness Preto e Vermelho Sevenfit Para Cardio E Musculação",
-      "link": "https://meli.la/1fJZZPc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745785-MLA114987927277_072026-O.webp",
-      "preco": 429.9,
-      "precoDe": 1094.99,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T22:47:14.491Z"
     }
   ]
 }
