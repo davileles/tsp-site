@@ -9,6 +9,9 @@
 <meta property="og:title" content="Tica Promos"/>
 <meta property="og:description" content="Ticou, avisou. Correu, levou. Cupons e achados do grupo, todo dia."/>
 <meta property="og:type" content="website"/>
+<meta property="og:image" content="tico-ancora.png"/>
+<link rel="icon" href="favicon.ico" sizes="any"/>
+<link rel="apple-touch-icon" href="apple-touch-icon.png"/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&family=Space+Mono:wght@700&display=swap" rel="stylesheet"/>
@@ -80,7 +83,10 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 .topo{position:sticky;top:0;z-index:50;background:var(--topo-bg);
   backdrop-filter:blur(10px);border-bottom:1px solid var(--border)}
 .topo-in{display:flex;align-items:center;justify-content:space-between;gap:12px;height:60px}
-.marca{display:flex;flex-direction:column;line-height:1}
+.marca{display:flex;align-items:center;gap:10px;line-height:1}
+.marca-txt{display:flex;flex-direction:column;line-height:1}
+.marca-tico{width:40px;height:40px;object-fit:contain;border-radius:9px;
+  background:#fff;flex-shrink:0}
 .marca b{font-size:15px;font-weight:900;letter-spacing:-.4px}
 .marca b em{font-style:normal;color:var(--tinta)}
 .marca small{font-size:9px;font-weight:700;letter-spacing:2.2px;color:var(--muted-2);
@@ -211,6 +217,8 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 .vazio-bloco{border:1px dashed var(--border-forte);border-radius:var(--radius);
   padding:52px 24px;text-align:center;grid-column:1/-1}
 .vazio-bloco b{display:block;font-size:16px;font-weight:800;margin-bottom:8px}
+.vazio-tico{display:block;margin:0 auto 10px;width:96px;height:96px;object-fit:contain;
+  border-radius:14px;background:#fff}
 .vazio-bloco p{color:var(--muted);font-size:13.5px;max-width:38ch;margin:0 auto 20px}
 .esqueleto{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
   height:280px;animation:respira 1.6s ease-in-out infinite}
@@ -251,8 +259,11 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 <header class="topo">
   <div class="wrap topo-in">
     <a class="marca" href="/">
-      <b>TICA <em>PROMOS</em></b>
-      <small>O Tico tica ✔️</small>
+      <img class="marca-tico" src="tico-ancora.png" alt="Tico" width="40" height="40"/>
+      <span class="marca-txt">
+        <b>TICA <em>PROMOS</em></b>
+        <small>O Tico tica ✔️</small>
+      </span>
     </a>
     <div class="topo-acoes">
       <button class="btn-tema" id="btn-tema" aria-label="Alternar tema" title="Alternar tema">🌙</button>
@@ -439,7 +450,9 @@ function esqueletos() {
 function falhou() {
   $('m-hora').textContent = '—';
   $('grade-ofertas').innerHTML =
-    '<div class="vazio-bloco"><b>O Tico não conseguiu carregar</b>' +
+    '<div class="vazio-bloco">' +
+    '<img class="vazio-tico" src="tico-ancora.png" alt="" width="96" height="96"/>' +
+    '<b>O Tico não conseguiu carregar</b>' +
     '<p>Confere sua conexão e recarrega a página.</p>' +
     '<button class="btn-grupo" onclick="location.reload()">Recarregar</button></div>';
 }
@@ -551,7 +564,9 @@ function botaoCupom(c) {
 }
 
 function blocoVazio(titulo, texto) {
-  return '<div class="vazio-bloco"><b>' + esc(titulo) + '</b>' +
+  return '<div class="vazio-bloco">' +
+    '<img class="vazio-tico" src="tico-ancora.png" alt="" width="96" height="96"/>' +
+    '<b>' + esc(titulo) + '</b>' +
     '<p>' + esc(texto) + '</p>' +
     '<a class="btn-grupo" href="' + esc(estado.grupoUrl) + '" target="_blank" rel="noopener">Entrar no grupo</a></div>';
 }
