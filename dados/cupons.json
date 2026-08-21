@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-08-21T02:56:30.925Z",
+  "atualizadoEm": "2026-08-21T03:26:30.940Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
-    {
-      "codigo": "NOVA3",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 650,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-21T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
     {
       "codigo": "MEGABR09",
       "loja": "Aliexpress",
@@ -435,18 +423,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "UPTELA15",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-21T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "ENDGAME",
       "loja": "Kabum",
       "tipo": "pct",
@@ -627,18 +603,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "AVANT",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 147,
-      "observacao": null,
-      "validadeAte": "2026-08-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CUPOMDOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -660,18 +624,6 @@
       "limite": 500,
       "observacao": "Múltiplos cupons de desconto percentual para Mercado Livre com diferentes percentuais, valores mínimos de compra e limites de desconto",
       "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "AQUITEMCUPOM",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Múltiplos cupons de desconto percentual para Mercado Livre com diferentes percentuais, valores mínimos de compra e limites de desconto",
-      "validadeAte": "2026-08-21T02:58:59.790Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -755,7 +707,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Múltiplos cupons para Mercado Livre com diferentes condições e limites de desconto",
-      "validadeAte": "2026-08-23T02:59:00.000Z",
+      "validadeAte": "2026-08-22T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -783,30 +735,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "COMMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Múltiplos cupons de desconto percentual para Mercado Livre com diferentes percentuais, valores mínimos de compra e limites de desconto",
-      "validadeAte": "2026-08-21T02:58:59.790Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMOSCERTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Válido para produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-08-21T02:58:59.790Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFERTAJA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -815,7 +743,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Múltiplos cupons para Mercado Livre com diferentes condições e limites de desconto",
-      "validadeAte": "2026-08-23T02:59:00.000Z",
+      "validadeAte": "2026-08-22T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -891,18 +819,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MAISOFERTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-08-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "COMPENSAML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -923,7 +839,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Múltiplos cupons para Mercado Livre com diferentes condições e limites de desconto",
-      "validadeAte": "2026-08-23T02:59:00.000Z",
+      "validadeAte": "2026-08-22T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -972,18 +888,6 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LOJASOFICIAIS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 10,
-      "observacao": null,
-      "validadeAte": "2026-08-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
