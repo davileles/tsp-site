@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-21T11:42:43.703Z",
+  "atualizadoEm": "2026-08-21T11:56:30.599Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "11380",
+      "loja": "Amazon",
+      "titulo": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
+      "link": "https://www.amazon.com.br/dp/B0BKLM298N?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/511NcjrBTHL._SL400_.jpg",
+      "preco": 96.9,
+      "precoDe": 118.35,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T11:56:12.821Z"
+    },
+    {
+      "id": "11379",
+      "loja": "Amazon",
+      "titulo": "Leite Pó Instantâneo Integral Ninho Lata 380g",
+      "link": "https://www.amazon.com.br/dp/B0CVNKZJFZ?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51e1yrjVOXL._SL400_.jpg",
+      "preco": 18.74,
+      "precoDe": 23.99,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T11:56:12.123Z"
+    },
+    {
+      "id": "11378",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Protect & Sec 90 Unidades Tamanho Médio Personal Baby",
+      "link": "https://meli.la/2Pr9hN8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_754916-MLA99922830519_112025-O.webp",
+      "preco": 46.57,
+      "precoDe": 63.9,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T11:56:11.243Z"
+    },
     {
       "id": "11374",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": "OFERTAS10",
       "enviadoEm": "2026-08-20T14:02:15.232Z"
-    },
-    {
-      "id": "10610",
-      "loja": "Amazon",
-      "titulo": "Aptanutri Soja 3 Fórmula Infantil 800g",
-      "link": "https://www.amazon.com.br/dp/B0D292HCS7?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41X0UwA6OwL._SL400_.jpg",
-      "preco": 87.26,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T13:59:15.572Z"
-    },
-    {
-      "id": "10609",
-      "loja": "Amazon",
-      "titulo": "Buba Pote Termico C/Colher Degrade Azul",
-      "link": "https://www.amazon.com.br/dp/B0CGFSD6TR?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31f7TKapwdL._SL400_.jpg",
-      "preco": 78.88,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T13:59:14.821Z"
-    },
-    {
-      "id": "10590",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeirinha Bebê Descanso Musical Vibratória Rosa Maxi Baby",
-      "link": "https://meli.la/1mTRUdJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_732532-MLA95142110312_102025-O.webp",
-      "preco": 84.91000000000001,
-      "precoDe": 239.9,
-      "desconto": 58,
-      "cupom": "BRINCADEIRAS",
-      "enviadoEm": "2026-08-20T13:41:58.066Z"
     }
   ]
 }
