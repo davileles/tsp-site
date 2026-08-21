@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-21T22:10:02.879Z",
+  "atualizadoEm": "2026-08-21T23:50:46.324Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -639,18 +639,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CUPOMDOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Múltiplos cupons de desconto percentual para Mercado Livre com diferentes percentuais, valores mínimos de compra e limites de desconto",
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELHORNOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -867,18 +855,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "COMPENSAML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "VEMPROMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -899,18 +875,6 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados. Limite de desconto é R$ 500 por cupom.",
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "APROVEITAESSA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
       "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
