@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-21T12:36:58.762Z",
+  "atualizadoEm": "2026-08-21T12:44:51.897Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -531,18 +531,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SITETODO2108",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 349,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Três cupons com desconto em reais em valores mínimos progressivos",
-      "validadeAte": "2026-08-21T15:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -587,7 +575,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
-      "validadeAte": "2026-08-22T12:00:35.109Z",
+      "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -660,18 +648,6 @@
       "limite": 500,
       "observacao": "Múltiplos cupons de desconto percentual para Mercado Livre com diferentes percentuais, valores mínimos de compra e limites de desconto",
       "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFFHOJE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
