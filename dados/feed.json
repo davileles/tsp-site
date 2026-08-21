@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-21T14:43:50.609Z",
+  "atualizadoEm": "2026-08-21T15:13:50.608Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "11522",
+      "loja": "Mercado Livre",
+      "titulo": "Placa de vídeo msi geforce rtx 5060 shadow 2x oc 8gb gddr7 128-bit",
+      "link": "https://meli.la/1g9nkVt",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_901198-MLA99972929477_112025-O.webp",
+      "preco": 2174.05,
+      "precoDe": 2499,
+      "desconto": 5,
+      "cupom": "CELULARTECH",
+      "enviadoEm": "2026-08-21T15:12:50.483Z"
+    },
+    {
+      "id": "11521",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Masculina Treino Under Armour Sportstyle Left Chest",
+      "link": "https://meli.la/2o8HL5N",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_856866-MLB113711506413_062026-O.webp",
+      "preco": 64.78,
+      "precoDe": 157.99,
+      "desconto": 50,
+      "cupom": "COMPENSAML",
+      "enviadoEm": "2026-08-21T15:10:45.305Z"
+    },
+    {
+      "id": "11520",
+      "loja": "Mercado Livre",
+      "titulo": "Placa De Vídeo Gigabyte Rtx 5060 Eagle Oc 8gb Gddr7 128bits",
+      "link": "https://meli.la/1qWuQd4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_821423-MLA99572279000_122025-O.webp",
+      "preco": 2174.05,
+      "precoDe": 5999,
+      "desconto": 60,
+      "cupom": "CELULARTECH",
+      "enviadoEm": "2026-08-21T15:10:42.973Z"
+    },
+    {
+      "id": "11518",
+      "loja": "Mercado Livre",
+      "titulo": "Cooktop de Indução 4 Bocas Dako Supreme Preto com Trava de Segurança 220V",
+      "link": "https://meli.la/1yTotBk",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652323-MLU77315319959_062024-O.webp",
+      "preco": 825.9300000000001,
+      "precoDe": 1699,
+      "desconto": 31,
+      "cupom": "ESTOQUEDOMELI",
+      "enviadoEm": "2026-08-21T15:06:06.262Z"
+    },
+    {
+      "id": "11517",
+      "loja": "Mercado Livre",
+      "titulo": "Kaspersky Small Office Security 9+1 Servidor- Envio Imediato",
+      "link": "https://meli.la/3128bhr",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_985067-MLB86474448030_062025-O.webp",
+      "preco": 379.40999999999997,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "ESTOQUEDOMELI",
+      "enviadoEm": "2026-08-21T15:04:14.083Z"
+    },
     {
       "id": "11508",
       "loja": "Amazon",
@@ -1381,66 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-08-20T17:18:27.364Z"
-    },
-    {
-      "id": "10785",
-      "loja": "Shopee",
-      "titulo": "JOGO DE CAMA Queen 500 Fios Percal Toque Algodão + 2 Fronhas 50x70 | Cobre Leito Luxo Sem Elástico",
-      "link": "https://s.shopee.com.br/904YkWvuMS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mnmy209iybcya0_tn",
-      "preco": 37.57,
-      "precoDe": 72.15,
-      "desconto": 41,
-      "cupom": "L3V3M415",
-      "enviadoEm": "2026-08-20T17:13:12.385Z"
-    },
-    {
-      "id": "10782",
-      "loja": "Mercado Livre",
-      "titulo": "Relógio Garmin Forerunner 55 Monitor Cardíaco E Gps 42mm Bla",
-      "link": "https://meli.la/2Bb2yPe",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_778972-MLA99932709235_112025-O.webp",
-      "preco": 971.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "LOJASOFICIASCUPONEIR ou LOJASOFICIAIS ou MELITEC",
-      "enviadoEm": "2026-08-20T17:00:09.400Z"
-    },
-    {
-      "id": "10780",
-      "loja": "Amazon",
-      "titulo": "Café Gourmet Appassionato Em Grãos Expresso 100% Arábica - 1kg",
-      "link": "https://www.amazon.com.br/dp/B0FF89PVB1?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31Nmt74IejL._SL400_.jpg",
-      "preco": 85.2,
-      "precoDe": 120,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T16:55:00.218Z"
-    },
-    {
-      "id": "10779",
-      "loja": "Shopee",
-      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
-      "link": "https://s.shopee.com.br/8pl8WlSlRn",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnyps41y3uo4c6_tn",
-      "preco": 79.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PR1OR1D8AF",
-      "enviadoEm": "2026-08-20T16:51:54.894Z"
-    },
-    {
-      "id": "10776",
-      "loja": "Mercado Livre",
-      "titulo": "Máquina De Solda Inversora Digital Bivolt 110v/220v Dobevi Azul",
-      "link": "https://meli.la/1DjLSPs",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_734830-MLA110467222906_052026-O.webp",
-      "preco": 210.75,
-      "precoDe": 499.56,
-      "desconto": 44,
-      "cupom": "DESCOTOSMELI ou MAISCUPONS ou QUEROCUPONS ou AVANT25 ou AVANT ou CUPOMDOML ou MELHORNOML ou AQUITEMCUPOM ou MELIPROMO ou CORREAQUIML ou MELIVIP ou OFFNOMELI",
-      "enviadoEm": "2026-08-20T16:47:57.787Z"
     }
   ]
 }
