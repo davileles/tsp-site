@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-21T14:13:50.609Z",
+  "atualizadoEm": "2026-08-21T14:43:50.609Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "11508",
+      "loja": "Amazon",
+      "titulo": "Cadeirinha Cosco Kids, Zennya, 2 em 1, 9 a 36kg, Preto Mescla",
+      "link": "https://www.amazon.com.br/dp/B0GPZ4PLH5?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/317Xter0XBL._SL400_.jpg",
+      "preco": 499,
+      "precoDe": 527.7,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T14:39:12.850Z"
+    },
+    {
+      "id": "11507",
+      "loja": "Amazon",
+      "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 1 1,5 kg - 0-6 meses",
+      "link": "https://www.amazon.com.br/dp/B0BJ7ZTCH6?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41AOoMKHz7L._SL400_.jpg",
+      "preco": 121.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T14:39:11.841Z"
+    },
+    {
+      "id": "11503",
+      "loja": "Amazon",
+      "titulo": "OAZ Protetor Solar Corporal Infantil Bob Esponja FPS 60 125ml",
+      "link": "https://www.amazon.com.br/dp/B0CVNPQRXN?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/3187K27OvlL._SL400_.jpg",
+      "preco": 32.99,
+      "precoDe": 65.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T14:32:09.353Z"
+    },
     {
       "id": "11497",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 44,
       "cupom": "DESCOTOSMELI ou MAISCUPONS ou QUEROCUPONS ou AVANT25 ou AVANT ou CUPOMDOML ou MELHORNOML ou AQUITEMCUPOM ou MELIPROMO ou CORREAQUIML ou MELIVIP ou OFFNOMELI",
       "enviadoEm": "2026-08-20T16:47:57.787Z"
-    },
-    {
-      "id": "10774",
-      "loja": "Amazon",
-      "titulo": "Lillo Kit De Higiene Para Recém Nascido com Aspirador Nasal, Tesoura, Pente e Escova de Cabelo, Rosa",
-      "link": "https://www.amazon.com.br/dp/B07FRYKPRL?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41zWPYQRCjL._SL400_.jpg",
-      "preco": 28.39,
-      "precoDe": 29.9,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T16:37:47.852Z"
-    },
-    {
-      "id": "10773",
-      "loja": "Amazon",
-      "titulo": "Exposis Bebe, Repelente Baby com Icaridina, Gel 117g",
-      "link": "https://www.amazon.com.br/dp/B08N8PWLM6?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41XCcF6As9L._SL400_.jpg",
-      "preco": 45.46,
-      "precoDe": 73.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T16:37:45.615Z"
-    },
-    {
-      "id": "10768",
-      "loja": "Shopee",
-      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
-      "link": "https://s.shopee.com.br/5q7Wvn6Q7b",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
-      "preco": 59,
-      "precoDe": 158,
-      "desconto": 50,
-      "cupom": "C0MP74RN4SH0P33",
-      "enviadoEm": "2026-08-20T16:30:40.013Z"
     }
   ]
 }
