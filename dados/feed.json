@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-21T13:13:50.609Z",
+  "atualizadoEm": "2026-08-21T13:43:50.609Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "11469",
+      "loja": "Amazon",
+      "titulo": "Travel System Maxi-Cosi, Eva³, Essential Black Champagne",
+      "link": "https://www.amazon.com.br/dp/B0DB8XJK3P?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31aKMNkaOkL._SL400_.jpg",
+      "preco": 1897.76,
+      "precoDe": 3499,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T13:36:35.085Z"
+    },
+    {
+      "id": "11468",
+      "loja": "Amazon",
+      "titulo": "Sabonete Líquido de Glicerina Huggies Extra Suave 600 ml",
+      "link": "https://www.amazon.com.br/dp/B08GZBDWF4?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/314X+tcsvaL._SL400_.jpg",
+      "preco": 28.19,
+      "precoDe": 47.24,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T13:36:34.324Z"
+    },
     {
       "id": "11465",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 11,
       "cupom": "BRINCADEIRAS",
       "enviadoEm": "2026-08-20T16:11:57.475Z"
-    },
-    {
-      "id": "10758",
-      "loja": "Shopee",
-      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
-      "link": "https://s.shopee.com.br/2BEEXaqfaD",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
-      "preco": 59.980000000000004,
-      "precoDe": 199.95,
-      "desconto": 60,
-      "cupom": "C0MP74RN4SH0P33",
-      "enviadoEm": "2026-08-20T16:09:26.622Z"
-    },
-    {
-      "id": "10755",
-      "loja": "Mercado Livre",
-      "titulo": "Filtro De Ar Esportivo K&n Kn Duplo Fluxo Rg1001 Conico Universal Rg-1001rd Vermelho",
-      "link": "https://meli.la/1csBFTe",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_816894-MLB83465292037_042025-O.webp",
-      "preco": 299.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELIPROMO",
-      "enviadoEm": "2026-08-20T15:55:35.110Z"
     }
   ]
 }
