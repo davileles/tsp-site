@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-21T17:01:56.018Z",
+  "atualizadoEm": "2026-08-21T17:40:23.261Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "11633",
+      "loja": "Amazon",
+      "titulo": "Fisher-Price - Procurar e encontrar: Animais divertidos: Outros",
+      "link": "https://www.amazon.com.br/dp/6555009977?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51khkTdzLoL._SL400_.jpg",
+      "preco": 11.9,
+      "precoDe": 19.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T17:33:37.864Z"
+    },
     {
       "id": "11576",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-20T21:31:40.830Z"
-    },
-    {
-      "id": "11015",
-      "loja": "Amazon",
-      "titulo": "Comfort Amaciante Concentrado 36 Segredos 1,5L",
-      "link": "https://www.amazon.com.br/dp/B0CJG18XKM?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41lUvlTHdDL._SL400_.jpg",
-      "preco": 23.89,
-      "precoDe": 36.99,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T21:30:10.835Z"
     }
   ]
 }
