@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-21T19:04:22.344Z",
+  "atualizadoEm": "2026-08-21T19:21:46.799Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -555,18 +555,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "TOMA10",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": 600,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-21T19:15:52.019Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "INTERNACIONALCN",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -672,30 +660,6 @@
       "limite": 147,
       "observacao": null,
       "validadeAte": "2026-08-23T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CASAML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PRAVCSEMPRE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -819,54 +783,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SEMPRENAMODA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CORRREPROML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SAUDEPRAVC",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "APROVEITAGORA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFERTAJA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -963,18 +879,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "COMPENSAML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Múltiplos cupons de desconto percentual para Mercado Livre com diferentes percentuais, valores mínimos de compra e limites de desconto",
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "VEMPROMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -999,18 +903,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "APROVEITAESSA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BRINCADEIRAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1031,7 +923,7 @@
       "maximo": null,
       "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-08-22T18:00:27.576Z",
+      "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1043,7 +935,7 @@
       "maximo": null,
       "limite": 25,
       "observacao": null,
-      "validadeAte": "2026-08-22T18:03:20.435Z",
+      "validadeAte": "2026-08-21T22:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1055,7 +947,7 @@
       "maximo": null,
       "limite": 40,
       "observacao": null,
-      "validadeAte": "2026-08-22T18:03:20.437Z",
+      "validadeAte": "2026-08-21T22:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1103,7 +995,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-08-22T18:00:27.578Z",
+      "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1128,6 +1020,18 @@
       "limite": null,
       "observacao": "Cupom para tênis PUMA por R$199,99",
       "validadeAte": "2026-08-21T21:14:05.347Z",
+      "url": null
+    },
+    {
+      "codigo": "PUMACOM15",
+      "loja": "Outro: não especificado",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto de 15% em vários modelos de tênis PUMA. Preço mencionado: R$199,99",
+      "validadeAte": "2026-08-22T19:04:27.035Z",
       "url": null
     },
     {
@@ -1215,18 +1119,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "OFERTAS10",
-      "loja": "Shopee",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 59,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Dois cupons ativos na Shopee",
-      "validadeAte": "2026-08-21T19:16:18.260Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "D31X4C0M1G0",
       "loja": "Shopee",
       "tipo": "reais",
@@ -1248,18 +1140,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-22T13:01:54.352Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "4CH4D1NH0S",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 5,
-      "minimo": 25,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons Shopee com diferentes valores mínimos de compra",
-      "validadeAte": "2026-08-21T19:16:03.387Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
