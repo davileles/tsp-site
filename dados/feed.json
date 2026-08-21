@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-21T12:36:57.379Z",
+  "atualizadoEm": "2026-08-21T12:44:50.609Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "11434",
+      "loja": "Amazon",
+      "titulo": "Electrolux Aspirador água pó compacto potente função sopro 1400W 12 L total 5 L util protetor termico AWD01 127V",
+      "link": "https://www.amazon.com.br/dp/B076BB1XPG?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41G3RoaUjlL._SL400_.jpg",
+      "preco": 199,
+      "precoDe": 339.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T12:43:20.998Z"
+    },
+    {
+      "id": "11433",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira De Impacto A Bateria 21V 3/8” Bivolt 1400 Rpm Com Acessórios E Maleta TB-21PZW The Black Tools",
+      "link": "https://meli.la/1aRgNh5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_660718-MLA99503122958_112025-O.webp",
+      "preco": 89.92,
+      "precoDe": 259.9,
+      "desconto": 54,
+      "cupom": "OFFNOMELI",
+      "enviadoEm": "2026-08-21T12:42:13.231Z"
+    },
+    {
+      "id": "11411",
+      "loja": "Mercado Livre",
+      "titulo": "TESTO ESSENCIAL - Fórmula Exclusiva com Feno Grego + Boro + Arginina + ZMA + Vitamina B6 - 60 cápsulas - Precursor da Testosterona",
+      "link": "https://meli.la/24ffcqN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_949131-MLA114764498645_072026-O.webp",
+      "preco": 39.74,
+      "precoDe": 91.77,
+      "desconto": 38,
+      "cupom": "VOLTAAQUI",
+      "enviadoEm": "2026-08-21T12:40:52.434Z"
+    },
+    {
+      "id": "11410",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor LG LED Home & Office 20U401A-B Tela 20” HD+, LG Switch, Modo leitura e Flicker Safe, HDMI, VGA, 2ms (GtG), 75Hz, Black Stabilizer, Dynamic Action Sync, Crosshair, saída fon",
+      "link": "https://meli.la/32yjz2x",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_699928-MLA105314087580_012026-O.webp",
+      "preco": 350.55,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T12:40:11.946Z"
+    },
+    {
+      "id": "11407",
+      "loja": "Amazon",
+      "titulo": "Hellmann's Ketchup Tradicional 380 g",
+      "link": "https://www.amazon.com.br/dp/B086R92SJ1?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41Dbbto03TL._SL400_.jpg",
+      "preco": 13.49,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T12:39:08.091Z"
+    },
     {
       "id": "11406",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": null,
       "cupom": "COMPENSAML",
       "enviadoEm": "2026-08-20T15:41:45.357Z"
-    },
-    {
-      "id": "10707",
-      "loja": "Mercado Livre",
-      "titulo": "Bebê Conforto Para Bebê Comfort de 0 à 13kgs Preto Maxi Baby",
-      "link": "https://meli.la/2AbR5VH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_814542-MLA99940292565_112025-O.webp",
-      "preco": 191.17,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "BRINCADEIRAS",
-      "enviadoEm": "2026-08-20T15:40:29.956Z"
-    },
-    {
-      "id": "10698",
-      "loja": "Mercado Livre",
-      "titulo": "Fone De Ouvido Bluetooth Sem Fio Tune 780nc Jbl - Preto Preto",
-      "link": "https://meli.la/18Daupv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_915072-MLA107121215995_022026-O.webp",
-      "preco": 338.05,
-      "precoDe": 499,
-      "desconto": 25,
-      "cupom": "LOJASOFICIASCUPONEIR",
-      "enviadoEm": "2026-08-20T15:36:50.840Z"
-    },
-    {
-      "id": "10697",
-      "loja": "Amazon",
-      "titulo": "Shampoo Para Bebê Johnson's Baby De Glicerina, 400ml",
-      "link": "https://www.amazon.com.br/dp/B07DHRPTPB?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31ih8p5jAHL._SL400_.jpg",
-      "preco": 22.9,
-      "precoDe": 34.99,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T15:35:21.922Z"
-    },
-    {
-      "id": "10696",
-      "loja": "Mercado Livre",
-      "titulo": "Relógio Lacoste Lc33 Masculino Borracha Preto 2011365",
-      "link": "https://meli.la/2WEqvhz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_976378-MLA82150345158_022025-O.webp",
-      "preco": 326.22,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "LOJASOFICIASCUPONEIR ou LOJASOFICIAIS ou MELITEC",
-      "enviadoEm": "2026-08-20T15:34:09.261Z"
-    },
-    {
-      "id": "10695",
-      "loja": "Amazon",
-      "titulo": "Buddemeyer Kit Pano de Copa Gourmet Bege/Vermelho/Azul 3pç",
-      "link": "https://www.amazon.com.br/dp/B0DJPNFGYH?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51X7EGlE7wL._SL400_.jpg",
-      "preco": 73.69,
-      "precoDe": 99.9,
-      "desconto": 8,
-      "cupom": "MODAPAI20",
-      "enviadoEm": "2026-08-20T15:33:42.309Z"
     }
   ]
 }
