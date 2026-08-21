@@ -1,7 +1,8 @@
 # tsp-site
 
-Site público do **Tudo Sobre Promos** — cupons valendo agora e ofertas que saíram
-nos grupos. Estático, servido pelo GitHub Pages em `tudosobrepromos.com`.
+Site público do **Tica Promos** — cupons valendo agora e achados que saíram
+nos grupos. Estático, servido pelo GitHub Pages em `tudosobrepromos.com`
+(migrando para `ticapromos.com.br`).
 
 ## Arquivos
 
