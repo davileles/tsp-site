@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-21T14:49:13.196Z",
+  "atualizadoEm": "2026-08-21T15:13:51.854Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
     {
@@ -315,18 +315,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "TOMA200",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-21T15:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "PEGADESCONTO",
       "loja": "Kabum",
       "tipo": "reais",
@@ -565,6 +553,30 @@
       "observacao": null,
       "validadeAte": "2026-08-21T19:15:52.019Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "CELULARTECH",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 1599,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons válidos em produtos selecionados conforme listas fornecidas",
+      "validadeAte": "2026-08-22T15:00:55.432Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ELETRODOMESTICOS",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 180,
+      "minimo": 1199,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons válidos em produtos selecionados conforme listas fornecidas",
+      "validadeAte": "2026-08-22T15:00:55.434Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "INTERNACIONALCN",
@@ -1047,18 +1059,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
     },
     {
-      "codigo": "PR1OR1D8AF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-21T15:00:09.742Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "C0MP74RN4SH0P33",
       "loja": "Shopee",
       "tipo": "reais",
@@ -1128,18 +1128,6 @@
       "limite": null,
       "observacao": "Cupons Shopee com diferentes valores mínimos de compra",
       "validadeAte": "2026-08-21T19:16:03.387Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "L3V3M415",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 5,
-      "minimo": 25,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-21T15:02:19.892Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
