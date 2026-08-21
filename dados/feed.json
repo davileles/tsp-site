@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-21T12:44:50.609Z",
+  "atualizadoEm": "2026-08-21T13:00:15.124Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "11460",
+      "loja": "Mercado Livre",
+      "titulo": "Magnésio Mg Complex Essential 90 Cápsulas Alta Absorção",
+      "link": "https://meli.la/15VnptJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_932242-MLA99928254177_112025-O.webp",
+      "preco": 69.93,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "VOLTAAQUI",
+      "enviadoEm": "2026-08-21T12:50:15.123Z"
+    },
+    {
+      "id": "11459",
+      "loja": "Mercado Livre",
+      "titulo": "Absolut Repair Gold Quinoa Máscara 500g - L'oréal",
+      "link": "https://meli.la/2aYxf4P",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_777426-MLU72721384007_112023-O.webp",
+      "preco": 139.3,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "VOLTAAQUI",
+      "enviadoEm": "2026-08-21T12:48:26.361Z"
+    },
+    {
+      "id": "11435",
+      "loja": "Mercado Livre",
+      "titulo": "Smartphone Motorola Moto G15 - 128gb 12gb (4gb Ram+8gb Ram Boost) E Camera 50mp Com Ai E Night Vision Bateria De 5200 Mah Tela Fhd+ 6.7 Com Superbrilho Nfc Azul Claro",
+      "link": "https://meli.la/2tM8UYn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_970543-MLA100008320341_122025-O.webp",
+      "preco": 909.3,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "VOLTAAQUI",
+      "enviadoEm": "2026-08-21T12:46:35.925Z"
+    },
     {
       "id": "11434",
       "loja": "Amazon",
@@ -229,18 +265,6 @@
       "desconto": null,
       "cupom": "COMPENSAML",
       "enviadoEm": "2026-08-21T12:11:16.068Z"
-    },
-    {
-      "id": "11390",
-      "loja": "Mercado Livre",
-      "titulo": "Magnésio Mg Complex Essential 90 Cápsulas Alta Absorção",
-      "link": "https://meli.la/15VnptJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_932242-MLA99928254177_112025-O.webp",
-      "preco": 69.93,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "VOLTAAQUI",
-      "enviadoEm": "2026-08-21T12:09:58.461Z"
     },
     {
       "id": "11387",
@@ -1417,30 +1441,6 @@
       "desconto": 6,
       "cupom": null,
       "enviadoEm": "2026-08-20T15:44:25.645Z"
-    },
-    {
-      "id": "10709",
-      "loja": "Mercado Livre",
-      "titulo": "Lava E Seca Samsung Wd11m Com Digital Inverter Inox 11kg Cor Inox look",
-      "link": "https://meli.la/1eWJuqn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_687549-MLA99986849451_112025-O.webp",
-      "preco": 2992.49,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "LOJASOFICIASCUPONEIR ou LOJASOFICIAIS ou MELITEC",
-      "enviadoEm": "2026-08-20T15:43:15.047Z"
-    },
-    {
-      "id": "10708",
-      "loja": "Mercado Livre",
-      "titulo": "Jaqueta Bobojaco Casaco Forrado Impermeável Frio Neve Moto",
-      "link": "https://meli.la/1MrowYc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_721388-MLB107406653130_032026-O.webp",
-      "preco": 106.94,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COMPENSAML",
-      "enviadoEm": "2026-08-20T15:41:45.357Z"
     }
   ]
 }
