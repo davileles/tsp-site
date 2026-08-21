@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-21T15:43:51.973Z",
+  "atualizadoEm": "2026-08-21T16:13:51.756Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "cupons": [
+    {
+      "codigo": "GRANDE1",
+      "loja": "Aliexpress",
+      "tipo": "reais",
+      "valor": 840,
+      "minimo": 5100,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-27T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
     {
       "codigo": "MEGABR09",
       "loja": "Aliexpress",
@@ -555,18 +567,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "CELULARTECH",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 1599,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons válidos em produtos selecionados conforme listas fornecidas",
-      "validadeAte": "2026-08-22T15:00:55.432Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "ELETRODOMESTICOS",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1080,18 +1080,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-22T15:20:56.606Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "C0UP0M10",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 59,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons em esgotamento",
-      "validadeAte": "2026-08-21T15:46:17.484Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
