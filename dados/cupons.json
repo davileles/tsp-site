@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-21T20:50:45.986Z",
+  "atualizadoEm": "2026-08-21T21:20:45.911Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -289,18 +289,6 @@
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
-    },
-    {
-      "codigo": "HISENSE150",
-      "loja": "Dufrio",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-21T21:08:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=23524&id=1207116"
     },
     {
       "codigo": "MULTI6",
@@ -951,6 +939,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CORREPROML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TBTSTOCK10",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1008,18 +1008,6 @@
       "limite": null,
       "observacao": "Válido apenas em cidades selecionadas",
       "validadeAte": "2026-08-22T17:12:28.188Z",
-      "url": null
-    },
-    {
-      "codigo": "PUMACOM15",
-      "loja": "Outro: não especificada",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom para tênis PUMA por R$199,99",
-      "validadeAte": "2026-08-21T21:14:05.347Z",
       "url": null
     },
     {
