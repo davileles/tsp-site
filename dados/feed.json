@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-21T16:13:50.609Z",
+  "atualizadoEm": "2026-08-21T16:37:54.848Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "11565",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Sacos De Lavagem Tenis Sapatos Para Máquina De Lavar",
+      "link": "https://meli.la/1bGUSC5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_728393-MLB109670517616_042026-O.webp",
+      "preco": 34.79,
+      "precoDe": 78,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T16:27:54.846Z"
+    },
+    {
+      "id": "11564",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira de escritório Diretor Jadel Preta Healer",
+      "link": "https://meli.la/1Zwyi9o",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_757752-MLA105408282418_012026-O.webp",
+      "preco": 199.26,
+      "precoDe": 270,
+      "desconto": 10,
+      "cupom": "APROVEITAESSA",
+      "enviadoEm": "2026-08-21T16:24:15.184Z"
+    },
+    {
+      "id": "11563",
+      "loja": "Amazon",
+      "titulo": "Giovanna Baby Sabonete Lí­quido Antibacteriano Blue 500ml",
+      "link": "https://www.amazon.com.br/dp/B09XDYYW9J?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/31nEQbbYSnL._SL400_.jpg",
+      "preco": 8.13,
+      "precoDe": 37.99,
+      "desconto": 79,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T16:22:06.233Z"
+    },
     {
       "id": "11559",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 49,
       "cupom": "BRINCADEIRAS",
       "enviadoEm": "2026-08-20T21:06:05.643Z"
-    },
-    {
-      "id": "11001",
-      "loja": "Amazon",
-      "titulo": "Hastes Flexíveis Clingo - Branco",
-      "link": "https://www.amazon.com.br/dp/B07D5JZ4B8?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41Ue+cDnIxL._SL400_.jpg",
-      "preco": 9.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T21:02:56.719Z"
-    },
-    {
-      "id": "11000",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo De Ferramentas 169 Peças E Furadeira Parafusadeira 21v",
-      "link": "https://meli.la/1LDfA9s",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_936788-MLB112756485768_062026-O.webp",
-      "preco": 193.96,
-      "precoDe": 530.67,
-      "desconto": 51,
-      "cupom": "DESCOTOSMELI ou MAISCUPONS ou QUEROCUPONS ou AVANT25 ou AVANT ou CUPOMDOML ou MELHORNOML ou AQUITEMCUPOM ou MELIPROMO ou CORREAQUIML ou MELIVIP ou OFFNOMELI",
-      "enviadoEm": "2026-08-20T21:00:19.602Z"
-    },
-    {
-      "id": "10998",
-      "loja": "Shopee",
-      "titulo": "Processador Processadores 3 Laminas De Alimentos Manual 500ml Multiuso Universal",
-      "link": "https://s.shopee.com.br/904YzGE8rL",
-      "imagem": "https://cf.shopee.com.br/file/ec94a44236e11acb0440dc5bd1a79843_tn",
-      "preco": 14.99,
-      "precoDe": 22.04,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T20:48:08.840Z"
     }
   ]
 }
