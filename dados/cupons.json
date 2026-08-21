@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-21T18:25:49.233Z",
+  "atualizadoEm": "2026-08-21T18:34:39.587Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -819,6 +819,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "SAUDEPRAVC",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "APROVEITAGORA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1188,18 +1200,6 @@
       "limite": 50,
       "observacao": "Dois cupons ativos na Shopee",
       "validadeAte": "2026-08-21T19:16:18.260Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "D31X4C0M1G0",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-21T18:32:04.021Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
