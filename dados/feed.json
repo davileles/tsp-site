@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-08-20T23:05:18.417Z",
+  "atualizadoEm": "2026-08-21T11:26:30.599Z",
   "grupoUrl": "https://grupo.tudosobrepromos.com/groups",
   "ofertas": [
+    {
+      "id": "11370",
+      "loja": "Mercado Livre",
+      "titulo": "Combo Cuide-se Bem Amoruda: Body Splash 200ml + Loção Corporal 400ml",
+      "link": "https://meli.la/1buNDVB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_698076-MLB110690112986_052026-O.webp",
+      "preco": 113.81,
+      "precoDe": 173.8,
+      "desconto": 23,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-21T11:24:58.961Z"
+    },
+    {
+      "id": "11369",
+      "loja": "Shopee",
+      "titulo": "Quadriciclo Infantil Carrinho De Passeio Com Empurrador Haste Pedal Motoquinha Maral",
+      "link": "https://s.shopee.com.br/1qbPQ7pZXX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lz0hrluk8ny9e8_tn",
+      "preco": 448.9,
+      "precoDe": 528.12,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T11:22:47.426Z"
+    },
+    {
+      "id": "11368",
+      "loja": "Mercado Livre",
+      "titulo": "Lixeira Inteligente Automática Branca Universal Com Sensor Recarregável Earman Company Anti Odor 16l Recarregável Usb",
+      "link": "https://meli.la/2K1sXZb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_887947-MLA112010146939_052026-O.webp",
+      "preco": 56.25,
+      "precoDe": 157.98,
+      "desconto": 53,
+      "cupom": "OFFNOMELI",
+      "enviadoEm": "2026-08-21T11:20:43.379Z"
+    },
+    {
+      "id": "11367",
+      "loja": "Mercado Livre",
+      "titulo": "Mop Spray Esfregão Vassoura Mágica WOW WORLD OF WONDERS Mop Spray",
+      "link": "https://meli.la/2zD9rgb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_978796-MLA111352904047_052026-O.webp",
+      "preco": 31.9,
+      "precoDe": 59.99,
+      "desconto": 35,
+      "cupom": "APROVEITAESSA",
+      "enviadoEm": "2026-08-21T11:18:48.938Z"
+    },
+    {
+      "id": "11366",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51fmR+tg5ML._SL400_.jpg",
+      "preco": 80.49,
+      "precoDe": 109.78,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T11:14:37.195Z"
+    },
+    {
+      "id": "11365",
+      "loja": "Amazon",
+      "titulo": "Huggies Fralda Supreme Care M 196 Un",
+      "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/51+st-gYHFL._SL400_.jpg",
+      "preco": 174.9,
+      "precoDe": 229.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T11:14:34.950Z"
+    },
+    {
+      "id": "11364",
+      "loja": "Amazon",
+      "titulo": "KitKat Creme Crocante de Chocolate – Pasta para Passar, 330 g",
+      "link": "https://www.amazon.com.br/dp/B0FMLBQ136?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
+      "imagem": "https://m.media-amazon.com/images/I/41shRXXiQyL._SL400_.jpg",
+      "preco": 22.99,
+      "precoDe": 27.99,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-08-21T11:11:43.964Z"
+    },
+    {
+      "id": "11363",
+      "loja": "Mercado Livre",
+      "titulo": "Pula Pula Cama Elástica Trampolim Infantil 1,4m Reforçado",
+      "link": "https://meli.la/1oAnd8j",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_929852-MLB114341304056_082026-O.webp",
+      "preco": 220.55,
+      "precoDe": 399.9,
+      "desconto": 35,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-08-21T11:09:26.387Z"
+    },
     {
       "id": "11206",
       "loja": "Mercado Livre",
@@ -735,18 +831,6 @@
       "enviadoEm": "2026-08-20T17:18:27.364Z"
     },
     {
-      "id": "10786",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Supreme Care M 196 Un",
-      "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51+st-gYHFL._SL400_.jpg",
-      "preco": 174.9,
-      "precoDe": 229.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T17:13:57.983Z"
-    },
-    {
       "id": "10785",
       "loja": "Shopee",
       "titulo": "JOGO DE CAMA Queen 500 Fios Percal Toque Algodão + 2 Fronhas 50x70 | Cobre Leito Luxo Sem Elástico",
@@ -1357,90 +1441,6 @@
       "desconto": null,
       "cupom": "4CH4D1NH0S",
       "enviadoEm": "2026-08-20T13:40:42.466Z"
-    },
-    {
-      "id": "10579",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
-      "link": "https://s.shopee.com.br/5ArpvPzG9C",
-      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
-      "preco": 47.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "4CH4D1NH0S",
-      "enviadoEm": "2026-08-20T13:19:27.262Z"
-    },
-    {
-      "id": "10573",
-      "loja": "Amazon",
-      "titulo": "OFF! Family Loção Repelente de Insetos e Mosquitos, 200ml",
-      "link": "https://www.amazon.com.br/dp/B08SFMNZF6?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41hkXFUrlrL._SL400_.jpg",
-      "preco": 15.67,
-      "precoDe": 23.2,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T13:12:14.969Z"
-    },
-    {
-      "id": "10571",
-      "loja": "Mercado Livre",
-      "titulo": "Berço Portátil Infantil Cercado Desmontável Lune Maxi Baby - CINZA",
-      "link": "https://meli.la/1V5hknC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_865878-MLA95693182272_102025-O.webp",
-      "preco": 254.90999999999997,
-      "precoDe": 497.48,
-      "desconto": 40,
-      "cupom": "BRINCADEIRAS",
-      "enviadoEm": "2026-08-20T13:11:58.567Z"
-    },
-    {
-      "id": "10568",
-      "loja": "Shopee",
-      "titulo": "Assento Massageador Elétrico Controle Aliviar Dores Lombar Coluna Pescoço Veicular Escritório 8 Modos 3 Intensidade 3036",
-      "link": "https://s.shopee.com.br/7fZAsXI6cH",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m83r5tij7p5d46_tn",
-      "preco": 139.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "C4RR1NH0D30UR0",
-      "enviadoEm": "2026-08-20T12:58:00.837Z"
-    },
-    {
-      "id": "10567",
-      "loja": "Amazon",
-      "titulo": "Tira Manchas Vanish Líquido Multiuso para roupas coloridas Refil Econômico 500ml",
-      "link": "https://www.amazon.com.br/dp/B00DX0FJXW?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41-y16Xhe8L._SL400_.jpg",
-      "preco": 8.69,
-      "precoDe": 18.63,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T12:47:11.763Z"
-    },
-    {
-      "id": "10566",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Árabe Philos Pura 100ML",
-      "link": "https://meli.la/1Dm3ygA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_843878-MLA114602833215_072026-O.webp",
-      "preco": 189,
-      "precoDe": 258.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T12:44:33.428Z"
-    },
-    {
-      "id": "10565",
-      "loja": "Mercado Livre",
-      "titulo": "Smartwatch HUAWEI Band 10 Caixa de Polímeros Duráveis Análise do Sono em Nível Profissional Assistente de Bem-estar Emocional Relógio Smartwatch Compatível com Android e iOS Preto",
-      "link": "https://meli.la/2tHSuGP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_772291-MLA100008466405_122025-O.webp",
-      "preco": 179.1,
-      "precoDe": 659,
-      "desconto": 70,
-      "cupom": "LOJASOFICIASCUPONEIR ou LOJASOFICIAIS ou MELITEC",
-      "enviadoEm": "2026-08-20T12:43:22.547Z"
     }
   ]
 }
