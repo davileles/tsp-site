@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-21T21:20:45.911Z",
+  "atualizadoEm": "2026-08-21T21:50:46.201Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -699,6 +699,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OFFNOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -855,6 +867,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "COMPENSAML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "VEMPROMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -875,6 +899,18 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados. Limite de desconto é R$ 500 por cupom.",
+      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "APROVEITAESSA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
       "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -923,7 +959,7 @@
       "maximo": null,
       "limite": 40,
       "observacao": null,
-      "validadeAte": "2026-08-21T21:59:59.736Z",
+      "validadeAte": "2026-08-21T21:59:59.684Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1021,30 +1057,6 @@
       "observacao": "Desconto de 15% em vários modelos de tênis PUMA. Preço mencionado: R$199,99",
       "validadeAte": "2026-08-22T19:04:27.035Z",
       "url": null
-    },
-    {
-      "codigo": "PUMACOM15",
-      "loja": "Outro: Ofertou",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto aplicável em vários tênis PUMA por R$199,99",
-      "validadeAte": "2026-08-21T21:33:27.520Z",
-      "url": null
-    },
-    {
-      "codigo": "PUMACOM15",
-      "loja": "Outro: Puma",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Promoção menciona até 80% OFF, mas o código fornecido é para 15% OFF",
-      "validadeAte": "2026-08-21T21:33:25.298Z",
-      "url": "https://www.awin1.com/awclick.php?mid=32675&id=1207116"
     },
     {
       "codigo": "KIDS",
