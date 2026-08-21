@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-21T20:20:45.892Z",
+  "atualizadoEm": "2026-08-21T20:50:45.986Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -519,30 +519,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "TOMA100",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 1000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-21T20:25:04.997Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "TOMA1000",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 1000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-21T20:27:26.850Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "CAZE10",
       "loja": "Magazine Luiza",
       "tipo": "pct",
@@ -731,18 +707,6 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados. Limite de desconto é R$ 500 por cupom.",
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFFNOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
       "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -951,18 +915,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODAEBELEZA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 69,
-      "maximo": null,
-      "limite": 25,
-      "observacao": null,
-      "validadeAte": "2026-08-21T22:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "FERRAMENTASEAUTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -983,7 +935,7 @@
       "maximo": null,
       "limite": 40,
       "observacao": null,
-      "validadeAte": "2026-08-23T02:59:00.000Z",
+      "validadeAte": "2026-08-21T21:59:59.736Z",
       "url": "https://meli.la/2xystLt"
     },
     {
