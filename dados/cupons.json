@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-22T10:21:52.095Z",
+  "atualizadoEm": "2026-08-22T12:31:53.357Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "CELULARTV",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 1599,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-23T12:02:46.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
     {
       "codigo": "INTERNACIONALCN",
       "loja": "Mercado Livre",
@@ -142,18 +154,6 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFFNOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 60,
       "observacao": null,
       "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -360,6 +360,30 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-08-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "APROVEITAJA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-08-23T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-08-23T12:02:46.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
