@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-22T22:02:13.885Z",
+  "atualizadoEm": "2026-08-22T22:22:41.919Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11824",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira De Camping Praia Pesca Resistente Até 120kg C/ Bolsa De Transporte Usd Preto",
+      "link": "https://meli.la/1fQSbt3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_681324-MLA107451741846_032026-O.webp",
+      "preco": 58.1,
+      "precoDe": 78.95,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-08-22T22:12:41.917Z"
+    },
     {
       "id": "11821",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 28,
       "cupom": "OFFNOMELI",
       "enviadoEm": "2026-08-20T22:59:11.773Z"
-    },
-    {
-      "id": "11205",
-      "loja": "Mercado Livre",
-      "titulo": "3 Câmera Automotiva Veicular Carro Hd Noturna 1080p Icarbonx",
-      "link": "https://meli.la/2bj9mXa",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_928984-MLA99926475771_112025-O.webp",
-      "preco": 63.67,
-      "precoDe": 123.9,
-      "desconto": 31,
-      "cupom": "MELIPROMO",
-      "enviadoEm": "2026-08-20T22:56:17.462Z"
     }
   ]
 }
