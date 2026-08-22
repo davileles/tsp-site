@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-22T21:25:12.610Z",
+  "atualizadoEm": "2026-08-22T22:02:13.885Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11821",
+      "loja": "Mercado Livre",
+      "titulo": "Frigobar Para Bebidas Bc52 52l Compacto Hq Preto",
+      "link": "https://meli.la/2e75vgi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_638494-MLA107744350942_032026-O.webp",
+      "preco": 547.72,
+      "precoDe": 949,
+      "desconto": 36,
+      "cupom": "APROVEITAJA",
+      "enviadoEm": "2026-08-22T21:52:13.883Z"
+    },
     {
       "id": "11820",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 31,
       "cupom": "MELIPROMO",
       "enviadoEm": "2026-08-20T22:56:17.462Z"
-    },
-    {
-      "id": "11204",
-      "loja": "Mercado Livre",
-      "titulo": "Chave De Impacto A Bateria 21V 1/2\" Pol 2400 Rpm Bivolt Com Acessórios E Maleta The Black Tools",
-      "link": "https://meli.la/2GxZFs7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652182-MLA113971474078_072026-O.webp",
-      "preco": 193.87,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFFNOMELI",
-      "enviadoEm": "2026-08-20T22:54:37.377Z"
     }
   ]
 }
