@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-22T22:22:41.919Z",
+  "atualizadoEm": "2026-08-22T22:37:11.429Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11826",
+      "loja": "Mercado Livre",
+      "titulo": "Geladeira Consul Frost Free 455 Litros Duplex Inox - CRM56MK",
+      "link": "https://meli.la/1DbsjFN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_711713-MLA91825814571_092025-O.webp",
+      "preco": 2699.1,
+      "precoDe": 3260.99,
+      "desconto": 8,
+      "cupom": "APROVEITAJA",
+      "enviadoEm": "2026-08-22T22:27:11.428Z"
+    },
     {
       "id": "11824",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-08-21T11:11:43.964Z"
-    },
-    {
-      "id": "11206",
-      "loja": "Mercado Livre",
-      "titulo": "Alicate 5 Pontas Multifuncional Universal Linha Profissional",
-      "link": "https://meli.la/2VSywLx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_882499-MLB112503418189_052026-O.webp",
-      "preco": 86.92999999999999,
-      "precoDe": 160.99,
-      "desconto": 28,
-      "cupom": "OFFNOMELI",
-      "enviadoEm": "2026-08-20T22:59:11.773Z"
     }
   ]
 }
