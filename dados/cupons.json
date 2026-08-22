@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-22T09:52:52.171Z",
+  "atualizadoEm": "2026-08-22T10:21:52.095Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -147,6 +147,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OFFNOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ECONOMIAML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -204,6 +216,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "APROVEITAESSA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
