@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-22T15:32:22.382Z",
+  "atualizadoEm": "2026-08-22T16:14:46.717Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -23,7 +23,7 @@
       "maximo": null,
       "limite": null,
       "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
-      "validadeAte": "2026-08-23T15:00:01.000Z",
+      "validadeAte": "2026-08-22T18:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -231,10 +231,10 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "COMPENSAML",
+      "codigo": "SEMPRENAMODA",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 18,
+      "valor": 20,
       "minimo": 19,
       "maximo": null,
       "limite": 60,
@@ -407,7 +407,19 @@
       "maximo": null,
       "limite": 20,
       "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
-      "validadeAte": "2026-08-23T15:00:01.000Z",
+      "validadeAte": "2026-08-22T18:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ENTREGASFULL",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-08-22T17:59:59.630Z",
       "url": "https://meli.la/2xystLt"
     },
     {
