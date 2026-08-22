@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-21T22:10:01.376Z",
+  "atualizadoEm": "2026-08-22T21:25:12.610Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11820",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Facas Tramontina Plenus em Aço Inox 7 Peças Preto 23498066",
+      "link": "https://meli.la/18UB4YB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_964109-MLA99563321770_122025-O.webp",
+      "preco": 43.02,
+      "precoDe": 58.2,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-08-22T21:19:33.687Z"
+    },
     {
       "id": "11761",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "OFFNOMELI",
       "enviadoEm": "2026-08-20T22:54:37.377Z"
-    },
-    {
-      "id": "11203",
-      "loja": "Amazon",
-      "titulo": "Speaker Philco PBS220BT Extreme Bluetooth 5.3 Flash Light 220W Bivolt",
-      "link": "https://www.amazon.com.br/dp/B0CB1W2591?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51SIqR-5VCL._SL400_.jpg",
-      "preco": 329,
-      "precoDe": 355,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-08-20T22:50:27.479Z"
     }
   ]
 }
