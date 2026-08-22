@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-22T16:17:45.780Z",
+  "atualizadoEm": "2026-08-22T16:46:45.855Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -231,13 +231,13 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "APROVEITAESSA",
+      "codigo": "COMPENSAML",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 18,
       "minimo": 19,
       "maximo": null,
-      "limite": 150,
+      "limite": 60,
       "observacao": null,
       "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -407,7 +407,7 @@
       "maximo": null,
       "limite": 20,
       "observacao": null,
-      "validadeAte": "2026-08-22T17:59:59.884Z",
+      "validadeAte": "2026-08-22T17:59:59.996Z",
       "url": "https://meli.la/2xystLt"
     },
     {
