@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-22T17:26:49.807Z",
+  "atualizadoEm": "2026-08-22T18:26:49.774Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -13,18 +13,6 @@
       "observacao": null,
       "validadeAte": "2026-08-23T13:10:21.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "ELETRODOMESTICOSCB",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 180,
-      "minimo": 1199,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
-      "validadeAte": "2026-08-22T18:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "INTERNACIONALCN",
@@ -171,18 +159,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CUPOMDOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "ECONOMIAML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -240,6 +216,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SEMPRENAMODA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -351,6 +339,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BELEZA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 69,
+      "maximo": null,
+      "limite": 25,
+      "observacao": "Cupons em categorias selecionadas",
+      "validadeAte": "2026-08-23T18:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AUTOMOVEIS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons em categorias selecionadas",
+      "validadeAte": "2026-08-23T18:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CORREPROML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -408,30 +420,6 @@
       "limite": 200,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-08-23T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FULL2208",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 39,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
-      "validadeAte": "2026-08-22T18:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ENTREGASFULL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 39,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-08-22T17:59:59.996Z",
       "url": "https://meli.la/2xystLt"
     },
     {
