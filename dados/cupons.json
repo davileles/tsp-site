@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-22T14:32:22.423Z",
+  "atualizadoEm": "2026-08-22T15:02:22.425Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -13,6 +13,18 @@
       "observacao": null,
       "validadeAte": "2026-08-23T13:10:21.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "ELETRODOMESTICOSCB",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 180,
+      "minimo": 1199,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-08-23T15:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "INTERNACIONALCN",
@@ -372,6 +384,18 @@
       "limite": 200,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-08-23T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL2208",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-08-23T15:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
