@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-23T13:51:54.945Z",
+  "atualizadoEm": "2026-08-23T14:14:21.655Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11856",
+      "loja": "Shopee",
+      "titulo": "Kit Até 24 Pares De Meias Soquete unissex Menor Preço",
+      "link": "https://s.shopee.com.br/8fRmvXZ2pt",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7jjwb23o4he79_tn",
+      "preco": 13.75,
+      "precoDe": 27.5,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-08-23T14:04:21.654Z"
+    },
     {
       "id": "11854",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-08-21T11:56:12.821Z"
-    },
-    {
-      "id": "11379",
-      "loja": "Amazon",
-      "titulo": "Leite Pó Instantâneo Integral Ninho Lata 380g",
-      "link": "https://www.amazon.com.br/dp/B0CVNKZJFZ?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51e1yrjVOXL._SL400_.jpg",
-      "preco": 18.74,
-      "precoDe": 23.99,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T11:56:12.123Z"
     }
   ]
 }
