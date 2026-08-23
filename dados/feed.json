@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-22T22:37:11.429Z",
+  "atualizadoEm": "2026-08-23T11:13:28.870Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11833",
+      "loja": "Shopee",
+      "titulo": "4 em 1 Conjunto de Vassoura e Pá Revolucionário - Limpeza Rápida e sem Sujeira! O conjunto de vassouras 4 em 1",
+      "link": "https://s.shopee.com.br/7KwP8cmecb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mn2p0k08c9okd4_tn",
+      "preco": 44,
+      "precoDe": 79.41,
+      "desconto": 32,
+      "cupom": "3U4M050",
+      "enviadoEm": "2026-08-23T11:03:28.868Z"
+    },
     {
       "id": "11826",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-08-21T11:14:34.950Z"
-    },
-    {
-      "id": "11364",
-      "loja": "Amazon",
-      "titulo": "KitKat Creme Crocante de Chocolate – Pasta para Passar, 330 g",
-      "link": "https://www.amazon.com.br/dp/B0FMLBQ136?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41shRXXiQyL._SL400_.jpg",
-      "preco": 22.99,
-      "precoDe": 27.99,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T11:11:43.964Z"
     }
   ]
 }
