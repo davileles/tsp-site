@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-23T13:29:33.620Z",
+  "atualizadoEm": "2026-08-23T13:40:17.700Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1115,19 +1115,7 @@
       "maximo": null,
       "limite": 40,
       "observacao": null,
-      "validadeAte": "2026-08-25T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TELEVISORES",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 899,
-      "maximo": null,
-      "limite": 189,
-      "observacao": null,
-      "validadeAte": "2026-08-23T15:00:00.000Z",
+      "validadeAte": "2026-08-23T15:00:00.112Z",
       "url": "https://meli.la/2xystLt"
     },
     {
