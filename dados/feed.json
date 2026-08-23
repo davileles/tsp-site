@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-23T19:33:06.341Z",
+  "atualizadoEm": "2026-08-23T20:03:58.725Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11891",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Arabe Yara Tous Lattafa Edp Com Nf",
+      "link": "https://meli.la/17Wnfkn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_613552-MLB113353115306_072026-O.webp",
+      "preco": 142.8,
+      "precoDe": 258.9,
+      "desconto": 35,
+      "cupom": "MODAEBELEZA23",
+      "enviadoEm": "2026-08-23T19:53:58.723Z"
+    },
+    {
+      "id": "11889",
+      "loja": "Shopee",
+      "titulo": "Regata feminina adulto kit 2 unidades cores variadas malha premium academia e dia a dia",
+      "link": "https://s.shopee.com.br/BTFBMCMO3",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mp9xiwp3c3k0c4_tn",
+      "preco": 22.48,
+      "precoDe": 54.83,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-08-23T19:46:05.937Z"
+    },
     {
       "id": "11888",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "VOLTAAQUI",
       "enviadoEm": "2026-08-21T12:46:35.925Z"
-    },
-    {
-      "id": "11434",
-      "loja": "Amazon",
-      "titulo": "Electrolux Aspirador água pó compacto potente função sopro 1400W 12 L total 5 L util protetor termico AWD01 127V",
-      "link": "https://www.amazon.com.br/dp/B076BB1XPG?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41G3RoaUjlL._SL400_.jpg",
-      "preco": 199,
-      "precoDe": 339.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T12:43:20.998Z"
-    },
-    {
-      "id": "11433",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira De Impacto A Bateria 21V 3/8” Bivolt 1400 Rpm Com Acessórios E Maleta TB-21PZW The Black Tools",
-      "link": "https://meli.la/1aRgNh5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_660718-MLA99503122958_112025-O.webp",
-      "preco": 89.92,
-      "precoDe": 259.9,
-      "desconto": 54,
-      "cupom": "OFFNOMELI",
-      "enviadoEm": "2026-08-21T12:42:13.231Z"
     }
   ]
 }
