@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-23T13:40:17.700Z",
+  "atualizadoEm": "2026-08-23T14:30:59.683Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1140,6 +1140,18 @@
       "limite": 189,
       "observacao": null,
       "validadeAte": "2026-08-25T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AMOCETAPHIL",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 9.9,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-08-31T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
