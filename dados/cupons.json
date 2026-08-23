@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-23T12:22:17.584Z",
+  "atualizadoEm": "2026-08-23T12:44:40.422Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -963,18 +963,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OFFHOJE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "ECONOMIAML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1131,6 +1119,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "AUTOEFERAMENTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-08-25T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TELEVISORES",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1139,7 +1139,7 @@
       "maximo": null,
       "limite": 189,
       "observacao": null,
-      "validadeAte": "2026-08-24T12:01:42.000Z",
+      "validadeAte": "2026-08-23T15:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1147,11 +1147,23 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 15,
-      "minimo": 248,
+      "minimo": 249,
       "maximo": null,
       "limite": 40,
       "observacao": null,
-      "validadeAte": "2026-08-24T12:01:42.000Z",
+      "validadeAte": "2026-08-23T15:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TVSECELULARES",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 899,
+      "maximo": null,
+      "limite": 189,
+      "observacao": null,
+      "validadeAte": "2026-08-25T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1211,7 +1223,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": "Cupom válido em selecionados conforme lista fornecida",
-      "validadeAte": "2026-08-24T12:00:06.000Z",
+      "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1381,6 +1393,18 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
+    },
+    {
+      "codigo": "NASCAR2026",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-24T12:38:25.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "3U4M050",
