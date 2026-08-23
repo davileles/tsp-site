@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-23T22:33:43.206Z",
+  "atualizadoEm": "2026-08-23T22:44:17.295Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11905",
+      "loja": "Mercado Livre",
+      "titulo": "Barra Whey Grego 40g 12 Unidades Mousse De Maracujá Nutrata Mousse De Maracujá",
+      "link": "https://meli.la/1bhpRCi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_942862-MLA99507460948_112025-O.webp",
+      "preco": 63.84,
+      "precoDe": 85.5,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-23T22:43:15.161Z"
+    },
     {
       "id": "11904",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-08-21T13:36:35.085Z"
-    },
-    {
-      "id": "11468",
-      "loja": "Amazon",
-      "titulo": "Sabonete Líquido de Glicerina Huggies Extra Suave 600 ml",
-      "link": "https://www.amazon.com.br/dp/B08GZBDWF4?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/314X+tcsvaL._SL400_.jpg",
-      "preco": 28.19,
-      "precoDe": 47.24,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T13:36:34.324Z"
     }
   ]
 }
