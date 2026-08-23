@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-23T18:24:49.935Z",
+  "atualizadoEm": "2026-08-23T18:44:17.294Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11884",
+      "loja": "Shopee",
+      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
+      "link": "https://s.shopee.com.br/2Vr9sxSdEr",
+      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
+      "preco": 74.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-23T18:38:07.341Z"
+    },
     {
       "id": "11882",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-21T12:40:11.946Z"
-    },
-    {
-      "id": "11407",
-      "loja": "Amazon",
-      "titulo": "Hellmann's Ketchup Tradicional 380 g",
-      "link": "https://www.amazon.com.br/dp/B086R92SJ1?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41Dbbto03TL._SL400_.jpg",
-      "preco": 13.49,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T12:39:08.091Z"
     }
   ]
 }
