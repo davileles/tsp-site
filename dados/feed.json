@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-23T16:30:13.864Z",
+  "atualizadoEm": "2026-08-23T16:44:17.294Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11872",
+      "loja": "Shopee",
+      "titulo": "Kit Zípers de Reparo Universal Conserto Instantâneo Sem costura Prático",
+      "link": "https://s.shopee.com.br/9AO3hKOnKl",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1u55wybuzze95_tn",
+      "preco": 10.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-23T16:42:32.985Z"
+    },
     {
       "id": "11871",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 29,
       "cupom": "BRINCADEIRAS",
       "enviadoEm": "2026-08-21T12:24:28.845Z"
-    },
-    {
-      "id": "11396",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo de Ferramentas 200 Peças com Chaves de Precisão e Allen Kit com Maleta Resistente - Titanium Platina",
-      "link": "https://meli.la/1WLzmbH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_989010-MLA113251359464_072026-O.webp",
-      "preco": 56.17,
-      "precoDe": 129.9,
-      "desconto": 42,
-      "cupom": "OFFNOMELI",
-      "enviadoEm": "2026-08-21T12:24:27.422Z"
     }
   ]
 }
