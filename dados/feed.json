@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-23T17:14:17.295Z",
+  "atualizadoEm": "2026-08-23T17:38:25.729Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11878",
+      "loja": "Shopee",
+      "titulo": "Mini Blocos de Montar Cachorro Fofo Kawaii Presente Pinscher Poodle Shiba Ibu Schnauzer Infantil",
+      "link": "https://s.shopee.com.br/1LfCQ1TvN1",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mrr89ftyrwnad8_tn",
+      "preco": 17.99,
+      "precoDe": 29.98,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-08-23T17:28:25.727Z"
+    },
     {
       "id": "11876",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 56,
       "cupom": "CUPOMDOML",
       "enviadoEm": "2026-08-21T12:32:25.253Z"
-    },
-    {
-      "id": "11402",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor gamer Aoc Série B30 21.5'' Full Hd Gaming 120hz 1ms 22b30hm23 cor preto",
-      "link": "https://meli.la/2vahT9P",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621055-MLA91966913733_092025-O.webp",
-      "preco": 297.42999999999995,
-      "precoDe": 569.9,
-      "desconto": 25,
-      "cupom": "ESTOQUEDOMELI",
-      "enviadoEm": "2026-08-21T12:30:17.648Z"
     }
   ]
 }
