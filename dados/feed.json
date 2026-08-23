@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-23T18:44:17.294Z",
+  "atualizadoEm": "2026-08-23T19:10:34.978Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11886",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
+      "link": "https://s.shopee.com.br/3qMXV0NEPK",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
+      "preco": 33.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-23T19:00:34.976Z"
+    },
     {
       "id": "11884",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 38,
       "cupom": "VOLTAAQUI",
       "enviadoEm": "2026-08-21T12:40:52.434Z"
-    },
-    {
-      "id": "11410",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor LG LED Home & Office 20U401A-B Tela 20” HD+, LG Switch, Modo leitura e Flicker Safe, HDMI, VGA, 2ms (GtG), 75Hz, Black Stabilizer, Dynamic Action Sync, Crosshair, saída fon",
-      "link": "https://meli.la/32yjz2x",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_699928-MLA105314087580_012026-O.webp",
-      "preco": 350.55,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T12:40:11.946Z"
     }
   ]
 }
