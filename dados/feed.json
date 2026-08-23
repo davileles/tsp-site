@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-23T12:22:16.247Z",
+  "atualizadoEm": "2026-08-23T12:44:38.991Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11845",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Inox Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
+      "link": "https://s.shopee.com.br/1VycIDvhfW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms49lbchdmh1a1_tn",
+      "preco": 34.9,
+      "precoDe": 99.78,
+      "desconto": 55,
+      "cupom": "3U4M050",
+      "enviadoEm": "2026-08-23T12:34:38.988Z"
+    },
+    {
+      "id": "11843",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor LG UltraGear™ 24G411A-B 24\",FHD, 144Hz, 1ms (MBR), NVIDIA G-SYNC, AMD FreeSync, HDR10",
+      "link": "https://meli.la/1TrsZTH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685909-MLA101438581463_122025-O.webp",
+      "preco": 539.1,
+      "precoDe": 699,
+      "desconto": 14,
+      "cupom": "TBTSTOCKCAR ou SUPERVANTAGEM",
+      "enviadoEm": "2026-08-23T12:31:23.531Z"
+    },
     {
       "id": "11842",
       "loja": "Shopee",
@@ -1143,18 +1167,6 @@
       "enviadoEm": "2026-08-21T12:39:08.091Z"
     },
     {
-      "id": "11406",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor LG UltraGear™ 24G411A-B 24\",FHD, 144Hz, 1ms (MBR), NVIDIA G-SYNC, AMD FreeSync, HDR10",
-      "link": "https://meli.la/1TrsZTH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685909-MLA101438581463_122025-O.webp",
-      "preco": 419.3,
-      "precoDe": 699,
-      "desconto": 14,
-      "cupom": "ESTOQUEDOMELI",
-      "enviadoEm": "2026-08-21T12:34:44.026Z"
-    },
-    {
       "id": "11403",
       "loja": "Mercado Livre",
       "titulo": "Processador AMD Ryzen 5 5500 3.6GHz 4.2GHz Max Turbo Cache 16MB AM4",
@@ -1429,18 +1441,6 @@
       "desconto": 23,
       "cupom": "BRINCADEIRAS",
       "enviadoEm": "2026-08-21T11:24:58.961Z"
-    },
-    {
-      "id": "11369",
-      "loja": "Shopee",
-      "titulo": "Quadriciclo Infantil Carrinho De Passeio Com Empurrador Haste Pedal Motoquinha Maral",
-      "link": "https://s.shopee.com.br/1qbPQ7pZXX",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lz0hrluk8ny9e8_tn",
-      "preco": 448.9,
-      "precoDe": 528.12,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T11:22:47.426Z"
     }
   ]
 }
