@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-23T14:30:58.536Z",
+  "atualizadoEm": "2026-08-23T15:00:57.045Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11859",
+      "loja": "Shopee",
+      "titulo": "Kit Completo Maca Power karseell  Máscara 500 g + condicionador 1L + Shampoo 1L + Óleo P 50ml",
+      "link": "https://s.shopee.com.br/70JYzcSLAY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mnb7dwwwmo748e_tn",
+      "preco": 49,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-23T14:50:57.042Z"
+    },
     {
       "id": "11857",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-08-21T12:07:27.442Z"
-    },
-    {
-      "id": "11384",
-      "loja": "Amazon",
-      "titulo": "Get Weird Moletom com capuz Gold Fish, Funky Streetwear para homens, mulheres, unissex, mistura de algodão, preto, 2GG",
-      "link": "https://www.amazon.com.br/dp/B0FQDW4CXG?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31rV7z4-rwL._SL400_.jpg",
-      "preco": 53.38,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T12:06:21.312Z"
     }
   ]
 }
