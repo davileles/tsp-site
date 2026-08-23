@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-23T14:37:39.970Z",
+  "atualizadoEm": "2026-08-23T15:00:58.358Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1104,30 +1104,6 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "AUTOEFERAMENTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-08-23T15:00:00.096Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FERRAMENTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-08-23T15:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
