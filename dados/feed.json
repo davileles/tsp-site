@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-23T17:38:25.729Z",
+  "atualizadoEm": "2026-08-23T18:01:43.075Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11880",
+      "loja": "Shopee",
+      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
+      "link": "https://s.shopee.com.br/4VcEDRHKx1",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
+      "preco": 169.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "NASCAR2026",
+      "enviadoEm": "2026-08-23T17:51:43.075Z"
+    },
     {
       "id": "11878",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "ESTOQUEDOMELI",
       "enviadoEm": "2026-08-21T12:32:25.451Z"
-    },
-    {
-      "id": "11404",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
-      "link": "https://meli.la/1JVBYQL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_766599-MLA115054388342_082026-O.webp",
-      "preco": 52.42,
-      "precoDe": 159.9,
-      "desconto": 56,
-      "cupom": "CUPOMDOML",
-      "enviadoEm": "2026-08-21T12:32:25.253Z"
     }
   ]
 }
