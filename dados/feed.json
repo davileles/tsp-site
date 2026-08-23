@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-23T19:10:34.978Z",
+  "atualizadoEm": "2026-08-23T19:33:06.341Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11888",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Portátil Elétrica Profissional Recarregável USB com Múltiplas Ponteiras para Relaxamento",
+      "link": "https://s.shopee.com.br/LmfM7O6eD",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225c-mhjox6ltdn9ef0_tn",
+      "preco": 28.05,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-23T19:23:06.340Z"
+    },
     {
       "id": "11886",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 54,
       "cupom": "OFFNOMELI",
       "enviadoEm": "2026-08-21T12:42:13.231Z"
-    },
-    {
-      "id": "11411",
-      "loja": "Mercado Livre",
-      "titulo": "TESTO ESSENCIAL - Fórmula Exclusiva com Feno Grego + Boro + Arginina + ZMA + Vitamina B6 - 60 cápsulas - Precursor da Testosterona",
-      "link": "https://meli.la/24ffcqN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_949131-MLA114764498645_072026-O.webp",
-      "preco": 39.74,
-      "precoDe": 91.77,
-      "desconto": 38,
-      "cupom": "VOLTAAQUI",
-      "enviadoEm": "2026-08-21T12:40:52.434Z"
     }
   ]
 }
