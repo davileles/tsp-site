@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-23T14:14:21.655Z",
+  "atualizadoEm": "2026-08-23T14:30:58.536Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11857",
+      "loja": "Shopee",
+      "titulo": "Kit com 2 - Máscara Capilar Skala 3 em 1 | Creme Sem Enxágue | Protetor Térmico | Vegano - The Gardener Pepper Force",
+      "link": "https://s.shopee.com.br/9pdkLEIDoF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mq2ggvxkzmde83_tn",
+      "preco": 15.61,
+      "precoDe": 44.6,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-08-23T14:27:39.709Z"
+    },
     {
       "id": "11856",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-21T12:06:21.312Z"
-    },
-    {
-      "id": "11380",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
-      "link": "https://www.amazon.com.br/dp/B0BKLM298N?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/511NcjrBTHL._SL400_.jpg",
-      "preco": 96.9,
-      "precoDe": 118.35,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T11:56:12.821Z"
     }
   ]
 }
