@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-23T07:00:58.822Z",
+  "atualizadoEm": "2026-08-23T08:00:58.744Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1035,25 +1035,13 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CONSTRUIRMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "APROVEITAESSA",
+      "codigo": "COMPENSAML",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 18,
       "minimo": 19,
       "maximo": null,
-      "limite": 150,
+      "limite": 60,
       "observacao": null,
       "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
