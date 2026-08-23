@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-23T21:31:49.391Z",
+  "atualizadoEm": "2026-08-23T22:14:17.295Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11900",
+      "loja": "Mercado Livre",
+      "titulo": "Copo Térmica 600ml Inox Anti-vazamento Para Café/chá/bebidas",
+      "link": "https://meli.la/1CHxFBn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_814659-MLB105837840738_022026-O-copo-termica-600ml-inox-anti-vazamento-para-cafechabebidas.webp",
+      "preco": 34.98,
+      "precoDe": 49.99,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-08-23T22:13:39.265Z"
+    },
+    {
+      "id": "11899",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 12 Pares Meia Masculina Cano Curto Soquete Algodão Duomo",
+      "link": "https://meli.la/1g96RUV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_725345-MLB109974917747_042026-O.webp",
+      "preco": 38.2,
+      "precoDe": 150.47,
+      "desconto": 67,
+      "cupom": "ECONOMIAML",
+      "enviadoEm": "2026-08-23T22:11:01.265Z"
+    },
     {
       "id": "11896",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-21T13:09:12.333Z"
-    },
-    {
-      "id": "11463",
-      "loja": "Amazon",
-      "titulo": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha, 72 Unidades, Tamanho M 5 - 9, 5 Kg, Babysec, Azul, M",
-      "link": "https://www.amazon.com.br/dp/B07Z9T391C?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41MDDM2pBSL._SL400_.jpg",
-      "preco": 65.33,
-      "precoDe": 101.58,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T13:09:04.561Z"
-    },
-    {
-      "id": "11460",
-      "loja": "Mercado Livre",
-      "titulo": "Magnésio Mg Complex Essential 90 Cápsulas Alta Absorção",
-      "link": "https://meli.la/15VnptJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_932242-MLA99928254177_112025-O.webp",
-      "preco": 69.93,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "VOLTAAQUI",
-      "enviadoEm": "2026-08-21T12:50:15.123Z"
     }
   ]
 }
