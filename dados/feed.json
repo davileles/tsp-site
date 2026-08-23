@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-23T15:00:57.045Z",
+  "atualizadoEm": "2026-08-23T15:30:58.537Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11864",
+      "loja": "Shopee",
+      "titulo": "Kit Limpador Pastilha de máquina de lavar roupa, comprimido efervescente sólido para remover manchas【】",
+      "link": "https://s.shopee.com.br/40fxRhdZc4",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwt-mcjqjjrew9uu86_tn",
+      "preco": 8.59,
+      "precoDe": 15.34,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-08-23T15:21:31.816Z"
+    },
+    {
+      "id": "11862",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor AOC 22\" 120Hz 1ms Gaming HDMI 22B35HM23 Preto",
+      "link": "https://meli.la/2F5vUDc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_744601-MLA99934274785_112025-O.webp",
+      "preco": 422.97,
+      "precoDe": 499,
+      "desconto": 6,
+      "cupom": "SUPERVANTAGEM",
+      "enviadoEm": "2026-08-23T15:11:51.040Z"
+    },
     {
       "id": "11859",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "COMPENSAML",
       "enviadoEm": "2026-08-21T12:11:16.068Z"
-    },
-    {
-      "id": "11387",
-      "loja": "Mercado Livre",
-      "titulo": "Top Puma Original Feminino Alta Sustentação Academia Fitness",
-      "link": "https://meli.la/1GfFq6i",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_899152-MLB113410235826_072026-O-top-puma-original-feminino-alta-sustentaco-academia-fitness.webp",
-      "preco": 32.79,
-      "precoDe": 159.99,
-      "desconto": 75,
-      "cupom": "COMPENSAML",
-      "enviadoEm": "2026-08-21T12:09:25.942Z"
-    },
-    {
-      "id": "11386",
-      "loja": "Amazon",
-      "titulo": "Caneta Pencil WB Para iPad com Palm Rejection e Ponta de Alta Precisão de 1.0mm - Branca (não compatível com iPads lançados antes de 2018)",
-      "link": "https://www.amazon.com.br/dp/B086BJ19WP?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/21Thv2YnbbL._SL400_.jpg",
-      "preco": 150.36,
-      "precoDe": 199,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T12:07:27.442Z"
     }
   ]
 }
