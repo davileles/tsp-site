@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-23T22:14:17.295Z",
+  "atualizadoEm": "2026-08-23T22:33:43.206Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11904",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira De Camping Praia Pesca Resistente Até 120kg C/ Bolsa De Transporte Usd Preto",
+      "link": "https://meli.la/1fQSbt3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_681324-MLA107451741846_032026-O.webp",
+      "preco": 58.1,
+      "precoDe": 78.95,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-08-23T22:23:43.205Z"
+    },
+    {
+      "id": "11903",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Par 2 Radio Baofeng 777s Walk Talk Comunicador 16 Canais",
+      "link": "https://meli.la/2b8PpUZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_751470-MLB88748448908_082025-O.webp",
+      "preco": 94.47,
+      "precoDe": 159.93,
+      "desconto": 34,
+      "cupom": "SUPERVANTAGEM",
+      "enviadoEm": "2026-08-23T22:18:40.064Z"
+    },
+    {
+      "id": "11901",
+      "loja": "Mercado Livre",
+      "titulo": "Tupia Elétrica Philco Force 3300rpm Ptu01",
+      "link": "https://meli.la/2QAQrvS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_885294-MLB113960426753_062026-O.webp",
+      "preco": 199.9,
+      "precoDe": 344.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-08-23T22:16:29.008Z"
+    },
     {
       "id": "11900",
       "loja": "Mercado Livre",
@@ -481,18 +517,6 @@
       "desconto": 8,
       "cupom": "APROVEITAJA",
       "enviadoEm": "2026-08-22T22:27:11.428Z"
-    },
-    {
-      "id": "11824",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira De Camping Praia Pesca Resistente Até 120kg C/ Bolsa De Transporte Usd Preto",
-      "link": "https://meli.la/1fQSbt3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_681324-MLA107451741846_032026-O.webp",
-      "preco": 58.1,
-      "precoDe": 78.95,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-08-22T22:12:41.917Z"
     },
     {
       "id": "11821",
@@ -1417,30 +1441,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-08-21T13:36:34.324Z"
-    },
-    {
-      "id": "11465",
-      "loja": "Amazon",
-      "titulo": "Buba, Kit Refeição Em Silicone Azul",
-      "link": "https://www.amazon.com.br/dp/B0DVCGJFL6?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/31pk9NugeOL._SL400_.jpg",
-      "preco": 59.9,
-      "precoDe": 120.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T13:09:16.748Z"
-    },
-    {
-      "id": "11464",
-      "loja": "Amazon",
-      "titulo": "Neslac Comfor - Composto Lácteo, 800g",
-      "link": "https://www.amazon.com.br/dp/B07MBTSMM8?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41RBXFaoWHL._SL400_.jpg",
-      "preco": 54.94,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T13:09:12.333Z"
     }
   ]
 }
