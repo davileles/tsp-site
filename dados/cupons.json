@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-23T14:30:59.683Z",
+  "atualizadoEm": "2026-08-23T14:37:39.970Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1115,7 +1115,7 @@
       "maximo": null,
       "limite": 40,
       "observacao": null,
-      "validadeAte": "2026-08-23T15:00:00.112Z",
+      "validadeAte": "2026-08-23T15:00:00.096Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1128,18 +1128,6 @@
       "limite": 40,
       "observacao": null,
       "validadeAte": "2026-08-23T15:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TVSECELULARES",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 899,
-      "maximo": null,
-      "limite": 189,
-      "observacao": null,
-      "validadeAte": "2026-08-25T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
