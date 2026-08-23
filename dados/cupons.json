@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-23T15:30:59.566Z",
+  "atualizadoEm": "2026-08-23T15:31:31.987Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1023,18 +1023,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TIENDASRESGATE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-08-24T03:00:28.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "HORADOCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1116,18 +1104,6 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-08-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "AMOCETAPHIL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 9.9,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-08-31T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
