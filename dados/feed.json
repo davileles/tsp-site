@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-23T20:03:58.725Z",
+  "atualizadoEm": "2026-08-23T20:54:19.910Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11893",
+      "loja": "Mercado Livre",
+      "titulo": "Armani Beauty Perfume Masculino Acqua di Giò Profondo Eau de Toilette 100ml",
+      "link": "https://meli.la/1hcAB9p",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_600924-MLA88355205565_072025-O.webp",
+      "preco": 479.99,
+      "precoDe": 839,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-08-23T20:44:19.908Z"
+    },
     {
       "id": "11891",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "VOLTAAQUI",
       "enviadoEm": "2026-08-21T12:48:26.361Z"
-    },
-    {
-      "id": "11435",
-      "loja": "Mercado Livre",
-      "titulo": "Smartphone Motorola Moto G15 - 128gb 12gb (4gb Ram+8gb Ram Boost) E Camera 50mp Com Ai E Night Vision Bateria De 5200 Mah Tela Fhd+ 6.7 Com Superbrilho Nfc Azul Claro",
-      "link": "https://meli.la/2tM8UYn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_970543-MLA100008320341_122025-O.webp",
-      "preco": 909.3,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "VOLTAAQUI",
-      "enviadoEm": "2026-08-21T12:46:35.925Z"
     }
   ]
 }
