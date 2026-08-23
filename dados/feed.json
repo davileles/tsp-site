@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-23T15:30:58.537Z",
+  "atualizadoEm": "2026-08-23T15:45:17.294Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11866",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
+      "link": "https://s.shopee.com.br/2BEJHrUFJY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
+      "preco": 54.32,
+      "precoDe": 72.43,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-23T15:35:30.188Z"
+    },
     {
       "id": "11864",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 17,
       "cupom": "INTERNACIONALCN",
       "enviadoEm": "2026-08-21T12:13:12.322Z"
-    },
-    {
-      "id": "11388",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Com 10 Cuecas Boxer Algodão Cotton Masculina Adulto Mash",
-      "link": "https://meli.la/1Av7JHq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_743045-MLB75800907985_042024-O-kit-com-10-cuecas-boxer-algodo-cotton-masculina-adulto-mash.webp",
-      "preco": 119.43,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COMPENSAML",
-      "enviadoEm": "2026-08-21T12:11:16.068Z"
     }
   ]
 }
