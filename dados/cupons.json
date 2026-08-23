@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-23T11:36:17.745Z",
+  "atualizadoEm": "2026-08-23T12:22:17.584Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1131,6 +1131,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TELEVISORES",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 899,
+      "maximo": null,
+      "limite": 189,
+      "observacao": null,
+      "validadeAte": "2026-08-24T12:01:42.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FERRAMENTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 248,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-08-24T12:01:42.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CORREPROML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1176,6 +1200,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-08-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SUPERVANTAGEM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Cupom válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-08-24T12:00:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
