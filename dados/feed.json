@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-23T11:59:19.006Z",
+  "atualizadoEm": "2026-08-23T12:22:16.247Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11842",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
+      "link": "https://s.shopee.com.br/7fZFbycTky",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-k1jd7z81yzkv2f_tn",
+      "preco": 25,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-23T12:12:16.244Z"
+    },
     {
       "id": "11838",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-08-21T11:22:47.426Z"
-    },
-    {
-      "id": "11368",
-      "loja": "Mercado Livre",
-      "titulo": "Lixeira Inteligente Automática Branca Universal Com Sensor Recarregável Earman Company Anti Odor 16l Recarregável Usb",
-      "link": "https://meli.la/2K1sXZb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_887947-MLA112010146939_052026-O.webp",
-      "preco": 56.25,
-      "precoDe": 157.98,
-      "desconto": 53,
-      "cupom": "OFFNOMELI",
-      "enviadoEm": "2026-08-21T11:20:43.379Z"
     }
   ]
 }
