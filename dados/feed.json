@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-24T12:56:06.927Z",
+  "atualizadoEm": "2026-08-24T13:12:14.184Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11969",
+      "loja": "Amazon",
+      "titulo": "Buba, Kit Refeição Em Silicone Azul",
+      "link": "https://www.amazon.com.br/dp/B0DVCGJFL6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31pk9NugeOL._SL400_.jpg",
+      "preco": 59.9,
+      "precoDe": 120.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T13:02:14.183Z"
+    },
+    {
+      "id": "11967",
+      "loja": "Shopee",
+      "titulo": "HUAWEI WATCH FIT 5 Pro| Smartwatch Relogio | Tela FullView AMOLED de 1,92\"| Mini Treino | 64 GB ECG",
+      "link": "https://s.shopee.com.br/5foCsZ1RE9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mqeruyatf3eq58_tn",
+      "preco": 1279,
+      "precoDe": 3497.37,
+      "desconto": 62,
+      "cupom": "L0J4S0F1C141S",
+      "enviadoEm": "2026-08-24T13:01:52.177Z"
+    },
+    {
+      "id": "11964",
+      "loja": "Amazon",
+      "titulo": "Karsten Jogo de Banho Imperial Branco 100% Algodão 5 peças",
+      "link": "https://www.amazon.com.br/dp/B08M4C7PJR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Qrjs0xJzL._SL400_.jpg",
+      "preco": 141.67000000000002,
+      "precoDe": 199.9,
+      "desconto": 11,
+      "cupom": "KARSTEN20",
+      "enviadoEm": "2026-08-24T12:58:31.797Z"
+    },
     {
       "id": "11963",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": "CELULARTECH",
       "enviadoEm": "2026-08-21T15:36:55.320Z"
-    },
-    {
-      "id": "11540",
-      "loja": "Mercado Livre",
-      "titulo": "Console Playstation 5 Slim Digital 825gb",
-      "link": "https://meli.la/13TdEHh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_922829-MLB94702288843_102025-O.webp",
-      "preco": 3599.05,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CELULARTECH",
-      "enviadoEm": "2026-08-21T15:33:38.274Z"
-    },
-    {
-      "id": "11539",
-      "loja": "Mercado Livre",
-      "titulo": "Console PlayStation 5 Digital 825GB - Edição Limitada Wolverine",
-      "link": "https://meli.la/2FLhuvJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_838044-MLA116048814325_082026-O.webp",
-      "preco": 4542.91,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CELULARTECH",
-      "enviadoEm": "2026-08-21T15:32:32.941Z"
-    },
-    {
-      "id": "11537",
-      "loja": "Mercado Livre",
-      "titulo": "Caixa de Som Bluetooth PartyBox Stage 320 JBL BLPBSTAGE320BR Preta",
-      "link": "https://meli.la/2RRKYYJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_688757-MLA95937682423_102025-O.webp",
-      "preco": 2269.05,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CELULARTECH",
-      "enviadoEm": "2026-08-21T15:27:39.669Z"
     }
   ]
 }
