@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-24T20:21:50.429Z",
+  "atualizadoEm": "2026-08-24T20:41:21.019Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12163",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Asics Gel Shogun 8 Feminino Caminhada",
+      "link": "https://meli.la/2TSgMG3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_605604-MLB115311426647_072026-O.webp",
+      "preco": 322.90999999999997,
+      "precoDe": 549.99,
+      "desconto": 31,
+      "cupom": "PROMOPRAMODA",
+      "enviadoEm": "2026-08-24T20:38:46.329Z"
+    },
+    {
+      "id": "12160",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo 4 Pneus Onyx Aro 15 Ny-806 185/60r15 84h",
+      "link": "https://meli.la/1RAhS8c",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_699905-MLB115961183147_082026-O.webp",
+      "preco": 700.12,
+      "precoDe": 1098.23,
+      "desconto": 15,
+      "cupom": "AUTOML",
+      "enviadoEm": "2026-08-24T20:30:50.832Z"
+    },
     {
       "id": "12156",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 65,
       "cupom": null,
       "enviadoEm": "2026-08-24T11:27:01.469Z"
-    },
-    {
-      "id": "11925",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
-      "link": "https://s.shopee.com.br/qivRq71Gq",
-      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
-      "preco": 52.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T11:03:25.575Z"
-    },
-    {
-      "id": "11905",
-      "loja": "Mercado Livre",
-      "titulo": "Barra Whey Grego 40g 12 Unidades Mousse De Maracujá Nutrata Mousse De Maracujá",
-      "link": "https://meli.la/1bhpRCi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_942862-MLA99507460948_112025-O.webp",
-      "preco": 63.84,
-      "precoDe": 85.5,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-23T22:43:15.161Z"
     }
   ]
 }
