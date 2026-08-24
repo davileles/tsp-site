@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-24T14:42:31.160Z",
+  "atualizadoEm": "2026-08-24T14:56:06.928Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12026",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Plus Size Feminina Acolchoada com Capuz – Inverno Quente e Confortável",
+      "link": "https://s.shopee.com.br/9AO5ApC31j",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mlzn02kws0zod4_tn",
+      "preco": 119.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T14:54:57.590Z"
+    },
+    {
+      "id": "12024",
+      "loja": "Amazon",
+      "titulo": "BIO OIL ÓLEO PARA CUIDADO DA PELE - NATURAL 125ML",
+      "link": "https://www.amazon.com.br/dp/B0BBF6P8QQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31KZTJRRFXL._SL400_.jpg",
+      "preco": 69.9,
+      "precoDe": 114.99,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T14:52:18.729Z"
+    },
+    {
+      "id": "12023",
+      "loja": "Amazon",
+      "titulo": "L'Oréal Paris Elseve Sérum Leave-in Liso dos Sonhos com Tecnologia Ativada por Calor, Antifrizz, Protetor Térmico e Barreira Contra Umidade, 100ml",
+      "link": "https://www.amazon.com.br/dp/B0DV1JZFXS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31v1k3k5D6L._SL400_.jpg",
+      "preco": 33.94,
+      "precoDe": 49.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T14:48:47.066Z"
+    },
     {
       "id": "12017",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 79,
       "cupom": null,
       "enviadoEm": "2026-08-21T16:22:06.233Z"
-    },
-    {
-      "id": "11559",
-      "loja": "Amazon",
-      "titulo": "Cerveja Heineken Garrafa 600ml - 12 unid.",
-      "link": "https://www.amazon.com.br/dp/B07XS8WKYL?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41e8nue5zGL._SL400_.jpg",
-      "preco": 148.5,
-      "precoDe": 161.88,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T16:11:48.849Z"
-    },
-    {
-      "id": "11560",
-      "loja": "Mercado Livre",
-      "titulo": "Processador AMD Ryzen 7 5700G 100-100000263BOX de 8 núcleos e 4.6GHz de frequência com gráfica integrada",
-      "link": "https://meli.la/1RB1Mf3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_941100-MLA99523579842_122025-O.webp",
-      "preco": 682,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "ESTOQUEDOMELI",
-      "enviadoEm": "2026-08-21T16:11:45.467Z"
-    },
-    {
-      "id": "11558",
-      "loja": "Mercado Livre",
-      "titulo": "Ômega 3 Epa Dha 240 Cápsulas Dark Lab",
-      "link": "https://meli.la/2aXqZ51",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_876329-MLA99502619184_112025-O.webp",
-      "preco": 128.15,
-      "precoDe": 299.9,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T16:11:05.334Z"
     }
   ]
 }
