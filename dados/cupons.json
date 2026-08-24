@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-24T13:35:16.121Z",
+  "atualizadoEm": "2026-08-24T13:56:08.199Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -851,7 +851,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-08-25T12:15:43.000Z",
+      "validadeAte": "2026-09-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -957,7 +957,7 @@
       "valor": 25,
       "minimo": 19,
       "maximo": null,
-      "limite": 100,
+      "limite": 150,
       "observacao": "Cupons válidos em selecionados conforme listas específicas",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
