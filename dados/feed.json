@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-24T13:56:06.928Z",
+  "atualizadoEm": "2026-08-24T14:19:58.091Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12009",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Bobojaco Impermeável Becker Nylon Puffer Masculino com Bolsos e Capuz",
+      "link": "https://s.shopee.com.br/1VycJkfOau",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmb-lo8gotg960in6f_tn",
+      "preco": 68.99,
+      "precoDe": 99.99,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T14:09:58.089Z"
+    },
+    {
+      "id": "12008",
+      "loja": "Amazon",
+      "titulo": "Shampoo Infantil Glicerina Suave 750ml – Baruel Baby",
+      "link": "https://www.amazon.com.br/dp/B0FGRP6ZG7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31kRow7I5mL._SL400_.jpg",
+      "preco": 31.23,
+      "precoDe": 33.59,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T14:04:53.890Z"
+    },
+    {
+      "id": "12007",
+      "loja": "Amazon",
+      "titulo": "L'Oréal Paris Elseve Glycolic Gloss Shampoo Extra Gloss, Fórmula com pH Ácido e Ácido Glicólico, Limpeza Profunda e Combate a Porosidade dos Fios, 400ml",
+      "link": "https://www.amazon.com.br/dp/B0CQKCQZL7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41EMbjIvBXL._SL400_.jpg",
+      "preco": 26.98,
+      "precoDe": 36.29,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T14:03:50.930Z"
+    },
     {
       "id": "12004",
       "loja": "Amazon",
@@ -843,18 +879,6 @@
       "enviadoEm": "2026-08-23T13:19:32.404Z"
     },
     {
-      "id": "11849",
-      "loja": "Shopee",
-      "titulo": "Jaqueta Bobojaco Impermeável Becker Nylon Puffer Masculino com Bolsos e Capuz",
-      "link": "https://s.shopee.com.br/1VycJkfOau",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmb-lo8gotg960in6f_tn",
-      "preco": 56.989999999999995,
-      "precoDe": 99.99,
-      "desconto": 33,
-      "cupom": "3U4M050",
-      "enviadoEm": "2026-08-23T12:57:02.948Z"
-    },
-    {
       "id": "11848",
       "loja": "Mercado Livre",
       "titulo": "Monitor Gamer Samsung Odyssey G5, 27 , Qhd, 165hz Cor Preto",
@@ -1417,30 +1441,6 @@
       "desconto": 31,
       "cupom": "BRINCADEIRAS",
       "enviadoEm": "2026-08-21T16:07:43.556Z"
-    },
-    {
-      "id": "11551",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Aramis Peak Road Ajuste Confortável Para Uso Cotidiano",
-      "link": "https://meli.la/2xgKhXg",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_993633-MLB113936451950_072026-O.webp",
-      "preco": 222.7,
-      "precoDe": 399.99,
-      "desconto": 32,
-      "cupom": "COMPENSAML",
-      "enviadoEm": "2026-08-21T16:02:00.209Z"
-    },
-    {
-      "id": "11550",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Câmeras Segurança Ip Interna Externa Wifi iCSee Infravermelho Prova D’Água - HW",
-      "link": "https://meli.la/2841USs",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_901090-MLA99414404486_112025-O.webp",
-      "preco": 150.08,
-      "precoDe": 339,
-      "desconto": 46,
-      "cupom": "APROVEITAESSA",
-      "enviadoEm": "2026-08-21T15:59:35.138Z"
     }
   ]
 }
