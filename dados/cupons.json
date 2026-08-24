@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-24T18:07:38.235Z",
+  "atualizadoEm": "2026-08-24T18:40:20.062Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1035,18 +1035,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PROMOAGORA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELHORCUPOMML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1155,6 +1143,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 10,
+      "observacao": null,
+      "validadeAte": "2026-08-25T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEUDESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1175,7 +1175,7 @@
       "maximo": null,
       "limite": 10,
       "observacao": null,
-      "validadeAte": "2026-08-25T18:00:01.000Z",
+      "validadeAte": "2026-08-25T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
