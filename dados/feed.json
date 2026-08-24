@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-24T22:11:21.025Z",
+  "atualizadoEm": "2026-08-24T22:35:08.862Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12190",
+      "loja": "Amazon",
+      "titulo": "Kit 2 Câmeras Segurança IP Lâmpada WiFi Full HD 1080p com Visão Noturna Infravermelho 1080P Bivolt, Detecção de Movimento, Áudio Bidirecional, Prova D'água Giratória (2)",
+      "link": "https://www.amazon.com.br/dp/B0GK9Z757L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41rmyN9FHfL._SL400_.jpg",
+      "preco": 66.4,
+      "precoDe": 69.9,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T22:25:08.861Z"
+    },
     {
       "id": "12189",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 29,
       "cupom": "L0J4S0F1C141S",
       "enviadoEm": "2026-08-24T12:36:15.634Z"
-    },
-    {
-      "id": "11953",
-      "loja": "Amazon",
-      "titulo": "Karsten Jogo Banho Lotus Platinha e Petala 100% Algodão 4 peças",
-      "link": "https://www.amazon.com.br/dp/B0GP33TZ15?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31woeEVs9EL._SL400_.jpg",
-      "preco": 151.02,
-      "precoDe": 264.99,
-      "desconto": 29,
-      "cupom": "KARSTEN20",
-      "enviadoEm": "2026-08-24T12:34:44.646Z"
     }
   ]
 }
