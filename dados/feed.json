@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-24T18:40:18.919Z",
+  "atualizadoEm": "2026-08-24T18:52:25.853Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12136",
+      "loja": "Shopee",
+      "titulo": "Organizador de maquiagem Giratório 360º Acrílico Suporte de Cosméticos",
+      "link": "https://s.shopee.com.br/7VFrRNsHaO",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd6c-m729rq2ye1aka6_tn",
+      "preco": 38.99,
+      "precoDe": 90.67,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T18:42:25.851Z"
+    },
     {
       "id": "12134",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 39,
       "cupom": "SUPERVANTAGEM",
       "enviadoEm": "2026-08-23T21:21:49.389Z"
-    },
-    {
-      "id": "11893",
-      "loja": "Mercado Livre",
-      "titulo": "Armani Beauty Perfume Masculino Acqua di Giò Profondo Eau de Toilette 100ml",
-      "link": "https://meli.la/1hcAB9p",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_600924-MLA88355205565_072025-O.webp",
-      "preco": 479.99,
-      "precoDe": 839,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-08-23T20:44:19.908Z"
     }
   ]
 }
