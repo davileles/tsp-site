@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-08-24T21:41:21.019Z",
+  "atualizadoEm": "2026-08-24T22:11:21.025Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12189",
+      "loja": "Amazon",
+      "titulo": "Snow Flakes Cereal Matinal Tradicional Leve 620G Embalagem Econômica",
+      "link": "https://www.amazon.com.br/dp/B0C4MHZXRG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/510n3LWIyZL._SL400_.jpg",
+      "preco": 12.74,
+      "precoDe": 16.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T22:08:39.185Z"
+    },
+    {
+      "id": "12188",
+      "loja": "Amazon",
+      "titulo": "FISCHER FORNO ELÉTRICO EMBUTIR FIT LINE 48L INOX 220V 34493-95486",
+      "link": "https://www.amazon.com.br/dp/B0CVS84X3C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41WEnEKX7sL._SL400_.jpg",
+      "preco": 999,
+      "precoDe": 1429,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T22:06:28.374Z"
+    },
+    {
+      "id": "12187",
+      "loja": "Amazon",
+      "titulo": "Combo de Teclado e Mouse Ergonômico Sem Fio HP 230 - com Dongle USB Wireless, Digitação Silenciosa, Design Elegante, Até 12 Meses de Bateria, Layout BR, Preto (18H24AA#AC4)",
+      "link": "https://www.amazon.com.br/dp/B0CVNMR68Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41W8KeHS3FL._SL400_.jpg",
+      "preco": 30,
+      "precoDe": 159.9,
+      "desconto": 81,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T21:57:16.889Z"
+    },
+    {
+      "id": "12186",
+      "loja": "Amazon",
+      "titulo": "Percarbonato de Sódio 100% Puro – Removedor de Manchas e Multiuso de Limpeza (Embalagem pode sofrer variações)",
+      "link": "https://www.amazon.com.br/dp/B0GPN6CNRT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/61YPLcEYbhL._SL400_.jpg",
+      "preco": 24.69,
+      "precoDe": 29.9,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T21:55:41.241Z"
+    },
+    {
+      "id": "12185",
+      "loja": "Amazon",
+      "titulo": "Papel Sulfite, Chamex, A4, 75 Gramas, Pacote De 300 Folhas",
+      "link": "https://www.amazon.com.br/dp/B08CZW8H1L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41JMqJicdTL._SL400_.jpg",
+      "preco": 19.99,
+      "precoDe": 23.6,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T21:53:11.958Z"
+    },
+    {
+      "id": "12184",
+      "loja": "Amazon",
+      "titulo": "LEGO Set Star Wars TM 75375 Millennium Falcon™ 921 peças",
+      "link": "https://www.amazon.com.br/dp/B0CGY3ZB24?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51RHqHW0VeL._SL400_.jpg",
+      "preco": 625.42,
+      "precoDe": 799.99,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T21:46:00.912Z"
+    },
     {
       "id": "12181",
       "loja": "Amazon",
@@ -1369,78 +1441,6 @@
       "desconto": 29,
       "cupom": "KARSTEN20",
       "enviadoEm": "2026-08-24T12:34:44.646Z"
-    },
-    {
-      "id": "11951",
-      "loja": "Mercado Livre",
-      "titulo": "Controle Joystick Sem Fio Sony PlayStation 5 DualSense Midnight Black",
-      "link": "https://meli.la/1Fg9gZV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_759059-MLA99508283678_112025-O.webp",
-      "preco": 351.2,
-      "precoDe": 699,
-      "desconto": 37,
-      "cupom": "PROMOAGORA ou PROMOESPORTE ou MELHORCUPOMML",
-      "enviadoEm": "2026-08-24T12:34:06.281Z"
-    },
-    {
-      "id": "11950",
-      "loja": "Amazon",
-      "titulo": "Elseve Collagen Lifter Máscara de Tratamento Condicionante Efeito Teia Para Resgate de Massa com Peptídeos de Colágeno Reconstrói a Fibra e Dá Volume por 72h 300g",
-      "link": "https://www.amazon.com.br/dp/B0G45KPX15?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41proX+EmhL._SL400_.jpg",
-      "preco": 26.99,
-      "precoDe": 40.99,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T12:32:30.425Z"
-    },
-    {
-      "id": "11952",
-      "loja": "Amazon",
-      "titulo": "Buba Pote Térmico Com Colher Rosa",
-      "link": "https://www.amazon.com.br/dp/B0BDMQCYJV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41+wgnaz90L._SL400_.jpg",
-      "preco": 81.14,
-      "precoDe": 147.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T12:32:26.736Z"
-    },
-    {
-      "id": "11948",
-      "loja": "Amazon",
-      "titulo": "Buba, Gel Para Aliviar a Febre",
-      "link": "https://www.amazon.com.br/dp/B0DHSHNWMX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41SDu+SUjLL._SL400_.jpg",
-      "preco": 20.99,
-      "precoDe": 26.9,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T12:28:33.208Z"
-    },
-    {
-      "id": "11946",
-      "loja": "Mercado Livre",
-      "titulo": "Televisão Smart Tv Hq 55 Qled, 4k Uhd, Dolby Audio, Wi-fi, Bluetooth, 3 Hdmi, 2 Usb, Netflix, Prime Video, Led Bivolt",
-      "link": "https://meli.la/14VQQwc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_778174-MLA113619112243_062026-O.webp",
-      "preco": 2050.68,
-      "precoDe": 2393,
-      "desconto": 7,
-      "cupom": "OFFCOMMELI",
-      "enviadoEm": "2026-08-24T12:28:14.384Z"
-    },
-    {
-      "id": "11945",
-      "loja": "Mercado Livre",
-      "titulo": "100% Whey Concentrado 450g Growth Supplements",
-      "link": "https://meli.la/1piapG8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_920214-MLB110132728665_042026-O.webp",
-      "preco": 75.12,
-      "precoDe": 219.9,
-      "desconto": 57,
-      "cupom": "PROMOAGORA ou PROMOESPORTE ou MELHORCUPOMML",
-      "enviadoEm": "2026-08-24T12:26:53.672Z"
     }
   ]
 }
