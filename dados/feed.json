@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-24T19:11:21.018Z",
+  "atualizadoEm": "2026-08-24T19:37:20.427Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12146",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
+      "link": "https://s.shopee.com.br/3qMXV0NEPK",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
+      "preco": 33.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T19:27:20.426Z"
+    },
+    {
+      "id": "12145",
+      "loja": "Amazon",
+      "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
+      "link": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41IuHcLgjgL._SL400_.jpg",
+      "preco": 43.41,
+      "precoDe": 55.53,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T19:23:17.779Z"
+    },
     {
       "id": "12138",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-08-23T22:16:29.008Z"
-    },
-    {
-      "id": "11900",
-      "loja": "Mercado Livre",
-      "titulo": "Copo Térmica 600ml Inox Anti-vazamento Para Café/chá/bebidas",
-      "link": "https://meli.la/1CHxFBn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_814659-MLB105837840738_022026-O-copo-termica-600ml-inox-anti-vazamento-para-cafechabebidas.webp",
-      "preco": 34.98,
-      "precoDe": 49.99,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-08-23T22:13:39.265Z"
-    },
-    {
-      "id": "11899",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 12 Pares Meia Masculina Cano Curto Soquete Algodão Duomo",
-      "link": "https://meli.la/1g96RUV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_725345-MLB109974917747_042026-O.webp",
-      "preco": 38.2,
-      "precoDe": 150.47,
-      "desconto": 67,
-      "cupom": "ECONOMIAML",
-      "enviadoEm": "2026-08-23T22:11:01.265Z"
     }
   ]
 }
