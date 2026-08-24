@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-24T12:56:08.397Z",
+  "atualizadoEm": "2026-08-24T13:12:15.412Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -264,6 +264,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-25T12:29:21.829Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "PAMPERS10",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom específico para produtos Pampers",
+      "validadeAte": "2026-08-25T12:57:29.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -555,30 +567,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=31355&id=1207116"
     },
     {
-      "codigo": "TEL200",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 20000,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-24T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "TEL100",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 10000,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-24T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "TCL200",
       "loja": "Kabum",
       "tipo": "reais",
@@ -795,6 +783,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "INTERNACIONALCN",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 90,
+      "observacao": null,
+      "validadeAte": "2026-08-26T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "LIQUIDA30",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -828,6 +828,18 @@
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
       "validadeAte": "2026-09-16T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ESTOQUEDOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 1000,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -868,6 +880,18 @@
     },
     {
       "codigo": "DESCOTOSMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CUPOMDOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
@@ -1035,6 +1059,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "INTERNACIONAL",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-09-02T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PROMOPRAMODA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1116,6 +1152,18 @@
       "limite": 200,
       "observacao": "Válido em selecionados conforme lista indicada",
       "validadeAte": "2026-08-25T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TBTSTOCKCAR",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 9,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-08-26T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1272,6 +1320,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-25T11:59:13.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "OFICI4LMAF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-25T13:01:23.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
