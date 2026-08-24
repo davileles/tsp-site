@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-24T18:52:25.853Z",
+  "atualizadoEm": "2026-08-24T19:11:21.018Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12138",
+      "loja": "Shopee",
+      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
+      "link": "https://s.shopee.com.br/2Vr9sxSdEr",
+      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
+      "preco": 64.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "C4RR1NH010",
+      "enviadoEm": "2026-08-24T19:04:57.256Z"
+    },
     {
       "id": "12136",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 67,
       "cupom": "ECONOMIAML",
       "enviadoEm": "2026-08-23T22:11:01.265Z"
-    },
-    {
-      "id": "11896",
-      "loja": "Mercado Livre",
-      "titulo": "Ar Condicionado Split Hw Tcl T-pro 2.0 Inverter 12k F 220v",
-      "link": "https://meli.la/2XYQkh5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_680526-MLB88768448812_082025-O.webp",
-      "preco": 1799.1,
-      "precoDe": 3299,
-      "desconto": 39,
-      "cupom": "SUPERVANTAGEM",
-      "enviadoEm": "2026-08-23T21:21:49.389Z"
     }
   ]
 }
