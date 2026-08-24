@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-24T20:41:21.019Z",
+  "atualizadoEm": "2026-08-24T21:11:21.020Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12167",
+      "loja": "Amazon",
+      "titulo": "Fone de Ouvido Headset Havit H2015 Pro Black, 5 Modos de Conexão, 2.4GHz, Bluetooth, Cabo USB e 3,5mm",
+      "link": "https://www.amazon.com.br/dp/B0H7L9RK6S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31fqqGaamRL._SL400_.jpg",
+      "preco": 153.62,
+      "precoDe": 178.31,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T21:05:34.816Z"
+    },
     {
       "id": "12163",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-08-24T11:48:51.307Z"
-    },
-    {
-      "id": "11929",
-      "loja": "Shopee",
-      "titulo": "Bolsa de Viagem Mala Dobrável Capacidade Impermeável",
-      "link": "https://s.shopee.com.br/AKa2KcB18J",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmx-lp6czwvd0b9k6f_tn",
-      "preco": 13.83,
-      "precoDe": 39.51,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T11:27:01.469Z"
     }
   ]
 }
