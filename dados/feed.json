@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-24T22:41:21.026Z",
+  "atualizadoEm": "2026-08-24T23:08:52.349Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12200",
+      "loja": "Amazon",
+      "titulo": "Simple Joys by Carter's Conjunto de 6 peças para bebês meninas (manga curta e comprida) e calça, Multicolorido/Coelho/Pontos/Impressão de texto, 0-3 Meses",
+      "link": "https://www.amazon.com.br/dp/B01MDUHO8I?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/416ACvNJJhL._SL400_.jpg",
+      "preco": 168.33,
+      "precoDe": 186.65,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T22:58:52.348Z"
+    },
+    {
+      "id": "12199",
+      "loja": "Mercado Livre",
+      "titulo": "Papel Higiênico Supra Folha Tripla 24 Rolos",
+      "link": "https://meli.la/2AqzdGA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_968384-MLA109938381052_042026-O.webp",
+      "preco": 35.91,
+      "precoDe": 52.89,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T22:56:00.151Z"
+    },
+    {
+      "id": "12198",
+      "loja": "Amazon",
+      "titulo": "Carter's Conjunto de 3 peças curtas para meninos, creme, 3M",
+      "link": "https://www.amazon.com.br/dp/B0GP7H42QS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ch0s7QhtL._SL400_.jpg",
+      "preco": 115.24,
+      "precoDe": 132.33,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T22:53:27.323Z"
+    },
+    {
+      "id": "12195",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Rabanne 1 Million Eau de Toilette 100 ml masculino",
+      "link": "https://meli.la/1SQaL6M",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_825541-MLA93843609108_102025-O.webp",
+      "preco": 448.16,
+      "precoDe": 769.89,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T22:45:38.364Z"
+    },
+    {
+      "id": "12193",
+      "loja": "Amazon",
+      "titulo": "Vídeo Porteiro Residencial IVR 1070 HS Branco e Preto Intelbras",
+      "link": "https://www.amazon.com.br/dp/B08PC2XPT1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31HLGS7itoL._SL400_.jpg",
+      "preco": 629.1,
+      "precoDe": 749.9,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T22:43:13.305Z"
+    },
     {
       "id": "12191",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 48,
       "cupom": "CONSTROINOML ou AUTOML ou SOECONOMIA ou POUPAAGORA",
       "enviadoEm": "2026-08-24T12:45:11.452Z"
-    },
-    {
-      "id": "11959",
-      "loja": "Mercado Livre",
-      "titulo": "Lavadora De Alta Pressão Jato Compacta Philco Plp2200 1300w 1300 Psi/libras 312l/h Lança Regulável 127v",
-      "link": "https://meli.la/2aZ2uRt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_963102-MLA109899403704_042026-O.webp",
-      "preco": 232.42999999999998,
-      "precoDe": 539.9,
-      "desconto": 43,
-      "cupom": "CONSTROINOML ou AUTOML ou SOECONOMIA ou POUPAAGORA",
-      "enviadoEm": "2026-08-24T12:42:56.978Z"
-    },
-    {
-      "id": "11958",
-      "loja": "Mercado Livre",
-      "titulo": "Controle Sem Fio Xbox Series S/x Robot White Branco",
-      "link": "https://meli.la/2e6KYLG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_958040-MLA87975941831_072025-O.webp",
-      "preco": 307.38,
-      "precoDe": 499,
-      "desconto": 23,
-      "cupom": "PROMOAGORA ou PROMOESPORTE ou MELHORCUPOMML",
-      "enviadoEm": "2026-08-24T12:40:38.816Z"
-    },
-    {
-      "id": "11957",
-      "loja": "Mercado Livre",
-      "titulo": "Placa-mãe Am4 Msi B550m A Pro Msi",
-      "link": "https://meli.la/1w6umk6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_752599-MLA100010456343_122025-O.webp",
-      "preco": 484.26000000000005,
-      "precoDe": 599.98,
-      "desconto": 10,
-      "cupom": "MEUDESCONTO",
-      "enviadoEm": "2026-08-24T12:38:28.530Z"
-    },
-    {
-      "id": "11956",
-      "loja": "Mercado Livre",
-      "titulo": "Umidificador De Ar Ultrassônico Umi Pop Health 2,3l Dellamed Cor Branco",
-      "link": "https://meli.la/1eNadgq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_712618-MLA101784539796_122025-O.webp",
-      "preco": 67.14000000000001,
-      "precoDe": 124.9,
-      "desconto": 33,
-      "cupom": "PROMOAGORA ou PROMOESPORTE ou MELHORCUPOMML",
-      "enviadoEm": "2026-08-24T12:37:17.867Z"
-    },
-    {
-      "id": "11955",
-      "loja": "Shopee",
-      "titulo": "forma pudim banho maria n 18 panela 2 em 1",
-      "link": "https://s.shopee.com.br/80C7dDl1h0",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mox9kud7btadec_tn",
-      "preco": 40.9,
-      "precoDe": 53.82,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T12:37:07.566Z"
     }
   ]
 }
