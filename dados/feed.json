@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-24T17:22:10.232Z",
+  "atualizadoEm": "2026-08-24T17:41:21.013Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12114",
+      "loja": "Amazon",
+      "titulo": "BUBA Colher Dosadora Rosa",
+      "link": "https://www.amazon.com.br/dp/B09WTJ7NN8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31wVIocC6VL._SL400_.jpg",
+      "preco": 22.5,
+      "precoDe": 28.12,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T17:35:31.594Z"
+    },
+    {
+      "id": "12112",
+      "loja": "Shopee",
+      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
+      "link": "https://s.shopee.com.br/1qbUcJpXNI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
+      "preco": 167.9,
+      "precoDe": 599.7,
+      "desconto": 67,
+      "cupom": "NASCAR2026",
+      "enviadoEm": "2026-08-24T17:35:20.522Z"
+    },
     {
       "id": "12107",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-23T18:38:07.341Z"
-    },
-    {
-      "id": "11882",
-      "loja": "Shopee",
-      "titulo": "mini processador de alimentos elétrico picador de alho triturador de pimenta 350ml",
-      "link": "https://s.shopee.com.br/19oslYDDC",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262a-mjeyzg7g2e4na3_tn",
-      "preco": 25.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-23T18:14:49.934Z"
-    },
-    {
-      "id": "11880",
-      "loja": "Shopee",
-      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
-      "link": "https://s.shopee.com.br/4VcEDRHKx1",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
-      "preco": 169.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "NASCAR2026",
-      "enviadoEm": "2026-08-23T17:51:43.075Z"
     }
   ]
 }
