@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-24T17:41:21.013Z",
+  "atualizadoEm": "2026-08-24T18:07:37.135Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12121",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
+      "link": "https://s.shopee.com.br/BTGepn5rC",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
+      "preco": 23.99,
+      "precoDe": 47.98,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T17:57:37.133Z"
+    },
     {
       "id": "12114",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-23T19:00:34.976Z"
-    },
-    {
-      "id": "11884",
-      "loja": "Shopee",
-      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
-      "link": "https://s.shopee.com.br/2Vr9sxSdEr",
-      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
-      "preco": 74.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-23T18:38:07.341Z"
     }
   ]
 }
