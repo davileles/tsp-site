@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-24T11:37:01.472Z",
+  "atualizadoEm": "2026-08-24T11:49:10.125Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "11929",
+      "loja": "Amazon",
+      "titulo": "Lenços Umedecidos Huggies Recém-Nascido Sem Fragrância 6x48U",
+      "link": "https://www.amazon.com.br/dp/B07FN7T2LK",
+      "imagem": "https://m.media-amazon.com/images/I/416qfNZQeJL._SL400_.jpg",
+      "preco": 49.9,
+      "precoDe": 55.48,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T11:48:51.307Z"
+    },
     {
       "id": "11929",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-08-21T13:51:46.384Z"
-    },
-    {
-      "id": "11472",
-      "loja": "Mercado Livre",
-      "titulo": "Carrinho Guarda Chuva De passeio Maxi Baby Até 15kgs cor Preto",
-      "link": "https://meli.la/1vvP7Jo",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_935560-MLA100005231121_122025-O.webp",
-      "preco": 271.90999999999997,
-      "precoDe": 477.3,
-      "desconto": 33,
-      "cupom": "BRINCADEIRAS",
-      "enviadoEm": "2026-08-21T13:46:02.420Z"
     }
   ]
 }
