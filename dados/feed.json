@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-24T17:11:21.014Z",
+  "atualizadoEm": "2026-08-24T17:22:10.232Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12107",
+      "loja": "Shopee",
+      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
+      "link": "https://s.shopee.com.br/7VFrL8PxX9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
+      "preco": 119.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "NASCAR2026",
+      "enviadoEm": "2026-08-24T17:12:10.230Z"
+    },
     {
       "id": "12106",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "NASCAR2026",
       "enviadoEm": "2026-08-23T17:51:43.075Z"
-    },
-    {
-      "id": "11878",
-      "loja": "Shopee",
-      "titulo": "Mini Blocos de Montar Cachorro Fofo Kawaii Presente Pinscher Poodle Shiba Ibu Schnauzer Infantil",
-      "link": "https://s.shopee.com.br/1LfCQ1TvN1",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mrr89ftyrwnad8_tn",
-      "preco": 17.99,
-      "precoDe": 29.98,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-08-23T17:28:25.727Z"
     }
   ]
 }
