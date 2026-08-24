@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-24T20:11:21.019Z",
+  "atualizadoEm": "2026-08-24T20:21:50.429Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12156",
+      "loja": "Shopee",
+      "titulo": "TOYADENT PRO Escova de Dental Com Cerdas Premium Alemãs da Pedex +Capa Protetora",
+      "link": "https://s.shopee.com.br/2BELBjLbl3",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mo3mmcjo6bk26f_tn",
+      "preco": 17.9,
+      "precoDe": 29.83,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T20:11:50.428Z"
+    },
     {
       "id": "12152",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-08-23T22:43:15.161Z"
-    },
-    {
-      "id": "11904",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira De Camping Praia Pesca Resistente Até 120kg C/ Bolsa De Transporte Usd Preto",
-      "link": "https://meli.la/1fQSbt3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_681324-MLA107451741846_032026-O.webp",
-      "preco": 58.1,
-      "precoDe": 78.95,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-08-23T22:23:43.205Z"
     }
   ]
 }
