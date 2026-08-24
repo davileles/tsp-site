@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-24T12:26:08.161Z",
+  "atualizadoEm": "2026-08-24T12:56:08.397Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -252,6 +252,18 @@
       "limite": 1000,
       "observacao": null,
       "validadeAte": "2026-08-25T12:06:01.952Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "LOREAL20",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 69.9,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-25T12:29:21.829Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -815,7 +827,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-08-25T12:15:43.000Z",
+      "validadeAte": "2026-09-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -874,7 +886,7 @@
       "minimo": 19,
       "maximo": null,
       "limite": 100,
-      "observacao": null,
+      "observacao": "Cupons válidos em selecionados conforme listas específicas",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -886,7 +898,7 @@
       "minimo": 19,
       "maximo": null,
       "limite": 100,
-      "observacao": null,
+      "observacao": "Cupons válidos em selecionados conforme listas específicas",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -970,7 +982,7 @@
       "minimo": 19,
       "maximo": null,
       "limite": 150,
-      "observacao": null,
+      "observacao": "Cupons válidos em selecionados conforme listas específicas",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -982,7 +994,7 @@
       "minimo": 19,
       "maximo": null,
       "limite": 150,
-      "observacao": null,
+      "observacao": "Cupons válidos em selecionados conforme listas específicas",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -994,7 +1006,7 @@
       "minimo": 19,
       "maximo": null,
       "limite": 150,
-      "observacao": null,
+      "observacao": "Cupons válidos em selecionados conforme listas específicas",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1030,7 +1042,7 @@
       "minimo": 79,
       "maximo": null,
       "limite": 50,
-      "observacao": null,
+      "observacao": "Cupons válidos em selecionados conforme listas específicas",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1103,7 +1115,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": "Válido em selecionados conforme lista indicada",
-      "validadeAte": "2026-08-25T12:00:00.000Z",
+      "validadeAte": "2026-08-25T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1260,18 +1272,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-25T11:59:13.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "NASCAR2026",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 120,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-24T12:38:25.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
