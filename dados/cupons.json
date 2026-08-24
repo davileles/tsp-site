@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-24T01:51:34.434Z",
+  "atualizadoEm": "2026-08-24T02:21:34.421Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -815,7 +815,7 @@
       "maximo": null,
       "limite": 90,
       "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "validadeAte": "2026-08-24T02:58:59.847Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -839,7 +839,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "validadeAte": "2026-08-24T02:58:59.602Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -863,7 +863,7 @@
       "maximo": null,
       "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "validadeAte": "2026-08-24T02:58:59.602Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -911,7 +911,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "validadeAte": "2026-08-24T02:58:59.602Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -935,7 +935,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "validadeAte": "2026-08-24T02:58:59.602Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -971,7 +971,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "validadeAte": "2026-08-24T02:58:59.602Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -996,6 +996,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "COMPENSAML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-08-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1031,7 +1043,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "validadeAte": "2026-08-24T02:58:59.602Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1067,7 +1079,7 @@
       "maximo": null,
       "limite": 50,
       "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "validadeAte": "2026-08-24T02:58:59.602Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1079,7 +1091,7 @@
       "maximo": null,
       "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "validadeAte": "2026-08-24T02:58:59.602Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1091,7 +1103,7 @@
       "maximo": null,
       "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "validadeAte": "2026-08-24T02:58:59.602Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1151,7 +1163,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-08-24T02:59:00.000Z",
+      "validadeAte": "2026-08-24T02:58:59.602Z",
       "url": "https://meli.la/2xystLt"
     },
     {
