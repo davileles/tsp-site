@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-24T14:19:58.091Z",
+  "atualizadoEm": "2026-08-24T14:42:31.160Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12017",
+      "loja": "Shopee",
+      "titulo": "JAQUETA DE COURO MASCULINA COM CAPUZ REMOVIVEL FORRADA E PELUCIDA POR DENTRO INVERNO/FRIO",
+      "link": "https://s.shopee.com.br/5LBMaEdISF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmtaw18rywhs2d_tn",
+      "preco": 131,
+      "precoDe": 230,
+      "desconto": 30,
+      "cupom": "NASCAR2026",
+      "enviadoEm": "2026-08-24T14:32:31.157Z"
+    },
+    {
+      "id": "12018",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira De Carro Infantil Max360 Isofix 36kgs Maxi Baby - Preto",
+      "link": "https://meli.la/2kEbYWK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_788401-MLU78410200759_082024-O.webp",
+      "preco": 611.91,
+      "precoDe": 1299,
+      "desconto": 45,
+      "cupom": "MELIAQUI",
+      "enviadoEm": "2026-08-24T14:30:17.163Z"
+    },
+    {
+      "id": "12014",
+      "loja": "Amazon",
+      "titulo": "Lillo Caneca Antivazamento Magia - Verde…",
+      "link": "https://www.amazon.com.br/dp/B07DX7N8WQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51-483l4JfL._SL400_.jpg",
+      "preco": 29.9,
+      "precoDe": 41.59,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T14:27:00.468Z"
+    },
+    {
+      "id": "12012",
+      "loja": "Amazon",
+      "titulo": "Kit 2 Cremes Pomadas de Assaduras Vit B5 com 200g cada, Total 400g - Bepantol Baby",
+      "link": "https://www.amazon.com.br/dp/B0H2G42RC7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41F-RUqhtYL._SL400_.jpg",
+      "preco": 174.98,
+      "precoDe": 199.9,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T14:26:49.819Z"
+    },
+    {
+      "id": "12010",
+      "loja": "Amazon",
+      "titulo": "L'Oréal Paris Elseve Liso dos Sonhos Condicionador, com Efeito Liquid Hair, Enriquecido com AHA e Queratina Vegetal para Alinhamento Capilar e Brilho Intenso, 400ml",
+      "link": "https://www.amazon.com.br/dp/B0DTLBKHV6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41kSjBZMLbL._SL400_.jpg",
+      "preco": 29.59,
+      "precoDe": 41.19,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T14:26:11.487Z"
+    },
     {
       "id": "12009",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 57,
       "cupom": null,
       "enviadoEm": "2026-08-21T16:11:05.334Z"
-    },
-    {
-      "id": "11557",
-      "loja": "Amazon",
-      "titulo": "Philips Colgate Sonicpro 10 Kids Escova de Dente Elétrica Infantil",
-      "link": "https://www.amazon.com.br/dp/B0FN889LGY?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41dB9G6Ua0L._SL400_.jpg",
-      "preco": 147.73,
-      "precoDe": 212.73,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T16:08:15.363Z"
-    },
-    {
-      "id": "11556",
-      "loja": "Amazon",
-      "titulo": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
-      "link": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/51CFaK2-EOL._SL400_.jpg",
-      "preco": 29.9,
-      "precoDe": 42.8,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T16:08:08.472Z"
-    },
-    {
-      "id": "11555",
-      "loja": "Mercado Livre",
-      "titulo": "Carro De Corrida com Piloto RB20 Oracle Red Bull Racing Formula 1 77243 Lego",
-      "link": "https://meli.la/2xHmqGv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_658714-MLA100005501511_122025-O.webp",
-      "preco": 192.72,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T16:08:07.616Z"
-    },
-    {
-      "id": "11554",
-      "loja": "Amazon",
-      "titulo": "Lenços Umedecidos Pampers Higiene Completa192 Unidades",
-      "link": "https://www.amazon.com.br/dp/B08T85RHB1?tag=tdsobrepromos-20&linkCode=ogi&th=1&psc=1",
-      "imagem": "https://m.media-amazon.com/images/I/41BjBvhwcuL._SL400_.jpg",
-      "preco": 31.99,
-      "precoDe": 46.7,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T16:07:51.396Z"
-    },
-    {
-      "id": "11553",
-      "loja": "Mercado Livre",
-      "titulo": "Pula Pula Cama Elástica Trampolim Infantil 1,4m Reforçado",
-      "link": "https://meli.la/1oAnd8j",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_929852-MLB114341304056_082026-O.webp",
-      "preco": 234.51,
-      "precoDe": 399.9,
-      "desconto": 31,
-      "cupom": "BRINCADEIRAS",
-      "enviadoEm": "2026-08-21T16:07:43.556Z"
     }
   ]
 }
