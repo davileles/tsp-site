@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-24T13:26:06.928Z",
+  "atualizadoEm": "2026-08-24T13:56:06.928Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12004",
+      "loja": "Amazon",
+      "titulo": "ALGODÃO QUADRADO BELLACOTTON BABY 12 X 50 UN.",
+      "link": "https://www.amazon.com.br/dp/B07DXQHRFC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51eJKQfbNNL._SL400_.jpg",
+      "preco": 14.77,
+      "precoDe": 16.42,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T13:52:55.225Z"
+    },
+    {
+      "id": "12002",
+      "loja": "Shopee",
+      "titulo": "iPhone 17 5G 256GB Tela 6,3\" 120Hz 48MP iOS Original Novo Lacrado com Nota FIscal",
+      "link": "https://s.shopee.com.br/9AO56CrOMu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk46pndmbguab3_tn",
+      "preco": 5474.79,
+      "precoDe": 9057.03,
+      "desconto": 39,
+      "cupom": "L0J4S0F1C141S",
+      "enviadoEm": "2026-08-24T13:47:36.327Z"
+    },
+    {
+      "id": "12001",
+      "loja": "Amazon",
+      "titulo": "L'Oréal Paris Elseve Glycolic Gloss Condicionador Sela Gloss, Fórmula com pH Ácido e Ácido Glicólico, Combate a Porosidade, Sela as Cutículas e Alinha os Fios, 400ml",
+      "link": "https://www.amazon.com.br/dp/B0CQKDKQTH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41BU2m9He6L._SL400_.jpg",
+      "preco": 27.99,
+      "precoDe": 41.19,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T13:41:28.992Z"
+    },
     {
       "id": "11982",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 46,
       "cupom": "APROVEITAESSA",
       "enviadoEm": "2026-08-21T15:59:35.138Z"
-    },
-    {
-      "id": "11549",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Câmeras Segurança Ip Interna Externa Wifi iCSee Infravermelho Prova D’Água - HW",
-      "link": "https://meli.la/2EAnkcv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_901090-MLA99414404486_112025-O.webp",
-      "preco": 150.08,
-      "precoDe": 339,
-      "desconto": 46,
-      "cupom": "APROVEITAESSA",
-      "enviadoEm": "2026-08-21T15:55:36.810Z"
-    },
-    {
-      "id": "11546",
-      "loja": "Mercado Livre",
-      "titulo": "Ventilador Britânia 2 em 1 Maxx Force Silencioso 174W BVT481",
-      "link": "https://meli.la/27DHosy",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_631757-MLA100120735265_122025-O.webp",
-      "preco": 119.9,
-      "precoDe": 264.66,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-08-21T15:46:10.809Z"
-    },
-    {
-      "id": "11545",
-      "loja": "Mercado Livre",
-      "titulo": "Webcam HyperX Vision S 4K com Sensor Sony Starvis e Foco Automático",
-      "link": "https://meli.la/1duenhq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_999592-MLA74309315063_012024-O.webp",
-      "preco": 647.26,
-      "precoDe": 1569,
-      "desconto": 41,
-      "cupom": "ESTOQUEDOMELI",
-      "enviadoEm": "2026-08-21T15:43:48.069Z"
     }
   ]
 }
