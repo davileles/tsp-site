@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-24T15:26:08.245Z",
+  "atualizadoEm": "2026-08-24T16:41:22.336Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1131,18 +1131,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TBTSTOCK10",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 9.9,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-09-01T03:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SAMSUNG10OFF",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1164,18 +1152,6 @@
       "limite": 200,
       "observacao": "Válido em selecionados conforme lista indicada",
       "validadeAte": "2026-08-25T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TBTSTOCKCAR",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 9,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-08-26T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
