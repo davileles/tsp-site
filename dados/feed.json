@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-24T18:07:37.135Z",
+  "atualizadoEm": "2026-08-24T18:40:18.919Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12134",
+      "loja": "Mercado Livre",
+      "titulo": "Guitarra E Microfone Infantil Instrumento Brinquedo Musical Cor Rosa Atentu",
+      "link": "https://meli.la/2sbEfTb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_730827-MLA99450704588_112025-O.webp",
+      "preco": 67.06,
+      "precoDe": 197.79,
+      "desconto": 60,
+      "cupom": "MELIAQUI",
+      "enviadoEm": "2026-08-24T18:30:18.918Z"
+    },
+    {
+      "id": "12133",
+      "loja": "Mercado Livre",
+      "titulo": "Cama Elástica Pula Pula Infantil Trampolim 1,4 Metros Atentu",
+      "link": "https://meli.la/1yBicq7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_917104-MLA96155675715_102025-O.webp",
+      "preco": 242.17000000000002,
+      "precoDe": 659,
+      "desconto": 57,
+      "cupom": "MELIAQUI",
+      "enviadoEm": "2026-08-24T18:30:15.194Z"
+    },
+    {
+      "id": "12132",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Mini Cozinha de Brinquedo Fogão Geladeira Forno solta Água e som cor Rosa Atentu",
+      "link": "https://meli.la/1fmNQ4L",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_714294-MLA99501010262_112025-O.webp",
+      "preco": 59.410000000000004,
+      "precoDe": 129.9,
+      "desconto": 46,
+      "cupom": "MELIAQUI",
+      "enviadoEm": "2026-08-24T18:25:52.578Z"
+    },
+    {
+      "id": "12128",
+      "loja": "Shopee",
+      "titulo": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
+      "link": "https://s.shopee.com.br/80C80m6tMY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902_tn",
+      "preco": 39.89,
+      "precoDe": 199.45,
+      "desconto": 80,
+      "cupom": null,
+      "enviadoEm": "2026-08-24T18:20:04.858Z"
+    },
     {
       "id": "12121",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-08-23T20:44:19.908Z"
-    },
-    {
-      "id": "11891",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Arabe Yara Tous Lattafa Edp Com Nf",
-      "link": "https://meli.la/17Wnfkn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_613552-MLB113353115306_072026-O.webp",
-      "preco": 142.8,
-      "precoDe": 258.9,
-      "desconto": 35,
-      "cupom": "MODAEBELEZA23",
-      "enviadoEm": "2026-08-23T19:53:58.723Z"
-    },
-    {
-      "id": "11889",
-      "loja": "Shopee",
-      "titulo": "Regata feminina adulto kit 2 unidades cores variadas malha premium academia e dia a dia",
-      "link": "https://s.shopee.com.br/BTFBMCMO3",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mp9xiwp3c3k0c4_tn",
-      "preco": 22.48,
-      "precoDe": 54.83,
-      "desconto": 59,
-      "cupom": null,
-      "enviadoEm": "2026-08-23T19:46:05.937Z"
-    },
-    {
-      "id": "11888",
-      "loja": "Shopee",
-      "titulo": "Pistola de Massagem Muscular Portátil Elétrica Profissional Recarregável USB com Múltiplas Ponteiras para Relaxamento",
-      "link": "https://s.shopee.com.br/LmfM7O6eD",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225c-mhjox6ltdn9ef0_tn",
-      "preco": 28.05,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-23T19:23:06.340Z"
-    },
-    {
-      "id": "11886",
-      "loja": "Shopee",
-      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
-      "link": "https://s.shopee.com.br/3qMXV0NEPK",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
-      "preco": 33.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-23T19:00:34.976Z"
     }
   ]
 }
