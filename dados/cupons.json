@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-24T13:26:08.384Z",
+  "atualizadoEm": "2026-08-24T13:35:16.121Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1356,6 +1356,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-25T11:59:13.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "NASCAR2026",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido para categoria Automóveis e Motocicletas",
+      "validadeAte": "2026-08-25T13:34:21.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
