@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-25T17:59:42.473Z",
+  "atualizadoEm": "2026-08-25T18:22:13.407Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12367",
+      "loja": "Shopee",
+      "titulo": "Pillow Top 400 Fios Super Macio Matelado – Solteiro, Casal, Queen e King | Ajuste Perfeito",
+      "link": "https://s.shopee.com.br/3g3ARA1xaf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mmvop81nlama8e_tn",
+      "preco": 95,
+      "precoDe": 132.18,
+      "desconto": 13,
+      "cupom": "C0MP74RN4SH0P33",
+      "enviadoEm": "2026-08-25T18:12:13.406Z"
+    },
     {
       "id": "12362",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-08-24T16:15:16.346Z"
-    },
-    {
-      "id": "12078",
-      "loja": "Mercado Livre",
-      "titulo": "Pato Dançante Musical Brinquedo Luz Som Patinho Dançarino",
-      "link": "https://meli.la/1xopdSV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_808971-MLB109143825546_042026-O.webp",
-      "preco": 33.99,
-      "precoDe": 69.99,
-      "desconto": 43,
-      "cupom": "MELIAQUI",
-      "enviadoEm": "2026-08-24T16:13:15.984Z"
     }
   ]
 }
