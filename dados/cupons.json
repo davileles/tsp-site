@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T16:29:43.843Z",
+  "atualizadoEm": "2026-08-25T16:59:43.694Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1383,6 +1383,18 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
+      "codigo": "GAMER7",
+      "loja": "Shopee",
+      "tipo": "pct",
+      "valor": 7,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 45,
+      "observacao": "7% de desconto em produtos digitais com limite máximo de R$45,00 de desconto",
+      "validadeAte": "2026-08-26T16:54:22.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "C0MPR4AS5",
       "loja": "Shopee",
       "tipo": "reais",
@@ -1392,6 +1404,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-26T15:00:17.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "GAMER5",
+      "loja": "Shopee",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 25,
+      "observacao": "5% OFF em Produtos digitais",
+      "validadeAte": "2026-08-26T16:54:21.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
