@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-25T12:11:21.053Z",
+  "atualizadoEm": "2026-08-25T12:41:21.054Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12254",
+      "loja": "Amazon",
+      "titulo": "Hemmer Ketchup Tradicional Bisnaga 1kg",
+      "link": "https://www.amazon.com.br/dp/B07XPCK5H5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/316ZnUTUHWL._SL400_.jpg",
+      "preco": 15.19,
+      "precoDe": 21.69,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T12:36:24.986Z"
+    },
+    {
+      "id": "12256",
+      "loja": "Amazon",
+      "titulo": "MAM Baby Kit 2 Mamadeiras Easy Active Set, 270ml e 330ml Com Formato Ergonômico e Fácil de Segurar para Crianças 2+ Meses com Bico de Silicone Skinsoft, Azul",
+      "link": "https://www.amazon.com.br/dp/B09VW57PZV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ZnQIo1LIL._SL400_.jpg",
+      "preco": 87.29,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T12:36:02.476Z"
+    },
+    {
+      "id": "12255",
+      "loja": "Amazon",
+      "titulo": "Lenços Huggies Higiene Superior Limpam 2x Mais 6 x 48 Un",
+      "link": "https://www.amazon.com.br/dp/B07FN1XPNW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Icrg3wQbL._SL400_.jpg",
+      "preco": 46.35,
+      "precoDe": 55.48,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T12:35:57.068Z"
+    },
+    {
+      "id": "12253",
+      "loja": "Shopee",
+      "titulo": "JAQUETA DE COURO MASCULINA COM CAPUZ REMOVIVEL FORRADA E PELUCIDA POR DENTRO INVERNO/FRIO",
+      "link": "https://s.shopee.com.br/5LBMaEdISF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmtaw18rywhs2d_tn",
+      "preco": 131,
+      "precoDe": 230,
+      "desconto": 30,
+      "cupom": "NASCAR2026",
+      "enviadoEm": "2026-08-25T12:33:37.478Z"
+    },
     {
       "id": "12251",
       "loja": "Shopee",
@@ -1335,18 +1383,6 @@
       "enviadoEm": "2026-08-24T14:48:47.066Z"
     },
     {
-      "id": "12017",
-      "loja": "Shopee",
-      "titulo": "JAQUETA DE COURO MASCULINA COM CAPUZ REMOVIVEL FORRADA E PELUCIDA POR DENTRO INVERNO/FRIO",
-      "link": "https://s.shopee.com.br/5LBMaEdISF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmtaw18rywhs2d_tn",
-      "preco": 131,
-      "precoDe": 230,
-      "desconto": 30,
-      "cupom": "NASCAR2026",
-      "enviadoEm": "2026-08-24T14:32:31.157Z"
-    },
-    {
       "id": "12018",
       "loja": "Mercado Livre",
       "titulo": "Cadeira De Carro Infantil Max360 Isofix 36kgs Maxi Baby - Preto",
@@ -1405,42 +1441,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-08-24T14:09:58.089Z"
-    },
-    {
-      "id": "12008",
-      "loja": "Amazon",
-      "titulo": "Shampoo Infantil Glicerina Suave 750ml – Baruel Baby",
-      "link": "https://www.amazon.com.br/dp/B0FGRP6ZG7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31kRow7I5mL._SL400_.jpg",
-      "preco": 31.23,
-      "precoDe": 33.59,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T14:04:53.890Z"
-    },
-    {
-      "id": "12007",
-      "loja": "Amazon",
-      "titulo": "L'Oréal Paris Elseve Glycolic Gloss Shampoo Extra Gloss, Fórmula com pH Ácido e Ácido Glicólico, Limpeza Profunda e Combate a Porosidade dos Fios, 400ml",
-      "link": "https://www.amazon.com.br/dp/B0CQKCQZL7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41EMbjIvBXL._SL400_.jpg",
-      "preco": 26.98,
-      "precoDe": 36.29,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T14:03:50.930Z"
-    },
-    {
-      "id": "12004",
-      "loja": "Amazon",
-      "titulo": "ALGODÃO QUADRADO BELLACOTTON BABY 12 X 50 UN.",
-      "link": "https://www.amazon.com.br/dp/B07DXQHRFC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51eJKQfbNNL._SL400_.jpg",
-      "preco": 14.77,
-      "precoDe": 16.42,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T13:52:55.225Z"
     }
   ]
 }
