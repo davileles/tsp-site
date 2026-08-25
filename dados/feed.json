@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-25T21:57:03.715Z",
+  "atualizadoEm": "2026-08-25T21:59:42.545Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12443",
+      "loja": "Amazon",
+      "titulo": "Aromatizador de Ambiente Chá Branco 165 ml Difusor com 5 Varetas, Salutar",
+      "link": "https://www.amazon.com.br/dp/B0DLJB8P7D?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31fiBZVG8KL._SL400_.jpg",
+      "preco": 27.07,
+      "precoDe": 49.99,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T21:58:42.576Z"
+    },
     {
       "id": "12442",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "C4RR1NH010",
       "enviadoEm": "2026-08-24T19:04:57.256Z"
-    },
-    {
-      "id": "12136",
-      "loja": "Shopee",
-      "titulo": "Organizador de maquiagem Giratório 360º Acrílico Suporte de Cosméticos",
-      "link": "https://s.shopee.com.br/7VFrRNsHaO",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd6c-m729rq2ye1aka6_tn",
-      "preco": 38.99,
-      "precoDe": 90.67,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T18:42:25.851Z"
     }
   ]
 }
