@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-25T17:29:42.472Z",
+  "atualizadoEm": "2026-08-25T17:59:42.473Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12362",
+      "loja": "Amazon",
+      "titulo": "Cadeira Alta De Bebe Para Alimentação Refeição Até 23 Kg Nick Dino Galzerano",
+      "link": "https://www.amazon.com.br/dp/B0B4FB9M13?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/317gL-s6jeL._SL400_.jpg",
+      "preco": 278.9,
+      "precoDe": 429,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T17:54:32.854Z"
+    },
+    {
+      "id": "12361",
+      "loja": "Amazon",
+      "titulo": "Weleda Babycreme de Calêndula | Proteção Natural Contra Assaduras | Fórmula Suave com Calêndula e Camomila | 75 ml",
+      "link": "https://www.amazon.com.br/dp/B0FH7JFL16?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21AMXguD5JL._SL400_.jpg",
+      "preco": 52.28,
+      "precoDe": 70.9,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T17:54:20.850Z"
+    },
+    {
+      "id": "12360",
+      "loja": "Shopee",
+      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
+      "link": "https://s.shopee.com.br/6L3vaX7uTv",
+      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
+      "preco": 54.989999999999995,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "C0MP74RN4SH0P33",
+      "enviadoEm": "2026-08-25T17:49:55.236Z"
+    },
     {
       "id": "12353",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 43,
       "cupom": "MELIAQUI",
       "enviadoEm": "2026-08-24T16:13:15.984Z"
-    },
-    {
-      "id": "12074",
-      "loja": "Mercado Livre",
-      "titulo": "6 Peças Chave Combinada Profissional Aço Especial Cromada",
-      "link": "https://meli.la/339DGjY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_884641-MLB113969386295_062026-O.webp",
-      "preco": 15.600000000000001,
-      "precoDe": 26,
-      "desconto": 20,
-      "cupom": "AUTOML",
-      "enviadoEm": "2026-08-24T16:11:10.438Z"
-    },
-    {
-      "id": "12073",
-      "loja": "Shopee",
-      "titulo": "Forno Elétrico Multifunções 6 Litros Pratic Cook FR-09 220V 650W Preto/Inox",
-      "link": "https://s.shopee.com.br/7KwR4TYOeZ",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbk0-lktn0grdakxd9a_tn",
-      "preco": 169,
-      "precoDe": 288.41,
-      "desconto": 31,
-      "cupom": "NASCAR2026",
-      "enviadoEm": "2026-08-24T16:08:38.362Z"
-    },
-    {
-      "id": "12072",
-      "loja": "Mercado Livre",
-      "titulo": "C4 Caffeine Free 220g - New Millen (pré Treino Sem Cafeína) Sabor Limão",
-      "link": "https://meli.la/1WjCTGQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_964203-MLA99522251800_122025-O.webp",
-      "preco": 42.4,
-      "precoDe": 78.9,
-      "desconto": 33,
-      "cupom": "MELHORCUPOMML",
-      "enviadoEm": "2026-08-24T16:05:38.708Z"
     }
   ]
 }
