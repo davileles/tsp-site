@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T08:41:21.445Z",
+  "atualizadoEm": "2026-08-25T12:08:50.570Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -241,18 +241,6 @@
       "observacao": null,
       "validadeAte": "2026-08-27T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "KARSTEN20",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 10,
-      "maximo": null,
-      "limite": 1000,
-      "observacao": null,
-      "validadeAte": "2026-08-25T12:06:01.952Z",
-      "url": "https://link.amazon/B0aA3uVrC"
     },
     {
       "codigo": "LOREAL20",
@@ -891,6 +879,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "VALEAGORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em selecionados do Mercado Livre",
+      "validadeAte": "2026-08-26T12:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PRECINHO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em selecionados do Mercado Livre",
+      "validadeAte": "2026-08-26T12:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "QUEROCUPONS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -984,6 +996,18 @@
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
       "validadeAte": "2026-09-16T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PEGUEISEU",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em selecionados do Mercado Livre",
+      "validadeAte": "2026-08-26T12:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1155,6 +1179,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "QUEROOFERTA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Cupons válidos em selecionados do Mercado Livre",
+      "validadeAte": "2026-08-26T12:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OFFCOMMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1309,18 +1345,6 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
-    },
-    {
-      "codigo": "L0J4S0F1C141S",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 250,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-25T11:59:13.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "NASCAR2026",
