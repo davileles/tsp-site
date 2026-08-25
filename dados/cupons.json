@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T16:00:43.656Z",
+  "atualizadoEm": "2026-08-25T16:29:43.843Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1059,6 +1059,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "QUEIMADEESTOQUE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-08-26T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "HORADOCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1155,15 +1167,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TBTSTOCKCAR",
+      "codigo": "ENTREGASFULL",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 10,
-      "minimo": 9,
+      "minimo": 29,
       "maximo": null,
-      "limite": 100,
+      "limite": 10,
       "observacao": null,
-      "validadeAte": "2026-08-26T02:59:00.000Z",
+      "validadeAte": "2026-08-27T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
