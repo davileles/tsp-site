@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-25T18:51:47.835Z",
+  "atualizadoEm": "2026-08-25T18:59:42.476Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12379",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/1gI66ZkoSe",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": 13.94,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": "GAMER7",
+      "enviadoEm": "2026-08-25T18:57:13.162Z"
+    },
     {
       "id": "12376",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 35,
       "cupom": null,
       "enviadoEm": "2026-08-24T16:25:12.979Z"
-    },
-    {
-      "id": "12081",
-      "loja": "Mercado Livre",
-      "titulo": "Combo/Kit 2x Creatina Monohidratada 300g Pó",
-      "link": "https://meli.la/27QyFV9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_776821-MLA99365251528_112025-O.webp",
-      "preco": 71.2,
-      "precoDe": 179,
-      "desconto": 50,
-      "cupom": "MELHORCUPOMML",
-      "enviadoEm": "2026-08-24T16:23:55.615Z"
     }
   ]
 }
