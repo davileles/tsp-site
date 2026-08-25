@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-25T13:05:59.766Z",
+  "atualizadoEm": "2026-08-25T13:30:21.313Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12264",
+      "loja": "Amazon",
+      "titulo": "Candide, Laptop Infantil, Sonic, Brinquedo Educativo - Bilíngue",
+      "link": "https://www.amazon.com.br/dp/B0CCQBJYXL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51hNZ+TqdPL._SL400_.jpg",
+      "preco": 74.99,
+      "precoDe": 99.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T13:20:21.311Z"
+    },
+    {
+      "id": "12263",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
+      "link": "https://s.shopee.com.br/2BEMKE72g3",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
+      "preco": 45,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T13:19:15.901Z"
+    },
     {
       "id": "12260",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-08-24T14:48:47.066Z"
-    },
-    {
-      "id": "12018",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira De Carro Infantil Max360 Isofix 36kgs Maxi Baby - Preto",
-      "link": "https://meli.la/2kEbYWK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_788401-MLU78410200759_082024-O.webp",
-      "preco": 611.91,
-      "precoDe": 1299,
-      "desconto": 45,
-      "cupom": "MELIAQUI",
-      "enviadoEm": "2026-08-24T14:30:17.163Z"
-    },
-    {
-      "id": "12014",
-      "loja": "Amazon",
-      "titulo": "Lillo Caneca Antivazamento Magia - Verde…",
-      "link": "https://www.amazon.com.br/dp/B07DX7N8WQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51-483l4JfL._SL400_.jpg",
-      "preco": 29.9,
-      "precoDe": 41.59,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T14:27:00.468Z"
     }
   ]
 }
