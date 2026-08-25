@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-25T20:18:50.044Z",
+  "atualizadoEm": "2026-08-25T20:29:42.545Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12412",
+      "loja": "Amazon",
+      "titulo": "WOLFF Faqueiro de Aço Inox Viena 30 Peças - Mesa Posta - Itens Para Casa - Utensílios de Cozinha - Enxoval - Casamento - Decoração",
+      "link": "https://www.amazon.com.br/dp/B0B1KVQ663?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31yEqe+rBWL._SL400_.jpg",
+      "preco": 151.21,
+      "precoDe": 246.4,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T20:25:49.890Z"
+    },
     {
       "id": "12411",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 23,
       "cupom": null,
       "enviadoEm": "2026-08-24T16:51:26.456Z"
-    },
-    {
-      "id": "12097",
-      "loja": "Mercado Livre",
-      "titulo": "Water Cooler Kalkan Aura Com Tela Lcd 360mm Argb Intel Amd",
-      "link": "https://meli.la/195o9NN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_942332-MLB114772078931_072026-O.webp",
-      "preco": 341.55,
-      "precoDe": 550,
-      "desconto": 31,
-      "cupom": "MEUDESCONTO",
-      "enviadoEm": "2026-08-24T16:48:59.755Z"
     }
   ]
 }
