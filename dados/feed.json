@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-25T15:11:21.058Z",
+  "atualizadoEm": "2026-08-25T15:28:27.389Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12307",
+      "loja": "Amazon",
+      "titulo": "Ajax Limpeza Pura Menta e Orquídea Limpador Multiuso, 1L",
+      "link": "https://www.amazon.com.br/dp/B07G5SPT19?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/316eeoEpaML._SL400_.jpg",
+      "preco": 9.84,
+      "precoDe": 11.44,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T15:18:27.387Z"
+    },
+    {
+      "id": "12304",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
+      "link": "https://s.shopee.com.br/9fKLryULYS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
+      "preco": 44.52,
+      "precoDe": 66.03,
+      "desconto": 25,
+      "cupom": "C0MPR4AS5",
+      "enviadoEm": "2026-08-25T15:12:22.645Z"
+    },
     {
       "id": "12303",
       "loja": "Shopee",
@@ -1023,18 +1047,6 @@
       "enviadoEm": "2026-08-24T16:26:09.171Z"
     },
     {
-      "id": "12082",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
-      "link": "https://s.shopee.com.br/9fKLryULYS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
-      "preco": 54.32,
-      "precoDe": 72.43,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T16:25:43.050Z"
-    },
-    {
       "id": "12086",
       "loja": "Mercado Livre",
       "titulo": "Bicicleta Infantil Sem Pedal Equilíbrio Balance Azul Nathor",
@@ -1429,18 +1441,6 @@
       "desconto": 69,
       "cupom": "C4RR1NH010",
       "enviadoEm": "2026-08-24T15:20:12.929Z"
-    },
-    {
-      "id": "12039",
-      "loja": "Shopee",
-      "titulo": "Suporte Articulado Para 2 Monitores 13 a 32 Pistão a Gás Zinnia Nimbo 210 Branco",
-      "link": "https://s.shopee.com.br/1LfDrs5ihN",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mqeqor4n1ts064_tn",
-      "preco": 117.9,
-      "precoDe": 360.73,
-      "desconto": 59,
-      "cupom": "NASCAR2026",
-      "enviadoEm": "2026-08-24T15:17:59.200Z"
     }
   ]
 }
