@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-25T18:22:13.407Z",
+  "atualizadoEm": "2026-08-25T18:51:47.835Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12376",
+      "loja": "Amazon",
+      "titulo": "Cosco Kids, Carrinho de Bebê, Toffy, Preto Absoluto",
+      "link": "https://www.amazon.com.br/dp/B09ZNX93JK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41nUfsWkFKL._SL400_.jpg",
+      "preco": 448.3,
+      "precoDe": 599,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T18:41:47.833Z"
+    },
+    {
+      "id": "12375",
+      "loja": "Shopee",
+      "titulo": "Playground Infantil Modular 100% Espuma Seguro Educativo Divertido",
+      "link": "https://s.shopee.com.br/4fvheXlhiT",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mlld6tmgetc5c5_tn",
+      "preco": 314.99,
+      "precoDe": 699.98,
+      "desconto": 50,
+      "cupom": "N1NTENDO10",
+      "enviadoEm": "2026-08-25T18:34:46.216Z"
+    },
+    {
+      "id": "12374",
+      "loja": "Amazon",
+      "titulo": "Likluc Assoarbaby Lenços Umedecidos Com Solução Salina Branco Tamanho Único",
+      "link": "https://www.amazon.com.br/dp/B07MPPZ2GY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41RTktEOIQL._SL400_.jpg",
+      "preco": 17.69,
+      "precoDe": 29.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T18:30:32.974Z"
+    },
     {
       "id": "12367",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 50,
       "cupom": "MELHORCUPOMML",
       "enviadoEm": "2026-08-24T16:23:55.615Z"
-    },
-    {
-      "id": "12080",
-      "loja": "Mercado Livre",
-      "titulo": "Teclado Gamer Attack Shark R85he Mecânico Usb",
-      "link": "https://meli.la/11abrU4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_929835-CBT111739535373_052026-O.webp",
-      "preco": 123.85000000000001,
-      "precoDe": 356.07,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T16:18:29.058Z"
-    },
-    {
-      "id": "12079",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo de Talheres Aço Inox e Madeira 12 Peças Tramontina Dynamic 22399 Cor Marrom",
-      "link": "https://meli.la/2Y3rqo4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_990057-MLA99470524250_112025-O.webp",
-      "preco": 60.88000000000001,
-      "precoDe": 81.62,
-      "desconto": 15,
-      "cupom": "PROMOCERTA",
-      "enviadoEm": "2026-08-24T16:15:37.403Z"
-    },
-    {
-      "id": "12076",
-      "loja": "Amazon",
-      "titulo": "Heinz Pack Ketchup 397G + Maionese 390G",
-      "link": "https://www.amazon.com.br/dp/B07YNB7QCP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41MVxb4SRKL._SL400_.jpg",
-      "preco": 18.31,
-      "precoDe": 25.59,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T16:15:16.346Z"
     }
   ]
 }
