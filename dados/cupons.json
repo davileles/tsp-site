@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T19:07:13.557Z",
+  "atualizadoEm": "2026-08-25T19:59:43.748Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -639,6 +639,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "30NOROBO",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-27T12:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "ESSENTIALS28",
       "loja": "Kabum",
       "tipo": "pct",
@@ -759,6 +771,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "STAR10",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "VGA8",
       "loja": "Kabum",
       "tipo": "pct",
@@ -784,6 +808,18 @@
     },
     {
       "codigo": "MEUIPHONE",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "5ZEBRA",
       "loja": "Kabum",
       "tipo": "pct",
       "valor": 5,
@@ -1236,6 +1272,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17634&id=1207116"
+    },
+    {
+      "codigo": "MODA",
+      "loja": "Posthaus",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-26T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17634&id=1207116"
     },
     {
