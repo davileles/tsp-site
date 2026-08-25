@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T14:11:22.306Z",
+  "atualizadoEm": "2026-08-25T14:15:19.258Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -903,18 +903,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "AUTOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SOECONOMIA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -994,42 +982,6 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMOAGORA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMOESPORTE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELHORCUPOMML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -1131,18 +1083,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ENTREGASFULL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 10,
-      "observacao": null,
-      "validadeAte": "2026-08-26T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TBTSTOCKCAR",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1151,18 +1091,6 @@
       "maximo": null,
       "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-08-26T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FULL2508",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 10,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-08-26T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
