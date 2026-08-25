@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-25T18:59:42.476Z",
+  "atualizadoEm": "2026-08-25T19:29:42.475Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12392",
+      "loja": "Amazon",
+      "titulo": "Lacta Favoritos - Caixa de variedades chocolates, 250,6g",
+      "link": "https://www.amazon.com.br/dp/B07T3GX8TK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41hRm8QgTyL._SL400_.jpg",
+      "preco": 12.99,
+      "precoDe": 18.49,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T19:26:11.671Z"
+    },
+    {
+      "id": "12389",
+      "loja": "Shopee",
+      "titulo": "Secadora de Roupa Mueller Sun 8kg Timer 6 Cabides 220v",
+      "link": "https://s.shopee.com.br/9zxE3acX3U",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rceq-m6mpsl92q9e435_tn",
+      "preco": 422.1,
+      "precoDe": 651.39,
+      "desconto": 28,
+      "cupom": "N1NTENDO10",
+      "enviadoEm": "2026-08-25T19:22:41.229Z"
+    },
+    {
+      "id": "12388",
+      "loja": "Amazon",
+      "titulo": "WOLFF - Conjunto 6 Taças de Cristal Ecológico Alex 600ml para Vinho",
+      "link": "https://www.amazon.com.br/dp/B0CH8XZGSP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/411+AV+xqkL._SL400_.jpg",
+      "preco": 142.4,
+      "precoDe": 224.3,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T19:19:39.429Z"
+    },
+    {
+      "id": "12387",
+      "loja": "Amazon",
+      "titulo": "Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Preta, com Acesso Antecipado à Alexa+",
+      "link": "https://www.amazon.com.br/dp/B09B8VGCR8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL400_.jpg",
+      "preco": 329,
+      "precoDe": 649,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T19:17:24.815Z"
+    },
     {
       "id": "12379",
       "loja": "Shopee",
@@ -241,18 +289,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-08-25T16:22:46.353Z"
-    },
-    {
-      "id": "12331",
-      "loja": "Amazon",
-      "titulo": "Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Preta, com Acesso Antecipado à Alexa+",
-      "link": "https://www.amazon.com.br/dp/B09B8VGCR8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL400_.jpg",
-      "preco": 329,
-      "precoDe": 649,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T16:20:45.380Z"
     },
     {
       "id": "12330",
@@ -1405,42 +1441,6 @@
       "desconto": 44,
       "cupom": "C4RR1NH010",
       "enviadoEm": "2026-08-24T16:29:20.592Z"
-    },
-    {
-      "id": "12085",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino Sem Cadarço Iate Lona Coca Cola Original",
-      "link": "https://meli.la/11QmsxR",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_747447-MLB110164134151_042026-O.webp",
-      "preco": 93.49,
-      "precoDe": 199.99,
-      "desconto": 45,
-      "cupom": "PROMOPRAMODA",
-      "enviadoEm": "2026-08-24T16:27:41.923Z"
-    },
-    {
-      "id": "12083",
-      "loja": "Mercado Livre",
-      "titulo": "Hipercalórico Dark Mass 3kg Chocolate Branco c/ Morango Dark Lab",
-      "link": "https://meli.la/1H5wkzA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_894319-MLA99934921621_112025-O.webp",
-      "preco": 63.120000000000005,
-      "precoDe": 249.9,
-      "desconto": 68,
-      "cupom": "MELHORCUPOMML",
-      "enviadoEm": "2026-08-24T16:26:09.171Z"
-    },
-    {
-      "id": "12086",
-      "loja": "Mercado Livre",
-      "titulo": "Bicicleta Infantil Sem Pedal Equilíbrio Balance Azul Nathor",
-      "link": "https://meli.la/178gNiA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_866784-MLA95940247195_102025-O.webp",
-      "preco": 151.9,
-      "precoDe": 239.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T16:25:12.979Z"
     }
   ]
 }
