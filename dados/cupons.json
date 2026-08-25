@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T14:15:19.258Z",
+  "atualizadoEm": "2026-08-25T15:09:03.877Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -987,6 +987,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OUTLET2508",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido para produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-08-26T15:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "HORADOCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1275,15 +1287,27 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "C4RR1NH010",
+      "codigo": "N1NTENDO10",
+      "loja": "Shopee",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 44,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-08-26T14:57:18.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "C0MPR4AS5",
       "loja": "Shopee",
       "tipo": "reais",
-      "valor": 10,
-      "minimo": 59,
+      "valor": 5,
+      "minimo": 25,
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-25T15:00:11.000Z",
+      "validadeAte": "2026-08-26T15:00:17.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
