@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T02:41:21.343Z",
+  "atualizadoEm": "2026-08-25T03:11:21.429Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1131,15 +1131,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MEUDESCONTO",
+      "codigo": "FULL2508",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 10,
-      "minimo": 149,
+      "minimo": 29,
       "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-08-25T02:59:00.000Z",
+      "limite": 10,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-08-26T03:00:09.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
