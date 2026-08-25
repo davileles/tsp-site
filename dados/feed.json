@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-25T13:30:21.313Z",
+  "atualizadoEm": "2026-08-25T13:52:22.975Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12265",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Cafés Torrado E Moído Aromatizados - Todos os Aromas",
+      "link": "https://s.shopee.com.br/8AVZUqjX3e",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4zzbuhcb6pecf_tn",
+      "preco": 94.9,
+      "precoDe": 120.57,
+      "desconto": 13,
+      "cupom": "C4RR1NH010",
+      "enviadoEm": "2026-08-25T13:42:22.974Z"
+    },
     {
       "id": "12264",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 39,
       "cupom": null,
       "enviadoEm": "2026-08-24T14:52:18.729Z"
-    },
-    {
-      "id": "12023",
-      "loja": "Amazon",
-      "titulo": "L'Oréal Paris Elseve Sérum Leave-in Liso dos Sonhos com Tecnologia Ativada por Calor, Antifrizz, Protetor Térmico e Barreira Contra Umidade, 100ml",
-      "link": "https://www.amazon.com.br/dp/B0DV1JZFXS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31v1k3k5D6L._SL400_.jpg",
-      "preco": 33.94,
-      "precoDe": 49.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T14:48:47.066Z"
     }
   ]
 }
