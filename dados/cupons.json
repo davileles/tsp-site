@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T19:59:43.748Z",
+  "atualizadoEm": "2026-08-25T20:00:34.527Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -397,6 +397,18 @@
       "observacao": null,
       "validadeAte": "2030-01-02T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "GOLACO",
+      "loja": "Centauro",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-06T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17806&id=1207116"
     },
     {
       "codigo": "QUERO300",
@@ -987,18 +999,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "AUTOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SOECONOMIA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1176,18 +1176,6 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "QUEROOFERTA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Cupons válidos em selecionados do Mercado Livre",
-      "validadeAte": "2026-08-26T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
