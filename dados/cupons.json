@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T12:41:22.237Z",
+  "atualizadoEm": "2026-08-25T13:06:00.938Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -241,18 +241,6 @@
       "observacao": null,
       "validadeAte": "2026-08-27T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "PAMPERS10",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom específico para produtos Pampers",
-      "validadeAte": "2026-08-25T12:57:29.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
     },
     {
       "codigo": "AMOO20DAVINES",
@@ -552,18 +540,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-01T03:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "PS5NINJA",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-25T13:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -1344,18 +1320,6 @@
       "limite": null,
       "observacao": "Válido para categoria Automóveis e Motocicletas",
       "validadeAte": "2026-08-25T13:34:21.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "OFICI4LMAF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 120,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-25T13:01:23.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
