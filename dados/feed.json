@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-25T15:09:02.429Z",
+  "atualizadoEm": "2026-08-25T15:11:21.058Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12303",
+      "loja": "Shopee",
+      "titulo": "Principia Kit Limpa Hidrata e Protege c/ Gel de Limpeza GL-01 + Creme Hidratante CH-01 + Protetor Cor PS-05 FPS 70",
+      "link": "https://s.shopee.com.br/qiyrNxNGs",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mli7ak1thedga0_tn",
+      "preco": 79.99,
+      "precoDe": 156.23,
+      "desconto": 36,
+      "cupom": "C0MP74RN4SH0P33",
+      "enviadoEm": "2026-08-25T15:09:43.934Z"
+    },
     {
       "id": "12299",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 59,
       "cupom": "NASCAR2026",
       "enviadoEm": "2026-08-24T15:17:59.200Z"
-    },
-    {
-      "id": "12038",
-      "loja": "Shopee",
-      "titulo": "KIT 10 CANETAS MARCADORA PERMANENTE DE PONTA LONGA MARCAR FURAÇÃO PAREDE  PARA TRABALHO PEDREIRO!",
-      "link": "https://s.shopee.com.br/AAGcOCw4Cf",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj4gxg7e6adfc0_tn",
-      "preco": 33.9,
-      "precoDe": 38.97,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T15:17:16.049Z"
     }
   ]
 }
