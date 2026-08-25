@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-08-25T16:29:42.473Z",
+  "atualizadoEm": "2026-08-25T16:59:42.473Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12342",
+      "loja": "Amazon",
+      "titulo": "FOXY 240ML, limpeza automotiva",
+      "link": "https://www.amazon.com.br/dp/B09P21GFBK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31WVUnFn5KL._SL400_.jpg",
+      "preco": 19.9,
+      "precoDe": 27.9,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T16:54:12.852Z"
+    },
+    {
+      "id": "12341",
+      "loja": "Amazon",
+      "titulo": "Whisky Chivas Regal 12 anos Blended Escocês - 1 litro",
+      "link": "https://www.amazon.com.br/dp/B075QHV5LD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41T3fFQmT6L._SL400_.jpg",
+      "preco": 105,
+      "precoDe": 178.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T16:51:09.283Z"
+    },
+    {
+      "id": "12340",
+      "loja": "Amazon",
+      "titulo": "Colchão Inflável Solteiro Multiuso Até 100kgs O2Flow",
+      "link": "https://www.amazon.com.br/dp/B0CDNH81Y5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/315ea70UkmL._SL400_.jpg",
+      "preco": 58.55,
+      "precoDe": 109.9,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T16:47:09.383Z"
+    },
+    {
+      "id": "12339",
+      "loja": "Amazon",
+      "titulo": "Café em Cápsula Nescafé Dolce Gusto KitKat 10 Cápsulas 170g",
+      "link": "https://www.amazon.com.br/dp/B0DGB1N61H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41+0KS-fLyL._SL400_.jpg",
+      "preco": 18.76,
+      "precoDe": 26.39,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T16:46:15.161Z"
+    },
+    {
+      "id": "12338",
+      "loja": "Amazon",
+      "titulo": "Canela Do Ceilão Orgânica Em Pó 60g Kampo De Ervas",
+      "link": "https://www.amazon.com.br/dp/B0FHBYBG8P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31bHsc8khFL._SL400_.jpg",
+      "preco": 50.06,
+      "precoDe": 62.8,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T16:44:56.258Z"
+    },
+    {
+      "id": "12337",
+      "loja": "Shopee",
+      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
+      "link": "https://s.shopee.com.br/1qbUcJpXNI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
+      "preco": 177.9,
+      "precoDe": 599.7,
+      "desconto": 67,
+      "cupom": "C0MP74RN4SH0P33",
+      "enviadoEm": "2026-08-25T16:42:46.494Z"
+    },
+    {
+      "id": "12336",
+      "loja": "Amazon",
+      "titulo": "Heinz Molho de Tomate Rústico Basílico em vidro, 320G",
+      "link": "https://www.amazon.com.br/dp/B0DD8JKM7T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41LHfVuWBaL._SL400_.jpg",
+      "preco": 11.89,
+      "precoDe": 15.79,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T16:42:44.843Z"
+    },
+    {
+      "id": "12335",
+      "loja": "Amazon",
+      "titulo": "Scott Duramax Pano Reutilizável em Rolo, Branco, 174 Folhas (3 Rolos de 58 Folhas)",
+      "link": "https://www.amazon.com.br/dp/B07V7H5VHK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41i6jl6TFhL._SL400_.jpg",
+      "preco": 26.9,
+      "precoDe": 45.99,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T16:37:11.290Z"
+    },
     {
       "id": "12333",
       "loja": "Amazon",
@@ -1035,18 +1131,6 @@
       "enviadoEm": "2026-08-24T17:35:31.594Z"
     },
     {
-      "id": "12112",
-      "loja": "Shopee",
-      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
-      "link": "https://s.shopee.com.br/1qbUcJpXNI",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
-      "preco": 167.9,
-      "precoDe": 599.7,
-      "desconto": 67,
-      "cupom": "NASCAR2026",
-      "enviadoEm": "2026-08-24T17:35:20.522Z"
-    },
-    {
       "id": "12106",
       "loja": "Mercado Livre",
       "titulo": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Morango",
@@ -1357,90 +1441,6 @@
       "desconto": 22,
       "cupom": "CONSTROINOML",
       "enviadoEm": "2026-08-24T16:03:11.622Z"
-    },
-    {
-      "id": "12071",
-      "loja": "Shopee",
-      "titulo": "Kit 6/12/18/24 Panos De Limpeza  Premium Arear Panela Fogão Toalha Louça Tira Gordura Reutilizável",
-      "link": "https://s.shopee.com.br/20uuiKASNy",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mctxxpi1l4qad6_tn",
-      "preco": 10,
-      "precoDe": 25,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T16:03:07.473Z"
-    },
-    {
-      "id": "12069",
-      "loja": "Amazon",
-      "titulo": "Heinz Ketchup Bacon & Cebola Caramelizada 397g",
-      "link": "https://www.amazon.com.br/dp/B07YN9M2MH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31LAto2RmYL._SL400_.jpg",
-      "preco": 11.89,
-      "precoDe": 15.79,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T16:00:14.207Z"
-    },
-    {
-      "id": "12068",
-      "loja": "Shopee",
-      "titulo": "Caixa de Som Portátil Boombeat TAX400B/78 200W Bluetooth Alça Removível Bivolt Philips",
-      "link": "https://s.shopee.com.br/4fvfsw7VSp",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82603-mm7nzfijf7r614_tn",
-      "preco": 1046.42,
-      "precoDe": 1101.49,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T15:58:42.506Z"
-    },
-    {
-      "id": "12060",
-      "loja": "Mercado Livre",
-      "titulo": "Best Whey Bob's Milk Shake Morango Pote 900g 3W Atlhetica Nutrition",
-      "link": "https://meli.la/1Jc7Bk6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_728892-MLA107956316185_032026-O.webp",
-      "preco": 154.4,
-      "precoDe": 320,
-      "desconto": 40,
-      "cupom": "MELHORCUPOMML",
-      "enviadoEm": "2026-08-24T15:57:50.447Z"
-    },
-    {
-      "id": "12061",
-      "loja": "Mercado Livre",
-      "titulo": "Balança Digital Corporal Bioimpedância Aplicativo Bluetooth Relaxmedic",
-      "link": "https://meli.la/2UYz9t3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_669691-MLA106901751604_022026-O.webp",
-      "preco": 88.43,
-      "precoDe": 279.9,
-      "desconto": 61,
-      "cupom": "MELHORCUPOMML",
-      "enviadoEm": "2026-08-24T15:57:49.207Z"
-    },
-    {
-      "id": "12059",
-      "loja": "Mercado Livre",
-      "titulo": "Boné Ess No.1 Logo Baseball Puma",
-      "link": "https://meli.la/333o3uK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_893046-MLA99454489492_112025-O.webp",
-      "preco": 67.99,
-      "precoDe": 99.99,
-      "desconto": 20,
-      "cupom": "PROMOPRAMODA",
-      "enviadoEm": "2026-08-24T15:55:11.257Z"
-    },
-    {
-      "id": "12058",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 6 Cuecas Boxer Lupo Sem Costura Box Microfibra Original",
-      "link": "https://meli.la/125ywtB",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_628190-MLB106929969799_022026-O-kit-6-cuecas-boxer-lupo-sem-costura-box-microfibra-original.webp",
-      "preco": 110.49000000000001,
-      "precoDe": 279.99,
-      "desconto": 54,
-      "cupom": "PROMOPRAMODA",
-      "enviadoEm": "2026-08-24T15:54:50.760Z"
     }
   ]
 }
