@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T12:11:22.421Z",
+  "atualizadoEm": "2026-08-25T12:41:22.237Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -241,18 +241,6 @@
       "observacao": null,
       "validadeAte": "2026-08-27T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "LOREAL20",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 69.9,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-25T12:29:21.829Z",
-      "url": "https://link.amazon/B0aA3uVrC"
     },
     {
       "codigo": "PAMPERS10",
