@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-25T19:59:42.544Z",
+  "atualizadoEm": "2026-08-25T20:18:50.044Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12411",
+      "loja": "Shopee",
+      "titulo": "Whey Ultra Protein Concentrado Pote 900g - FTW",
+      "link": "https://s.shopee.com.br/1VyfzA8An1",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9vukr0feo684_tn",
+      "preco": 49.989999999999995,
+      "precoDe": 109.36,
+      "desconto": 36,
+      "cupom": "C0MP74RN4SH0P33",
+      "enviadoEm": "2026-08-25T20:08:50.041Z"
+    },
+    {
+      "id": "12406",
+      "loja": "Amazon",
+      "titulo": "JBL, Caixa de Som, PartyBox Club 120, Bluetooth, Show de Luzes, À Prova de Respingos - 160W RMS",
+      "link": "https://www.amazon.com.br/dp/B0D6NKG6WY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41o9cNenRoL._SL400_.jpg",
+      "preco": 1749,
+      "precoDe": 2699,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T20:02:11.645Z"
+    },
     {
       "id": "12405",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 31,
       "cupom": "MEUDESCONTO",
       "enviadoEm": "2026-08-24T16:48:59.755Z"
-    },
-    {
-      "id": "12096",
-      "loja": "Shopee",
-      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
-      "link": "https://s.shopee.com.br/50YWKwZavE",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
-      "preco": 54.32,
-      "precoDe": 66.24,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T16:48:58.807Z"
-    },
-    {
-      "id": "12095",
-      "loja": "Amazon",
-      "titulo": "Heinz Maionese Tradicional 400G",
-      "link": "https://www.amazon.com.br/dp/B07YN9ZY51?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31FYbpQTEoL._SL400_.jpg",
-      "preco": 11.89,
-      "precoDe": 14.89,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T16:45:01.875Z"
     }
   ]
 }
