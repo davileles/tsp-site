@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-25T11:36:08.502Z",
+  "atualizadoEm": "2026-08-25T12:08:49.186Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12248",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 68 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07X83MH7M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41btRL3VkgL._SL400_.jpg",
+      "preco": 98.01,
+      "precoDe": 151.59,
+      "desconto": 28,
+      "cupom": "PAMPERS10",
+      "enviadoEm": "2026-08-25T11:58:49.184Z"
+    },
+    {
+      "id": "12247",
+      "loja": "Amazon",
+      "titulo": "Cadeira de Alimentação Portátil Berry 3 em 1 Rosa Multikids",
+      "link": "https://www.amazon.com.br/dp/B0C7LR9X83?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31zDHFFEUtL._SL400_.jpg",
+      "preco": 197.1,
+      "precoDe": 219,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T11:51:31.410Z"
+    },
+    {
+      "id": "12243",
+      "loja": "Shopee",
+      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
+      "link": "https://s.shopee.com.br/qiydazMiX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
+      "preco": 83.92,
+      "precoDe": 323.86,
+      "desconto": 71,
+      "cupom": "C4RR1NH010",
+      "enviadoEm": "2026-08-25T11:48:31.068Z"
+    },
     {
       "id": "12236",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 39,
       "cupom": "L0J4S0F1C141S",
       "enviadoEm": "2026-08-24T13:47:36.327Z"
-    },
-    {
-      "id": "12001",
-      "loja": "Amazon",
-      "titulo": "L'Oréal Paris Elseve Glycolic Gloss Condicionador Sela Gloss, Fórmula com pH Ácido e Ácido Glicólico, Combate a Porosidade, Sela as Cutículas e Alinha os Fios, 400ml",
-      "link": "https://www.amazon.com.br/dp/B0CQKDKQTH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41BU2m9He6L._SL400_.jpg",
-      "preco": 27.99,
-      "precoDe": 41.19,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T13:41:28.992Z"
-    },
-    {
-      "id": "11982",
-      "loja": "Shopee",
-      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
-      "link": "https://s.shopee.com.br/9AO54brZwC",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
-      "preco": 79.98,
-      "precoDe": 199.95,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T13:25:15.749Z"
-    },
-    {
-      "id": "11994",
-      "loja": "Amazon",
-      "titulo": "Kit Higiene Bucal",
-      "link": "https://www.amazon.com.br/dp/B0BDPGKWXK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41WDzdgZpAL._SL400_.jpg",
-      "preco": 34.79,
-      "precoDe": 42.9,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T13:24:42.845Z"
     }
   ]
 }
