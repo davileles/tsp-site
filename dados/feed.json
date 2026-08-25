@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-25T20:41:38.163Z",
+  "atualizadoEm": "2026-08-25T21:29:42.545Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12426",
+      "loja": "Amazon",
+      "titulo": "Liquidificador Oster 1100 Full 3,2L Cinza OLIQ606-127",
+      "link": "https://www.amazon.com.br/dp/B0C2JFGFK9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31FAwnbvXiL._SL400_.jpg",
+      "preco": 149.99,
+      "precoDe": 188.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T21:26:16.756Z"
+    },
+    {
+      "id": "12424",
+      "loja": "Amazon",
+      "titulo": "Plot Twist Nut Butter Cream 480g , Lola Cosmetics",
+      "link": "https://www.amazon.com.br/dp/B0CRZ4TPCM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41QmtUzxCvL._SL400_.jpg",
+      "preco": 29.37,
+      "precoDe": 69.9,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T21:16:53.503Z"
+    },
+    {
+      "id": "12423",
+      "loja": "Amazon",
+      "titulo": "Smart TV 40\" Philco Roku TV HDR10 Dolby Áudio P40CRA",
+      "link": "https://www.amazon.com.br/dp/B0GJTCF75W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41lhLePZkPL._SL400_.jpg",
+      "preco": 1248,
+      "precoDe": 1499,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T21:15:52.563Z"
+    },
+    {
+      "id": "12422",
+      "loja": "Amazon",
+      "titulo": "Xapadinha Máscara Disciplinante 100g , Lola Cosmetics",
+      "link": "https://www.amazon.com.br/dp/B0CGBZDNHQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41gaH63pEmL._SL400_.jpg",
+      "preco": 13.84,
+      "precoDe": 34.9,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T21:13:21.274Z"
+    },
+    {
+      "id": "12418",
+      "loja": "Amazon",
+      "titulo": "Maybelline NY The Colossal Volum' Express, Máscara de Cílios Lavável, 9x mais Volume por até 24h, Fórmula com Colágeno para Definição Intensa, Não Empelota, Cor Preto, 8ml",
+      "link": "https://www.amazon.com.br/dp/B077BY5B8Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21s-rn+rTbL._SL400_.jpg",
+      "preco": 41.8,
+      "precoDe": 69.69,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T21:03:32.208Z"
+    },
     {
       "id": "12414",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 80,
       "cupom": null,
       "enviadoEm": "2026-08-24T18:20:04.858Z"
-    },
-    {
-      "id": "12114",
-      "loja": "Amazon",
-      "titulo": "BUBA Colher Dosadora Rosa",
-      "link": "https://www.amazon.com.br/dp/B09WTJ7NN8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31wVIocC6VL._SL400_.jpg",
-      "preco": 22.5,
-      "precoDe": 28.12,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T17:35:31.594Z"
-    },
-    {
-      "id": "12106",
-      "loja": "Mercado Livre",
-      "titulo": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Morango",
-      "link": "https://meli.la/19Jmxkq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_779193-MLA99886212521_112025-O.webp",
-      "preco": 63.120000000000005,
-      "precoDe": 129.9,
-      "desconto": 39,
-      "cupom": "MELHORCUPOMML",
-      "enviadoEm": "2026-08-24T17:03:12.056Z"
-    },
-    {
-      "id": "12105",
-      "loja": "Mercado Livre",
-      "titulo": "Whey Isolate Protein Fuse Refil 900g Dark Lab - Mp Importad Sabor Cookeis",
-      "link": "https://meli.la/1rRYizh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_688330-MLA99972969557_112025-O.webp",
-      "preco": 63.120000000000005,
-      "precoDe": 109.59,
-      "desconto": 28,
-      "cupom": "MELHORCUPOMML",
-      "enviadoEm": "2026-08-24T17:00:28.957Z"
-    },
-    {
-      "id": "12103",
-      "loja": "Shopee",
-      "titulo": "Marshmallow Torção Rosa 250g - Fini",
-      "link": "https://s.shopee.com.br/gPXBMpKiM",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823r0-mp3q47z5xpfmae_tn",
-      "preco": 7.99,
-      "precoDe": 10.8,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T16:57:08.979Z"
-    },
-    {
-      "id": "12102",
-      "loja": "Shopee",
-      "titulo": "Marshmallow Torção 250g - Fini",
-      "link": "https://s.shopee.com.br/Lmgmkm46P",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823q7-mp3q18l5rlsdb7_tn",
-      "preco": 8.09,
-      "precoDe": 10.79,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T16:54:36.003Z"
     }
   ]
 }
