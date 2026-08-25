@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T23:04:36.464Z",
+  "atualizadoEm": "2026-08-25T23:06:23.051Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -852,6 +852,18 @@
       "limite": null,
       "observacao": "Desconto de R$30 em compras a partir de R$60. Necessário pesquisar ID do item no link fornecido e enviar via WhatsApp.",
       "validadeAte": "2026-08-26T21:41:18.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "DIADAY15",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": 1000,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-26T23:03:46.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
