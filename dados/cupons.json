@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T21:29:43.881Z",
+  "atualizadoEm": "2026-08-25T21:57:04.848Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -841,6 +841,18 @@
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "CUPOMTRINTANOZAP",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto de R$30 em compras a partir de R$60. Necessário pesquisar ID do item no link fornecido e enviar via WhatsApp.",
+      "validadeAte": "2026-08-26T21:41:18.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "INTERNACIONALCN",
