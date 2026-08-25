@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-24T23:08:52.349Z",
+  "atualizadoEm": "2026-08-25T11:11:21.053Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12228",
+      "loja": "Shopee",
+      "titulo": "bolsa transversal feminino bolsa femenina feminina Bolsa Popular deste ano portátil leve luxo balde saco",
+      "link": "https://s.shopee.com.br/8AVZJvkDqk",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820ni-mnbxfpzcc8w833_tn",
+      "preco": 206.8,
+      "precoDe": 321,
+      "desconto": 20,
+      "cupom": "L0J4S0F1C141S",
+      "enviadoEm": "2026-08-25T11:03:17.091Z"
+    },
     {
       "id": "12200",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 18,
       "cupom": "PROMOAGORA ou PROMOESPORTE ou MELHORCUPOMML",
       "enviadoEm": "2026-08-24T12:47:58.291Z"
-    },
-    {
-      "id": "11960",
-      "loja": "Mercado Livre",
-      "titulo": "Lavadora de Alta Pressão Compacta WAP WL 1800 1400W 1500PSI 360L/h 127V",
-      "link": "https://meli.la/2a4tuto",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_914656-MLA112812146736_072026-O.webp",
-      "preco": 224.25,
-      "precoDe": 575,
-      "desconto": 48,
-      "cupom": "CONSTROINOML ou AUTOML ou SOECONOMIA ou POUPAAGORA",
-      "enviadoEm": "2026-08-24T12:45:11.452Z"
     }
   ]
 }
