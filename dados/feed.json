@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-25T21:29:42.545Z",
+  "atualizadoEm": "2026-08-25T21:57:03.715Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12442",
+      "loja": "Amazon",
+      "titulo": "Exposis Extreme, Repelente Gel de Mosquitos, com Icaridina, Até 10h de Proteção, 100ml",
+      "link": "https://www.amazon.com.br/dp/B076HZPBSQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31IYzDCizNL._SL400_.jpg",
+      "preco": 43.89,
+      "precoDe": 73.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T21:47:03.713Z"
+    },
+    {
+      "id": "12440",
+      "loja": "Amazon",
+      "titulo": "SANTINO Mala de Bordo Palazzio Rígida ABS 10kg com 8 Rodas 360 Graus e Trava de Segredo Padrão ANAC",
+      "link": "https://www.amazon.com.br/dp/B0CPT6YSPZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31mlZ9dqolL._SL400_.jpg",
+      "preco": 199,
+      "precoDe": 280.19,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T21:44:35.950Z"
+    },
+    {
+      "id": "12438",
+      "loja": "Amazon",
+      "titulo": "YoPRO Bebida Láctea UHT Morango – 15g de Proteínas, Líquido, Caixinha Tetra Pak 250ml (Pack com 12 unidades)",
+      "link": "https://www.amazon.com.br/dp/B0D4RHRR3V?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41MbkMiFnUL._SL400_.jpg",
+      "preco": 79.42,
+      "precoDe": 98.29,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T21:44:34.160Z"
+    },
+    {
+      "id": "12437",
+      "loja": "Amazon",
+      "titulo": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
+      "link": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lVmXe4CVL._SL400_.jpg",
+      "preco": 45.89,
+      "precoDe": 59.99,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T21:39:48.230Z"
+    },
+    {
+      "id": "12436",
+      "loja": "Amazon",
+      "titulo": "Shampoo Infantil Sono Tranquilo 400ml – Baruel Baby",
+      "link": "https://www.amazon.com.br/dp/B0B3S9QWQY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31h3rL2EESL._SL400_.jpg",
+      "preco": 14.99,
+      "precoDe": 18.39,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T21:35:54.484Z"
+    },
     {
       "id": "12426",
       "loja": "Amazon",
@@ -1263,18 +1323,6 @@
       "enviadoEm": "2026-08-24T21:14:25.067Z"
     },
     {
-      "id": "12169",
-      "loja": "Amazon",
-      "titulo": "YoPRO Bebida Láctea UHT Morango – 15g de Proteínas, Líquido, Caixinha Tetra Pak 250ml (Pack com 12 unidades)",
-      "link": "https://www.amazon.com.br/dp/B0D4RHRR3V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41MbkMiFnUL._SL400_.jpg",
-      "preco": 63.54,
-      "precoDe": 98.29,
-      "desconto": 19,
-      "cupom": "KARSTEN20",
-      "enviadoEm": "2026-08-24T21:11:58.704Z"
-    },
-    {
       "id": "12167",
       "loja": "Amazon",
       "titulo": "Fone de Ouvido Headset Havit H2015 Pro Black, 5 Modos de Conexão, 2.4GHz, Bluetooth, Cabo USB e 3,5mm",
@@ -1393,54 +1441,6 @@
       "desconto": 57,
       "cupom": null,
       "enviadoEm": "2026-08-24T18:42:25.851Z"
-    },
-    {
-      "id": "12134",
-      "loja": "Mercado Livre",
-      "titulo": "Guitarra E Microfone Infantil Instrumento Brinquedo Musical Cor Rosa Atentu",
-      "link": "https://meli.la/2sbEfTb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_730827-MLA99450704588_112025-O.webp",
-      "preco": 67.06,
-      "precoDe": 197.79,
-      "desconto": 60,
-      "cupom": "MELIAQUI",
-      "enviadoEm": "2026-08-24T18:30:18.918Z"
-    },
-    {
-      "id": "12133",
-      "loja": "Mercado Livre",
-      "titulo": "Cama Elástica Pula Pula Infantil Trampolim 1,4 Metros Atentu",
-      "link": "https://meli.la/1yBicq7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_917104-MLA96155675715_102025-O.webp",
-      "preco": 242.17000000000002,
-      "precoDe": 659,
-      "desconto": 57,
-      "cupom": "MELIAQUI",
-      "enviadoEm": "2026-08-24T18:30:15.194Z"
-    },
-    {
-      "id": "12132",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Mini Cozinha de Brinquedo Fogão Geladeira Forno solta Água e som cor Rosa Atentu",
-      "link": "https://meli.la/1fmNQ4L",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_714294-MLA99501010262_112025-O.webp",
-      "preco": 59.410000000000004,
-      "precoDe": 129.9,
-      "desconto": 46,
-      "cupom": "MELIAQUI",
-      "enviadoEm": "2026-08-24T18:25:52.578Z"
-    },
-    {
-      "id": "12128",
-      "loja": "Shopee",
-      "titulo": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
-      "link": "https://s.shopee.com.br/80C80m6tMY",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902_tn",
-      "preco": 39.89,
-      "precoDe": 199.45,
-      "desconto": 80,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T18:20:04.858Z"
     }
   ]
 }
