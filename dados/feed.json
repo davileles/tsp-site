@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-25T12:08:49.186Z",
+  "atualizadoEm": "2026-08-25T12:11:21.053Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12251",
+      "loja": "Shopee",
+      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
+      "link": "https://s.shopee.com.br/9AO54brZwC",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
+      "preco": 69.98,
+      "precoDe": 199.95,
+      "desconto": 60,
+      "cupom": "C4RR1NH010",
+      "enviadoEm": "2026-08-25T12:11:02.091Z"
+    },
     {
       "id": "12248",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-08-24T13:52:55.225Z"
-    },
-    {
-      "id": "12002",
-      "loja": "Shopee",
-      "titulo": "iPhone 17 5G 256GB Tela 6,3\" 120Hz 48MP iOS Original Novo Lacrado com Nota FIscal",
-      "link": "https://s.shopee.com.br/9AO56CrOMu",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk46pndmbguab3_tn",
-      "preco": 5474.79,
-      "precoDe": 9057.03,
-      "desconto": 39,
-      "cupom": "L0J4S0F1C141S",
-      "enviadoEm": "2026-08-24T13:47:36.327Z"
     }
   ]
 }
