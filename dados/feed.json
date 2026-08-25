@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-25T14:41:21.057Z",
+  "atualizadoEm": "2026-08-25T15:09:02.429Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12299",
+      "loja": "Amazon",
+      "titulo": "Maxi Baby Lixeira Antiodor Descarte de Fraldas Lixo Mágico, Branco",
+      "link": "https://www.amazon.com.br/dp/B0CVYNQB78?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21nvdWCP2QL._SL400_.jpg",
+      "preco": 123.4,
+      "precoDe": 151.86,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T14:59:02.429Z"
+    },
+    {
+      "id": "12298",
+      "loja": "Amazon",
+      "titulo": "Cama Montessoriana Berço Infantil 100% Espuma Balaqui Decor Cor:bege",
+      "link": "https://www.amazon.com.br/dp/B0GRH9SM4H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51oFvHF0uDL._SL400_.jpg",
+      "preco": 854.9,
+      "precoDe": 979.9,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T14:59:01.161Z"
+    },
+    {
+      "id": "12294",
+      "loja": "Shopee",
+      "titulo": "Kit Jogo 4 Tapete de Banheiro Antiderrapante 60x40cm Tapete Bolinha Macarrão Microfibra Absorvente",
+      "link": "https://s.shopee.com.br/1BLpEgp9uY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1c8gqanz7q35_tn",
+      "preco": 38.97,
+      "precoDe": 63.89,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-08-25T14:50:06.402Z"
+    },
     {
       "id": "12292",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 13,
       "cupom": null,
       "enviadoEm": "2026-08-24T15:17:16.049Z"
-    },
-    {
-      "id": "12037",
-      "loja": "Shopee",
-      "titulo": "Suporte Articulado Para 2 Monitores 13 a 32 Pistão a Gás Zinnia Nimbo 210 Preto",
-      "link": "https://s.shopee.com.br/gPX4e3vVu",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mikhj1g2xa82e7_tn",
-      "preco": 117.9,
-      "precoDe": 547.78,
-      "desconto": 73,
-      "cupom": "NASCAR2026",
-      "enviadoEm": "2026-08-24T15:15:44.819Z"
-    },
-    {
-      "id": "12036",
-      "loja": "Shopee",
-      "titulo": "Geladeira 413L Philco Eco Inverter Duplex Inox PRF501TI",
-      "link": "https://s.shopee.com.br/9V0vainOuP",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259e-mr79bw7va7lseb_tn",
-      "preco": 2740.9,
-      "precoDe": 3283.41,
-      "desconto": 15,
-      "cupom": "L0J4S0F1C141S",
-      "enviadoEm": "2026-08-24T15:13:35.876Z"
-    },
-    {
-      "id": "12035",
-      "loja": "Shopee",
-      "titulo": "Monitor Gamer Acer KG243Y 23.8\" Full HD 144Hz IPS HDMI P1bip - Preto - Bivolt",
-      "link": "https://s.shopee.com.br/5ArwQPhicq",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpjrkv9dzabnb3_tn",
-      "preco": 549,
-      "precoDe": 1618.92,
-      "desconto": 63,
-      "cupom": "L0J4S0F1C141S",
-      "enviadoEm": "2026-08-24T15:08:37.291Z"
     }
   ]
 }
