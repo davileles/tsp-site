@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T16:59:43.694Z",
+  "atualizadoEm": "2026-08-25T18:04:33.187Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1035,18 +1035,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELHORCUPOMML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OUTLET2508",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1164,18 +1152,6 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ENTREGASFULL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 10,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
