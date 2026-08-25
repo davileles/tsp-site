@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-25T16:59:42.473Z",
+  "atualizadoEm": "2026-08-25T17:15:11.778Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12346",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
+      "link": "https://s.shopee.com.br/qiyzLrPZp",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
+      "preco": 16.729999999999997,
+      "precoDe": 21.42,
+      "desconto": 16,
+      "cupom": "GAMER7",
+      "enviadoEm": "2026-08-25T17:05:11.776Z"
+    },
     {
       "id": "12342",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 33,
       "cupom": "MELHORCUPOMML",
       "enviadoEm": "2026-08-24T16:05:38.708Z"
-    },
-    {
-      "id": "12070",
-      "loja": "Mercado Livre",
-      "titulo": "Chave Combinada Cromada 8-19mm 12 Peças Aço Crv",
-      "link": "https://meli.la/33ja7xA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_684253-MLB115444985461_082026-O.webp",
-      "preco": 52.42,
-      "precoDe": 89.9,
-      "desconto": 22,
-      "cupom": "CONSTROINOML",
-      "enviadoEm": "2026-08-24T16:03:11.622Z"
     }
   ]
 }
