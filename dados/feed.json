@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-08-26T19:09:41.603Z",
+  "atualizadoEm": "2026-08-26T19:39:41.605Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12728",
+      "loja": "Amazon",
+      "titulo": "Clear Shampoo Men Anticaspa Ice Cool Menthol 400Ml",
+      "link": "https://www.amazon.com.br/dp/B07LFGWRC7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41k6AMqjx8L._SL400_.jpg",
+      "preco": 22.06,
+      "precoDe": 31.99,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T19:34:48.499Z"
+    },
+    {
+      "id": "12727",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Confort Sec Tamanho Xxg 82 Unidades Pampers",
+      "link": "https://meli.la/2DCQwfp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_971120-MLA115772115597_082026-F.jpg",
+      "preco": 118.9,
+      "precoDe": 149.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T19:32:08.972Z"
+    },
+    {
+      "id": "12725",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Premium Huggies Natural Care tamanho M 78 Unidades",
+      "link": "https://meli.la/2FKauRr",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_894429-MLA99934926577_112025-F.jpg",
+      "preco": 41.73,
+      "precoDe": 114.34,
+      "desconto": 27,
+      "cupom": "INTERNACIONALCN",
+      "enviadoEm": "2026-08-26T19:28:15.775Z"
+    },
+    {
+      "id": "12721",
+      "loja": "Shopee",
+      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
+      "link": "https://s.shopee.com.br/7Ad4HK8c5O",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
+      "preco": 74,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "ESQN1N3N1N3",
+      "enviadoEm": "2026-08-26T19:22:48.729Z"
+    },
+    {
+      "id": "12722",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pants Roupinha Premium Natural Care XG 56 Unidades Huggies",
+      "link": "https://meli.la/2s68zDC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_961173-MLA99930212157_112025-F.jpg",
+      "preco": 39.99999999999999,
+      "precoDe": 109.09,
+      "desconto": 27,
+      "cupom": "INTERNACIONALCN",
+      "enviadoEm": "2026-08-26T19:21:08.737Z"
+    },
+    {
+      "id": "12720",
+      "loja": "Mercado Livre",
+      "titulo": "Ar-Condicionado Split TCL Semp Hi Wall Elite 9000 BTUs Inverter Branco",
+      "link": "https://meli.la/2miA2Lv",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_886454-MLA81870758073_012025-F.jpg",
+      "preco": 1299,
+      "precoDe": 2399,
+      "desconto": 38,
+      "cupom": "PRAVCNOML",
+      "enviadoEm": "2026-08-26T19:20:24.300Z"
+    },
+    {
+      "id": "12719",
+      "loja": "Mercado Livre",
+      "titulo": "Lava E Seca Philco Smart Invertplus Lavagem 10kg Branco 127v",
+      "link": "https://meli.la/1HwpwFq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_617417-MLA100006829931_122025-F.jpg",
+      "preco": 2456.31,
+      "precoDe": 3929.03,
+      "desconto": 32,
+      "cupom": "OFFCOMMELI",
+      "enviadoEm": "2026-08-26T19:16:23.600Z"
+    },
     {
       "id": "12710",
       "loja": "Shopee",
@@ -1357,90 +1441,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-08-26T11:11:09.487Z"
-    },
-    {
-      "id": "12470",
-      "loja": "Mercado Livre",
-      "titulo": "Tapete Infantil Emborrachado Sensorial Dobrável Dupla Face Educativo Cidade I Love Baby",
-      "link": "https://meli.la/2LqqWbf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_646862-MLA99465145832_112025-F.jpg",
-      "preco": 78.9,
-      "precoDe": 109.9,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T11:11:07.635Z"
-    },
-    {
-      "id": "12468",
-      "loja": "Shopee",
-      "titulo": "Ar Condicionado Elgin Split Hi Wall Eco Inverter Iii 12000 Btu Frio Wi-fi Hjfc12c2wgcg Branco 220",
-      "link": "https://s.shopee.com.br/8fRrWGw21i",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259j-mrhbi6ynp43l4d_tn",
-      "preco": 1805,
-      "precoDe": 3204.92,
-      "desconto": 39,
-      "cupom": "3SQU3NT499",
-      "enviadoEm": "2026-08-26T11:10:47.865Z"
-    },
-    {
-      "id": "12467",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Panela Elétrica de Arroz, Vermelho/Inox, 700W, 110V - PE-46-10X",
-      "link": "https://www.amazon.com.br/dp/B082DMSKYT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ihz+d8lYL._SL400_.jpg",
-      "preco": 197.99,
-      "precoDe": 329.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T11:08:08.752Z"
-    },
-    {
-      "id": "12466",
-      "loja": "Shopee",
-      "titulo": "40 Peças / 46 Peças Jogo De Chave Catraca Caixa De Ferramentas para Reparo de Carros / Conjuntos de Chaves",
-      "link": "https://s.shopee.com.br/gPZz2ZLm4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mqt86n8incape7_tn",
-      "preco": 23.99,
-      "precoDe": 87.85,
-      "desconto": 67,
-      "cupom": "C0MPR4AS5",
-      "enviadoEm": "2026-08-26T11:03:59.056Z"
-    },
-    {
-      "id": "12451",
-      "loja": "Shopee",
-      "titulo": "Fone de Ouvido Bluetooth Anker Soundcore Q11i com Áudio em Alta Resolução",
-      "link": "https://s.shopee.com.br/1gI6MLh3Hb",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823ro-mono8e5fke82f0_tn",
-      "preco": 109.9,
-      "precoDe": 314,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T22:46:58.065Z"
-    },
-    {
-      "id": "12450",
-      "loja": "Amazon",
-      "titulo": "DHA Liquid - True Source - Dha Liquido 30ml - Sabor Laranja",
-      "link": "https://www.amazon.com.br/dp/B0CHTQQ39W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Y09wyYKVL._SL400_.jpg",
-      "preco": 57.89,
-      "precoDe": 67.43,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T22:41:02.471Z"
-    },
-    {
-      "id": "12447",
-      "loja": "Amazon",
-      "titulo": "Electrolux Ar-condicionado Split Electrolux MaxComfort Full Inverter Frio 9.000 BTUs (NI09F/NE09F) 220V",
-      "link": "https://www.amazon.com.br/dp/B0H5CSX7ZS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/219PlbxLzoL._SL400_.jpg",
-      "preco": 1799,
-      "precoDe": 2049,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T22:32:43.501Z"
     }
   ]
 }
