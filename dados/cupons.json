@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T16:09:43.237Z",
+  "atualizadoEm": "2026-08-26T16:33:30.835Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1008,6 +1008,18 @@
       "limite": 500,
       "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
       "validadeAte": "2026-08-27T12:00:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PETSHOP30",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 129,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom válido para categoria Pets",
+      "validadeAte": "2026-08-27T16:11:14.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
