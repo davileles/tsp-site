@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T19:44:48.798Z",
+  "atualizadoEm": "2026-08-26T20:06:59.522Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -864,6 +864,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "NINTENDO5OFF",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "ACER5",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-28T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
