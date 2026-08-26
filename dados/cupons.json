@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T20:06:59.522Z",
+  "atualizadoEm": "2026-08-26T21:29:08.880Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1515,6 +1515,18 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
+      "codigo": "99TOPHIGH",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 70,
+      "minimo": 599,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-27T21:23:21.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "AB3RTR8AF",
       "loja": "Shopee",
       "tipo": "reais",
@@ -1548,6 +1560,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-27T12:00:23.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "99TOPSHO",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 25,
+      "minimo": 199,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-27T21:23:22.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
@@ -1596,6 +1620,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-27T13:00:11.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "3SP3C14L99",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 69,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-27T21:23:21.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
