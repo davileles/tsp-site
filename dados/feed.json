@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-26T19:39:41.605Z",
+  "atualizadoEm": "2026-08-26T20:06:58.167Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12740",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV Semp 65 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 65S62",
+      "link": "https://meli.la/1m6kg8M",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652060-MLA113728659072_072026-F.jpg",
+      "preco": 3219.08,
+      "precoDe": 3699,
+      "desconto": 5,
+      "cupom": "OFFCOMMELI",
+      "enviadoEm": "2026-08-26T19:56:58.166Z"
+    },
+    {
+      "id": "12737",
+      "loja": "Mercado Livre",
+      "titulo": "Trena Eletronica Medidor Distancia Digital A Laser 50 Metros",
+      "link": "https://meli.la/1RPQKTf",
+      "imagem": null,
+      "preco": 152.5,
+      "precoDe": 329,
+      "desconto": 38,
+      "cupom": "CONSTROINOML",
+      "enviadoEm": "2026-08-26T19:54:22.975Z"
+    },
+    {
+      "id": "12738",
+      "loja": "Amazon",
+      "titulo": "Philips Colgate Sonicpro 10 Kids Escova de Dente Elétrica Infantil",
+      "link": "https://www.amazon.com.br/dp/B0FN889LGY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41dB9G6Ua0L._SL400_.jpg",
+      "preco": 147.73,
+      "precoDe": 212.73,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T19:52:12.164Z"
+    },
+    {
+      "id": "12732",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
+      "link": "https://s.shopee.com.br/6AkX7202V2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
+      "preco": 28.990000000000002,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "3SP3C14L5",
+      "enviadoEm": "2026-08-26T19:45:19.476Z"
+    },
     {
       "id": "12728",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 19,
       "cupom": "3SQU3NT499",
       "enviadoEm": "2026-08-26T11:18:26.999Z"
-    },
-    {
-      "id": "12474",
-      "loja": "Amazon",
-      "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Prata",
-      "link": "https://www.amazon.com.br/dp/B0CVCG6S9C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21wJ3h0U1KL._SL400_.jpg",
-      "preco": 218.9,
-      "precoDe": 549,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T11:16:01.878Z"
-    },
-    {
-      "id": "12469",
-      "loja": "Amazon",
-      "titulo": "Salgadinho Batata Frita Pringles Tripack Especial Festa do Futebol",
-      "link": "https://www.amazon.com.br/dp/B0GTRKK1R2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/415LptFnx-L._SL400_.jpg",
-      "preco": 28,
-      "precoDe": 32.9,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T11:13:23.900Z"
-    },
-    {
-      "id": "12472",
-      "loja": "Amazon",
-      "titulo": "Hidratante Mustela Stelatopia+ Relipidante Antiprurido, 300ml, para Peles Secas e Atópicas, Sem Fragrância, Uso Familiar",
-      "link": "https://www.amazon.com.br/dp/B0BZBPXLBG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31OTkDRaOxL._SL400_.jpg",
-      "preco": 189.05,
-      "precoDe": 239.64,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T11:11:10.937Z"
-    },
-    {
-      "id": "12471",
-      "loja": "Amazon",
-      "titulo": "Lenços Umedecidos Pampers Higiene Completa192 Unidades",
-      "link": "https://www.amazon.com.br/dp/B08T85RHB1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41BjBvhwcuL._SL400_.jpg",
-      "preco": 31.49,
-      "precoDe": 46.7,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T11:11:09.487Z"
     }
   ]
 }
