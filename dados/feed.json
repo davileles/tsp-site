@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-08-26T21:09:41.631Z",
+  "atualizadoEm": "2026-08-26T21:29:07.719Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12771",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto Sala De Jantar Carraro Com Mesa E 6 Cadeiras Preto Fenix Carraro",
+      "link": "https://meli.la/23dy2PF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_644981-MLA96149286203_102025-F.jpg",
+      "preco": 935,
+      "precoDe": 2378.94,
+      "desconto": 56,
+      "cupom": "PROMOCERTA",
+      "enviadoEm": "2026-08-26T21:19:07.717Z"
+    },
+    {
+      "id": "12770",
+      "loja": "Amazon",
+      "titulo": "BR Spices Sal de Parilla Craque da Brasa Salsa e Alho Frito 1,01Kg",
+      "link": "https://www.amazon.com.br/dp/B0GLQXQR5Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41TSsJq0WSL._SL400_.jpg",
+      "preco": 15.09,
+      "precoDe": 20.79,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T21:18:07.141Z"
+    },
+    {
+      "id": "12769",
+      "loja": "Shopee",
+      "titulo": "Kit Bride Franciny Gloss Iluminador E Blush Casamento Prata",
+      "link": "https://s.shopee.com.br/9fKPNgpFYa",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-822xi-mi4o37f502yo01_tn",
+      "preco": 30.990000000000002,
+      "precoDe": 138.42,
+      "desconto": 74,
+      "cupom": "3SP3C14L5",
+      "enviadoEm": "2026-08-26T21:15:48.318Z"
+    },
+    {
+      "id": "12768",
+      "loja": "Mercado Livre",
+      "titulo": "Soprador De Ar Mini Turbo Portátil Usb Sem Fio Recarregável Para Limpeza Com 2 Bicos E Inflar Preto 127/220v",
+      "link": "https://meli.la/2DNhZHW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_982885-MLA115297946876_082026-F.jpg",
+      "preco": 32.849999999999994,
+      "precoDe": 52.9,
+      "desconto": 17,
+      "cupom": "CONSTROINOML",
+      "enviadoEm": "2026-08-26T21:15:00.821Z"
+    },
+    {
+      "id": "12767",
+      "loja": "Shopee",
+      "titulo": "Ugreen - Hub USB-C 7X1 Multifunctional  1*HDMI 4K 60@ -  2*USB-C 3.2 - 1*USB-A 3.2 - SD/TF - 100W PD",
+      "link": "https://s.shopee.com.br/50YZp28y1N",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdam700q9q8106_tn",
+      "preco": 249,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "AB3RTR8AF",
+      "enviadoEm": "2026-08-26T21:14:34.643Z"
+    },
+    {
+      "id": "12764",
+      "loja": "Shopee",
+      "titulo": "Prato para Doce com Tampa e Pé Wolff Bee 15x15x18cm - Doceira Elegante para Balas e Docinhos",
+      "link": "https://s.shopee.com.br/4qF9cUXG81",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262m-mk1c8xnjinsze1_tn",
+      "preco": 29.03,
+      "precoDe": 72.4,
+      "desconto": 53,
+      "cupom": "3SP3C14L5",
+      "enviadoEm": "2026-08-26T21:11:17.346Z"
+    },
     {
       "id": "12763",
       "loja": "Shopee",
@@ -1369,78 +1441,6 @@
       "desconto": 44,
       "cupom": "N1NTENDO10",
       "enviadoEm": "2026-08-26T12:26:31.762Z"
-    },
-    {
-      "id": "12512",
-      "loja": "Mercado Livre",
-      "titulo": "Lixeira Inteligente Automática Branca Universal Com Sensor Recarregável Earman Company Anti Odor 16l Recarregável Usb",
-      "link": "https://meli.la/2K1sXZb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_887947-MLA112010146939_052026-F.jpg",
-      "preco": 56.25,
-      "precoDe": 157.98,
-      "desconto": 53,
-      "cupom": "CONSTROINOML",
-      "enviadoEm": "2026-08-26T12:24:00.484Z"
-    },
-    {
-      "id": "12510",
-      "loja": "Shopee",
-      "titulo": "Placa de Video GeForce NVIDIA PALIT RTX5060TI 16GB INFINITY 3  GDDR7 NE7506TS19T1-GB2061S",
-      "link": "https://s.shopee.com.br/qj0GkZmdv",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b8-mr947umm93i84f_tn",
-      "preco": 4049,
-      "precoDe": 10497.5,
-      "desconto": 60,
-      "cupom": "3SQU3NT499",
-      "enviadoEm": "2026-08-26T12:22:30.949Z"
-    },
-    {
-      "id": "12508",
-      "loja": "Mercado Livre",
-      "titulo": "Placa-mãe Msi B550m Pro-Vdh Am4 Hdmi Vga Dport",
-      "link": "https://meli.la/23a3cGC",
-      "imagem": null,
-      "preco": 657.28,
-      "precoDe": 964.36,
-      "desconto": 24,
-      "cupom": "ACHADODODIA",
-      "enviadoEm": "2026-08-26T12:17:18.160Z"
-    },
-    {
-      "id": "12506",
-      "loja": "Amazon",
-      "titulo": "Coala Laundry Amaciante de Roupas Concentrado 1 Litro Orquídea Negra",
-      "link": "https://www.amazon.com.br/dp/B0FNQ2SZX5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31aquHyMLtL._SL400_.jpg",
-      "preco": 17.91,
-      "precoDe": 20.37,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T12:14:57.874Z"
-    },
-    {
-      "id": "12507",
-      "loja": "Shopee",
-      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
-      "link": "https://s.shopee.com.br/qiydazMiX",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
-      "preco": 65.39,
-      "precoDe": 328.42,
-      "desconto": 74,
-      "cupom": "C0MP74RN4SH0P33",
-      "enviadoEm": "2026-08-26T12:14:56.785Z"
-    },
-    {
-      "id": "12505",
-      "loja": "Mercado Livre",
-      "titulo": "Aparelho De Jantar Oxford Cerâmica Folk 20 Pç Cor Estampado",
-      "link": "https://meli.la/1j5SFtT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_816650-MLA95680390578_102025-F.jpg",
-      "preco": 184,
-      "precoDe": 349.9,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T12:12:14.262Z"
     }
   ]
 }
