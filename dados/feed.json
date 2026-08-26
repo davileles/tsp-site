@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-26T20:39:41.630Z",
+  "atualizadoEm": "2026-08-26T20:52:08.120Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12755",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Toalhas 4 Pçs Fio Cardado 100% Algodão Bosco Karsten Azul Serena/ Azul Naval Bosco",
+      "link": "https://meli.la/2VpNSfX",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_800180-MLA96101701387_102025-F.jpg",
+      "preco": 59.95,
+      "precoDe": 149.9,
+      "desconto": 20,
+      "cupom": "INTERNACIONALCN",
+      "enviadoEm": "2026-08-26T20:42:08.109Z"
+    },
+    {
+      "id": "12753",
+      "loja": "Mercado Livre",
+      "titulo": "Máquina De Solda Inversora Portatil War Shark Bivolt 110v/220v Mma Tig Amarelo",
+      "link": "https://meli.la/2PcFUQD",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_637780-MLA103727463283_012026-F.jpg",
+      "preco": 229.07,
+      "precoDe": 397.1,
+      "desconto": 27,
+      "cupom": "CONSTROINOML",
+      "enviadoEm": "2026-08-26T20:39:56.950Z"
+    },
     {
       "id": "12752",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 30,
       "cupom": "N1NTENDO10",
       "enviadoEm": "2026-08-26T11:52:25.366Z"
-    },
-    {
-      "id": "12484",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 68 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07X83MH7M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41btRL3VkgL._SL400_.jpg",
-      "preco": 98.99,
-      "precoDe": 151.59,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T11:31:21.948Z"
-    },
-    {
-      "id": "12483",
-      "loja": "Shopee",
-      "titulo": "Assento Massageador Elétrico Controle Aliviar Dores Lombar Coluna Pescoço Veicular Escritório 8 Modos 3 Intensidade 3036",
-      "link": "https://s.shopee.com.br/9zxF7p7YMt",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m83r5tij7p5d46_tn",
-      "preco": 139.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "C0MP74RN4SH0P33",
-      "enviadoEm": "2026-08-26T11:29:25.865Z"
     }
   ]
 }
