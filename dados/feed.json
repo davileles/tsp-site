@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-08-26T12:29:21.879Z",
+  "atualizadoEm": "2026-08-26T12:40:41.476Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12523",
+      "loja": "Shopee",
+      "titulo": "Suporte Articulado Para 2 Monitores 13 a 32 Pistão a Gás Zinnia Nimbo 210 Branco",
+      "link": "https://s.shopee.com.br/4LIsSRLbzw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mqeqor4n1ts064_tn",
+      "preco": 128.19,
+      "precoDe": 361.44,
+      "desconto": 59,
+      "cupom": "C0MP74RN4SH0P33",
+      "enviadoEm": "2026-08-26T12:39:34.491Z"
+    },
+    {
+      "id": "12520",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Lattafa Fakhar Platin 100ml Eau De Parfum",
+      "link": "https://meli.la/2Pfaz4D",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_910451-MLA93370610474_092025-F.jpg",
+      "preco": 137,
+      "precoDe": 299.82,
+      "desconto": 51,
+      "cupom": "SITETODO10",
+      "enviadoEm": "2026-08-26T12:37:25.326Z"
+    },
+    {
+      "id": "12519",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Inox 2l Com Desligamento Automático Full",
+      "link": "https://s.shopee.com.br/19tIJkp28",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820nf-mnfpx6z1slc5e1_tn",
+      "preco": 53.99,
+      "precoDe": 199.97,
+      "desconto": 70,
+      "cupom": "N1NTENDO10",
+      "enviadoEm": "2026-08-26T12:37:22.188Z"
+    },
+    {
+      "id": "12521",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51p7Q6bht8L._SL400_.jpg",
+      "preco": 199.29,
+      "precoDe": 229.49,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T12:36:15.663Z"
+    },
+    {
+      "id": "12518",
+      "loja": "Shopee",
+      "titulo": "Caixa de Som Philco Extreme Ex Bass 650W PCX6700",
+      "link": "https://s.shopee.com.br/Lmjgn9BgH",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259e-mrzxzehywg752e_tn",
+      "preco": 569.9,
+      "precoDe": 805.06,
+      "desconto": 23,
+      "cupom": "N1NTENDO10",
+      "enviadoEm": "2026-08-26T12:35:13.157Z"
+    },
+    {
+      "id": "12516",
+      "loja": "Shopee",
+      "titulo": "YESOP Cadeira De Escritório Ergonômica Com Apoio Lombar E De Pernas Assento Zero Gravity Cor Branco",
+      "link": "https://s.shopee.com.br/9fKOnnUM37",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mq72ecy70tfk7e_tn",
+      "preco": 749,
+      "precoDe": 1997.5,
+      "desconto": 60,
+      "cupom": "N1NTENDO10",
+      "enviadoEm": "2026-08-26T12:33:05.146Z"
+    },
+    {
+      "id": "12514",
+      "loja": "Shopee",
+      "titulo": "Monitor Gamer Philips Evnia 27  Ips 144hz 0,5ms Hdr G-sync Preto 127/220v",
+      "link": "https://s.shopee.com.br/60R6QtLxF2",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gf-mptdy35p67f0be_tn",
+      "preco": 734,
+      "precoDe": 980,
+      "desconto": 20,
+      "cupom": "N1NTENDO10",
+      "enviadoEm": "2026-08-26T12:30:57.512Z"
+    },
     {
       "id": "12513",
       "loja": "Shopee",
@@ -1357,90 +1441,6 @@
       "desconto": 9,
       "cupom": "NASCAR2026",
       "enviadoEm": "2026-08-25T11:26:08.500Z"
-    },
-    {
-      "id": "12240",
-      "loja": "Amazon",
-      "titulo": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
-      "link": "https://www.amazon.com.br/dp/B08LK15F8N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41xUuhoGYgL._SL400_.jpg",
-      "preco": 29.99,
-      "precoDe": 47.89,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T11:25:37.802Z"
-    },
-    {
-      "id": "12239",
-      "loja": "Amazon",
-      "titulo": "Lenços Umedecidos Huggies Rosto e Corpo Limpeza 4 x 48 Un",
-      "link": "https://www.amazon.com.br/dp/B07MJ251Z8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/415b+t0mS8L._SL400_.jpg",
-      "preco": 27.9,
-      "precoDe": 32.6,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T11:25:36.739Z"
-    },
-    {
-      "id": "12238",
-      "loja": "Amazon",
-      "titulo": "Mustela Creme Preventivo de Assaduras Vitaminado 1-2-3 108g - Pomada Antiassaduras para Bebês com Tripla Ação - 98% de Ingredientes de Origem Natural - Proteção e Hidratação",
-      "link": "https://www.amazon.com.br/dp/B00TQCAAQW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31nP8EFUzHS._SL400_.jpg",
-      "preco": 57.529999999999994,
-      "precoDe": 100.24,
-      "desconto": 28,
-      "cupom": "KARSTEN20",
-      "enviadoEm": "2026-08-25T11:25:35.676Z"
-    },
-    {
-      "id": "12235",
-      "loja": "Amazon",
-      "titulo": "Robô Aspirador de Pó WAP Robot W90 Pérola Bivolt",
-      "link": "https://www.amazon.com.br/dp/B0GR1VJMCR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31EZKM9vIdL._SL400_.jpg",
-      "preco": 279,
-      "precoDe": 319.9,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T11:22:33.353Z"
-    },
-    {
-      "id": "12234",
-      "loja": "Amazon",
-      "titulo": "Bravecto® 250mg Antipulgas e Carrapatos para Cães de 4,5 a 10kg – 1 Comprimido Mastigável",
-      "link": "https://www.amazon.com.br/dp/B07J4J9XKZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41h-hAd1dDL._SL400_.jpg",
-      "preco": 136.42,
-      "precoDe": 238.5,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T11:20:22.165Z"
-    },
-    {
-      "id": "12229",
-      "loja": "Amazon",
-      "titulo": "Cetaphil Loção Hidratante Corporal e Facial para Pele Sensível, Normal a Seca 473ml - Hidratação 48h",
-      "link": "https://www.amazon.com.br/dp/B079VPMXHF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41LGfAYigvL._SL400_.jpg",
-      "preco": 79.9,
-      "precoDe": 109.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T11:12:21.335Z"
-    },
-    {
-      "id": "12228",
-      "loja": "Shopee",
-      "titulo": "bolsa transversal feminino bolsa femenina feminina Bolsa Popular deste ano portátil leve luxo balde saco",
-      "link": "https://s.shopee.com.br/8AVZJvkDqk",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820ni-mnbxfpzcc8w833_tn",
-      "preco": 206.8,
-      "precoDe": 321,
-      "desconto": 20,
-      "cupom": "L0J4S0F1C141S",
-      "enviadoEm": "2026-08-25T11:03:17.091Z"
     }
   ]
 }
