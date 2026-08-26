@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-26T18:03:14.778Z",
+  "atualizadoEm": "2026-08-26T18:25:41.580Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12689",
+      "loja": "Shopee",
+      "titulo": "Mop Com Centrifuga Inox e Cabo em Inox Com Refil De Microfibra 9 Litros Mopi",
+      "link": "https://s.shopee.com.br/5foGPxxO8y",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mqdqvf8wjr4316_tn",
+      "preco": 41.11,
+      "precoDe": 82.34,
+      "desconto": 44,
+      "cupom": "3SP3C14L5",
+      "enviadoEm": "2026-08-26T18:15:41.579Z"
+    },
     {
       "id": "12686",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 60,
       "cupom": null,
       "enviadoEm": "2026-08-25T21:13:21.274Z"
-    },
-    {
-      "id": "12418",
-      "loja": "Amazon",
-      "titulo": "Maybelline NY The Colossal Volum' Express, Máscara de Cílios Lavável, 9x mais Volume por até 24h, Fórmula com Colágeno para Definição Intensa, Não Empelota, Cor Preto, 8ml",
-      "link": "https://www.amazon.com.br/dp/B077BY5B8Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21s-rn+rTbL._SL400_.jpg",
-      "preco": 41.8,
-      "precoDe": 69.69,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T21:03:32.208Z"
     }
   ]
 }
