@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-26T12:18:33.275Z",
+  "atualizadoEm": "2026-08-26T12:29:21.879Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12513",
+      "loja": "Shopee",
+      "titulo": "Monitor Gamer AOC AGON G50 24\" 144Hz 0,5ms IPS HDR10 G-SYNC 24G50F",
+      "link": "https://s.shopee.com.br/gPa4m60O4",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-821fj-mgmb5t82svf026_tn",
+      "preco": 549.9,
+      "precoDe": 1071.25,
+      "desconto": 44,
+      "cupom": "N1NTENDO10",
+      "enviadoEm": "2026-08-26T12:26:31.762Z"
+    },
+    {
+      "id": "12512",
+      "loja": "Mercado Livre",
+      "titulo": "Lixeira Inteligente Automática Branca Universal Com Sensor Recarregável Earman Company Anti Odor 16l Recarregável Usb",
+      "link": "https://meli.la/2K1sXZb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_887947-MLA112010146939_052026-F.jpg",
+      "preco": 56.25,
+      "precoDe": 157.98,
+      "desconto": 53,
+      "cupom": "CONSTROINOML",
+      "enviadoEm": "2026-08-26T12:24:00.484Z"
+    },
+    {
+      "id": "12510",
+      "loja": "Shopee",
+      "titulo": "Placa de Video GeForce NVIDIA PALIT RTX5060TI 16GB INFINITY 3  GDDR7 NE7506TS19T1-GB2061S",
+      "link": "https://s.shopee.com.br/qj0GkZmdv",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b8-mr947umm93i84f_tn",
+      "preco": 4049,
+      "precoDe": 10497.5,
+      "desconto": 60,
+      "cupom": "3SQU3NT499",
+      "enviadoEm": "2026-08-26T12:22:30.949Z"
+    },
     {
       "id": "12508",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 20,
       "cupom": "L0J4S0F1C141S",
       "enviadoEm": "2026-08-25T11:03:17.091Z"
-    },
-    {
-      "id": "12200",
-      "loja": "Amazon",
-      "titulo": "Simple Joys by Carter's Conjunto de 6 peças para bebês meninas (manga curta e comprida) e calça, Multicolorido/Coelho/Pontos/Impressão de texto, 0-3 Meses",
-      "link": "https://www.amazon.com.br/dp/B01MDUHO8I?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416ACvNJJhL._SL400_.jpg",
-      "preco": 168.33,
-      "precoDe": 186.65,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T22:58:52.348Z"
-    },
-    {
-      "id": "12199",
-      "loja": "Mercado Livre",
-      "titulo": "Papel Higiênico Supra Folha Tripla 24 Rolos",
-      "link": "https://meli.la/2AqzdGA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_968384-MLA109938381052_042026-O.webp",
-      "preco": 35.91,
-      "precoDe": 52.89,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T22:56:00.151Z"
-    },
-    {
-      "id": "12198",
-      "loja": "Amazon",
-      "titulo": "Carter's Conjunto de 3 peças curtas para meninos, creme, 3M",
-      "link": "https://www.amazon.com.br/dp/B0GP7H42QS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ch0s7QhtL._SL400_.jpg",
-      "preco": 115.24,
-      "precoDe": 132.33,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T22:53:27.323Z"
     }
   ]
 }
