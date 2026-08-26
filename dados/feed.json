@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-26T11:41:21.948Z",
+  "atualizadoEm": "2026-08-26T11:56:22.811Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12487",
+      "loja": "Shopee",
+      "titulo": "Cápsula Nespresso Chocolate Cappuccino Cacau Café Italle 30 Capsulas",
+      "link": "https://s.shopee.com.br/9fKOkxV3Pi",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18gyik2bp7k43_tn",
+      "preco": 50.34,
+      "precoDe": 79.9,
+      "desconto": 30,
+      "cupom": "N1NTENDO10",
+      "enviadoEm": "2026-08-26T11:52:25.366Z"
+    },
     {
       "id": "12484",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-08-24T21:53:11.958Z"
-    },
-    {
-      "id": "12184",
-      "loja": "Amazon",
-      "titulo": "LEGO Set Star Wars TM 75375 Millennium Falcon™ 921 peças",
-      "link": "https://www.amazon.com.br/dp/B0CGY3ZB24?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51RHqHW0VeL._SL400_.jpg",
-      "preco": 625.42,
-      "precoDe": 799.99,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T21:46:00.912Z"
     }
   ]
 }
