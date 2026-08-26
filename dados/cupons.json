@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T12:18:34.439Z",
+  "atualizadoEm": "2026-08-26T12:29:23.324Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -867,6 +867,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 70,
+      "minimo": 599,
+      "maximo": null,
+      "limite": 70,
+      "observacao": null,
+      "validadeAte": "2026-08-28T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SITE70",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -899,7 +911,7 @@
       "maximo": null,
       "limite": null,
       "observacao": "Válido em todo o site do Mercado Livre",
-      "validadeAte": "2026-08-27T12:06:06.000Z",
+      "validadeAte": "2026-08-26T15:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1059,18 +1071,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "AUTOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SOECONOMIA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1209,7 +1209,7 @@
       "valor": 18,
       "minimo": 49,
       "maximo": null,
-      "limite": 30,
+      "limite": 140,
       "observacao": null,
       "validadeAte": "2026-09-02T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -1275,18 +1275,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TBTSTOCKCAR",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 9,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-08-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BELEZA10OFF",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1319,7 +1307,7 @@
       "maximo": null,
       "limite": null,
       "observacao": "Válido em todo o site do Mercado Livre",
-      "validadeAte": "2026-08-27T12:06:06.000Z",
+      "validadeAte": "2026-08-26T15:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
