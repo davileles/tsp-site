@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-26T13:32:11.781Z",
+  "atualizadoEm": "2026-08-26T13:55:00.636Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12546",
+      "loja": "Shopee",
+      "titulo": "Dispositivo Elétrico De Enxágue Nasal 360 ° Limpador De Sinusite Portátil Giratório De Cabeça Dupla Para Recuperação Aut",
+      "link": "https://s.shopee.com.br/4LIsWt2ef9",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mjme2wakn8qt69_tn",
+      "preco": 280,
+      "precoDe": 533.33,
+      "desconto": 40,
+      "cupom": "40OFFD4SH0",
+      "enviadoEm": "2026-08-26T13:45:00.635Z"
+    },
     {
       "id": "12541",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-25T13:19:15.901Z"
-    },
-    {
-      "id": "12260",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
-      "link": "https://s.shopee.com.br/70Jc3Z0xAH",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6_tn",
-      "preco": 64.5,
-      "precoDe": 135.45,
-      "desconto": 45,
-      "cupom": "C4RR1NH010",
-      "enviadoEm": "2026-08-25T12:55:59.762Z"
     }
   ]
 }
