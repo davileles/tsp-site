@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-08-26T18:39:41.601Z",
+  "atualizadoEm": "2026-08-26T19:09:41.603Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12710",
+      "loja": "Shopee",
+      "titulo": "Organizador de Geladeira Multiuso Plasutil Para Armario Dispensa Cozinha",
+      "link": "https://s.shopee.com.br/60R6rdPMoV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkxr03l1t53609_tn",
+      "preco": 20.11,
+      "precoDe": 27.9,
+      "desconto": 10,
+      "cupom": "3SP3C14L5",
+      "enviadoEm": "2026-08-26T19:00:19.635Z"
+    },
+    {
+      "id": "12712",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pom Pom Protek G com 42 Unidades Para 12 Horas de Proteção",
+      "link": "https://meli.la/2KKQF9U",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_726573-MLA99451965756_112025-F.jpg",
+      "preco": 17.95,
+      "precoDe": 50.3,
+      "desconto": 29,
+      "cupom": "INTERNACIONALCN",
+      "enviadoEm": "2026-08-26T18:58:37.878Z"
+    },
+    {
+      "id": "12711",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pom Pom Protek Médio com 80 Unidades",
+      "link": "https://meli.la/2n3VnMV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_888659-MLA114844254179_072026-F.jpg",
+      "preco": 29.95,
+      "precoDe": 77.37,
+      "desconto": 23,
+      "cupom": "INTERNACIONALCN",
+      "enviadoEm": "2026-08-26T18:58:34.985Z"
+    },
+    {
+      "id": "12708",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Descartável Turma da Mônica Baby XG Pacote 42 Unidades",
+      "link": "https://meli.la/1Jy4wxy",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_908623-MLA111032843377_042026-F.jpg",
+      "preco": 17.45,
+      "precoDe": 50.05,
+      "desconto": 30,
+      "cupom": "INTERNACIONALCN",
+      "enviadoEm": "2026-08-26T18:49:32.805Z"
+    },
+    {
+      "id": "12707",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Descartável Baby M Pacote 50 Unidades Turma da Mônica",
+      "link": "https://meli.la/17caSXp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_738296-MLA110297780960_052026-F.jpg",
+      "preco": 17.95,
+      "precoDe": 50.05,
+      "desconto": 28,
+      "cupom": "INTERNACIONALCN",
+      "enviadoEm": "2026-08-26T18:49:32.290Z"
+    },
+    {
+      "id": "12705",
+      "loja": "Mercado Livre",
+      "titulo": "Berço Portátil Moises Função Balanço Mosquiteiro Infantil Preto",
+      "link": "https://meli.la/1VZ2v4i",
+      "imagem": null,
+      "preco": 458.69,
+      "precoDe": 899.99,
+      "desconto": 46,
+      "cupom": "BEBESEPETS",
+      "enviadoEm": "2026-08-26T18:49:20.964Z"
+    },
+    {
+      "id": "12704",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Descartável Pom Pom Proteção de Mãe XG com 38 Unidades",
+      "link": "https://meli.la/2EtWeGz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_749805-MLA99439515898_112025-F.jpg",
+      "preco": 19.05,
+      "precoDe": 59.9,
+      "desconto": 36,
+      "cupom": "INTERNACIONALCN",
+      "enviadoEm": "2026-08-26T18:49:16.096Z"
+    },
+    {
+      "id": "12703",
+      "loja": "Mercado Livre",
+      "titulo": "Huggies Fralda Descartável Premium Natural Care P 36 Unidades",
+      "link": "https://meli.la/2P8chH5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_802958-MLA104909902718_012026-F.jpg",
+      "preco": 19.790000000000003,
+      "precoDe": 46.86,
+      "desconto": 16,
+      "cupom": "INTERNACIONALCN",
+      "enviadoEm": "2026-08-26T18:49:12.577Z"
+    },
     {
       "id": "12698",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 12,
       "cupom": null,
       "enviadoEm": "2026-08-25T22:32:43.501Z"
-    },
-    {
-      "id": "12444",
-      "loja": "Amazon",
-      "titulo": "WOLFF - Conjunto 3 Peças para Banheiro Lines Branco - 1 Porta Sabonete Líquido, 1 Porta Algodão e 1 Porta Escovas",
-      "link": "https://www.amazon.com.br/dp/B084L1KH14?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31x+duFdzxL._SL400_.jpg",
-      "preco": 31.91,
-      "precoDe": 59.2,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T22:01:12.277Z"
-    },
-    {
-      "id": "12443",
-      "loja": "Amazon",
-      "titulo": "Aromatizador de Ambiente Chá Branco 165 ml Difusor com 5 Varetas, Salutar",
-      "link": "https://www.amazon.com.br/dp/B0DLJB8P7D?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31fiBZVG8KL._SL400_.jpg",
-      "preco": 27.07,
-      "precoDe": 49.99,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T21:58:42.576Z"
-    },
-    {
-      "id": "12442",
-      "loja": "Amazon",
-      "titulo": "Exposis Extreme, Repelente Gel de Mosquitos, com Icaridina, Até 10h de Proteção, 100ml",
-      "link": "https://www.amazon.com.br/dp/B076HZPBSQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31IYzDCizNL._SL400_.jpg",
-      "preco": 43.89,
-      "precoDe": 73.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T21:47:03.713Z"
-    },
-    {
-      "id": "12440",
-      "loja": "Amazon",
-      "titulo": "SANTINO Mala de Bordo Palazzio Rígida ABS 10kg com 8 Rodas 360 Graus e Trava de Segredo Padrão ANAC",
-      "link": "https://www.amazon.com.br/dp/B0CPT6YSPZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31mlZ9dqolL._SL400_.jpg",
-      "preco": 199,
-      "precoDe": 280.19,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T21:44:35.950Z"
-    },
-    {
-      "id": "12438",
-      "loja": "Amazon",
-      "titulo": "YoPRO Bebida Láctea UHT Morango – 15g de Proteínas, Líquido, Caixinha Tetra Pak 250ml (Pack com 12 unidades)",
-      "link": "https://www.amazon.com.br/dp/B0D4RHRR3V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41MbkMiFnUL._SL400_.jpg",
-      "preco": 79.42,
-      "precoDe": 98.29,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T21:44:34.160Z"
-    },
-    {
-      "id": "12437",
-      "loja": "Amazon",
-      "titulo": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
-      "link": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lVmXe4CVL._SL400_.jpg",
-      "preco": 45.89,
-      "precoDe": 59.99,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T21:39:48.230Z"
-    },
-    {
-      "id": "12436",
-      "loja": "Amazon",
-      "titulo": "Shampoo Infantil Sono Tranquilo 400ml – Baruel Baby",
-      "link": "https://www.amazon.com.br/dp/B0B3S9QWQY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31h3rL2EESL._SL400_.jpg",
-      "preco": 14.99,
-      "precoDe": 18.39,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T21:35:54.484Z"
-    },
-    {
-      "id": "12426",
-      "loja": "Amazon",
-      "titulo": "Liquidificador Oster 1100 Full 3,2L Cinza OLIQ606-127",
-      "link": "https://www.amazon.com.br/dp/B0C2JFGFK9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31FAwnbvXiL._SL400_.jpg",
-      "preco": 149.99,
-      "precoDe": 188.9,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T21:26:16.756Z"
     }
   ]
 }
