@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T11:41:23.292Z",
+  "atualizadoEm": "2026-08-26T12:18:34.439Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -867,6 +867,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "SITE70",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 70,
+      "minimo": 599,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em todo o site do Mercado Livre",
+      "validadeAte": "2026-08-26T15:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "INTERNACIONALCN",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -876,6 +888,18 @@
       "limite": 90,
       "observacao": null,
       "validadeAte": "2026-08-28T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITE50",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em todo o site do Mercado Livre",
+      "validadeAte": "2026-08-27T12:06:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -948,6 +972,18 @@
       "limite": 500,
       "observacao": "Cupons válidos em selecionados do Mercado Livre",
       "validadeAte": "2026-09-17T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "GARANTIDO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-08-27T12:00:09.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1071,6 +1107,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LEVEAGORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-08-27T12:00:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ECONOMIAML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1092,6 +1140,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "QUEROJA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 22,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-08-27T12:00:09.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1137,7 +1197,7 @@
       "valor": 18,
       "minimo": 49,
       "maximo": null,
-      "limite": 30,
+      "limite": 140,
       "observacao": null,
       "validadeAte": "2026-09-01T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -1236,6 +1296,30 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ACHADODODIA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-08-27T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITETODO10",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em todo o site do Mercado Livre",
+      "validadeAte": "2026-08-27T12:06:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1392,6 +1476,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-27T03:00:50.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "40OFFD4SH0",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 199,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-27T12:00:23.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
