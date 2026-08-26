@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-08-26T11:56:22.811Z",
+  "atualizadoEm": "2026-08-26T12:18:33.275Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12508",
+      "loja": "Mercado Livre",
+      "titulo": "Placa-mãe Msi B550m Pro-Vdh Am4 Hdmi Vga Dport",
+      "link": "https://meli.la/23a3cGC",
+      "imagem": null,
+      "preco": 657.28,
+      "precoDe": 964.36,
+      "desconto": 24,
+      "cupom": "ACHADODODIA",
+      "enviadoEm": "2026-08-26T12:17:18.160Z"
+    },
+    {
+      "id": "12506",
+      "loja": "Amazon",
+      "titulo": "Coala Laundry Amaciante de Roupas Concentrado 1 Litro Orquídea Negra",
+      "link": "https://www.amazon.com.br/dp/B0FNQ2SZX5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31aquHyMLtL._SL400_.jpg",
+      "preco": 17.91,
+      "precoDe": 20.37,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T12:14:57.874Z"
+    },
+    {
+      "id": "12507",
+      "loja": "Shopee",
+      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
+      "link": "https://s.shopee.com.br/qiydazMiX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
+      "preco": 65.39,
+      "precoDe": 328.42,
+      "desconto": 74,
+      "cupom": "C0MP74RN4SH0P33",
+      "enviadoEm": "2026-08-26T12:14:56.785Z"
+    },
+    {
+      "id": "12505",
+      "loja": "Mercado Livre",
+      "titulo": "Aparelho De Jantar Oxford Cerâmica Folk 20 Pç Cor Estampado",
+      "link": "https://meli.la/1j5SFtT",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_816650-MLA95680390578_102025-F.jpg",
+      "preco": 184,
+      "precoDe": 349.9,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T12:12:14.262Z"
+    },
+    {
+      "id": "12503",
+      "loja": "Mercado Livre",
+      "titulo": "Câmera De Segurança Tp-link Tapo Tc60 1080p 3,3mm Branco",
+      "link": "https://meli.la/2v8SvSr",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_810673-MLA99392064482_112025-F.jpg",
+      "preco": 100.32,
+      "precoDe": 190.22,
+      "desconto": 40,
+      "cupom": "PROMOCERTA",
+      "enviadoEm": "2026-08-26T12:09:43.598Z"
+    },
+    {
+      "id": "12501",
+      "loja": "Amazon",
+      "titulo": "Heinz Pack Hamburguer Ketchup 397G + Maionese 215G + Mostarda 255gG",
+      "link": "https://www.amazon.com.br/dp/B07Y3WXDTN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51vjYZQ2IFL._SL400_.jpg",
+      "preco": 29.99,
+      "precoDe": 38.89,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T12:07:28.230Z"
+    },
+    {
+      "id": "12500",
+      "loja": "Amazon",
+      "titulo": "Comfort Amaciante Concentrado Energia Floral 3L",
+      "link": "https://www.amazon.com.br/dp/B09SX9RG1G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41nuMNiySyL._SL400_.jpg",
+      "preco": 44.9,
+      "precoDe": 87.99,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T12:06:04.396Z"
+    },
+    {
+      "id": "12493",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Runfalcon 6 Cloudfoam Adidas",
+      "link": "https://meli.la/1JgskQ7",
+      "imagem": null,
+      "preco": 225.24,
+      "precoDe": 449.99,
+      "desconto": 41,
+      "cupom": "PROMOPRAMODA",
+      "enviadoEm": "2026-08-26T12:04:35.071Z"
+    },
+    {
+      "id": "12492",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Feminino Runfalcon 6 Adidas",
+      "link": "https://meli.la/1V2S8MU",
+      "imagem": null,
+      "preco": 225.24,
+      "precoDe": 449.99,
+      "desconto": 41,
+      "cupom": "PROMOPRAMODA",
+      "enviadoEm": "2026-08-26T12:03:49.966Z"
+    },
+    {
+      "id": "12489",
+      "loja": "Amazon",
+      "titulo": "Sunless Protetor Solar Baby Bastão FPS60 15G",
+      "link": "https://www.amazon.com.br/dp/B09QQT9PDC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31EzWORqxHL._SL400_.jpg",
+      "preco": 59.99,
+      "precoDe": 63.9,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T11:56:46.393Z"
+    },
     {
       "id": "12487",
       "loja": "Shopee",
@@ -1191,18 +1311,6 @@
       "enviadoEm": "2026-08-25T11:51:31.410Z"
     },
     {
-      "id": "12243",
-      "loja": "Shopee",
-      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
-      "link": "https://s.shopee.com.br/qiydazMiX",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
-      "preco": 83.92,
-      "precoDe": 323.86,
-      "desconto": 71,
-      "cupom": "C4RR1NH010",
-      "enviadoEm": "2026-08-25T11:48:31.068Z"
-    },
-    {
       "id": "12236",
       "loja": "Shopee",
       "titulo": "Bota Feminina Dakota Preta Confortável Dia A Dia Trabalho D2432",
@@ -1333,114 +1441,6 @@
       "desconto": 13,
       "cupom": null,
       "enviadoEm": "2026-08-24T22:53:27.323Z"
-    },
-    {
-      "id": "12195",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Rabanne 1 Million Eau de Toilette 100 ml masculino",
-      "link": "https://meli.la/1SQaL6M",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_825541-MLA93843609108_102025-O.webp",
-      "preco": 448.16,
-      "precoDe": 769.89,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T22:45:38.364Z"
-    },
-    {
-      "id": "12193",
-      "loja": "Amazon",
-      "titulo": "Vídeo Porteiro Residencial IVR 1070 HS Branco e Preto Intelbras",
-      "link": "https://www.amazon.com.br/dp/B08PC2XPT1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31HLGS7itoL._SL400_.jpg",
-      "preco": 629.1,
-      "precoDe": 749.9,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T22:43:13.305Z"
-    },
-    {
-      "id": "12191",
-      "loja": "Shopee",
-      "titulo": "CELULAR LANÇAMENTO XIAOMI POCO X8 PRO 5G NFC 512GB / 256GB 8RAM OU 12 RAM VERSÃO GLOBAL FONTE RAPIDA COM CAPINHA LACRADO",
-      "link": "https://s.shopee.com.br/gPXYxfG7p",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mnobey666pdw60_tn",
-      "preco": 2589,
-      "precoDe": 3665.28,
-      "desconto": 28,
-      "cupom": "L0J4S0F1C141S",
-      "enviadoEm": "2026-08-24T22:37:19.672Z"
-    },
-    {
-      "id": "12190",
-      "loja": "Amazon",
-      "titulo": "Kit 2 Câmeras Segurança IP Lâmpada WiFi Full HD 1080p com Visão Noturna Infravermelho 1080P Bivolt, Detecção de Movimento, Áudio Bidirecional, Prova D'água Giratória (2)",
-      "link": "https://www.amazon.com.br/dp/B0GK9Z757L?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41rmyN9FHfL._SL400_.jpg",
-      "preco": 66.4,
-      "precoDe": 69.9,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T22:25:08.861Z"
-    },
-    {
-      "id": "12189",
-      "loja": "Amazon",
-      "titulo": "Snow Flakes Cereal Matinal Tradicional Leve 620G Embalagem Econômica",
-      "link": "https://www.amazon.com.br/dp/B0C4MHZXRG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/510n3LWIyZL._SL400_.jpg",
-      "preco": 12.74,
-      "precoDe": 16.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T22:08:39.185Z"
-    },
-    {
-      "id": "12188",
-      "loja": "Amazon",
-      "titulo": "FISCHER FORNO ELÉTRICO EMBUTIR FIT LINE 48L INOX 220V 34493-95486",
-      "link": "https://www.amazon.com.br/dp/B0CVS84X3C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41WEnEKX7sL._SL400_.jpg",
-      "preco": 999,
-      "precoDe": 1429,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T22:06:28.374Z"
-    },
-    {
-      "id": "12187",
-      "loja": "Amazon",
-      "titulo": "Combo de Teclado e Mouse Ergonômico Sem Fio HP 230 - com Dongle USB Wireless, Digitação Silenciosa, Design Elegante, Até 12 Meses de Bateria, Layout BR, Preto (18H24AA#AC4)",
-      "link": "https://www.amazon.com.br/dp/B0CVNMR68Z?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41W8KeHS3FL._SL400_.jpg",
-      "preco": 30,
-      "precoDe": 159.9,
-      "desconto": 81,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T21:57:16.889Z"
-    },
-    {
-      "id": "12186",
-      "loja": "Amazon",
-      "titulo": "Percarbonato de Sódio 100% Puro – Removedor de Manchas e Multiuso de Limpeza (Embalagem pode sofrer variações)",
-      "link": "https://www.amazon.com.br/dp/B0GPN6CNRT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/61YPLcEYbhL._SL400_.jpg",
-      "preco": 24.69,
-      "precoDe": 29.9,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T21:55:41.241Z"
-    },
-    {
-      "id": "12185",
-      "loja": "Amazon",
-      "titulo": "Papel Sulfite, Chamex, A4, 75 Gramas, Pacote De 300 Folhas",
-      "link": "https://www.amazon.com.br/dp/B08CZW8H1L?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41JMqJicdTL._SL400_.jpg",
-      "preco": 19.99,
-      "precoDe": 23.6,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T21:53:11.958Z"
     }
   ]
 }
