@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-26T20:06:58.167Z",
+  "atualizadoEm": "2026-08-26T20:09:41.629Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12745",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/4fvjLotRGX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": 14.99,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T20:07:40.028Z"
+    },
     {
       "id": "12740",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 64,
       "cupom": "PRAVCNOML",
       "enviadoEm": "2026-08-26T11:20:49.417Z"
-    },
-    {
-      "id": "12478",
-      "loja": "Shopee",
-      "titulo": "Relogio Apple Watch Se 2 GPS  - Original Com Nota Fiscal",
-      "link": "https://s.shopee.com.br/2VrEBTsdup",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mrn1p2tpvcw6f4_tn",
-      "preco": 1387,
-      "precoDe": 1897.53,
-      "desconto": 19,
-      "cupom": "3SQU3NT499",
-      "enviadoEm": "2026-08-26T11:18:26.999Z"
     }
   ]
 }
