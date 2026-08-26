@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-26T14:39:41.573Z",
+  "atualizadoEm": "2026-08-26T15:04:08.781Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12588",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
+      "link": "https://s.shopee.com.br/50YZOqrLe6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnyps41y3uo4c6_tn",
+      "preco": 79.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "4M04SH0P33",
+      "enviadoEm": "2026-08-26T14:54:08.779Z"
+    },
     {
       "id": "12585",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 13,
       "cupom": null,
       "enviadoEm": "2026-08-25T14:59:01.161Z"
-    },
-    {
-      "id": "12294",
-      "loja": "Shopee",
-      "titulo": "Kit Jogo 4 Tapete de Banheiro Antiderrapante 60x40cm Tapete Bolinha Macarrão Microfibra Absorvente",
-      "link": "https://s.shopee.com.br/1BLpEgp9uY",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1c8gqanz7q35_tn",
-      "preco": 38.97,
-      "precoDe": 63.89,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T14:50:06.402Z"
     }
   ]
 }
