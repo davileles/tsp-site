@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-08-26T12:40:41.476Z",
+  "atualizadoEm": "2026-08-26T13:09:41.476Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12535",
+      "loja": "Shopee",
+      "titulo": "Creme Pomada de Assadura  Lanolina e Vit B5 200g Bepantol ",
+      "link": "https://s.shopee.com.br/8V8RS6dWs8",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820n6-mne9xfta8cn994_tn",
+      "preco": 79.99,
+      "precoDe": 120.47,
+      "desconto": 17,
+      "cupom": "C0MP74RN4SH0P33",
+      "enviadoEm": "2026-08-26T13:06:42.422Z"
+    },
+    {
+      "id": "12531",
+      "loja": "Shopee",
+      "titulo": "Conjunto Tal Mãe e Filha Baby Doll Preto Pijama Feminino Lua Cinza",
+      "link": "https://s.shopee.com.br/4LIsToVGzt",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwyr4mfbl8r652_tn",
+      "preco": 40.5,
+      "precoDe": 65,
+      "desconto": 30,
+      "cupom": "C0MPR4AS5",
+      "enviadoEm": "2026-08-26T12:59:42.957Z"
+    },
+    {
+      "id": "12529",
+      "loja": "Amazon",
+      "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+      "link": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xmDfLLgRL._SL400_.jpg",
+      "preco": 76.45,
+      "precoDe": 101.58,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T12:55:28.876Z"
+    },
+    {
+      "id": "12526",
+      "loja": "Shopee",
+      "titulo": "Chocolate Café Italle Chocolate Gourmet Chocolate em Pó 1kg Achocolatado Italle",
+      "link": "https://s.shopee.com.br/20uxgiGYvL",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825az-mrswh5gsvrb8a7_tn",
+      "preco": 34.9,
+      "precoDe": 70,
+      "desconto": 43,
+      "cupom": "C0MPR4AS5",
+      "enviadoEm": "2026-08-26T12:47:50.568Z"
+    },
+    {
+      "id": "12525",
+      "loja": "Shopee",
+      "titulo": "Cama Montessoriana Infantil Estofada com Proteção Lateral 100% Espuma D28 Conforto e Segurança Premium",
+      "link": "https://s.shopee.com.br/8plHpDwEED",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-ms1oj96qg5xhb7_tn",
+      "preco": 359.99,
+      "precoDe": 701.74,
+      "desconto": 43,
+      "cupom": "N1NTENDO10",
+      "enviadoEm": "2026-08-26T12:44:55.500Z"
+    },
+    {
+      "id": "12524",
+      "loja": "Shopee",
+      "titulo": "Hidratante Labial Carmed Sprite Incolor 10g",
+      "link": "https://s.shopee.com.br/7VFuEQev9Z",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mlf0x7e5ecjo61_tn",
+      "preco": 11.15,
+      "precoDe": 24.98,
+      "desconto": 52,
+      "cupom": "GAMER7",
+      "enviadoEm": "2026-08-26T12:42:23.125Z"
+    },
     {
       "id": "12523",
       "loja": "Shopee",
@@ -1369,78 +1441,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-08-25T12:36:24.986Z"
-    },
-    {
-      "id": "12256",
-      "loja": "Amazon",
-      "titulo": "MAM Baby Kit 2 Mamadeiras Easy Active Set, 270ml e 330ml Com Formato Ergonômico e Fácil de Segurar para Crianças 2+ Meses com Bico de Silicone Skinsoft, Azul",
-      "link": "https://www.amazon.com.br/dp/B09VW57PZV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ZnQIo1LIL._SL400_.jpg",
-      "preco": 87.29,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T12:36:02.476Z"
-    },
-    {
-      "id": "12255",
-      "loja": "Amazon",
-      "titulo": "Lenços Huggies Higiene Superior Limpam 2x Mais 6 x 48 Un",
-      "link": "https://www.amazon.com.br/dp/B07FN1XPNW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Icrg3wQbL._SL400_.jpg",
-      "preco": 46.35,
-      "precoDe": 55.48,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T12:35:57.068Z"
-    },
-    {
-      "id": "12253",
-      "loja": "Shopee",
-      "titulo": "JAQUETA DE COURO MASCULINA COM CAPUZ REMOVIVEL FORRADA E PELUCIDA POR DENTRO INVERNO/FRIO",
-      "link": "https://s.shopee.com.br/5LBMaEdISF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmtaw18rywhs2d_tn",
-      "preco": 131,
-      "precoDe": 230,
-      "desconto": 30,
-      "cupom": "NASCAR2026",
-      "enviadoEm": "2026-08-25T12:33:37.478Z"
-    },
-    {
-      "id": "12251",
-      "loja": "Shopee",
-      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
-      "link": "https://s.shopee.com.br/9AO54brZwC",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
-      "preco": 69.98,
-      "precoDe": 199.95,
-      "desconto": 60,
-      "cupom": "C4RR1NH010",
-      "enviadoEm": "2026-08-25T12:11:02.091Z"
-    },
-    {
-      "id": "12247",
-      "loja": "Amazon",
-      "titulo": "Cadeira de Alimentação Portátil Berry 3 em 1 Rosa Multikids",
-      "link": "https://www.amazon.com.br/dp/B0C7LR9X83?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31zDHFFEUtL._SL400_.jpg",
-      "preco": 197.1,
-      "precoDe": 219,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T11:51:31.410Z"
-    },
-    {
-      "id": "12236",
-      "loja": "Shopee",
-      "titulo": "Bota Feminina Dakota Preta Confortável Dia A Dia Trabalho D2432",
-      "link": "https://s.shopee.com.br/4VcGyltztA",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823px-mp13rwzdkmj078_tn",
-      "preco": 215.62,
-      "precoDe": 269.91,
-      "desconto": 9,
-      "cupom": "NASCAR2026",
-      "enviadoEm": "2026-08-25T11:26:08.500Z"
     }
   ]
 }
