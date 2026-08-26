@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T19:39:42.694Z",
+  "atualizadoEm": "2026-08-26T19:44:48.798Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -891,42 +891,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "CELULARES200",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 1599,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T18:01:18.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ELETRODOMES180",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 180,
-      "minimo": 1199,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
-      "validadeAte": "2026-08-27T15:01:19.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 399,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-08-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "INTERNACIONALCN",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1344,18 +1308,6 @@
       "limite": 200,
       "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
       "validadeAte": "2026-08-27T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MOVEIS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
-      "validadeAte": "2026-08-27T15:01:19.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
