@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-26T15:04:09.912Z",
+  "atualizadoEm": "2026-08-26T16:09:43.237Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "GRANDE",
+      "loja": "Aliexpress",
+      "tipo": "reais",
+      "valor": 281900,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-29T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
     {
       "codigo": "NOVA2",
       "loja": "Aliexpress",
@@ -36,6 +48,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-27T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "GRANDE7",
+      "loja": "Aliexpress",
+      "tipo": "reais",
+      "valor": 700,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-29T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
@@ -397,6 +421,18 @@
       "observacao": null,
       "validadeAte": "2030-01-02T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "MAISFUT",
+      "loja": "Centauro",
+      "tipo": "reais",
+      "valor": 6999,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17806&id=1207116"
     },
     {
       "codigo": "GOLACO",
