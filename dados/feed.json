@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-26T21:29:07.719Z",
+  "atualizadoEm": "2026-08-26T21:39:41.631Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12776",
+      "loja": "Amazon",
+      "titulo": "Sensodyne Creme Dental para Sensibilidade Rápido Alívio e Proteção Duradoura com Flúor, Leve 3 e Pague 2, Alívio Instantâneo, 90g cada",
+      "link": "https://www.amazon.com.br/dp/B08937VBT7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/419sHOXCbHL._SL400_.jpg",
+      "preco": 29.89,
+      "precoDe": 45.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T21:31:41.512Z"
+    },
+    {
+      "id": "12775",
+      "loja": "Shopee",
+      "titulo": "Jogo de Copos 6 Unidades Diamond 3D 300ml Vidro Grosso Luxo",
+      "link": "https://s.shopee.com.br/5LBQEl1ktW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mn9w4qfho076df_tn",
+      "preco": 21.89,
+      "precoDe": 40.13,
+      "desconto": 33,
+      "cupom": "3SP3C14L5",
+      "enviadoEm": "2026-08-26T21:30:42.614Z"
+    },
     {
       "id": "12771",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 60,
       "cupom": "N1NTENDO10",
       "enviadoEm": "2026-08-26T12:33:05.146Z"
-    },
-    {
-      "id": "12514",
-      "loja": "Shopee",
-      "titulo": "Monitor Gamer Philips Evnia 27  Ips 144hz 0,5ms Hdr G-sync Preto 127/220v",
-      "link": "https://s.shopee.com.br/60R6QtLxF2",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gf-mptdy35p67f0be_tn",
-      "preco": 734,
-      "precoDe": 980,
-      "desconto": 20,
-      "cupom": "N1NTENDO10",
-      "enviadoEm": "2026-08-26T12:30:57.512Z"
-    },
-    {
-      "id": "12513",
-      "loja": "Shopee",
-      "titulo": "Monitor Gamer AOC AGON G50 24\" 144Hz 0,5ms IPS HDR10 G-SYNC 24G50F",
-      "link": "https://s.shopee.com.br/gPa4m60O4",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-821fj-mgmb5t82svf026_tn",
-      "preco": 549.9,
-      "precoDe": 1071.25,
-      "desconto": 44,
-      "cupom": "N1NTENDO10",
-      "enviadoEm": "2026-08-26T12:26:31.762Z"
     }
   ]
 }
