@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-26T13:55:00.636Z",
+  "atualizadoEm": "2026-08-26T14:09:41.476Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12550",
+      "loja": "Shopee",
+      "titulo": "Envio Imediato - Creatina Dux n Monohidratada 300g - 100% ORIGINAL",
+      "link": "https://s.shopee.com.br/8AVb7Vo4Rd",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mikc8avmgfer12_tn",
+      "preco": 59,
+      "precoDe": 188.1,
+      "desconto": 58,
+      "cupom": "4M04SH0P33",
+      "enviadoEm": "2026-08-26T14:08:02.258Z"
+    },
     {
       "id": "12546",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-08-25T13:20:21.311Z"
-    },
-    {
-      "id": "12263",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
-      "link": "https://s.shopee.com.br/2BEMKE72g3",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
-      "preco": 45,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T13:19:15.901Z"
     }
   ]
 }
