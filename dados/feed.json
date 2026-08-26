@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-26T11:27:22.812Z",
+  "atualizadoEm": "2026-08-26T11:41:21.948Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12484",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 68 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07X83MH7M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41btRL3VkgL._SL400_.jpg",
+      "preco": 98.99,
+      "precoDe": 151.59,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T11:31:21.948Z"
+    },
+    {
+      "id": "12483",
+      "loja": "Shopee",
+      "titulo": "Assento Massageador Elétrico Controle Aliviar Dores Lombar Coluna Pescoço Veicular Escritório 8 Modos 3 Intensidade 3036",
+      "link": "https://s.shopee.com.br/9zxF7p7YMt",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m83r5tij7p5d46_tn",
+      "preco": 139.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "C0MP74RN4SH0P33",
+      "enviadoEm": "2026-08-26T11:29:25.865Z"
+    },
     {
       "id": "12482",
       "loja": "Mercado Livre",
@@ -1143,18 +1167,6 @@
       "enviadoEm": "2026-08-25T12:11:02.091Z"
     },
     {
-      "id": "12248",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 68 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07X83MH7M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41btRL3VkgL._SL400_.jpg",
-      "preco": 98.01,
-      "precoDe": 151.59,
-      "desconto": 28,
-      "cupom": "PAMPERS10",
-      "enviadoEm": "2026-08-25T11:58:49.184Z"
-    },
-    {
       "id": "12247",
       "loja": "Amazon",
       "titulo": "Cadeira de Alimentação Portátil Berry 3 em 1 Rosa Multikids",
@@ -1429,18 +1441,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-08-24T21:46:00.912Z"
-    },
-    {
-      "id": "12181",
-      "loja": "Amazon",
-      "titulo": "WOLFF - Roupão Feminino Cloud M Rosa Microfibra",
-      "link": "https://www.amazon.com.br/dp/B0GQC3STJ5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31JfuGtTi3L._SL400_.jpg",
-      "preco": 81.89,
-      "precoDe": 90.99,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T21:38:27.304Z"
     }
   ]
 }
