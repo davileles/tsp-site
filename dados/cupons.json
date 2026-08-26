@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T17:42:03.857Z",
+  "atualizadoEm": "2026-08-26T18:03:15.968Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -891,6 +891,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "CELULARES200",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 1599,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-27T18:01:18.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ELETRODOMES180",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1275,6 +1287,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BEBESEPETS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-08-27T18:01:18.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PROMOCERTA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1512,6 +1536,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-27T17:11:44.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "T3RRYESH099",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-27T17:44:19.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
