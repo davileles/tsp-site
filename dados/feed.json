@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-26T11:19:26.353Z",
+  "atualizadoEm": "2026-08-26T11:27:22.812Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12482",
+      "loja": "Mercado Livre",
+      "titulo": "Lava E Seca Samsung Wd11m Com Digital Inverter Branca 11kg Cor Branco",
+      "link": "https://meli.la/1wZ3Dg9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_962121-MLA99990278217_112025-F.jpg",
+      "preco": 3399.99,
+      "precoDe": 3599,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T11:25:45.591Z"
+    },
+    {
+      "id": "12481",
+      "loja": "Amazon",
+      "titulo": "Nescau Bebida Láctea 180ml caixa com 27 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CXJLK24Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/61gtHqTqSkL._SL400_.jpg",
+      "preco": 53.9,
+      "precoDe": 74.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T11:23:20.254Z"
+    },
+    {
+      "id": "12479",
+      "loja": "Mercado Livre",
+      "titulo": "Aquecedor Elétrico Portátil 3 em 1 WAP Air Heat com Ventilador e Triplo Sistema de Segurança",
+      "link": "https://meli.la/1QFwbKk",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_718643-MLA115817581725_082026-F.jpg",
+      "preco": 76.19,
+      "precoDe": 249,
+      "desconto": 64,
+      "cupom": "PRAVCNOML",
+      "enviadoEm": "2026-08-26T11:20:49.417Z"
+    },
     {
       "id": "12478",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-08-24T21:38:27.304Z"
-    },
-    {
-      "id": "12182",
-      "loja": "Amazon",
-      "titulo": "Fralda Infantil Personal Baby Protect e Sec G Mega 9x34pads Leve 34 pague 32 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41RzLukzVDL._SL400_.jpg",
-      "preco": 32.49,
-      "precoDe": 37.02,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T21:36:35.590Z"
-    },
-    {
-      "id": "12178",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Soft & Protect Hiper XXG, 50 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0B7K83GYL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41gtkGdKp9L._SL400_.jpg",
-      "preco": 55.19,
-      "precoDe": 64.98,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T21:27:02.860Z"
-    },
-    {
-      "id": "12177",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Protect E Sec M Hiper, 70 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41VhQ4JSbGL._SL400_.jpg",
-      "preco": 55.19,
-      "precoDe": 64.64,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-08-24T21:27:02.535Z"
     }
   ]
 }
