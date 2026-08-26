@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-26T18:25:41.580Z",
+  "atualizadoEm": "2026-08-26T18:37:25.097Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12696",
+      "loja": "Amazon",
+      "titulo": "Patinete Infantil Musical 3 Rodas Kiddy - Replay Kids - Rosa",
+      "link": "https://www.amazon.com.br/dp/B0CHGS2S28?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xSt00THoL._SL400_.jpg",
+      "preco": 86.1,
+      "precoDe": 109.99,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T18:27:25.095Z"
+    },
+    {
+      "id": "12695",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pampers Confort Sec Tamanho XXXG, 70 Un",
+      "link": "https://meli.la/2w5chFg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_803815-MLA111638446891_052026-F.jpg",
+      "preco": 109.99,
+      "precoDe": 149.9,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T18:27:22.288Z"
+    },
     {
       "id": "12689",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 58,
       "cupom": null,
       "enviadoEm": "2026-08-25T21:16:53.503Z"
-    },
-    {
-      "id": "12423",
-      "loja": "Amazon",
-      "titulo": "Smart TV 40\" Philco Roku TV HDR10 Dolby Áudio P40CRA",
-      "link": "https://www.amazon.com.br/dp/B0GJTCF75W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41lhLePZkPL._SL400_.jpg",
-      "preco": 1248,
-      "precoDe": 1499,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T21:15:52.563Z"
-    },
-    {
-      "id": "12422",
-      "loja": "Amazon",
-      "titulo": "Xapadinha Máscara Disciplinante 100g , Lola Cosmetics",
-      "link": "https://www.amazon.com.br/dp/B0CGBZDNHQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41gaH63pEmL._SL400_.jpg",
-      "preco": 13.84,
-      "precoDe": 34.9,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T21:13:21.274Z"
     }
   ]
 }
