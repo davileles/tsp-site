@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-08-26T16:09:41.576Z",
+  "atualizadoEm": "2026-08-26T16:33:29.625Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12637",
+      "loja": "Shopee",
+      "titulo": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
+      "link": "https://s.shopee.com.br/9AO8Sgnxlh",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mq3nf4vg8k5f75_tn",
+      "preco": 38.61,
+      "precoDe": 55.91,
+      "desconto": 22,
+      "cupom": "3SP3C14L5",
+      "enviadoEm": "2026-08-26T16:23:29.623Z"
+    },
+    {
+      "id": "12636",
+      "loja": "Shopee",
+      "titulo": "Kit Dolce Gusto Queridinhos - 40 cápsulas - Espresso, Canela, Au Lait e Cappuccino",
+      "link": "https://s.shopee.com.br/7pskrvwS5k",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82634-mjhhmn775v5w3b_tn",
+      "preco": 47.599999999999994,
+      "precoDe": 99.41,
+      "desconto": 32,
+      "cupom": "4M04SH0P33",
+      "enviadoEm": "2026-08-26T16:19:00.620Z"
+    },
+    {
+      "id": "12631",
+      "loja": "Amazon",
+      "titulo": "Boneca Barbie Dia de Praia com Maiô Rosa, Acessórios e Itens de Verão Para Crianças a Partir de 3 Anos",
+      "link": "https://www.amazon.com.br/dp/B0BRSH5YJG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31TRS4Ra36L._SL400_.jpg",
+      "preco": 101.63,
+      "precoDe": 129.99,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T16:16:03.384Z"
+    },
+    {
+      "id": "12630",
+      "loja": "Amazon",
+      "titulo": "Likluc, Adesivo de Citronela Repellik",
+      "link": "https://www.amazon.com.br/dp/B0DXQG7Y23?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/311ihklCZqL._SL400_.jpg",
+      "preco": 21.87,
+      "precoDe": 27.9,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T16:15:59.415Z"
+    },
+    {
+      "id": "12628",
+      "loja": "Amazon",
+      "titulo": "Gin Bombay Sapphire 750ml",
+      "link": "https://www.amazon.com.br/dp/B001TP3GCE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41329NGXz2L._SL400_.jpg",
+      "preco": 72,
+      "precoDe": 126.9,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T16:15:03.943Z"
+    },
+    {
+      "id": "12626",
+      "loja": "Amazon",
+      "titulo": "Achocolatado Em Pó NESCAU 60% 180g",
+      "link": "https://www.amazon.com.br/dp/B0DJWJ7R15?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412CW1K4ZkL._SL400_.jpg",
+      "preco": 14.99,
+      "precoDe": 18.19,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T16:12:58.922Z"
+    },
+    {
+      "id": "12624",
+      "loja": "Mercado Livre",
+      "titulo": "Cacheador Britânia 25mm Revestimento Cerâmico BECE01",
+      "link": "https://meli.la/1zzbQWT",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_651247-MLA84841555465_052025-F.jpg",
+      "preco": 69.9,
+      "precoDe": 125.9,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-08-26T16:09:54.524Z"
+    },
     {
       "id": "12623",
       "loja": "Mercado Livre",
@@ -1357,90 +1441,6 @@
       "desconto": 16,
       "cupom": "GAMER7",
       "enviadoEm": "2026-08-25T17:05:11.776Z"
-    },
-    {
-      "id": "12342",
-      "loja": "Amazon",
-      "titulo": "FOXY 240ML, limpeza automotiva",
-      "link": "https://www.amazon.com.br/dp/B09P21GFBK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31WVUnFn5KL._SL400_.jpg",
-      "preco": 19.9,
-      "precoDe": 27.9,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T16:54:12.852Z"
-    },
-    {
-      "id": "12341",
-      "loja": "Amazon",
-      "titulo": "Whisky Chivas Regal 12 anos Blended Escocês - 1 litro",
-      "link": "https://www.amazon.com.br/dp/B075QHV5LD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41T3fFQmT6L._SL400_.jpg",
-      "preco": 105,
-      "precoDe": 178.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T16:51:09.283Z"
-    },
-    {
-      "id": "12340",
-      "loja": "Amazon",
-      "titulo": "Colchão Inflável Solteiro Multiuso Até 100kgs O2Flow",
-      "link": "https://www.amazon.com.br/dp/B0CDNH81Y5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/315ea70UkmL._SL400_.jpg",
-      "preco": 58.55,
-      "precoDe": 109.9,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T16:47:09.383Z"
-    },
-    {
-      "id": "12339",
-      "loja": "Amazon",
-      "titulo": "Café em Cápsula Nescafé Dolce Gusto KitKat 10 Cápsulas 170g",
-      "link": "https://www.amazon.com.br/dp/B0DGB1N61H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41+0KS-fLyL._SL400_.jpg",
-      "preco": 18.76,
-      "precoDe": 26.39,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T16:46:15.161Z"
-    },
-    {
-      "id": "12338",
-      "loja": "Amazon",
-      "titulo": "Canela Do Ceilão Orgânica Em Pó 60g Kampo De Ervas",
-      "link": "https://www.amazon.com.br/dp/B0FHBYBG8P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bHsc8khFL._SL400_.jpg",
-      "preco": 50.06,
-      "precoDe": 62.8,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T16:44:56.258Z"
-    },
-    {
-      "id": "12337",
-      "loja": "Shopee",
-      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
-      "link": "https://s.shopee.com.br/1qbUcJpXNI",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
-      "preco": 177.9,
-      "precoDe": 599.7,
-      "desconto": 67,
-      "cupom": "C0MP74RN4SH0P33",
-      "enviadoEm": "2026-08-25T16:42:46.494Z"
-    },
-    {
-      "id": "12336",
-      "loja": "Amazon",
-      "titulo": "Heinz Molho de Tomate Rústico Basílico em vidro, 320G",
-      "link": "https://www.amazon.com.br/dp/B0DD8JKM7T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41LHfVuWBaL._SL400_.jpg",
-      "preco": 11.89,
-      "precoDe": 15.79,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-25T16:42:44.843Z"
     }
   ]
 }
