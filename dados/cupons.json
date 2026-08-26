@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T12:29:23.324Z",
+  "atualizadoEm": "2026-08-26T13:09:42.798Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -687,18 +687,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "JOGAO",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-26T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "ENDGAME",
       "loja": "Kabum",
       "tipo": "pct",
@@ -867,18 +855,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 70,
-      "minimo": 599,
-      "maximo": null,
-      "limite": 70,
-      "observacao": null,
-      "validadeAte": "2026-08-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SITE70",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -888,6 +864,18 @@
       "limite": null,
       "observacao": "Válido em todo o site do Mercado Livre",
       "validadeAte": "2026-08-26T15:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 399,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-08-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1512,6 +1500,18 @@
       "limite": 50,
       "observacao": null,
       "validadeAte": "2026-08-26T14:57:18.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "L4NCM8SHAF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 65,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-27T13:00:11.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
