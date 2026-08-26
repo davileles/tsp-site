@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T23:27:31.817Z",
+  "atualizadoEm": "2026-08-26T03:19:30.363Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -867,18 +867,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "INTERNACIONALCN",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 90,
-      "observacao": null,
-      "validadeAte": "2026-08-26T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "LIQUIDA30",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1275,18 +1263,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17634&id=1207116"
     },
     {
-      "codigo": "MODA",
-      "loja": "Posthaus",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-26T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17634&id=1207116"
-    },
-    {
       "codigo": "KIDS",
       "loja": "Riachuelo",
       "tipo": "pct",
@@ -1369,6 +1345,18 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
+    },
+    {
+      "codigo": "3SQU3NT499",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-27T03:00:50.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "C0MP74RN4SH0P33",
