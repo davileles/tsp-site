@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-27T19:18:28.423Z",
+  "atualizadoEm": "2026-08-27T19:47:28.520Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13021",
+      "loja": "Amazon",
+      "titulo": "NIVEA SUN Protetor Solar Kids Brincando na Água FPS 60 150ml - Infantil, especialmente formulado para a pele delicada das crianças, muito resistente à água, alta proteção UVA/UVB",
+      "link": "https://www.amazon.com.br/dp/B07LF7C7YL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Tf5G7g+6L._SL400_.jpg",
+      "preco": 54.87,
+      "precoDe": 87.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T19:40:40.701Z"
+    },
+    {
+      "id": "13020",
+      "loja": "Shopee",
+      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
+      "link": "https://s.shopee.com.br/4qFB6wRcCx",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
+      "preco": 69,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-27T19:38:02.496Z"
+    },
+    {
+      "id": "13017",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Baby Protect&Sec G, Leve 60 Pague 57 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0BCHWGG5P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41gYTgk90DL._SL400_.jpg",
+      "preco": 55.19,
+      "precoDe": 64.64,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T19:28:04.912Z"
+    },
     {
       "id": "13014",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-08-26T20:33:49.208Z"
-    },
-    {
-      "id": "12750",
-      "loja": "Shopee",
-      "titulo": "Sutiã Santa Passion Tomara que Caia com Bojo e Aro Liso de Alta Sustentação Push Up Confortável",
-      "link": "https://s.shopee.com.br/4LIsyjeGHq",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-822z4-mi3ba3rgqmfbee_tn",
-      "preco": 51.25,
-      "precoDe": 100.45,
-      "desconto": 44,
-      "cupom": "3SP3C14L5",
-      "enviadoEm": "2026-08-26T20:29:56.952Z"
-    },
-    {
-      "id": "12745",
-      "loja": "Shopee",
-      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
-      "link": "https://s.shopee.com.br/4fvjLotRGX",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
-      "preco": 14.99,
-      "precoDe": 19.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T20:07:40.028Z"
-    },
-    {
-      "id": "12740",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV Semp 65 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 65S62",
-      "link": "https://meli.la/1m6kg8M",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652060-MLA113728659072_072026-F.jpg",
-      "preco": 3219.08,
-      "precoDe": 3699,
-      "desconto": 5,
-      "cupom": "OFFCOMMELI",
-      "enviadoEm": "2026-08-26T19:56:58.166Z"
     }
   ]
 }
