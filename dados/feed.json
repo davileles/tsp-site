@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-27T18:09:39.166Z",
+  "atualizadoEm": "2026-08-27T18:38:39.239Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13005",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 100 Blocos Magnéticos De Montar Construção Brinquedo Educativo Imã Empilhamento Cubo Infantil Cashpay",
+      "link": "https://meli.la/17e6rrk",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_678116-MLA116540807507_082026-F.jpg",
+      "preco": 50.43,
+      "precoDe": 109.87,
+      "desconto": 46,
+      "cupom": "MELIAQUI",
+      "enviadoEm": "2026-08-27T18:32:58.149Z"
+    },
+    {
+      "id": "13004",
+      "loja": "Mercado Livre",
+      "titulo": "Brinquedo Infantil Volante Fom Fom C/ Retrovisor Elka",
+      "link": "https://meli.la/26bvRcS",
+      "imagem": null,
+      "preco": 97.96000000000001,
+      "precoDe": 129,
+      "desconto": 11,
+      "cupom": "MELIAQUI",
+      "enviadoEm": "2026-08-27T18:32:54.490Z"
+    },
+    {
+      "id": "13002",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
+      "link": "https://s.shopee.com.br/7VFwDAOgWq",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
+      "preco": 17.99,
+      "precoDe": 21.42,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T18:29:20.673Z"
+    },
+    {
+      "id": "12998",
+      "loja": "Mercado Livre",
+      "titulo": "Brinquedo Educativo Pica Pau Baby Toys Set Didático Encaixe 19 Peças",
+      "link": "https://meli.la/1xTfr3d",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_874707-MLA98409763554_112025-F.jpg",
+      "preco": 40,
+      "precoDe": 78.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T18:21:44.397Z"
+    },
     {
       "id": "12992",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-08-26T19:34:48.499Z"
-    },
-    {
-      "id": "12727",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Confort Sec Tamanho Xxg 82 Unidades Pampers",
-      "link": "https://meli.la/2DCQwfp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_971120-MLA115772115597_082026-F.jpg",
-      "preco": 118.9,
-      "precoDe": 149.9,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T19:32:08.972Z"
-    },
-    {
-      "id": "12725",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Premium Huggies Natural Care tamanho M 78 Unidades",
-      "link": "https://meli.la/2FKauRr",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_894429-MLA99934926577_112025-F.jpg",
-      "preco": 41.73,
-      "precoDe": 114.34,
-      "desconto": 27,
-      "cupom": "INTERNACIONALCN",
-      "enviadoEm": "2026-08-26T19:28:15.775Z"
-    },
-    {
-      "id": "12721",
-      "loja": "Shopee",
-      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
-      "link": "https://s.shopee.com.br/7Ad4HK8c5O",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
-      "preco": 74,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "ESQN1N3N1N3",
-      "enviadoEm": "2026-08-26T19:22:48.729Z"
-    },
-    {
-      "id": "12722",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pants Roupinha Premium Natural Care XG 56 Unidades Huggies",
-      "link": "https://meli.la/2s68zDC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_961173-MLA99930212157_112025-F.jpg",
-      "preco": 39.99999999999999,
-      "precoDe": 109.09,
-      "desconto": 27,
-      "cupom": "INTERNACIONALCN",
-      "enviadoEm": "2026-08-26T19:21:08.737Z"
     }
   ]
 }
