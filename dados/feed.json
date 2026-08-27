@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-27T17:54:20.261Z",
+  "atualizadoEm": "2026-08-27T18:01:36.589Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12987",
+      "loja": "Amazon",
+      "titulo": "Giz de Cera Pião Faber-Castell Little Creatives com 4 Cores",
+      "link": "https://www.amazon.com.br/dp/B0D1GTNQTN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41c9lfxJyEL._SL400_.jpg",
+      "preco": 24.1,
+      "precoDe": 26.65,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T17:58:12.246Z"
+    },
+    {
+      "id": "12986",
+      "loja": "Amazon",
+      "titulo": "LAPIS DE COR COLORPEPS INFINITY 12 C",
+      "link": "https://www.amazon.com.br/dp/B0BS1BZW26?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51qHupRrvRL._SL400_.jpg",
+      "preco": 10.68,
+      "precoDe": 14.15,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T17:58:11.259Z"
+    },
+    {
+      "id": "12985",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Mantas Cobertor Microfibra Infantil Bebê Estampada Cor Menino",
+      "link": "https://meli.la/227k9sP",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_891933-MLA105469034825_012026-F.jpg",
+      "preco": 33,
+      "precoDe": 70,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T17:58:09.978Z"
+    },
+    {
+      "id": "12984",
+      "loja": "Mercado Livre",
+      "titulo": "Brinquedo Educativo De Encaixe Madeira Pega Peixe Montessori Colorido",
+      "link": "https://meli.la/2ezNsrS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_924102-MLA112625982502_062026-F.jpg",
+      "preco": 43.16,
+      "precoDe": 129.9,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T17:58:06.538Z"
+    },
     {
       "id": "12978",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 38,
       "cupom": "PRAVCNOML",
       "enviadoEm": "2026-08-26T19:20:24.300Z"
-    },
-    {
-      "id": "12719",
-      "loja": "Mercado Livre",
-      "titulo": "Lava E Seca Philco Smart Invertplus Lavagem 10kg Branco 127v",
-      "link": "https://meli.la/1HwpwFq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_617417-MLA100006829931_122025-F.jpg",
-      "preco": 2456.31,
-      "precoDe": 3929.03,
-      "desconto": 32,
-      "cupom": "OFFCOMMELI",
-      "enviadoEm": "2026-08-26T19:16:23.600Z"
-    },
-    {
-      "id": "12710",
-      "loja": "Shopee",
-      "titulo": "Organizador de Geladeira Multiuso Plasutil Para Armario Dispensa Cozinha",
-      "link": "https://s.shopee.com.br/60R6rdPMoV",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkxr03l1t53609_tn",
-      "preco": 20.11,
-      "precoDe": 27.9,
-      "desconto": 10,
-      "cupom": "3SP3C14L5",
-      "enviadoEm": "2026-08-26T19:00:19.635Z"
-    },
-    {
-      "id": "12712",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pom Pom Protek G com 42 Unidades Para 12 Horas de Proteção",
-      "link": "https://meli.la/2KKQF9U",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_726573-MLA99451965756_112025-F.jpg",
-      "preco": 17.95,
-      "precoDe": 50.3,
-      "desconto": 29,
-      "cupom": "INTERNACIONALCN",
-      "enviadoEm": "2026-08-26T18:58:37.878Z"
-    },
-    {
-      "id": "12711",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pom Pom Protek Médio com 80 Unidades",
-      "link": "https://meli.la/2n3VnMV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_888659-MLA114844254179_072026-F.jpg",
-      "preco": 29.95,
-      "precoDe": 77.37,
-      "desconto": 23,
-      "cupom": "INTERNACIONALCN",
-      "enviadoEm": "2026-08-26T18:58:34.985Z"
     }
   ]
 }
