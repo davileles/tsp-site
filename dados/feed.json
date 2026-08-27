@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-27T19:02:13.252Z",
+  "atualizadoEm": "2026-08-27T19:18:28.423Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13014",
+      "loja": "Shopee",
+      "titulo": "Organizador de Geladeira Multiuso Plasutil Para Armario Dispensa Cozinha",
+      "link": "https://s.shopee.com.br/3qMdtXHsSS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkxr03l1t53609_tn",
+      "preco": 25.11,
+      "precoDe": 27.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T19:15:01.326Z"
+    },
+    {
+      "id": "13016",
+      "loja": "Amazon",
+      "titulo": "Happy School Cartilha de Alfabetização: Números",
+      "link": "https://www.amazon.com.br/dp/6555073683?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51kweJVWEUL._SL400_.jpg",
+      "preco": 13.49,
+      "precoDe": 29.9,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T19:14:50.322Z"
+    },
+    {
+      "id": "13015",
+      "loja": "Amazon",
+      "titulo": "2º Ano - Matemática e Português (Escolinha Todolivro)",
+      "link": "https://www.amazon.com.br/dp/8537631558?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4163arYsAwL._SL400_.jpg",
+      "preco": 4.48,
+      "precoDe": 14.9,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T19:14:48.720Z"
+    },
     {
       "id": "13009",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 5,
       "cupom": "OFFCOMMELI",
       "enviadoEm": "2026-08-26T19:56:58.166Z"
-    },
-    {
-      "id": "12737",
-      "loja": "Mercado Livre",
-      "titulo": "Trena Eletronica Medidor Distancia Digital A Laser 50 Metros",
-      "link": "https://meli.la/1RPQKTf",
-      "imagem": null,
-      "preco": 152.5,
-      "precoDe": 329,
-      "desconto": 38,
-      "cupom": "CONSTROINOML",
-      "enviadoEm": "2026-08-26T19:54:22.975Z"
-    },
-    {
-      "id": "12738",
-      "loja": "Amazon",
-      "titulo": "Philips Colgate Sonicpro 10 Kids Escova de Dente Elétrica Infantil",
-      "link": "https://www.amazon.com.br/dp/B0FN889LGY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41dB9G6Ua0L._SL400_.jpg",
-      "preco": 147.73,
-      "precoDe": 212.73,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T19:52:12.164Z"
-    },
-    {
-      "id": "12732",
-      "loja": "Shopee",
-      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
-      "link": "https://s.shopee.com.br/6AkX7202V2",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
-      "preco": 28.990000000000002,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "3SP3C14L5",
-      "enviadoEm": "2026-08-26T19:45:19.476Z"
     }
   ]
 }
