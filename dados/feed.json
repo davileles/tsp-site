@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-27T11:41:38.369Z",
+  "atualizadoEm": "2026-08-27T11:51:28.084Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12815",
+      "loja": "Shopee",
+      "titulo": "Assento Massageador Elétrico Controle Aliviar Dores Lombar Coluna Pescoço Veicular Escritório 8 Modos 3 Intensidade 3036",
+      "link": "https://s.shopee.com.br/6L3yNQ7awb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m83r5tij7p5d46_tn",
+      "preco": 109.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "T3RRYESH099",
+      "enviadoEm": "2026-08-27T11:47:21.923Z"
+    },
     {
       "id": "12813",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-08-26T12:55:28.876Z"
-    },
-    {
-      "id": "12526",
-      "loja": "Shopee",
-      "titulo": "Chocolate Café Italle Chocolate Gourmet Chocolate em Pó 1kg Achocolatado Italle",
-      "link": "https://s.shopee.com.br/20uxgiGYvL",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825az-mrswh5gsvrb8a7_tn",
-      "preco": 34.9,
-      "precoDe": 70,
-      "desconto": 43,
-      "cupom": "C0MPR4AS5",
-      "enviadoEm": "2026-08-26T12:47:50.568Z"
     }
   ]
 }
