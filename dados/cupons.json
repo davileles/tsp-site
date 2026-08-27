@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T23:04:30.119Z",
+  "atualizadoEm": "2026-08-27T01:39:41.924Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1357,6 +1357,18 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
+    },
+    {
+      "codigo": "MERCADOGIZELLY",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 0,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto válido para compras em mercado",
+      "validadeAte": "2026-08-28T01:25:22.000Z",
+      "url": null
     },
     {
       "codigo": "AUAU",
