@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-27T15:40:19.106Z",
+  "atualizadoEm": "2026-08-27T15:55:45.567Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12935",
+      "loja": "Amazon",
+      "titulo": "Raízes do Campo Café Especial Orgânico 100% Arábica em Cápsulas",
+      "link": "https://www.amazon.com.br/dp/B0GZ4T156S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41W+kFnPThL._SL400_.jpg",
+      "preco": 16.6,
+      "precoDe": 42.9,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T15:53:53.416Z"
+    },
+    {
+      "id": "12934",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
+      "link": "https://s.shopee.com.br/8plJcrOquz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnyps41y3uo4c6_tn",
+      "preco": 79.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-27T15:52:49.886Z"
+    },
+    {
+      "id": "12933",
+      "loja": "Amazon",
+      "titulo": "Mochila Executiva Premium para Notebook, Resistente à Água, Reforçada, Expansível com Cabo USB, Unissex, Mochila Para Viagem 30 litros BlidShop (Cinza)",
+      "link": "https://www.amazon.com.br/dp/B0GM3LF9T3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41x77UX3gZL._SL400_.jpg",
+      "preco": 64.5,
+      "precoDe": 199.9,
+      "desconto": 68,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T15:51:35.972Z"
+    },
     {
       "id": "12915",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 44,
       "cupom": "MELIAQUI",
       "enviadoEm": "2026-08-26T17:03:20.211Z"
-    },
-    {
-      "id": "12654",
-      "loja": "Amazon",
-      "titulo": "Ypê Amaciante Tradicional Ultra Intenso, 5L",
-      "link": "https://www.amazon.com.br/dp/B0DSCGLT32?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31uZ5Pk-TpL._SL400_.jpg",
-      "preco": 21.38,
-      "precoDe": 29.26,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T17:00:48.581Z"
-    },
-    {
-      "id": "12652",
-      "loja": "Mercado Livre",
-      "titulo": "Soprador Térmico 2 Estágios Ar Quente 1500/2000w Belffe Cor Preto",
-      "link": "https://meli.la/29LCWxo",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_645434-MLA108809194765_032026-F.jpg",
-      "preco": 58.97,
-      "precoDe": 137.37,
-      "desconto": 43,
-      "cupom": "CONSTROINOML",
-      "enviadoEm": "2026-08-26T16:59:10.233Z"
-    },
-    {
-      "id": "12649",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Dasher Lite Puma (tamanhos 34 e 35)",
-      "link": "https://meli.la/1Fy1yfj",
-      "imagem": null,
-      "preco": 195.49,
-      "precoDe": 399.99,
-      "desconto": 43,
-      "cupom": "PROMOPRAMODA",
-      "enviadoEm": "2026-08-26T16:53:40.584Z"
     }
   ]
 }
