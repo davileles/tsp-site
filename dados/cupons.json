@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T15:55:46.818Z",
+  "atualizadoEm": "2026-08-27T16:55:47.100Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1068,18 +1068,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FULLRESGATE20",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Válido em produtos selecionados conforme lista",
-      "validadeAte": "2026-08-28T03:00:32.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
