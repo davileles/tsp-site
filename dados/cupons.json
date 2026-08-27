@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T18:01:38.389Z",
+  "atualizadoEm": "2026-08-27T18:09:40.326Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1080,6 +1080,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ESTOQUEMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido apenas em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-08-28T18:04:09.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
