@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T02:09:42.058Z",
+  "atualizadoEm": "2026-08-27T03:09:42.006Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -15,42 +15,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
-      "codigo": "NOVA2",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 5200,
-      "minimo": 5200,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "GRANDE1",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 5100,
-      "minimo": 5100,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "NOVA1",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 1600,
-      "minimo": 1600,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
       "codigo": "GRANDE7",
       "loja": "Aliexpress",
       "tipo": "reais",
@@ -60,210 +24,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-29T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRGM8",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 545,
-      "minimo": 4200,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "MEGABR08",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 545,
-      "minimo": 4200,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "MEGABR09",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 495,
-      "minimo": 3000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRGM7",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 435,
-      "minimo": 3300,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "MEGABR07",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 435,
-      "minimo": 3300,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRGM6",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 2200,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "MEGABR06",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 2200,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRGM5",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 190,
-      "minimo": 1300,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "MEGABR05",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 190,
-      "minimo": 1300,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRGM4",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 110,
-      "minimo": 740,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "MEGABR04",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 110,
-      "minimo": 740,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRGM3",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 55,
-      "minimo": 380,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "MEGABR03",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 55,
-      "minimo": 380,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRGM2",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 35,
-      "minimo": 230,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "MEGABR02",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 35,
-      "minimo": 230,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRGM1",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 90,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "MEGABR01",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 90,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
@@ -1179,6 +939,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "FULLRESGATE20",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido em produtos selecionados conforme lista",
+      "validadeAte": "2026-08-28T03:00:32.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "HORADOCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1465,18 +1237,6 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
-    },
-    {
-      "codigo": "3SQU3NT499",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T03:00:50.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "70D3D3SC0NT0",
