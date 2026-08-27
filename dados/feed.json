@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-27T14:25:45.535Z",
+  "atualizadoEm": "2026-08-27T14:41:43.131Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12891",
+      "loja": "Mercado Livre",
+      "titulo": "Boneco Hulk Marvel Vingadores Hulk",
+      "link": "https://meli.la/2tSUmRr",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_729364-MLA99482226622_112025-F.jpg",
+      "preco": 75.99,
+      "precoDe": 109.99,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T14:31:43.130Z"
+    },
+    {
+      "id": "12890",
+      "loja": "Amazon",
+      "titulo": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
+      "link": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51LhtXiumlL._SL400_.jpg",
+      "preco": 84,
+      "precoDe": 118.35,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T14:31:38.009Z"
+    },
     {
       "id": "12888",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 26,
       "cupom": "ACHADODODIA",
       "enviadoEm": "2026-08-26T15:59:42.898Z"
-    },
-    {
-      "id": "12616",
-      "loja": "Shopee",
-      "titulo": "Water Cooler Pichau Aqua 360X, ARGB, 360mm, Preto, PCH-AQA360X-BK01",
-      "link": "https://s.shopee.com.br/9fKP1pQdSx",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdww-mckogua57w3gcd_tn",
-      "preco": 270.44,
-      "precoDe": 940.73,
-      "desconto": 67,
-      "cupom": "40OFFD4SH0",
-      "enviadoEm": "2026-08-26T15:57:23.238Z"
-    },
-    {
-      "id": "12615",
-      "loja": "Shopee",
-      "titulo": "Cadeira de Escritório Ergonômica Com Apoio Lombar e Apoio de Cabeça Cinza com estofado de mesh",
-      "link": "https://s.shopee.com.br/AKa5oqFsId",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mrlccp1ihix27e_tn",
-      "preco": 349,
-      "precoDe": 1215.63,
-      "desconto": 68,
-      "cupom": "40OFFD4SH0",
-      "enviadoEm": "2026-08-26T15:54:25.996Z"
     }
   ]
 }
