@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T19:47:29.929Z",
+  "atualizadoEm": "2026-08-27T20:33:21.292Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1222,6 +1222,18 @@
       "minimo": 29,
       "maximo": null,
       "limite": 10,
+      "observacao": null,
+      "validadeAte": "2026-08-28T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TBTSTOCKCAR",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 9,
+      "maximo": null,
+      "limite": 100,
       "observacao": null,
       "validadeAte": "2026-08-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
