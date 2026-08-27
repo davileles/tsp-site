@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T13:27:17.309Z",
+  "atualizadoEm": "2026-08-27T14:10:06.832Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -637,6 +637,18 @@
       "observacao": null,
       "validadeAte": "2026-08-28T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "CAZE10",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": 2000,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-28T13:59:42.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "PNEU100",
