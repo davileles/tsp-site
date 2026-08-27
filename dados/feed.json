@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-27T17:25:45.573Z",
+  "atualizadoEm": "2026-08-27T17:37:37.687Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12969",
+      "loja": "Amazon",
+      "titulo": "Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnson's Baby, 400ml",
+      "link": "https://www.amazon.com.br/dp/B077BY84XX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31QjgyWVbVL._SL400_.jpg",
+      "preco": 25.99,
+      "precoDe": 40.99,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T17:27:37.683Z"
+    },
     {
       "id": "12967",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 28,
       "cupom": "INTERNACIONALCN",
       "enviadoEm": "2026-08-26T18:49:32.290Z"
-    },
-    {
-      "id": "12705",
-      "loja": "Mercado Livre",
-      "titulo": "Berço Portátil Moises Função Balanço Mosquiteiro Infantil Preto",
-      "link": "https://meli.la/1VZ2v4i",
-      "imagem": null,
-      "preco": 458.69,
-      "precoDe": 899.99,
-      "desconto": 46,
-      "cupom": "BEBESEPETS",
-      "enviadoEm": "2026-08-26T18:49:20.964Z"
     }
   ]
 }
