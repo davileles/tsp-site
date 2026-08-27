@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T20:33:21.292Z",
+  "atualizadoEm": "2026-08-27T21:15:47.298Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -745,6 +745,18 @@
       "observacao": null,
       "validadeAte": "2026-08-31T21:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "RODEIO220",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 220,
+      "minimo": 2000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-28T21:04:09.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "PEAO150",
