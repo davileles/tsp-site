@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T10:51:28.365Z",
+  "atualizadoEm": "2026-08-27T12:16:57.451Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -447,18 +447,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "30NOROBO",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T12:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "ESSENTIALS28",
       "loja": "Kabum",
       "tipo": "pct",
@@ -759,6 +747,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PEGAESSA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-08-28T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "QUEROCUPONS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -867,15 +867,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LEVEAGORA",
+      "codigo": "CHEGOUCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
-      "validadeAte": "2026-08-27T12:00:09.000Z",
+      "observacao": null,
+      "validadeAte": "2026-08-28T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -903,15 +903,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "QUEROJA",
+      "codigo": "PEGUEIJA",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 22,
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
-      "validadeAte": "2026-08-27T12:00:09.000Z",
+      "observacao": null,
+      "validadeAte": "2026-08-28T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1056,6 +1056,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "COMPRABOA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-08-28T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1272,18 +1284,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-27T17:44:19.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "40OFFD4SH0",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 199,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T12:00:23.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
