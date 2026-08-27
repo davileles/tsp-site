@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T01:39:41.924Z",
+  "atualizadoEm": "2026-08-27T02:09:42.058Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1247,19 +1247,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-08-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BEBESEPETS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-08-27T18:01:18.000Z",
+      "validadeAte": "2026-08-29T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1287,6 +1275,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TBTSTOCKCAR",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 9,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-08-28T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "BELEZA10OFF",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1296,18 +1296,6 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ACHADODODIA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
-      "validadeAte": "2026-08-27T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
