@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-27T14:41:43.131Z",
+  "atualizadoEm": "2026-08-27T14:55:38.022Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12892",
+      "loja": "Shopee",
+      "titulo": "HEROI Banco Dobrável Para Exercícios Em Casa, Multifuncional com Banco Pastor Removível + Até 150kg",
+      "link": "https://s.shopee.com.br/qj21WURwo",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgq65zdx3i84f2_tn",
+      "preco": 429,
+      "precoDe": 998,
+      "desconto": 50,
+      "cupom": "70D3D3SC0NT0",
+      "enviadoEm": "2026-08-27T14:45:38.019Z"
+    },
     {
       "id": "12891",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 51,
       "cupom": "GAMER7",
       "enviadoEm": "2026-08-26T16:01:00.640Z"
-    },
-    {
-      "id": "12617",
-      "loja": "Mercado Livre",
-      "titulo": "Smartphone HUAWEI Pura 80 Pro 12GB+512GB Câmera Ultra-iluminação de 1 Polegada Câmera Teleobjetiva Macro Ultra-iluminação Cancelamento de Ruído por IA 5.170 mAh Dual SuperCharge Ce",
-      "link": "https://meli.la/1s11eDi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_970199-MLA113775982706_072026-F.jpg",
-      "preco": 3679,
-      "precoDe": 5245,
-      "desconto": 26,
-      "cupom": "ACHADODODIA",
-      "enviadoEm": "2026-08-26T15:59:42.898Z"
     }
   ]
 }
