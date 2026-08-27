@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-27T17:37:37.687Z",
+  "atualizadoEm": "2026-08-27T17:54:20.261Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12978",
+      "loja": "Shopee",
+      "titulo": "Massageador elétrico portátil pescoço calmante intensidade de 3 velocidades + aquecimento infravermelho",
+      "link": "https://s.shopee.com.br/6fgpAV9Uwy",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zz-mlc440901s057d_tn",
+      "preco": 79.99,
+      "precoDe": 178.55,
+      "desconto": 44,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-27T17:44:20.258Z"
+    },
+    {
+      "id": "12977",
+      "loja": "Amazon",
+      "titulo": "MAM Baby Kit 2 Mamadeiras Easy Active Set, 270ml e 330ml Com Formato Ergonômico e Fácil de Segurar para Crianças 2+ Meses com Bico de Silicone Skinsoft, Azul",
+      "link": "https://www.amazon.com.br/dp/B09VW57PZV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ZnQIo1LIL._SL400_.jpg",
+      "preco": 87.29,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T17:41:14.606Z"
+    },
     {
       "id": "12969",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 23,
       "cupom": "INTERNACIONALCN",
       "enviadoEm": "2026-08-26T18:58:34.985Z"
-    },
-    {
-      "id": "12708",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Descartável Turma da Mônica Baby XG Pacote 42 Unidades",
-      "link": "https://meli.la/1Jy4wxy",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_908623-MLA111032843377_042026-F.jpg",
-      "preco": 17.45,
-      "precoDe": 50.05,
-      "desconto": 30,
-      "cupom": "INTERNACIONALCN",
-      "enviadoEm": "2026-08-26T18:49:32.805Z"
-    },
-    {
-      "id": "12707",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Descartável Baby M Pacote 50 Unidades Turma da Mônica",
-      "link": "https://meli.la/17caSXp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_738296-MLA110297780960_052026-F.jpg",
-      "preco": 17.95,
-      "precoDe": 50.05,
-      "desconto": 28,
-      "cupom": "INTERNACIONALCN",
-      "enviadoEm": "2026-08-26T18:49:32.290Z"
     }
   ]
 }
