@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-27T20:33:19.764Z",
+  "atualizadoEm": "2026-08-27T20:47:28.522Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13033",
+      "loja": "Shopee",
+      "titulo": "Seringa de Segurança Retrátil para Insulina (1ml) com Agulha Fixa 0,3x13mm (30G 1/2) c/10 | - SOL",
+      "link": "https://s.shopee.com.br/40g4C65hat",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mnepe0233aptdf_tn",
+      "preco": 15,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T20:45:41.633Z"
+    },
     {
       "id": "13027",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 20,
       "cupom": "INTERNACIONALCN",
       "enviadoEm": "2026-08-26T20:42:08.109Z"
-    },
-    {
-      "id": "12753",
-      "loja": "Mercado Livre",
-      "titulo": "Máquina De Solda Inversora Portatil War Shark Bivolt 110v/220v Mma Tig Amarelo",
-      "link": "https://meli.la/2PcFUQD",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_637780-MLA103727463283_012026-F.jpg",
-      "preco": 229.07,
-      "precoDe": 397.1,
-      "desconto": 27,
-      "cupom": "CONSTROINOML",
-      "enviadoEm": "2026-08-26T20:39:56.950Z"
     }
   ]
 }
