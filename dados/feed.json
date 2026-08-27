@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-08-27T11:51:28.084Z",
+  "atualizadoEm": "2026-08-27T12:16:55.971Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12826",
+      "loja": "Amazon",
+      "titulo": "Lacta Favoritos - Caixa de variedades chocolates, 250,6g",
+      "link": "https://www.amazon.com.br/dp/B07T3GX8TK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41hRm8QgTyL._SL400_.jpg",
+      "preco": 12.99,
+      "precoDe": 18.49,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T12:13:02.736Z"
+    },
+    {
+      "id": "12825",
+      "loja": "Amazon",
+      "titulo": "Limpeza e Hidratação de Couro Bancos Sofás Bolsas e jaquetas de Couro Vonixx Hidracouro e Higicouro",
+      "link": "https://www.amazon.com.br/dp/B0CZJ6GN7P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41GfaxIhDhL._SL400_.jpg",
+      "preco": 48.38,
+      "precoDe": 56.59,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T12:10:35.746Z"
+    },
+    {
+      "id": "12824",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
+      "link": "https://s.shopee.com.br/6fgonYpseP",
+      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
+      "preco": 47.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "3SP3C14L5",
+      "enviadoEm": "2026-08-27T12:09:48.552Z"
+    },
+    {
+      "id": "12823",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Toalhas 4 Pçs Fio Cardado 100% Algodão Bosco Karsten Cinza Bosco",
+      "link": "https://meli.la/34eCKAH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_814876-MLA95676723136_102025-F.jpg",
+      "preco": 59.95,
+      "precoDe": 149.9,
+      "desconto": 20,
+      "cupom": "INTERNACIONALCN",
+      "enviadoEm": "2026-08-27T12:09:16.695Z"
+    },
+    {
+      "id": "12822",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
+      "link": "https://meli.la/1JVBYQL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603981-MLA115262802698_082026-F.jpg",
+      "preco": 59.17,
+      "precoDe": 159.9,
+      "desconto": 51,
+      "cupom": "QUEROCUPONS",
+      "enviadoEm": "2026-08-27T12:08:30.216Z"
+    },
+    {
+      "id": "12821",
+      "loja": "Amazon",
+      "titulo": "Lacta Sonho de Valsa - Wafer Recheado Sabor Chocolate Pacote 1kg",
+      "link": "https://www.amazon.com.br/dp/B008S5ICJ0?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41AbNodE-kL._SL400_.jpg",
+      "preco": 59.9,
+      "precoDe": 94.5,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T12:06:56.648Z"
+    },
+    {
+      "id": "12820",
+      "loja": "Mercado Livre",
+      "titulo": "Glosslicious Kit Fran - By Franciny Elkhe",
+      "link": "https://meli.la/1cW4Zeh",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621041-MLA110838260235_042026-F.jpg",
+      "preco": 20.130000000000003,
+      "precoDe": 45.08,
+      "desconto": 11,
+      "cupom": "INTERNACIONALCN",
+      "enviadoEm": "2026-08-27T12:04:28.930Z"
+    },
+    {
+      "id": "12818",
+      "loja": "Amazon",
+      "titulo": "Kit 2 Cremes Pomadas de Assaduras Vit B5 com 200g cada, Total 400g - Bepantol Baby",
+      "link": "https://www.amazon.com.br/dp/B0H2G42RC7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41F-RUqhtYL._SL400_.jpg",
+      "preco": 174.98,
+      "precoDe": 199.9,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T11:56:28.464Z"
+    },
     {
       "id": "12815",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 26,
       "cupom": null,
       "enviadoEm": "2026-08-26T14:23:45.555Z"
-    },
-    {
-      "id": "12550",
-      "loja": "Shopee",
-      "titulo": "Envio Imediato - Creatina Dux n Monohidratada 300g - 100% ORIGINAL",
-      "link": "https://s.shopee.com.br/8AVb7Vo4Rd",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mikc8avmgfer12_tn",
-      "preco": 59,
-      "precoDe": 188.1,
-      "desconto": 58,
-      "cupom": "4M04SH0P33",
-      "enviadoEm": "2026-08-26T14:08:02.258Z"
-    },
-    {
-      "id": "12546",
-      "loja": "Shopee",
-      "titulo": "Dispositivo Elétrico De Enxágue Nasal 360 ° Limpador De Sinusite Portátil Giratório De Cabeça Dupla Para Recuperação Aut",
-      "link": "https://s.shopee.com.br/4LIsWt2ef9",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mjme2wakn8qt69_tn",
-      "preco": 280,
-      "precoDe": 533.33,
-      "desconto": 40,
-      "cupom": "40OFFD4SH0",
-      "enviadoEm": "2026-08-26T13:45:00.635Z"
-    },
-    {
-      "id": "12541",
-      "loja": "Amazon",
-      "titulo": "Esterilizador De Microondas para Mamadeiras Bicos e Chupetas Philips Avent Azul/Branco",
-      "link": "https://www.amazon.com.br/dp/B07G8QLGSR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31k6DMMlVEL._SL400_.jpg",
-      "preco": 164,
-      "precoDe": 259.9,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T13:22:11.779Z"
-    },
-    {
-      "id": "12540",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Descartável Premium Natural Care M - 78 Un",
-      "link": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/413C6Qz-mOL._SL400_.jpg",
-      "preco": 92.9,
-      "precoDe": 125.24,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T13:22:10.003Z"
-    },
-    {
-      "id": "12538",
-      "loja": "Shopee",
-      "titulo": "Cooktop a Gás Atlas 4 Bocas Agile Up Preto - Bivolt",
-      "link": "https://s.shopee.com.br/9zxFFlxayV",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ras9-ma4hfpfmk0x7c7_tn",
-      "preco": 395,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "N1NTENDO10",
-      "enviadoEm": "2026-08-26T13:22:05.448Z"
-    },
-    {
-      "id": "12535",
-      "loja": "Shopee",
-      "titulo": "Creme Pomada de Assadura  Lanolina e Vit B5 200g Bepantol ",
-      "link": "https://s.shopee.com.br/8V8RS6dWs8",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820n6-mne9xfta8cn994_tn",
-      "preco": 79.99,
-      "precoDe": 120.47,
-      "desconto": 17,
-      "cupom": "C0MP74RN4SH0P33",
-      "enviadoEm": "2026-08-26T13:06:42.422Z"
-    },
-    {
-      "id": "12531",
-      "loja": "Shopee",
-      "titulo": "Conjunto Tal Mãe e Filha Baby Doll Preto Pijama Feminino Lua Cinza",
-      "link": "https://s.shopee.com.br/4LIsToVGzt",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwyr4mfbl8r652_tn",
-      "preco": 40.5,
-      "precoDe": 65,
-      "desconto": 30,
-      "cupom": "C0MPR4AS5",
-      "enviadoEm": "2026-08-26T12:59:42.957Z"
-    },
-    {
-      "id": "12529",
-      "loja": "Amazon",
-      "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
-      "link": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41xmDfLLgRL._SL400_.jpg",
-      "preco": 76.45,
-      "precoDe": 101.58,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T12:55:28.876Z"
     }
   ]
 }
