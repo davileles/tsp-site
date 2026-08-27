@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-08-27T15:55:45.567Z",
+  "atualizadoEm": "2026-08-27T16:25:35.244Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12949",
+      "loja": "Shopee",
+      "titulo": "JOGO DE CAMA Queen 500 Fios Percal Toque Algodão + 2 Fronhas 50x70 | Cobre Leito Luxo Sem Elástico",
+      "link": "https://s.shopee.com.br/8AVcrBFHid",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mnmy209iybcya0_tn",
+      "preco": 42.57,
+      "precoDe": 72.15,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T16:15:35.243Z"
+    },
+    {
+      "id": "12945",
+      "loja": "Amazon",
+      "titulo": "Lanterna Projetora Infantil com 3 Discos e 24 Imagens Sortidas – Brinquedo Educativo e Divertido - TYDA (ROSA/LILAS)",
+      "link": "https://www.amazon.com.br/dp/B0F4DVY88F?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31SYncB+6iL._SL400_.jpg",
+      "preco": 22.47,
+      "precoDe": 32.47,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T16:10:20.154Z"
+    },
+    {
+      "id": "12944",
+      "loja": "Amazon",
+      "titulo": "Kit 2 Raquetes de Velcro + Bola Que Gruda – Bateu Colou Brinquedo Esportivo Infantil/Adulto - TYDA",
+      "link": "https://www.amazon.com.br/dp/B0FSF29J85?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3152C8AqzUL._SL400_.jpg",
+      "preco": 29.47,
+      "precoDe": 39.9,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T16:10:19.346Z"
+    },
+    {
+      "id": "12943",
+      "loja": "Mercado Livre",
+      "titulo": "Carrinho Infantil Triciclo Andador Motoca",
+      "link": "https://meli.la/1v6hs1f",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_887512-MLA96172695979_102025-F.jpg",
+      "preco": 58.56,
+      "precoDe": 189.9,
+      "desconto": 64,
+      "cupom": "MELIAQUI",
+      "enviadoEm": "2026-08-27T16:10:18.035Z"
+    },
+    {
+      "id": "12942",
+      "loja": "Amazon",
+      "titulo": "Buba Kit Cuidados Baby Cinza Tamanho Único",
+      "link": "https://www.amazon.com.br/dp/B086JCX68G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31L0EY8bhBL._SL400_.jpg",
+      "preco": 33.52,
+      "precoDe": 47.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T16:10:12.232Z"
+    },
+    {
+      "id": "12941",
+      "loja": "Mercado Livre",
+      "titulo": "Esmerilhadeira Angular Makita 115MM 220V 850W Azul M9510B",
+      "link": "https://meli.la/1MyxJMB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_786954-MLA99508488746_112025-F.jpg",
+      "preco": 264.45,
+      "precoDe": 460.64,
+      "desconto": 30,
+      "cupom": "CONSTROINOML",
+      "enviadoEm": "2026-08-27T16:09:54.789Z"
+    },
+    {
+      "id": "12940",
+      "loja": "Mercado Livre",
+      "titulo": "Soprador De Ar Mini Turbo Portátil Usb Sem Fio Recarregável Para Limpeza Com 2 Bicos E Inflar Preto 127/220v",
+      "link": "https://meli.la/2DNhZHW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_982885-MLA115297946876_082026-F.jpg",
+      "preco": 29.480000000000004,
+      "precoDe": 52.9,
+      "desconto": 26,
+      "cupom": "CONSTROINOML",
+      "enviadoEm": "2026-08-27T16:04:46.816Z"
+    },
+    {
+      "id": "12939",
+      "loja": "Mercado Livre",
+      "titulo": "Mini Ventilador Soprador Ar Turbo 130000rpm Assoprador Sem Fio Recarregável Usb 3 Níveis Jato Forte Portátil Multiuso Limpeza Teclado Carro Acende Churrasqueira Davely",
+      "link": "https://meli.la/2mg1y1Y",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_667790-MLA113358900874_072026-F.jpg",
+      "preco": 36.67,
+      "precoDe": 96,
+      "desconto": 49,
+      "cupom": "CONSTROINOML",
+      "enviadoEm": "2026-08-27T16:00:58.997Z"
+    },
+    {
+      "id": "12937",
+      "loja": "Amazon",
+      "titulo": "Hollyland LARK A1 Mini Duo USB-C – Microfone Sem Fio Mini",
+      "link": "https://www.amazon.com.br/dp/B0H93PQ9ZM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41u5zqey9CL._SL400_.jpg",
+      "preco": 314.1,
+      "precoDe": 349,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T15:58:44.600Z"
+    },
     {
       "id": "12935",
       "loja": "Amazon",
@@ -807,18 +915,6 @@
       "enviadoEm": "2026-08-26T21:15:48.318Z"
     },
     {
-      "id": "12768",
-      "loja": "Mercado Livre",
-      "titulo": "Soprador De Ar Mini Turbo Portátil Usb Sem Fio Recarregável Para Limpeza Com 2 Bicos E Inflar Preto 127/220v",
-      "link": "https://meli.la/2DNhZHW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_982885-MLA115297946876_082026-F.jpg",
-      "preco": 32.849999999999994,
-      "precoDe": 52.9,
-      "desconto": 17,
-      "cupom": "CONSTROINOML",
-      "enviadoEm": "2026-08-26T21:15:00.821Z"
-    },
-    {
       "id": "12767",
       "loja": "Shopee",
       "titulo": "Ugreen - Hub USB-C 7X1 Multifunctional  1*HDMI 4K 60@ -  2*USB-C 3.2 - 1*USB-A 3.2 - SD/TF - 100W PD",
@@ -1345,102 +1441,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-08-26T17:48:06.582Z"
-    },
-    {
-      "id": "12676",
-      "loja": "Amazon",
-      "titulo": "Minhas Primeiras 1.000 Palavras em Inglês",
-      "link": "https://www.amazon.com.br/dp/8537602825?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51MEhAo3esL._SL400_.jpg",
-      "preco": 24.4,
-      "precoDe": 34.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T17:48:03.852Z"
-    },
-    {
-      "id": "12675",
-      "loja": "Amazon",
-      "titulo": "Meu Livro Sonoro Interativo - Português e Inglês - Azul",
-      "link": "https://www.amazon.com.br/dp/656126696X?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51htRhFURNL._SL400_.jpg",
-      "preco": 47.4,
-      "precoDe": 129.9,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T17:48:01.443Z"
-    },
-    {
-      "id": "12674",
-      "loja": "Amazon",
-      "titulo": "Coleção Meu Primeiro Livrinho Trilíngue - Box com 4 Livrinhos",
-      "link": "https://www.amazon.com.br/dp/6555478144?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51kwx7i5n3L._SL400_.jpg",
-      "preco": 33.5,
-      "precoDe": 59,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T17:47:59.267Z"
-    },
-    {
-      "id": "12667",
-      "loja": "Amazon",
-      "titulo": "Buba, Lavador Nasal Seringa Dino Rosa",
-      "link": "https://www.amazon.com.br/dp/B0CG6N39NT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31DVdg2I3LL._SL400_.jpg",
-      "preco": 14.22,
-      "precoDe": 20.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T17:32:03.540Z"
-    },
-    {
-      "id": "12666",
-      "loja": "Shopee",
-      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
-      "link": "https://s.shopee.com.br/AAGfj951CZ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
-      "preco": 177.9,
-      "precoDe": 599.7,
-      "desconto": 67,
-      "cupom": "4M04SH0P33",
-      "enviadoEm": "2026-08-26T17:30:43.332Z"
-    },
-    {
-      "id": "12665",
-      "loja": "Amazon",
-      "titulo": "Sabonete Líquido Huggies Extra Suave - 200ml",
-      "link": "https://www.amazon.com.br/dp/B07FSTR3JS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41l7d8tK4wL._SL400_.jpg",
-      "preco": 15.49,
-      "precoDe": 19.94,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T17:27:46.876Z"
-    },
-    {
-      "id": "12658",
-      "loja": "Shopee",
-      "titulo": "Mala Pequena de Bordo 10kg TSA Polipropileno Giro 360º Munique Polo King",
-      "link": "https://s.shopee.com.br/AUtW6DG87r",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfrbrzcgpqtj8e_tn",
-      "preco": 259.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "40OFFD4SH0",
-      "enviadoEm": "2026-08-26T17:08:26.751Z"
-    },
-    {
-      "id": "12657",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Pato Dançante E Caranguejo Fujão Brinquedos Som Infantil",
-      "link": "https://meli.la/1pEpLNc",
-      "imagem": null,
-      "preco": 52.120000000000005,
-      "precoDe": 109.9,
-      "desconto": 44,
-      "cupom": "MELIAQUI",
-      "enviadoEm": "2026-08-26T17:03:20.211Z"
     }
   ]
 }
