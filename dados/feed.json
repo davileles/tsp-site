@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-26T23:04:29.049Z",
+  "atualizadoEm": "2026-08-27T11:12:47.418Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12810",
+      "loja": "Shopee",
+      "titulo": "1 unidade Saquinho de veludo 13cm x 18cm p/ embalagem presente",
+      "link": "https://s.shopee.com.br/6L3yKLaLtS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lth372jhd161e3_tn",
+      "preco": 15.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T11:02:47.417Z"
+    },
     {
       "id": "12791",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 52,
       "cupom": "GAMER7",
       "enviadoEm": "2026-08-26T12:42:23.125Z"
-    },
-    {
-      "id": "12523",
-      "loja": "Shopee",
-      "titulo": "Suporte Articulado Para 2 Monitores 13 a 32 Pistão a Gás Zinnia Nimbo 210 Branco",
-      "link": "https://s.shopee.com.br/4LIsSRLbzw",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mqeqor4n1ts064_tn",
-      "preco": 128.19,
-      "precoDe": 361.44,
-      "desconto": 59,
-      "cupom": "C0MP74RN4SH0P33",
-      "enviadoEm": "2026-08-26T12:39:34.491Z"
     }
   ]
 }
