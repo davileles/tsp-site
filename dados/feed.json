@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-27T18:38:39.239Z",
+  "atualizadoEm": "2026-08-27T19:02:13.252Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13009",
+      "loja": "Shopee",
+      "titulo": "Mochila Moto LED Olhos 3D Casca Rígida Impermeável Grande Capacidade Mochila Moderna para Viagem Trabalho Dia a Dia",
+      "link": "https://s.shopee.com.br/5foI3KFDes",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mlwrlh9oi1hi51_tn",
+      "preco": 339.99,
+      "precoDe": 1904.71,
+      "desconto": 79,
+      "cupom": "AB3RTR8AF",
+      "enviadoEm": "2026-08-27T18:52:13.250Z"
+    },
     {
       "id": "13005",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "3SP3C14L5",
       "enviadoEm": "2026-08-26T19:45:19.476Z"
-    },
-    {
-      "id": "12728",
-      "loja": "Amazon",
-      "titulo": "Clear Shampoo Men Anticaspa Ice Cool Menthol 400Ml",
-      "link": "https://www.amazon.com.br/dp/B07LFGWRC7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41k6AMqjx8L._SL400_.jpg",
-      "preco": 22.06,
-      "precoDe": 31.99,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T19:34:48.499Z"
     }
   ]
 }
