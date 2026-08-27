@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-27T20:10:55.590Z",
+  "atualizadoEm": "2026-08-27T20:33:19.764Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13027",
+      "loja": "Shopee",
+      "titulo": "Regata Masculina Americana Ribana Canelada Slim Justa ao Corpo Marrom",
+      "link": "https://s.shopee.com.br/9KhaWLxmLw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcri0jg5g27mb2_tn",
+      "preco": 29.97,
+      "precoDe": 39.96,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T20:23:19.761Z"
+    },
     {
       "id": "13024",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 27,
       "cupom": "CONSTROINOML",
       "enviadoEm": "2026-08-26T20:39:56.950Z"
-    },
-    {
-      "id": "12752",
-      "loja": "Mercado Livre",
-      "titulo": "Aparelho De Jantar 16 Peças Daily Valência - Porto Brasil",
-      "link": "https://meli.la/1irt1rJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_930561-MLA95833830029_102025-F.jpg",
-      "preco": 242.25,
-      "precoDe": 482.06,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T20:37:40.760Z"
     }
   ]
 }
