@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-27T13:54:59.896Z",
+  "atualizadoEm": "2026-08-27T14:10:05.488Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12882",
+      "loja": "Shopee",
+      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
+      "link": "https://s.shopee.com.br/1gI8xwm2gV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
+      "preco": 65.39,
+      "precoDe": 328.42,
+      "desconto": 74,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-27T14:00:05.485Z"
+    },
     {
       "id": "12857",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 27,
       "cupom": null,
       "enviadoEm": "2026-08-26T15:46:33.165Z"
-    },
-    {
-      "id": "12611",
-      "loja": "Amazon",
-      "titulo": "Mixer Power Inox 3 em 1 600W Elgin Vermelho 110V",
-      "link": "https://www.amazon.com.br/dp/B0CBT11T8X?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ELZdEdg-L._SL400_.jpg",
-      "preco": 122,
-      "precoDe": 153,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T15:45:04.069Z"
     }
   ]
 }
