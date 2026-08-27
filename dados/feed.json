@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-27T21:43:05.556Z",
+  "atualizadoEm": "2026-08-27T22:03:09.900Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13050",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41zapxN3+7L._SL400_.jpg",
+      "preco": 63.12,
+      "precoDe": 77.27,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T21:53:09.897Z"
+    },
     {
       "id": "13046",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 62,
       "cupom": "3SP3C14L5",
       "enviadoEm": "2026-08-26T21:08:59.103Z"
-    },
-    {
-      "id": "12762",
-      "loja": "Mercado Livre",
-      "titulo": "Fruteira Armário para Cozinha Balcão Para Cafeteira E Forno Cor Preto Nova Decor",
-      "link": "https://meli.la/2kGkfj7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_669753-MLU77125115834_062024-F.jpg",
-      "preco": 154.28,
-      "precoDe": 253.15,
-      "desconto": 31,
-      "cupom": "PROMOCERTA",
-      "enviadoEm": "2026-08-26T21:06:47.446Z"
     }
   ]
 }
