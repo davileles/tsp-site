@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T13:04:48.014Z",
+  "atualizadoEm": "2026-08-27T13:25:46.815Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1103,7 +1103,7 @@
       "maximo": null,
       "limite": 10,
       "observacao": "Válido em lojas oficiais. Clique em 'Mostrar mais' para ver lista completa de selecionados.",
-      "validadeAte": "2026-08-28T12:58:35.000Z",
+      "validadeAte": "2026-08-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1344,30 +1344,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-28T13:00:57.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "ESQN1N3N1N3",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 75,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T13:15:23.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "GG15ES",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 75,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-27T13:21:21.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
