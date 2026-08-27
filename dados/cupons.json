@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T17:12:55.334Z",
+  "atualizadoEm": "2026-08-27T17:37:38.995Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -969,7 +969,7 @@
       "valor": 25,
       "minimo": 19,
       "maximo": null,
-      "limite": 60,
+      "limite": 100,
       "observacao": "Cupons válidos em selecionados conforme listas específicas",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -1149,9 +1149,9 @@
       "valor": 15,
       "minimo": 50,
       "maximo": null,
-      "limite": 200,
+      "limite": 100,
       "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-08-28T02:59:00.000Z",
+      "validadeAte": "2026-08-28T17:27:38.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1186,18 +1186,6 @@
       "minimo": 29,
       "maximo": null,
       "limite": 10,
-      "observacao": null,
-      "validadeAte": "2026-08-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TBTSTOCKCAR",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 9,
-      "maximo": null,
-      "limite": 100,
       "observacao": null,
       "validadeAte": "2026-08-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -1245,9 +1233,9 @@
       "valor": 8,
       "minimo": 150,
       "maximo": null,
-      "limite": 300,
+      "limite": 200,
       "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-08-28T02:59:00.000Z",
+      "validadeAte": "2026-08-28T17:27:38.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
