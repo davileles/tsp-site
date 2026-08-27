@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T18:09:40.326Z",
+  "atualizadoEm": "2026-08-27T18:38:40.593Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -759,6 +759,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "PEAO15",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": 700,
+      "limite": null,
+      "observacao": "Cupom válido no app Magalu",
+      "validadeAte": "2026-08-28T18:18:16.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "CAZE10",
       "loja": "Magazine Luiza",
       "tipo": "pct",
@@ -1476,6 +1488,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-27T21:23:21.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "ULT1M0M1M0",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-28T18:32:31.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
