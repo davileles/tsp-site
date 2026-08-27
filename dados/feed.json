@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-27T12:55:45.518Z",
+  "atualizadoEm": "2026-08-27T13:25:45.534Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12848",
+      "loja": "Shopee",
+      "titulo": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
+      "link": "https://s.shopee.com.br/5VUrU3WAmf",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvk-mik9ovwbhszk62_tn",
+      "preco": 27.990000000000002,
+      "precoDe": 57.88,
+      "desconto": 43,
+      "cupom": "3SP3C14L5",
+      "enviadoEm": "2026-08-27T13:17:17.060Z"
+    },
+    {
+      "id": "12846",
+      "loja": "Amazon",
+      "titulo": "Kit 4 Cremes Pomadas de Assaduras Vit B5 com 100g cada, Total 400g - Bepantol Baby",
+      "link": "https://www.amazon.com.br/dp/B0H2G1RDK5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51m5K-b1yLL._SL400_.jpg",
+      "preco": 170.9,
+      "precoDe": 229.9,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T13:08:43.279Z"
+    },
     {
       "id": "12837",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "GAMER7",
       "enviadoEm": "2026-08-26T15:38:36.946Z"
-    },
-    {
-      "id": "12602",
-      "loja": "Shopee",
-      "titulo": "Panela de Pressão Elétrica Multifuncional HQ 5 Litros Inox HQ-Y5MI",
-      "link": "https://s.shopee.com.br/40g2FufVGh",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcd2-m65lipzqlckede_tn",
-      "preco": 243.16000000000003,
-      "precoDe": 358.43,
-      "desconto": 21,
-      "cupom": "40OFFD4SH0",
-      "enviadoEm": "2026-08-26T15:35:31.266Z"
-    },
-    {
-      "id": "12601",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira De Impacto A Bateria 21V 3/8” Bivolt 1400 Rpm Com Acessórios E Maleta TB-21PZW The Black Tools",
-      "link": "https://meli.la/1aRgNh5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_660718-MLA99503122958_112025-F.jpg",
-      "preco": 87.75,
-      "precoDe": 259.9,
-      "desconto": 55,
-      "cupom": "CONSTROINOML",
-      "enviadoEm": "2026-08-26T15:34:31.329Z"
     }
   ]
 }
