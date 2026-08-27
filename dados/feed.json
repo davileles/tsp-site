@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-27T15:25:45.566Z",
+  "atualizadoEm": "2026-08-27T15:40:19.106Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12915",
+      "loja": "Shopee",
+      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
+      "link": "https://s.shopee.com.br/40g3qQtq5i",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
+      "preco": 59,
+      "precoDe": 158,
+      "desconto": 50,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-27T15:30:19.104Z"
+    },
     {
       "id": "12912",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 43,
       "cupom": "PROMOPRAMODA",
       "enviadoEm": "2026-08-26T16:53:40.584Z"
-    },
-    {
-      "id": "12650",
-      "loja": "Mercado Livre",
-      "titulo": "Mochila Com Rodas Escolar Xeryus 16 Patrulha Canina 15300 Azul Infantil Carrinho Resistente Paw Patrol",
-      "link": "https://meli.la/2jCMaH7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_739429-MLA100588550388_122025-F.jpg",
-      "preco": 161.49,
-      "precoDe": 319.99,
-      "desconto": 41,
-      "cupom": "PROMOPRAMODA",
-      "enviadoEm": "2026-08-26T16:53:27.262Z"
     }
   ]
 }
