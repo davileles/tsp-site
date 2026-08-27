@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-27T13:25:45.534Z",
+  "atualizadoEm": "2026-08-27T13:54:59.896Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "12857",
+      "loja": "Mercado Livre",
+      "titulo": "Safety 1st, Berço Mini Play, Grey Denim",
+      "link": "https://meli.la/21CmvM6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_640060-MLA99580387268_122025-F.jpg",
+      "preco": 299.9,
+      "precoDe": 599,
+      "desconto": 42,
+      "cupom": "MELIAQUI",
+      "enviadoEm": "2026-08-27T13:44:59.895Z"
+    },
+    {
+      "id": "12856",
+      "loja": "Mercado Livre",
+      "titulo": "Sling De Bebe Recém Nascido Bebe Canguru De Vestir Cinza Ajustável - Marca DE CORAZÓN",
+      "link": "https://meli.la/2HfNr6b",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_804697-MLA111547372425_052026-F.jpg",
+      "preco": 54.489999999999995,
+      "precoDe": 150,
+      "desconto": 57,
+      "cupom": "MELIAQUI",
+      "enviadoEm": "2026-08-27T13:44:56.639Z"
+    },
+    {
+      "id": "12855",
+      "loja": "Mercado Livre",
+      "titulo": "Xô Meleca | Banho de Ervas para Bebê – Nariz Entupido, Coriza e Congestão | 7 Sachês - Rende até 42 Banhos",
+      "link": "https://meli.la/1cZoLQj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_716654-MLA116754503955_082026-F.jpg",
+      "preco": 47.5,
+      "precoDe": 50,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-08-27T13:44:53.517Z"
+    },
     {
       "id": "12848",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 20,
       "cupom": null,
       "enviadoEm": "2026-08-26T15:45:04.069Z"
-    },
-    {
-      "id": "12610",
-      "loja": "Shopee",
-      "titulo": "Kit Coala Laundry Chá Branco - 1 Lava Roupas 5l + 2 Amaciantes Concentrados 1L",
-      "link": "https://s.shopee.com.br/9V0yobwxOh",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mqw8ujy2tvr9f6_tn",
-      "preco": 56.900000000000006,
-      "precoDe": 120.16,
-      "desconto": 36,
-      "cupom": "4M04SH0P33",
-      "enviadoEm": "2026-08-26T15:44:15.980Z"
-    },
-    {
-      "id": "12605",
-      "loja": "Amazon",
-      "titulo": "Nobreak Interactive, Intelbras XNB 600 120V, Preto",
-      "link": "https://www.amazon.com.br/dp/B07D7Y9NMG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31O56aIsQAL._SL400_.jpg",
-      "preco": 267.75,
-      "precoDe": 399,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T15:41:45.465Z"
-    },
-    {
-      "id": "12604",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Organizador De Mala Necessaire Bolsa De Viagem Travel Bag Premium",
-      "link": "https://s.shopee.com.br/7VFsjChgIN",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repg-m2poj36o1kzt4b_tn",
-      "preco": 22.31,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "GAMER7",
-      "enviadoEm": "2026-08-26T15:38:36.946Z"
     }
   ]
 }
