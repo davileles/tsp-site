@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T17:54:01.777Z",
+  "atualizadoEm": "2026-08-28T18:23:02.041Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -783,18 +783,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "PEAO15",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": 700,
-      "limite": null,
-      "observacao": "Cupom válido no app Magalu",
-      "validadeAte": "2026-08-28T18:18:16.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "INTERNACIONALCN",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1203,27 +1191,27 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OBRAS15",
+      "codigo": "DECORACAO",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 15,
-      "minimo": 249,
+      "minimo": 399,
       "maximo": null,
-      "limite": 40,
+      "limite": 65,
       "observacao": null,
-      "validadeAte": "2026-08-28T18:00:00.000Z",
+      "validadeAte": "2026-08-29T18:02:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OBRASEFERRAMENTAS",
+      "codigo": "LIVROS15",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 15,
-      "minimo": 249,
+      "minimo": 79,
       "maximo": null,
-      "limite": 40,
+      "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-08-28T18:00:00.223Z",
+      "validadeAte": "2026-08-29T18:02:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
