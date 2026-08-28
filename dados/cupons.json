@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-27T23:47:28.893Z",
+  "atualizadoEm": "2026-08-28T00:47:28.831Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1091,7 +1091,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-08-28T12:00:02.000Z",
+      "validadeAte": "2026-09-19T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1212,18 +1212,6 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BELEZA10OFF",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 59.99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
