@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T13:46:33.853Z",
+  "atualizadoEm": "2026-08-28T14:15:16.632Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -795,30 +795,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "CAZE10",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": 2000,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-28T13:59:42.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-08-30T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "100TODOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -828,6 +804,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-28T15:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 399,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-08-30T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1263,6 +1251,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TBTSTOCKCAR",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 9,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-08-30T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "LANCECERTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1428,6 +1428,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-28T21:40:07.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "SP08T3AF",
+      "loja": "Shopee",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 10,
+      "observacao": null,
+      "validadeAte": "2026-08-29T13:51:17.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
