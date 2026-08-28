@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T19:53:01.743Z",
+  "atualizadoEm": "2026-08-28T19:54:19.924Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1215,6 +1215,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LIVROSEJOGOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-08-30T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PROMOCERTA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1236,18 +1248,6 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TBTSTOCKCAR",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 9,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-08-30T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
