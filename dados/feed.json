@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-28T17:54:00.563Z",
+  "atualizadoEm": "2026-08-28T18:23:00.563Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13184",
+      "loja": "Shopee",
+      "titulo": "Mala De Viagem/Bordo 10KG,Nova Estilo Zíper Dupla Camada Anti-Roubo,Rodas Duplas 360Grau lançamento",
+      "link": "https://s.shopee.com.br/5As30hC3zx",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6kfam0o02sw54_tn",
+      "preco": 120,
+      "precoDe": 280,
+      "desconto": 50,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-28T18:14:07.659Z"
+    },
     {
       "id": "13178",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-08-27T12:37:54.725Z"
-    },
-    {
-      "id": "12826",
-      "loja": "Amazon",
-      "titulo": "Lacta Favoritos - Caixa de variedades chocolates, 250,6g",
-      "link": "https://www.amazon.com.br/dp/B07T3GX8TK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41hRm8QgTyL._SL400_.jpg",
-      "preco": 12.99,
-      "precoDe": 18.49,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T12:13:02.736Z"
     }
   ]
 }
