@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-28T22:23:24.849Z",
+  "atualizadoEm": "2026-08-28T22:41:37.612Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13243",
+      "loja": "Mercado Livre",
+      "titulo": "Speaker Philco Connection Bluetooth V.5.3 50w Pbs56",
+      "link": "https://meli.la/2mpcTzy",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_673249-MLA92273918118_092025-F.jpg",
+      "preco": 140.98000000000002,
+      "precoDe": 350,
+      "desconto": 55,
+      "cupom": "LANCECERTO",
+      "enviadoEm": "2026-08-28T22:36:58.847Z"
+    },
+    {
+      "id": "13246",
+      "loja": "Amazon",
+      "titulo": "Carter's Pacote com 7 bodies de manga comprida para bebês meninas, Branco/Cinza, PRE",
+      "link": "https://www.amazon.com.br/dp/B07WXZPMM6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41nuWvpb6vL._SL400_.jpg",
+      "preco": 136.25,
+      "precoDe": 165.45,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-08-28T22:35:58.048Z"
+    },
+    {
+      "id": "13240",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer LG 24MS500-B 24ms Ips Fullhd 100hz Ajuste de Inclinação Negro",
+      "link": "https://meli.la/27gKiRX",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_921982-MLA99962503055_112025-F.jpg",
+      "preco": 464.70000000000005,
+      "precoDe": 749,
+      "desconto": 31,
+      "cupom": "LANCECERTO",
+      "enviadoEm": "2026-08-28T22:29:43.428Z"
+    },
     {
       "id": "13237",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-08-27T14:31:38.009Z"
-    },
-    {
-      "id": "12888",
-      "loja": "Shopee",
-      "titulo": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
-      "link": "https://s.shopee.com.br/LmlP2f0t2",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134207-825ai-mr9pynhmd43k22_tn",
-      "preco": 97,
-      "precoDe": 219.4,
-      "desconto": 33,
-      "cupom": "T3RRYESH099",
-      "enviadoEm": "2026-08-27T14:22:59.080Z"
-    },
-    {
-      "id": "12887",
-      "loja": "Mercado Livre",
-      "titulo": "Banheira Plástica Acqua Trio Branca Galzerano",
-      "link": "https://meli.la/31qC6bJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_706338-MLA113145908796_072026-F.jpg",
-      "preco": 178.41,
-      "precoDe": 299,
-      "desconto": 30,
-      "cupom": "MELIAQUI",
-      "enviadoEm": "2026-08-27T14:19:04.344Z"
-    },
-    {
-      "id": "12886",
-      "loja": "Amazon",
-      "titulo": "Lillo Caneca Aprendizado C/ Alça Evolution Bebedor SIL 150 ml - Menino, Lillo, Azul/Laranja",
-      "link": "https://www.amazon.com.br/dp/B08V2M2MQV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41zt0xUIl9L._SL400_.jpg",
-      "preco": 33.86,
-      "precoDe": 45.78,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T14:19:00.617Z"
     }
   ]
 }
