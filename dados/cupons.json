@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T16:53:28.260Z",
+  "atualizadoEm": "2026-08-28T17:15:34.132Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -744,18 +744,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-28T21:04:09.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "PEAO150",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 1000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-28T17:04:46.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
