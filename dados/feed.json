@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-28T16:30:55.174Z",
+  "atualizadoEm": "2026-08-28T16:45:32.676Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13164",
+      "loja": "Amazon",
+      "titulo": "Xapadinha Shampoo Antiquebra 250ml , Lola Cosmetics",
+      "link": "https://www.amazon.com.br/dp/B0CGBCK7MW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41O5W9Fi0fL._SL400_.jpg",
+      "preco": 17.96,
+      "precoDe": 44.9,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-08-28T16:43:27.916Z"
+    },
+    {
+      "id": "13163",
+      "loja": "Shopee",
+      "titulo": "Lente de Contato Uso Diário Clariti - Coopervision + Estojo De Lentes",
+      "link": "https://s.shopee.com.br/7Ad7I9xSHY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-lui6b2ll3hph86_tn",
+      "preco": 126,
+      "precoDe": 160.44,
+      "desconto": 9,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-28T16:43:20.590Z"
+    },
+    {
+      "id": "13162",
+      "loja": "Amazon",
+      "titulo": "Kit Danos Vorazes (Shampoo + Condicionador + Leave in) - Lola From Rio",
+      "link": "https://www.amazon.com.br/dp/B0GY9D1852?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4158IbUzhSL._SL400_.jpg",
+      "preco": 48.9,
+      "precoDe": 99.9,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-08-28T16:40:20.310Z"
+    },
+    {
+      "id": "13161",
+      "loja": "Amazon",
+      "titulo": "Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 512GB SSD, KeepOS, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
+      "link": "https://www.amazon.com.br/dp/B0CYW2N6TX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41QUmh0GRvL._SL400_.jpg",
+      "preco": 2999,
+      "precoDe": 4299,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-08-28T16:31:40.889Z"
+    },
     {
       "id": "13160",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 51,
       "cupom": "QUEROCUPONS",
       "enviadoEm": "2026-08-27T12:08:30.216Z"
-    },
-    {
-      "id": "12821",
-      "loja": "Amazon",
-      "titulo": "Lacta Sonho de Valsa - Wafer Recheado Sabor Chocolate Pacote 1kg",
-      "link": "https://www.amazon.com.br/dp/B008S5ICJ0?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41AbNodE-kL._SL400_.jpg",
-      "preco": 59.9,
-      "precoDe": 94.5,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T12:06:56.648Z"
-    },
-    {
-      "id": "12820",
-      "loja": "Mercado Livre",
-      "titulo": "Glosslicious Kit Fran - By Franciny Elkhe",
-      "link": "https://meli.la/1cW4Zeh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621041-MLA110838260235_042026-F.jpg",
-      "preco": 20.130000000000003,
-      "precoDe": 45.08,
-      "desconto": 11,
-      "cupom": "INTERNACIONALCN",
-      "enviadoEm": "2026-08-27T12:04:28.930Z"
-    },
-    {
-      "id": "12818",
-      "loja": "Amazon",
-      "titulo": "Kit 2 Cremes Pomadas de Assaduras Vit B5 com 200g cada, Total 400g - Bepantol Baby",
-      "link": "https://www.amazon.com.br/dp/B0H2G42RC7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41F-RUqhtYL._SL400_.jpg",
-      "preco": 174.98,
-      "precoDe": 199.9,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T11:56:28.464Z"
-    },
-    {
-      "id": "12815",
-      "loja": "Shopee",
-      "titulo": "Assento Massageador Elétrico Controle Aliviar Dores Lombar Coluna Pescoço Veicular Escritório 8 Modos 3 Intensidade 3036",
-      "link": "https://s.shopee.com.br/6L3yNQ7awb",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m83r5tij7p5d46_tn",
-      "preco": 109.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "T3RRYESH099",
-      "enviadoEm": "2026-08-27T11:47:21.923Z"
     }
   ]
 }
