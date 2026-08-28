@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-28T21:24:25.049Z",
+  "atualizadoEm": "2026-08-28T21:42:43.873Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13226",
+      "loja": "Amazon",
+      "titulo": "Tênis de Corrida Puma Scendo Pro 2, Cinza e Preto, 42",
+      "link": "https://www.amazon.com.br/dp/B0G2YYJ1BD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31gX7qVjZML._SL400_.jpg",
+      "preco": 250.79000000000002,
+      "precoDe": 499.99,
+      "desconto": 37,
+      "cupom": "DESCONTO APARECE NO CARRINHO",
+      "enviadoEm": "2026-08-28T21:37:31.043Z"
+    },
     {
       "id": "13225",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 26,
       "cupom": null,
       "enviadoEm": "2026-08-27T13:08:43.279Z"
-    },
-    {
-      "id": "12837",
-      "loja": "Shopee",
-      "titulo": "Cadeirinha Infantil para Carro Omni 0-36Kg (40-150cm) Preto e Cinza Multikids - BB712",
-      "link": "https://s.shopee.com.br/7psmEnZo9D",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvx-mn4nj7f94z5vbe_tn",
-      "preco": 754.89,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "70D3D3SC0NT0",
-      "enviadoEm": "2026-08-27T12:54:47.785Z"
     }
   ]
 }
