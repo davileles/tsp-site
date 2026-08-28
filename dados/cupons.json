@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T12:21:56.386Z",
+  "atualizadoEm": "2026-08-28T13:07:02.692Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -807,15 +807,15 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "PNEU100",
+      "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 100,
-      "minimo": 1000,
+      "minimo": 999,
       "maximo": null,
-      "limite": null,
+      "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-08-28T12:59:34.000Z",
+      "validadeAte": "2026-08-30T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -827,7 +827,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-29T12:07:38.000Z",
+      "validadeAte": "2026-08-28T15:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1263,18 +1263,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TBTSTOCKCAR",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 9,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-08-30T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "LANCECERTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1295,7 +1283,7 @@
       "maximo": null,
       "limite": 300,
       "observacao": null,
-      "validadeAte": "2026-08-29T12:00:17.000Z",
+      "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1463,7 +1451,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-28T13:00:57.000Z",
+      "validadeAte": "2026-08-29T13:03:06.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
