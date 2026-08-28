@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T01:17:29.017Z",
+  "atualizadoEm": "2026-08-28T01:47:28.942Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1187,7 +1187,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-08-28T02:59:00.000Z",
+      "validadeAte": "2026-08-28T02:58:59.866Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1261,18 +1261,6 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
-    },
-    {
-      "codigo": "MERCADOGIZELLY",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 0,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto válido para compras em mercado",
-      "validadeAte": "2026-08-28T01:25:22.000Z",
-      "url": null
     },
     {
       "codigo": "BEMVINDA",
