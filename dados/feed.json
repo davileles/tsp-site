@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-28T15:45:32.673Z",
+  "atualizadoEm": "2026-08-28T16:08:19.936Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13157",
+      "loja": "Shopee",
+      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
+      "link": "https://s.shopee.com.br/904jtfHFOm",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
+      "preco": 44.32,
+      "precoDe": 66.24,
+      "desconto": 18,
+      "cupom": "ULT1M0M1M0",
+      "enviadoEm": "2026-08-28T15:58:19.935Z"
+    },
+    {
+      "id": "13156",
+      "loja": "Amazon",
+      "titulo": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
+      "link": "https://www.amazon.com.br/dp/B08LK15F8N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xUuhoGYgL._SL400_.jpg",
+      "preco": 25.75,
+      "precoDe": 47.89,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-08-28T15:48:36.322Z"
+    },
     {
       "id": "13154",
       "loja": "Shopee",
@@ -577,18 +601,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-08-27T17:00:24.063Z"
-    },
-    {
-      "id": "12961",
-      "loja": "Shopee",
-      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
-      "link": "https://s.shopee.com.br/904jtfHFOm",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
-      "preco": 54.32,
-      "precoDe": 66.24,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T16:58:18.896Z"
     },
     {
       "id": "12960",
@@ -1429,18 +1441,6 @@
       "desconto": 54,
       "cupom": "3SP3C14L5",
       "enviadoEm": "2026-08-27T11:25:10.941Z"
-    },
-    {
-      "id": "12810",
-      "loja": "Shopee",
-      "titulo": "1 unidade Saquinho de veludo 13cm x 18cm p/ embalagem presente",
-      "link": "https://s.shopee.com.br/6L3yKLaLtS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lth372jhd161e3_tn",
-      "preco": 15.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T11:02:47.417Z"
     }
   ]
 }
