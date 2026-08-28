@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T20:37:39.644Z",
+  "atualizadoEm": "2026-08-28T21:04:28.532Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -771,18 +771,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "RODEIO220",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 220,
-      "minimo": 2000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-28T21:04:09.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "VIP50",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -1200,6 +1188,18 @@
       "limite": 65,
       "observacao": null,
       "validadeAte": "2026-08-28T22:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LIVROSEJOGOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-08-30T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
