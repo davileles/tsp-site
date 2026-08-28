@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T19:31:47.043Z",
+  "atualizadoEm": "2026-08-28T19:53:01.743Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -360,6 +360,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-01T02:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
+    },
+    {
+      "codigo": "CAMA5",
+      "loja": "Fastshop",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-01T02:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
+    },
+    {
+      "codigo": "DINOXX5",
+      "loja": "Fastshop",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-01T02:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
@@ -1175,7 +1199,7 @@
       "maximo": null,
       "limite": 65,
       "observacao": null,
-      "validadeAte": "2026-08-29T18:02:00.000Z",
+      "validadeAte": "2026-08-28T22:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1187,7 +1211,7 @@
       "maximo": null,
       "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-08-29T18:02:00.000Z",
+      "validadeAte": "2026-08-28T22:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
