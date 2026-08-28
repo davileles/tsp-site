@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-28T16:45:32.676Z",
+  "atualizadoEm": "2026-08-28T17:15:32.676Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13168",
+      "loja": "Shopee",
+      "titulo": "Liquidificador Power Oster Vidro 1.8l 127v",
+      "link": "https://s.shopee.com.br/6VNQWTnc1G",
+      "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-m8g7qc1ijeupeb_tn",
+      "preco": 374,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "99TOPSHO",
+      "enviadoEm": "2026-08-28T17:05:56.551Z"
+    },
     {
       "id": "13164",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 20,
       "cupom": "INTERNACIONALCN",
       "enviadoEm": "2026-08-27T12:09:16.695Z"
-    },
-    {
-      "id": "12822",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
-      "link": "https://meli.la/1JVBYQL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603981-MLA115262802698_082026-F.jpg",
-      "preco": 59.17,
-      "precoDe": 159.9,
-      "desconto": 51,
-      "cupom": "QUEROCUPONS",
-      "enviadoEm": "2026-08-27T12:08:30.216Z"
     }
   ]
 }
