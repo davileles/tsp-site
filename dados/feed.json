@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-28T13:25:58.348Z",
+  "atualizadoEm": "2026-08-28T13:46:32.650Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13115",
+      "loja": "Shopee",
+      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
+      "link": "https://s.shopee.com.br/40g3qQtq5i",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
+      "preco": 59,
+      "precoDe": 158,
+      "desconto": 50,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-28T13:42:34.777Z"
+    },
     {
       "id": "13094",
       "loja": "Shopee",
@@ -757,18 +769,6 @@
       "desconto": 68,
       "cupom": null,
       "enviadoEm": "2026-08-27T15:51:35.972Z"
-    },
-    {
-      "id": "12915",
-      "loja": "Shopee",
-      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
-      "link": "https://s.shopee.com.br/40g3qQtq5i",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
-      "preco": 59,
-      "precoDe": 158,
-      "desconto": 50,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-27T15:30:19.104Z"
     },
     {
       "id": "12912",
