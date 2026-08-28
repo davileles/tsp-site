@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T22:23:26.222Z",
+  "atualizadoEm": "2026-08-28T22:41:39.012Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1311,6 +1311,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
     },
     {
+      "codigo": "MANDAM4AIS50",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 65,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em cidades selecionadas",
+      "validadeAte": "2026-08-29T22:34:22.000Z",
+      "url": null
+    },
+    {
       "codigo": "P3TISCO30",
       "loja": "Outro: iFood",
       "tipo": "reais",
@@ -1320,6 +1332,18 @@
       "limite": null,
       "observacao": "Válido apenas em cidades selecionadas",
       "validadeAte": "2026-08-29T22:11:02.000Z",
+      "url": null
+    },
+    {
+      "codigo": "AGOSTOGOSTOSO20",
+      "loja": "Outro: iFood",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 30,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em cidades selecionadas",
+      "validadeAte": "2026-08-29T22:27:59.000Z",
       "url": null
     },
     {
