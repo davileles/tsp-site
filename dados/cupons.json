@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T08:51:54.780Z",
+  "atualizadoEm": "2026-08-28T12:21:56.386Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -819,6 +819,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "100TODOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-29T12:07:38.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "INTERNACIONALCN",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -828,6 +840,18 @@
       "limite": 90,
       "observacao": null,
       "validadeAte": "2026-08-30T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITE50",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-29T12:07:38.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -936,6 +960,30 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-19T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PECHINCHA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-08-29T12:00:17.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "GARIMPEI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-08-29T12:00:17.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1179,6 +1227,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BARATOAGORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-08-29T12:00:17.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PROMOCERTA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1212,6 +1272,30 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-08-30T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LANCECERTO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-08-29T12:00:17.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OPORTUNIDADE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 150,
+      "maximo": null,
+      "limite": 300,
+      "observacao": null,
+      "validadeAte": "2026-08-29T12:00:17.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
