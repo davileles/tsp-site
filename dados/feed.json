@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-28T19:09:21.233Z",
+  "atualizadoEm": "2026-08-28T19:23:00.565Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13198",
+      "loja": "Shopee",
+      "titulo": "Percarbonato 100% Puro Tira Manchas Roupas Brancas e Coloridas",
+      "link": "https://s.shopee.com.br/2LXri9yJ19",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqdb9tob0xdu3d_tn",
+      "preco": 8.999999999999998,
+      "precoDe": 33.94,
+      "desconto": 47,
+      "cupom": "SP08T3AF",
+      "enviadoEm": "2026-08-28T19:21:46.760Z"
+    },
     {
       "id": "13197",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 10,
       "cupom": "CONSTROINOML",
       "enviadoEm": "2026-08-27T12:42:06.448Z"
-    },
-    {
-      "id": "12829",
-      "loja": "Mercado Livre",
-      "titulo": "Air fryer Oven 16L Wap Multi-Comb Digital WAFC16 Painel Touch 127V",
-      "link": "https://meli.la/1oyXySm",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_796606-MLA93384313057_092025-F.jpg",
-      "preco": 449.1,
-      "precoDe": 1305,
-      "desconto": 62,
-      "cupom": "COMPRABOA",
-      "enviadoEm": "2026-08-27T12:39:52.394Z"
     }
   ]
 }
