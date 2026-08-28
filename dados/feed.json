@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-28T21:42:43.873Z",
+  "atualizadoEm": "2026-08-28T22:11:43.874Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13236",
+      "loja": "Amazon",
+      "titulo": "Cerveja Michelob Ultra, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0BWNNZLR5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31oJqajX3QL._SL400_.jpg",
+      "preco": 35.92,
+      "precoDe": 41.52,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-08-28T22:10:57.052Z"
+    },
+    {
+      "id": "13235",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label 750ml",
+      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
+      "preco": 57.99,
+      "precoDe": 92.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-08-28T22:08:37.001Z"
+    },
+    {
+      "id": "13229",
+      "loja": "Amazon",
+      "titulo": "Tênis PUMA Caven 2.0 Masculino",
+      "link": "https://www.amazon.com.br/dp/B0C7SKLWT1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31BkoBCajYL._SL400_.jpg",
+      "preco": 192.18,
+      "precoDe": 449.99,
+      "desconto": 47,
+      "cupom": "DESCONTO APARECE NO CARRINHO",
+      "enviadoEm": "2026-08-28T22:00:01.876Z"
+    },
+    {
+      "id": "13230",
+      "loja": "Mercado Livre",
+      "titulo": "Huggies Fralda Pants Roupinha Proteção Acolchoada XG - 64 Un",
+      "link": "https://meli.la/1j6RSf9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_979794-MLA99442042486_112025-F.jpg",
+      "preco": 54.31,
+      "precoDe": 114.33,
+      "desconto": 32,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-08-28T21:58:30.560Z"
+    },
+    {
+      "id": "13228",
+      "loja": "Shopee",
+      "titulo": "Amendoim Japonês Mendorato 1,01kg",
+      "link": "https://s.shopee.com.br/9fKScE0BBi",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mpv756rdtds035_tn",
+      "preco": 15.989999999999998,
+      "precoDe": 33.32,
+      "desconto": 22,
+      "cupom": "SP08T3AF",
+      "enviadoEm": "2026-08-28T21:57:16.246Z"
+    },
     {
       "id": "13226",
       "loja": "Amazon",
@@ -1381,66 +1441,6 @@
       "desconto": 74,
       "cupom": "4T44M0C0MPR4S",
       "enviadoEm": "2026-08-27T14:00:05.485Z"
-    },
-    {
-      "id": "12857",
-      "loja": "Mercado Livre",
-      "titulo": "Safety 1st, Berço Mini Play, Grey Denim",
-      "link": "https://meli.la/21CmvM6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_640060-MLA99580387268_122025-F.jpg",
-      "preco": 299.9,
-      "precoDe": 599,
-      "desconto": 42,
-      "cupom": "MELIAQUI",
-      "enviadoEm": "2026-08-27T13:44:59.895Z"
-    },
-    {
-      "id": "12856",
-      "loja": "Mercado Livre",
-      "titulo": "Sling De Bebe Recém Nascido Bebe Canguru De Vestir Cinza Ajustável - Marca DE CORAZÓN",
-      "link": "https://meli.la/2HfNr6b",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_804697-MLA111547372425_052026-F.jpg",
-      "preco": 54.489999999999995,
-      "precoDe": 150,
-      "desconto": 57,
-      "cupom": "MELIAQUI",
-      "enviadoEm": "2026-08-27T13:44:56.639Z"
-    },
-    {
-      "id": "12855",
-      "loja": "Mercado Livre",
-      "titulo": "Xô Meleca | Banho de Ervas para Bebê – Nariz Entupido, Coriza e Congestão | 7 Sachês - Rende até 42 Banhos",
-      "link": "https://meli.la/1cZoLQj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_716654-MLA116754503955_082026-F.jpg",
-      "preco": 47.5,
-      "precoDe": 50,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T13:44:53.517Z"
-    },
-    {
-      "id": "12848",
-      "loja": "Shopee",
-      "titulo": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
-      "link": "https://s.shopee.com.br/5VUrU3WAmf",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvk-mik9ovwbhszk62_tn",
-      "preco": 27.990000000000002,
-      "precoDe": 57.88,
-      "desconto": 43,
-      "cupom": "3SP3C14L5",
-      "enviadoEm": "2026-08-27T13:17:17.060Z"
-    },
-    {
-      "id": "12846",
-      "loja": "Amazon",
-      "titulo": "Kit 4 Cremes Pomadas de Assaduras Vit B5 com 100g cada, Total 400g - Bepantol Baby",
-      "link": "https://www.amazon.com.br/dp/B0H2G1RDK5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51m5K-b1yLL._SL400_.jpg",
-      "preco": 170.9,
-      "precoDe": 229.9,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T13:08:43.279Z"
     }
   ]
 }
