@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T17:15:34.132Z",
+  "atualizadoEm": "2026-08-28T17:54:01.777Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -420,6 +420,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-01T12:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "VEMGTA",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 60,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-29T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -1107,6 +1119,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELHORCUPOMML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "HORADOCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1199,7 +1223,7 @@
       "maximo": null,
       "limite": 40,
       "observacao": null,
-      "validadeAte": "2026-08-28T18:00:00.251Z",
+      "validadeAte": "2026-08-28T18:00:00.223Z",
       "url": "https://meli.la/2xystLt"
     },
     {
