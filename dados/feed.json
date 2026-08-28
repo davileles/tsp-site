@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-28T21:04:27.409Z",
+  "atualizadoEm": "2026-08-28T21:24:25.049Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13225",
+      "loja": "Shopee",
+      "titulo": "Tarraxa Mágica de Sustentação p/ Sutiã Orelha Rasgada Banhado a Ouro 18k Acessório Anti Alérgico",
+      "link": "https://s.shopee.com.br/4VcMPrL9Lz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcc7rjg9zdgrb2_tn",
+      "preco": 6.51,
+      "precoDe": 15.89,
+      "desconto": 18,
+      "cupom": "SP08T3AF",
+      "enviadoEm": "2026-08-28T21:14:25.047Z"
+    },
     {
       "id": "13222",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "70D3D3SC0NT0",
       "enviadoEm": "2026-08-27T12:54:47.785Z"
-    },
-    {
-      "id": "12838",
-      "loja": "Mercado Livre",
-      "titulo": "Cercadinho Grande 200x150 Proteção Para Bebês",
-      "link": "https://meli.la/1TkbtD2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_935819-MLA112449785002_062026-F.jpg",
-      "preco": 186.91,
-      "precoDe": 498.73,
-      "desconto": 56,
-      "cupom": "MELIAQUI",
-      "enviadoEm": "2026-08-27T12:54:30.676Z"
     }
   ]
 }
