@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T21:04:28.532Z",
+  "atualizadoEm": "2026-08-28T21:42:45.011Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1107,6 +1107,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PROMOAGORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOESPORTE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "HORADOCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1395,18 +1419,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
     },
     {
-      "codigo": "99TOPHIGH",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 70,
-      "minimo": 599,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-28T21:40:07.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "SP08T3AF",
       "loja": "Shopee",
       "tipo": "pct",
@@ -1416,18 +1428,6 @@
       "limite": 10,
       "observacao": null,
       "validadeAte": "2026-08-29T13:51:17.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "99TOPSHO",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 25,
-      "minimo": 199,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-28T21:42:33.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
