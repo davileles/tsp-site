@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-28T22:41:37.612Z",
+  "atualizadoEm": "2026-08-28T23:10:37.634Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13251",
+      "loja": "Amazon",
+      "titulo": "Tênis Puma X-Ray 2 Square Wns Feminino, Azul, 36",
+      "link": "https://www.amazon.com.br/dp/B0BPJS37ZN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31y193NmYyL._SL400_.jpg",
+      "preco": 319.12,
+      "precoDe": 599.99,
+      "desconto": 34,
+      "cupom": "DESCONTO APARECE NO CARRINHO",
+      "enviadoEm": "2026-08-28T23:03:44.683Z"
+    },
     {
       "id": "13243",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-08-27T14:31:43.130Z"
-    },
-    {
-      "id": "12890",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
-      "link": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51LhtXiumlL._SL400_.jpg",
-      "preco": 84,
-      "precoDe": 118.35,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T14:31:38.009Z"
     }
   ]
 }
