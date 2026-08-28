@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-28T13:46:32.650Z",
+  "atualizadoEm": "2026-08-28T14:15:15.182Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13126",
+      "loja": "Shopee",
+      "titulo": "JAQUETA DE COURO MASCULINA COM CAPUZ REMOVIVEL FORRADA E PELUCIDA POR DENTRO INVERNO/FRIO",
+      "link": "https://s.shopee.com.br/1VykMsRAT5",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmtaw18rywhs2d_tn",
+      "preco": 141,
+      "precoDe": 230,
+      "desconto": 30,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-28T14:05:15.180Z"
+    },
     {
       "id": "13115",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-08-26T22:29:17.994Z"
-    },
-    {
-      "id": "12785",
-      "loja": "Amazon",
-      "titulo": "Carter's Conjunto de 3 peças para bebês, Amarelo, 3 Meses",
-      "link": "https://www.amazon.com.br/dp/B0GV4V7XSN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41oPWzREccL._SL400_.jpg",
-      "preco": 108.14,
-      "precoDe": 127.18,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T22:23:41.974Z"
     }
   ]
 }
