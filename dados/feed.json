@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-28T16:08:19.936Z",
+  "atualizadoEm": "2026-08-28T16:15:32.674Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13158",
+      "loja": "Amazon",
+      "titulo": "Grill Asteria Compact Mallory Grill multifunção, Luzes indicadoras de funcionamento, Alça com Toque-Frio e Trava de segurança 220V",
+      "link": "https://www.amazon.com.br/dp/B08TRLBH7M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/312-elHv8gL._SL400_.jpg",
+      "preco": 89,
+      "precoDe": 188.99,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-08-28T16:12:38.006Z"
+    },
     {
       "id": "13157",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 23,
       "cupom": "AB3RTR8AF",
       "enviadoEm": "2026-08-27T11:31:38.367Z"
-    },
-    {
-      "id": "12812",
-      "loja": "Shopee",
-      "titulo": "1080° Torneira Giratória de Braço Robótico Chuveiro À Prova De Respingos Banheiro Cozinha Do Aerador Dois Modos",
-      "link": "https://s.shopee.com.br/3B6wa4ZxPW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mev5hs72r2mac1_tn",
-      "preco": 23.98,
-      "precoDe": 63,
-      "desconto": 54,
-      "cupom": "3SP3C14L5",
-      "enviadoEm": "2026-08-27T11:25:10.941Z"
     }
   ]
 }
