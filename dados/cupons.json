@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T22:41:39.012Z",
+  "atualizadoEm": "2026-08-28T23:10:39.312Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -999,6 +999,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "AUTOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SOECONOMIA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1311,6 +1323,30 @@
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
     },
     {
+      "codigo": "BANQU3TE100",
+      "loja": "Outro: Food",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 150,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em cidades selecionadas",
+      "validadeAte": "2026-08-29T22:41:32.000Z",
+      "url": null
+    },
+    {
+      "codigo": "MEG4FESTA100",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 150,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-29T22:43:46.000Z",
+      "url": null
+    },
+    {
       "codigo": "MANDAM4AIS50",
       "loja": "Outro: iFood",
       "tipo": "reais",
@@ -1344,6 +1380,30 @@
       "limite": null,
       "observacao": "Válido em cidades selecionadas",
       "validadeAte": "2026-08-29T22:27:59.000Z",
+      "url": null
+    },
+    {
+      "codigo": "TCH4U10",
+      "loja": "Outro: não especificado",
+      "tipo": "pct",
+      "valor": 0,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Códigos fornecidos sem informação de tipo de desconto (percentual ou valor fixo), valor do desconto, loja ou condições de uso",
+      "validadeAte": "2026-08-29T22:47:48.000Z",
+      "url": null
+    },
+    {
+      "codigo": "AT3MAIS10",
+      "loja": "Outro: não especificado",
+      "tipo": "pct",
+      "valor": 0,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Códigos fornecidos sem informação de tipo de desconto (percentual ou valor fixo), valor do desconto, loja ou condições de uso",
+      "validadeAte": "2026-08-29T22:47:48.000Z",
       "url": null
     },
     {
