@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-28T15:15:32.660Z",
+  "atualizadoEm": "2026-08-28T15:45:32.673Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13154",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário para Cozinha Multiuso Taças Pratos Prateleiras Aramado Aço Dicarlo 5 Peças",
+      "link": "https://s.shopee.com.br/gPdTZxLFN",
+      "imagem": "https://cf.shopee.com.br/file/0913c6b2091f5d1f1b53d3b9e5624b4e_tn",
+      "preco": 93.5,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-28T15:35:52.006Z"
+    },
     {
       "id": "13152",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-27T11:02:47.417Z"
-    },
-    {
-      "id": "12791",
-      "loja": "Amazon",
-      "titulo": "Colgate Slim Soft Black Premium Escova de Dente, 2 Unidades",
-      "link": "https://www.amazon.com.br/dp/B010191BU2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41DABw+gB1L._SL400_.jpg",
-      "preco": 16.59,
-      "precoDe": 20.95,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T22:54:29.047Z"
     }
   ]
 }
