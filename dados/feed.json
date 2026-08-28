@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-27T22:47:28.565Z",
+  "atualizadoEm": "2026-08-28T11:13:20.399Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13070",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
+      "link": "https://s.shopee.com.br/6fgonYpseP",
+      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
+      "preco": 42.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "ULT1M0M1M0",
+      "enviadoEm": "2026-08-28T11:03:20.397Z"
+    },
     {
       "id": "13055",
       "loja": "Amazon",
@@ -1201,18 +1213,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-08-27T12:10:35.746Z"
-    },
-    {
-      "id": "12824",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
-      "link": "https://s.shopee.com.br/6fgonYpseP",
-      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
-      "preco": 47.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "3SP3C14L5",
-      "enviadoEm": "2026-08-27T12:09:48.552Z"
     },
     {
       "id": "12823",
