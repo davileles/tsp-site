@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-28T11:35:44.497Z",
+  "atualizadoEm": "2026-08-28T11:50:54.507Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13073",
+      "loja": "Shopee",
+      "titulo": "Carrinho De Passeio Infantil Quadriciclo Lady Star Maral Cor Rosa",
+      "link": "https://s.shopee.com.br/1BLtovtXFa",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rep4-m8wfeh8k5b2x22_tn",
+      "preco": 421,
+      "precoDe": 586.84,
+      "desconto": 24,
+      "cupom": "99TOPSHO",
+      "enviadoEm": "2026-08-28T11:49:35.561Z"
+    },
     {
       "id": "13072",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 27,
       "cupom": null,
       "enviadoEm": "2026-08-26T21:18:07.141Z"
-    },
-    {
-      "id": "12769",
-      "loja": "Shopee",
-      "titulo": "Kit Bride Franciny Gloss Iluminador E Blush Casamento Prata",
-      "link": "https://s.shopee.com.br/9fKPNgpFYa",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-822xi-mi4o37f502yo01_tn",
-      "preco": 30.990000000000002,
-      "precoDe": 138.42,
-      "desconto": 74,
-      "cupom": "3SP3C14L5",
-      "enviadoEm": "2026-08-26T21:15:48.318Z"
     }
   ]
 }
