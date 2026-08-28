@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-28T20:17:04.176Z",
+  "atualizadoEm": "2026-08-28T20:31:04.044Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13221",
+      "loja": "Shopee",
+      "titulo": "Saco de Lixo resistente 20/40/60/100 Litros direto da fábrica",
+      "link": "https://s.shopee.com.br/9AOBvN9sN0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-luz0raa04k0w98_tn",
+      "preco": 4.49,
+      "precoDe": 19.98,
+      "desconto": 55,
+      "cupom": "SP08T3AF",
+      "enviadoEm": "2026-08-28T20:29:36.653Z"
+    },
     {
       "id": "13212",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 6,
       "cupom": "OFFCOMMELI",
       "enviadoEm": "2026-08-27T12:44:28.064Z"
-    },
-    {
-      "id": "12834",
-      "loja": "Mercado Livre",
-      "titulo": "Geladeira Side By Side 511l Inverter Cor Preto Conectada Mid",
-      "link": "https://meli.la/1Wj5sfJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_633208-MLA99501448850_112025-F.jpg",
-      "preco": 4699,
-      "precoDe": 5262.12,
-      "desconto": 5,
-      "cupom": "OFFCOMMELI",
-      "enviadoEm": "2026-08-27T12:44:22.011Z"
     }
   ]
 }
