@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T16:08:21.196Z",
+  "atualizadoEm": "2026-08-28T16:45:34.092Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1309,6 +1309,18 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
+    },
+    {
+      "codigo": "ZEBORA30",
+      "loja": "Outro: Zé Delivery",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 15,
+      "observacao": null,
+      "validadeAte": "2026-08-29T16:40:45.000Z",
+      "url": "https://ze.onelink.me/qZhP/p8z09c1x"
     },
     {
       "codigo": "BEMVINDA",
