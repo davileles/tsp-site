@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-28T11:50:54.507Z",
+  "atualizadoEm": "2026-08-28T12:21:55.329Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13080",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Inox 2l Com Desligamento Automático Full",
+      "link": "https://s.shopee.com.br/19wSM7Bsf",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820nf-mnfpx6z1slc5e1_tn",
+      "preco": 49.99,
+      "precoDe": 199.97,
+      "desconto": 70,
+      "cupom": "ULT1M0M1M0",
+      "enviadoEm": "2026-08-28T12:11:55.328Z"
+    },
     {
       "id": "13073",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 56,
       "cupom": "PROMOCERTA",
       "enviadoEm": "2026-08-26T21:19:07.717Z"
-    },
-    {
-      "id": "12770",
-      "loja": "Amazon",
-      "titulo": "BR Spices Sal de Parilla Craque da Brasa Salsa e Alho Frito 1,01Kg",
-      "link": "https://www.amazon.com.br/dp/B0GLQXQR5Z?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41TSsJq0WSL._SL400_.jpg",
-      "preco": 15.09,
-      "precoDe": 20.79,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-08-26T21:18:07.141Z"
     }
   ]
 }
