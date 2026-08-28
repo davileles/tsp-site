@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-28T19:53:00.564Z",
+  "atualizadoEm": "2026-08-28T20:17:04.176Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13212",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
+      "link": "https://s.shopee.com.br/8plLVCF88n",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
+      "preco": 23.990000000000002,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SP08T3AF",
+      "enviadoEm": "2026-08-28T20:07:04.174Z"
+    },
     {
       "id": "13206",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 5,
       "cupom": "OFFCOMMELI",
       "enviadoEm": "2026-08-27T12:44:22.011Z"
-    },
-    {
-      "id": "12833",
-      "loja": "Amazon",
-      "titulo": "Kit 10 Sacos a Vácuo 50x60cm com Bomba Manual – Organizador de Roupas para Viagem e Armário, Economia de Espaço até 80%, Reutilizável, Proteção Contra Umidade, Poeira e Odores",
-      "link": "https://www.amazon.com.br/dp/B0H5D2Z4P4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51bo-oqQySL._SL400_.jpg",
-      "preco": 29.89,
-      "precoDe": 33.9,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T12:42:10.881Z"
     }
   ]
 }
