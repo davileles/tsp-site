@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-28T18:23:00.563Z",
+  "atualizadoEm": "2026-08-28T18:53:00.564Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13193",
+      "loja": "Amazon",
+      "titulo": "Cif Cremoso Limpeza Milagrosa Produto De Limpeza De Casa Milagroso Original Remove 100% Da Sujeira Difícil Sem Esforço 250 Ml",
+      "link": "https://www.amazon.com.br/dp/B07DTLSF61?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31bHzW9m3aL._SL400_.jpg",
+      "preco": 9.65,
+      "precoDe": 14.8,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-08-28T18:47:21.031Z"
+    },
+    {
+      "id": "13189",
+      "loja": "Amazon",
+      "titulo": "Porto Brasil Conjunto com 6 Pratos Fundo Bio Latte 22,5cm",
+      "link": "https://www.amazon.com.br/dp/B0BV3B31FR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41sLTMTjVJL._SL400_.jpg",
+      "preco": 43.9,
+      "precoDe": 219.64,
+      "desconto": 80,
+      "cupom": null,
+      "enviadoEm": "2026-08-28T18:39:43.923Z"
+    },
+    {
+      "id": "13187",
+      "loja": "Shopee",
+      "titulo": "Massageador Elétrico 6 em 1 Corporal Potente Ergonômico Multifuncional Terapia 10 Velocidades",
+      "link": "https://s.shopee.com.br/5VUtQs75IT",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mr6qsdj7sydi4b_tn",
+      "preco": 154.78,
+      "precoDe": 242.75,
+      "desconto": 28,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-28T18:36:39.599Z"
+    },
     {
       "id": "13184",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 62,
       "cupom": "COMPRABOA",
       "enviadoEm": "2026-08-27T12:39:52.394Z"
-    },
-    {
-      "id": "12828",
-      "loja": "Shopee",
-      "titulo": "Kit Desodorante Antitranspirante Aerossol Herbíssimo 250ml  Embalagem Econômica - Fragrâncias Variadas (5 unidades)",
-      "link": "https://s.shopee.com.br/30nWStDnZS",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx8-md3k2zi4lhsk6e_tn",
-      "preco": 45.94,
-      "precoDe": 84.9,
-      "desconto": 40,
-      "cupom": "3SP3C14L5",
-      "enviadoEm": "2026-08-27T12:39:50.802Z"
-    },
-    {
-      "id": "12831",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira de Refeição Portátil Cosco Kids, Smart, Cinza",
-      "link": "https://meli.la/2kRux7P",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652694-MLA96101740983_102025-F.jpg",
-      "preco": 118.90999999999998,
-      "precoDe": 209,
-      "desconto": 33,
-      "cupom": "MELIAQUI",
-      "enviadoEm": "2026-08-27T12:37:58.073Z"
-    },
-    {
-      "id": "12830",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
-      "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/514iBwYO87L._SL400_.jpg",
-      "preco": 161.57,
-      "precoDe": 229.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T12:37:54.725Z"
     }
   ]
 }
