@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-29T16:32:11.603Z",
+  "atualizadoEm": "2026-08-29T17:00:16.475Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13365",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV TCL 50 Polegadas QLED 4K P7L WiFi Bluetooth Google TV HDR10+ 60 Hz AIPQ 50P7L",
+      "link": "https://meli.la/2ocnHeB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_978669-MLA114751005026_082026-F.jpg",
+      "preco": 2063.54,
+      "precoDe": 2999,
+      "desconto": 25,
+      "cupom": "OPORTUNIDADE",
+      "enviadoEm": "2026-08-29T16:50:16.473Z"
+    },
+    {
+      "id": "13364",
+      "loja": "Mercado Livre",
+      "titulo": "Televisão Smart Tv Hq 55 Qled, 4k Uhd, Dolby Audio, Wi-fi, Bluetooth, 3 Hdmi, 2 Usb, Netflix, Prime Video, Led Bivolt",
+      "link": "https://meli.la/14VQQwc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_778174-MLA113619112243_062026-F.jpg",
+      "preco": 2050.68,
+      "precoDe": 2393,
+      "desconto": 7,
+      "cupom": "OPORTUNIDADE",
+      "enviadoEm": "2026-08-29T16:48:03.947Z"
+    },
+    {
+      "id": "13363",
+      "loja": "Shopee",
+      "titulo": "Kit 6 Organizador De Mala Necessaire Bolsa De Viagem Travel Bag Premium",
+      "link": "https://s.shopee.com.br/4fvnucpUhy",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repg-m2poj36o1kzt4b_tn",
+      "preco": 23.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-29T16:45:52.827Z"
+    },
     {
       "id": "13361",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 64,
       "cupom": "MELIAQUI",
       "enviadoEm": "2026-08-27T16:10:18.035Z"
-    },
-    {
-      "id": "12942",
-      "loja": "Amazon",
-      "titulo": "Buba Kit Cuidados Baby Cinza Tamanho Único",
-      "link": "https://www.amazon.com.br/dp/B086JCX68G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31L0EY8bhBL._SL400_.jpg",
-      "preco": 33.52,
-      "precoDe": 47.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T16:10:12.232Z"
-    },
-    {
-      "id": "12941",
-      "loja": "Mercado Livre",
-      "titulo": "Esmerilhadeira Angular Makita 115MM 220V 850W Azul M9510B",
-      "link": "https://meli.la/1MyxJMB",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_786954-MLA99508488746_112025-F.jpg",
-      "preco": 264.45,
-      "precoDe": 460.64,
-      "desconto": 30,
-      "cupom": "CONSTROINOML",
-      "enviadoEm": "2026-08-27T16:09:54.789Z"
-    },
-    {
-      "id": "12940",
-      "loja": "Mercado Livre",
-      "titulo": "Soprador De Ar Mini Turbo Portátil Usb Sem Fio Recarregável Para Limpeza Com 2 Bicos E Inflar Preto 127/220v",
-      "link": "https://meli.la/2DNhZHW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_982885-MLA115297946876_082026-F.jpg",
-      "preco": 29.480000000000004,
-      "precoDe": 52.9,
-      "desconto": 26,
-      "cupom": "CONSTROINOML",
-      "enviadoEm": "2026-08-27T16:04:46.816Z"
     }
   ]
 }
