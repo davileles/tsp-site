@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-29T17:00:16.475Z",
+  "atualizadoEm": "2026-08-29T17:32:11.603Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13368",
+      "loja": "Shopee",
+      "titulo": "Kit com 3 Cetrilan Creme Infantil Protetor para Prevenção de Assaduras 120g - Theraskin",
+      "link": "https://s.shopee.com.br/4AzXMdsoOP",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mnojxdtx53408d_tn",
+      "preco": 155.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-29T17:28:43.034Z"
+    },
     {
       "id": "13365",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 26,
       "cupom": null,
       "enviadoEm": "2026-08-27T16:10:19.346Z"
-    },
-    {
-      "id": "12943",
-      "loja": "Mercado Livre",
-      "titulo": "Carrinho Infantil Triciclo Andador Motoca",
-      "link": "https://meli.la/1v6hs1f",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_887512-MLA96172695979_102025-F.jpg",
-      "preco": 58.56,
-      "precoDe": 189.9,
-      "desconto": 64,
-      "cupom": "MELIAQUI",
-      "enviadoEm": "2026-08-27T16:10:18.035Z"
     }
   ]
 }
