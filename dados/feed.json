@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-29T11:16:16.586Z",
+  "atualizadoEm": "2026-08-29T11:32:11.600Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13314",
+      "loja": "Shopee",
+      "titulo": "1/2/3/4  Peças Mini Máquina Seladora Recarregável Para Embalagens Plásticas - Selagem Rápida/ Alta Qualidade/ Promoção",
+      "link": "https://s.shopee.com.br/4fvnYhAtdI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mmr759zcedj476_tn",
+      "preco": 6.44,
+      "precoDe": 25.78,
+      "desconto": 50,
+      "cupom": "SP08T3AF",
+      "enviadoEm": "2026-08-29T11:27:26.103Z"
+    },
     {
       "id": "13313",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-27T14:55:48.291Z"
-    },
-    {
-      "id": "12893",
-      "loja": "Amazon",
-      "titulo": "Baby Alive, Boneca Sweet Smoothies Harper Hugs",
-      "link": "https://www.amazon.com.br/dp/B0F44V3547?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41y33o9FdlL._SL400_.jpg",
-      "preco": 149.95,
-      "precoDe": 299.99,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T14:55:47.479Z"
     }
   ]
 }
