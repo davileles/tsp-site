@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-29T21:01:05.199Z",
+  "atualizadoEm": "2026-08-29T21:23:51.625Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13396",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/6VNSONoNuE",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": 14.99,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-08-29T21:13:51.620Z"
+    },
+    {
+      "id": "13395",
+      "loja": "Amazon",
+      "titulo": "Cerveja Spaten, Puro Malte, Lata 473ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0DTLDYH91?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41db5AUHaIL._SL400_.jpg",
+      "preco": 64.7,
+      "precoDe": 71.89,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-08-29T21:05:17.081Z"
+    },
     {
       "id": "13393",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-27T17:41:14.606Z"
-    },
-    {
-      "id": "12969",
-      "loja": "Amazon",
-      "titulo": "Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnson's Baby, 400ml",
-      "link": "https://www.amazon.com.br/dp/B077BY84XX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31QjgyWVbVL._SL400_.jpg",
-      "preco": 25.99,
-      "precoDe": 40.99,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T17:27:37.683Z"
-    },
-    {
-      "id": "12967",
-      "loja": "Shopee",
-      "titulo": "Manta Casal Soft Antialérgica 2,00m X1,80m  Lisa Várias Cores",
-      "link": "https://s.shopee.com.br/gPbztaSC4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m858jxe787bl51_tn",
-      "preco": 24.89,
-      "precoDe": 40.15,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T17:21:27.835Z"
     }
   ]
 }
