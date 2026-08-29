@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-29T15:03:24.890Z",
+  "atualizadoEm": "2026-08-29T15:26:22.994Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1188,6 +1188,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MODAB15EMESTAR",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupom válido para selecionados em Moda e Bem-Estar",
+      "validadeAte": "2026-08-30T15:02:28.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
