@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-29T17:32:11.603Z",
+  "atualizadoEm": "2026-08-29T18:01:04.132Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13370",
+      "loja": "Shopee",
+      "titulo": "Kit Tapete Banheiro 38x58cm |50x100m |50x70cm Antiderrapante Pipoca Popcorn Várias Cores Macio",
+      "link": "https://s.shopee.com.br/AKaAjWIxFy",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mqqbq5jvx1c3e8_tn",
+      "preco": 19.99,
+      "precoDe": 25.96,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-08-29T17:51:04.129Z"
+    },
     {
       "id": "13368",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-08-27T16:10:20.154Z"
-    },
-    {
-      "id": "12944",
-      "loja": "Amazon",
-      "titulo": "Kit 2 Raquetes de Velcro + Bola Que Gruda – Bateu Colou Brinquedo Esportivo Infantil/Adulto - TYDA",
-      "link": "https://www.amazon.com.br/dp/B0FSF29J85?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3152C8AqzUL._SL400_.jpg",
-      "preco": 29.47,
-      "precoDe": 39.9,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T16:10:19.346Z"
     }
   ]
 }
