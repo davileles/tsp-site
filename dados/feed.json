@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-29T19:53:36.998Z",
+  "atualizadoEm": "2026-08-29T20:16:03.685Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13389",
+      "loja": "Shopee",
+      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
+      "link": "https://s.shopee.com.br/6VNSJkPnje",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
+      "preco": 69,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-29T20:06:03.684Z"
+    },
     {
       "id": "13387",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-08-27T17:00:24.063Z"
-    },
-    {
-      "id": "12960",
-      "loja": "Amazon",
-      "titulo": "Kit Infantil Dentalclean Bluey Escova Macia + Gel com Flúor 50g",
-      "link": "https://www.amazon.com.br/dp/B0FTGBP3K7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/414IkXA+s0L._SL400_.jpg",
-      "preco": 13.24,
-      "precoDe": 14.71,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T16:57:49.445Z"
     }
   ]
 }
