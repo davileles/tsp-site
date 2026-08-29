@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-29T13:32:12.865Z",
+  "atualizadoEm": "2026-08-29T13:55:28.646Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1537,18 +1537,6 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
-    },
-    {
-      "codigo": "SP08T3AF",
-      "loja": "Shopee",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 10,
-      "observacao": null,
-      "validadeAte": "2026-08-29T13:51:17.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "4T44M0C0MPR4S",
