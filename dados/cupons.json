@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-29T13:55:28.646Z",
+  "atualizadoEm": "2026-08-29T14:17:50.605Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1119,6 +1119,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PROMOESPORTE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "HORADOCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1152,6 +1164,18 @@
       "limite": 140,
       "observacao": null,
       "validadeAte": "2026-09-02T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AUTOEFERAMENTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-08-29T15:00:00.318Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1199,7 +1223,7 @@
       "maximo": null,
       "limite": 40,
       "observacao": null,
-      "validadeAte": "2026-08-30T12:07:42.000Z",
+      "validadeAte": "2026-08-29T15:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1247,7 +1271,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-08-30T12:02:36.000Z",
+      "validadeAte": "2026-08-30T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
