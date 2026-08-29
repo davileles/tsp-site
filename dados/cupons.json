@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-29T13:02:12.905Z",
+  "atualizadoEm": "2026-08-29T13:09:42.470Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1215,15 +1215,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TBTSTOCKCAR",
+      "codigo": "ENTREGASFULL",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 10,
-      "minimo": 9,
+      "minimo": 39,
       "maximo": null,
-      "limite": 100,
+      "limite": 20,
       "observacao": null,
-      "validadeAte": "2026-08-30T02:59:00.000Z",
+      "validadeAte": "2026-08-29T15:00:00.201Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1547,7 +1547,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-29T13:03:06.000Z",
+      "validadeAte": "2026-08-30T13:05:19.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
