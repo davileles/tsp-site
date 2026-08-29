@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-29T16:02:11.602Z",
+  "atualizadoEm": "2026-08-29T16:32:11.603Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13361",
+      "loja": "Shopee",
+      "titulo": "Kit 3 Calças Jeans Feminina Skinny Lycra Cintura Alta Modelo Empina Bumbum Lançamento Promoção",
+      "link": "https://s.shopee.com.br/40g75s8PN3",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9keeu5abgopdd_tn",
+      "preco": 134.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-29T16:23:26.739Z"
+    },
+    {
+      "id": "13359",
+      "loja": "Mercado Livre",
+      "titulo": "Chuveiro Ducha Lorenzetti Loren Shower Eletrônico Branco 6800w 220V",
+      "link": "https://meli.la/1e5PHED",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_896908-MLA101388142032_122025-F.jpg",
+      "preco": 80.38,
+      "precoDe": 112.81,
+      "desconto": 5,
+      "cupom": "CONSTROINOML",
+      "enviadoEm": "2026-08-29T16:18:41.366Z"
+    },
     {
       "id": "13358",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 26,
       "cupom": "CONSTROINOML",
       "enviadoEm": "2026-08-27T16:04:46.816Z"
-    },
-    {
-      "id": "12939",
-      "loja": "Mercado Livre",
-      "titulo": "Mini Ventilador Soprador Ar Turbo 130000rpm Assoprador Sem Fio Recarregável Usb 3 Níveis Jato Forte Portátil Multiuso Limpeza Teclado Carro Acende Churrasqueira Davely",
-      "link": "https://meli.la/2mg1y1Y",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_667790-MLA113358900874_072026-F.jpg",
-      "preco": 36.67,
-      "precoDe": 96,
-      "desconto": 49,
-      "cupom": "CONSTROINOML",
-      "enviadoEm": "2026-08-27T16:00:58.997Z"
-    },
-    {
-      "id": "12937",
-      "loja": "Amazon",
-      "titulo": "Hollyland LARK A1 Mini Duo USB-C – Microfone Sem Fio Mini",
-      "link": "https://www.amazon.com.br/dp/B0H93PQ9ZM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41u5zqey9CL._SL400_.jpg",
-      "preco": 314.1,
-      "precoDe": 349,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T15:58:44.600Z"
     }
   ]
 }
