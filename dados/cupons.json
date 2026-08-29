@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-29T17:00:17.950Z",
+  "atualizadoEm": "2026-08-29T17:32:12.796Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -999,18 +999,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "AUTOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SOECONOMIA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1191,18 +1179,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODAB15EMESTAR",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupom válido para selecionados em Moda e Bem-Estar",
-      "validadeAte": "2026-08-29T18:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PROMOCERTA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1236,30 +1212,6 @@
       "limite": 200,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-08-30T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "10SITETODO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-08-29T18:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-08-31T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
