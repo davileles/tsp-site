@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-28T23:10:37.634Z",
+  "atualizadoEm": "2026-08-29T11:16:16.586Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13313",
+      "loja": "Mercado Livre",
+      "titulo": "Lava Roupas Omo Sabão Liquido Lavagem Perfeita 7 Litros",
+      "link": "https://meli.la/2riMKgN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_617347-MLA100591147012_122025-F.jpg",
+      "preco": 87.11,
+      "precoDe": 110,
+      "desconto": 10,
+      "cupom": "PROMOCERTA",
+      "enviadoEm": "2026-08-29T11:06:16.584Z"
+    },
+    {
+      "id": "13311",
+      "loja": "Shopee",
+      "titulo": "(110V) Pipoqueira Elétrica Ar Quente Máquina Fazer Pipoca Sem Óleo Minijoy - (110v) TOP",
+      "link": "https://s.shopee.com.br/5As47xxXUO",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd5v-luz7g0s3pj96b9_tn",
+      "preco": 130,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-29T11:04:08.204Z"
+    },
     {
       "id": "13251",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 50,
       "cupom": null,
       "enviadoEm": "2026-08-27T14:55:47.479Z"
-    },
-    {
-      "id": "12892",
-      "loja": "Shopee",
-      "titulo": "HEROI Banco Dobrável Para Exercícios Em Casa, Multifuncional com Banco Pastor Removível + Até 150kg",
-      "link": "https://s.shopee.com.br/qj21WURwo",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgq65zdx3i84f2_tn",
-      "preco": 429,
-      "precoDe": 998,
-      "desconto": 50,
-      "cupom": "70D3D3SC0NT0",
-      "enviadoEm": "2026-08-27T14:45:38.019Z"
-    },
-    {
-      "id": "12891",
-      "loja": "Mercado Livre",
-      "titulo": "Boneco Hulk Marvel Vingadores Hulk",
-      "link": "https://meli.la/2tSUmRr",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_729364-MLA99482226622_112025-F.jpg",
-      "preco": 75.99,
-      "precoDe": 109.99,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T14:31:43.130Z"
     }
   ]
 }
