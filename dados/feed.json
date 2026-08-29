@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-29T20:16:03.685Z",
+  "atualizadoEm": "2026-08-29T20:32:11.604Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13392",
+      "loja": "Shopee",
+      "titulo": "Organizador de Mala Viagem, Nécessaire Feminina, Kit para viagem com 3 unidades",
+      "link": "https://s.shopee.com.br/7Ad98WAsmb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3j5nb4hr5fcb4_tn",
+      "preco": 32,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-29T20:28:41.617Z"
+    },
     {
       "id": "13389",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 19,
       "cupom": null,
       "enviadoEm": "2026-08-27T17:02:54.036Z"
-    },
-    {
-      "id": "12963",
-      "loja": "Amazon",
-      "titulo": "L'Oréal Professionnel Shampoo Pro Longer, Reduz a Quebra e Aparência de Pontas Duplas, Adiciona Volume e Brilho, Para Cabelos Finos e Com Afinamento, 750ml",
-      "link": "https://www.amazon.com.br/dp/B0918FP5KR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/311F48qp5eL._SL400_.jpg",
-      "preco": 154,
-      "precoDe": 215.9,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T17:00:24.063Z"
     }
   ]
 }
