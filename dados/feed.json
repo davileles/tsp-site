@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-29T14:32:11.601Z",
+  "atualizadoEm": "2026-08-29T15:02:11.601Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13343",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
+      "link": "https://s.shopee.com.br/70JiZ8Lw24",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnyps41y3uo4c6_tn",
+      "preco": 79.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-29T14:53:24.600Z"
+    },
     {
       "id": "13341",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 12,
       "cupom": "COMPRABOA",
       "enviadoEm": "2026-08-27T15:18:53.602Z"
-    },
-    {
-      "id": "12908",
-      "loja": "Amazon",
-      "titulo": "Blanco de Verano Oceà Garrafa 750mL",
-      "link": "https://www.amazon.com.br/dp/B0GKMC2BVL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/318F3X6dFhL._SL400_.jpg",
-      "preco": 22.8,
-      "precoDe": 79.9,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T15:17:34.814Z"
     }
   ]
 }
