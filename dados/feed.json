@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-29T14:17:49.405Z",
+  "atualizadoEm": "2026-08-29T14:32:11.601Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13341",
+      "loja": "Shopee",
+      "titulo": "jaqueta masculina de sarja toda forrada por dentro com capus removível",
+      "link": "https://s.shopee.com.br/W6Enf17l0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lunnr64z39et7a_tn",
+      "preco": 79,
+      "precoDe": 190.38,
+      "desconto": 48,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-29T14:30:04.807Z"
+    },
     {
       "id": "13339",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 71,
       "cupom": null,
       "enviadoEm": "2026-08-27T15:17:34.814Z"
-    },
-    {
-      "id": "12907",
-      "loja": "Mercado Livre",
-      "titulo": "Olympéa EDP 80ml para feminino",
-      "link": "https://meli.la/1J6TrmR",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_895927-MLA93403231850_092025-F.jpg",
-      "preco": 507.99,
-      "precoDe": 868.85,
-      "desconto": 40,
-      "cupom": "LOAJSOFICIAIS",
-      "enviadoEm": "2026-08-27T15:16:38.958Z"
     }
   ]
 }
