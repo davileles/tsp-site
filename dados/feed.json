@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-29T12:23:51.162Z",
+  "atualizadoEm": "2026-08-29T12:46:53.564Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13323",
+      "loja": "Shopee",
+      "titulo": "Bateria selada 12v 4.5ah Planet Selada Recarregavel",
+      "link": "https://s.shopee.com.br/3VjqFLIlRU",
+      "imagem": "https://cf.shopee.com.br/file/5a3c47c37f809c852f6ab2e1f1b42c39_tn",
+      "preco": 59.5,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-29T12:36:53.563Z"
+    },
     {
       "id": "13321",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 56,
       "cupom": null,
       "enviadoEm": "2026-08-27T15:03:28.114Z"
-    },
-    {
-      "id": "12899",
-      "loja": "Amazon",
-      "titulo": "Assento Redutor Infantil EASYPOOP Kids Desfralde Bebê Para Vaso Sanitário Troninho com Escada",
-      "link": "https://www.amazon.com.br/dp/B0F2WG8KYD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41+aMNZtXXL._SL400_.jpg",
-      "preco": 49.87,
-      "precoDe": 106.24,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T15:01:32.368Z"
     }
   ]
 }
