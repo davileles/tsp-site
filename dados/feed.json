@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-29T13:32:11.601Z",
+  "atualizadoEm": "2026-08-29T13:55:27.425Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13337",
+      "loja": "Shopee",
+      "titulo": "Conjunto Moletom Infantil Canguru Brooklyn New York 1989  Calça Conjunto Inverno Quentinho Estiloso",
+      "link": "https://s.shopee.com.br/4LIxJb7IQt",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mnk1nztbj2ted2_tn",
+      "preco": 48.849999999999994,
+      "precoDe": 129.91,
+      "desconto": 47,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-29T13:45:27.424Z"
+    },
+    {
+      "id": "13335",
+      "loja": "Amazon",
+      "titulo": "Lenços Umedecidos Huggies Recém-Nascido Sem Fragrância 6x48U",
+      "link": "https://www.amazon.com.br/dp/B07FN7T2LK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/416qfNZQeJL._SL400_.jpg",
+      "preco": 49.9,
+      "precoDe": 55.48,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-08-29T13:37:10.147Z"
+    },
+    {
+      "id": "13334",
+      "loja": "Amazon",
+      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades – com absorção especial para cocô líquido e indicador de troca.",
+      "link": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41okcss3BrL._SL400_.jpg",
+      "preco": 49.99,
+      "precoDe": 72.65,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-08-29T13:37:07.285Z"
+    },
+    {
+      "id": "13333",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51p7Q6bht8L._SL400_.jpg",
+      "preco": 199.29,
+      "precoDe": 229.49,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-08-29T13:37:04.535Z"
+    },
     {
       "id": "13329",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 68,
       "cupom": null,
       "enviadoEm": "2026-08-27T15:15:23.289Z"
-    },
-    {
-      "id": "12905",
-      "loja": "Amazon",
-      "titulo": "Porta Temperos Condimentos Organizador Suspenso Cozinha",
-      "link": "https://www.amazon.com.br/dp/B0FNW4T4D3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31uz0sLFYQL._SL400_.jpg",
-      "preco": 46.9,
-      "precoDe": 149.9,
-      "desconto": 69,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T15:13:07.566Z"
-    },
-    {
-      "id": "12904",
-      "loja": "Amazon",
-      "titulo": "klassvough - Pasta Organizer Bag Porta Pincéis",
-      "link": "https://www.amazon.com.br/dp/B0DX2K6M7F?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31nR8mBRStL._SL400_.jpg",
-      "preco": 119.4,
-      "precoDe": 648.87,
-      "desconto": 82,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T15:10:56.023Z"
-    },
-    {
-      "id": "12903",
-      "loja": "Amazon",
-      "titulo": "Travesseiro de Pescoço para Viagem Lavável em Máquina - Favos de Mel Trip - 60x40 cm - Branco - Fibrasca",
-      "link": "https://www.amazon.com.br/dp/B07K636DB3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31UYK5rsWaL._SL400_.jpg",
-      "preco": 25.9,
-      "precoDe": 129.99,
-      "desconto": 80,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T15:08:28.704Z"
-    },
-    {
-      "id": "12902",
-      "loja": "Shopee",
-      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
-      "link": "https://s.shopee.com.br/50Yb0k6PNu",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
-      "preco": 59.980000000000004,
-      "precoDe": 199.95,
-      "desconto": 60,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-27T15:07:57.453Z"
     }
   ]
 }
