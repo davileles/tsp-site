@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-29T15:26:21.663Z",
+  "atualizadoEm": "2026-08-29T15:53:50.233Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13356",
+      "loja": "Amazon",
+      "titulo": "Smart TV 43\" Britânia B43KRA Full HD",
+      "link": "https://www.amazon.com.br/dp/B0GVPQGC48?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41UWHL+KyvL._SL400_.jpg",
+      "preco": 899,
+      "precoDe": 1349,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-08-29T15:43:50.231Z"
+    },
+    {
+      "id": "13355",
+      "loja": "Mercado Livre",
+      "titulo": "Caixa de Som Hyperboom 1000 - Waaw By Alok",
+      "link": "https://meli.la/2uzWm2d",
+      "imagem": null,
+      "preco": 1069,
+      "precoDe": 1599,
+      "desconto": 32,
+      "cupom": "10SITETODO",
+      "enviadoEm": "2026-08-29T15:41:37.825Z"
+    },
+    {
+      "id": "13353",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Óleo Reparador de Pontas Amend Gold Black Nutritivo 30ml",
+      "link": "https://s.shopee.com.br/4qFE2KYCPG",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b3-mqz2djzzbf2e8a_tn",
+      "preco": 24.7,
+      "precoDe": 39.84,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-08-29T15:38:40.569Z"
+    },
+    {
+      "id": "13352",
+      "loja": "Amazon",
+      "titulo": "MONDIAL Serra Circular, Vermelho, 1500W, 110V - FSC-04",
+      "link": "https://www.amazon.com.br/dp/B0DBJ9PSZY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41rT-aa+DZL._SL400_.jpg",
+      "preco": 219.75,
+      "precoDe": 549.9,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-08-29T15:36:44.776Z"
+    },
+    {
+      "id": "13351",
+      "loja": "Mercado Livre",
+      "titulo": "- Tapete De Banheiro Superabsorvente Antiderrapante 60 Cm",
+      "link": "https://meli.la/2REnFai",
+      "imagem": "https://http2.mlstatic.com/D_699853-CBT108860006031_032026-F.jpg",
+      "preco": 9.11,
+      "precoDe": 20.98,
+      "desconto": 13,
+      "cupom": "INTERNACIONALCN",
+      "enviadoEm": "2026-08-29T15:34:33.564Z"
+    },
     {
       "id": "13348",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 61,
       "cupom": null,
       "enviadoEm": "2026-08-27T15:53:53.416Z"
-    },
-    {
-      "id": "12934",
-      "loja": "Shopee",
-      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
-      "link": "https://s.shopee.com.br/8plJcrOquz",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnyps41y3uo4c6_tn",
-      "preco": 79.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-27T15:52:49.886Z"
-    },
-    {
-      "id": "12933",
-      "loja": "Amazon",
-      "titulo": "Mochila Executiva Premium para Notebook, Resistente à Água, Reforçada, Expansível com Cabo USB, Unissex, Mochila Para Viagem 30 litros BlidShop (Cinza)",
-      "link": "https://www.amazon.com.br/dp/B0GM3LF9T3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41x77UX3gZL._SL400_.jpg",
-      "preco": 64.5,
-      "precoDe": 199.9,
-      "desconto": 68,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T15:51:35.972Z"
-    },
-    {
-      "id": "12912",
-      "loja": "Amazon",
-      "titulo": "Kit 12Mascaras De Prot.Alg 3Pregas Inter, Mash, Unissex, Branco/Cinza Mescla/Cinza Escuro, UN",
-      "link": "https://www.amazon.com.br/dp/B08746TY99?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41HrF0yWYHL._SL400_.jpg",
-      "preco": 2.6,
-      "precoDe": 9,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T15:23:38.457Z"
-    },
-    {
-      "id": "12913",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Nike Sb Chron 2 (36 ao 44)",
-      "link": "https://meli.la/26B9gsu",
-      "imagem": null,
-      "preco": 254.99,
-      "precoDe": 349.99,
-      "desconto": 14,
-      "cupom": "PROMOPRAMODA",
-      "enviadoEm": "2026-08-27T15:23:37.280Z"
-    },
-    {
-      "id": "12910",
-      "loja": "Amazon",
-      "titulo": "Baw & Miaw Capa Protetora Traseira Preta",
-      "link": "https://www.amazon.com.br/dp/B07Z5F847M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31P1qDISg3L._SL400_.jpg",
-      "preco": 30.7,
-      "precoDe": 107.38,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T15:19:46.198Z"
     }
   ]
 }
