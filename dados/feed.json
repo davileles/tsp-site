@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-29T19:02:11.604Z",
+  "atualizadoEm": "2026-08-29T19:31:12.573Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13385",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
+      "link": "https://s.shopee.com.br/4qFEHbyd0R",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
+      "preco": 23.99,
+      "precoDe": 47.98,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-08-29T19:21:12.571Z"
+    },
     {
       "id": "13383",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-08-27T16:51:28.442Z"
-    },
-    {
-      "id": "12958",
-      "loja": "Amazon",
-      "titulo": "Cadeira de Escritório Ergonômica Diretor Com Apoio de Cabeça",
-      "link": "https://www.amazon.com.br/dp/B0FK5XX72N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41wmG71GVmL._SL400_.jpg",
-      "preco": 199,
-      "precoDe": 229,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T16:49:18.323Z"
     }
   ]
 }
