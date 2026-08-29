@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-29T13:55:27.425Z",
+  "atualizadoEm": "2026-08-29T14:17:49.405Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13339",
+      "loja": "Shopee",
+      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
+      "link": "https://s.shopee.com.br/50Yb0k6PNu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
+      "preco": 59.980000000000004,
+      "precoDe": 199.95,
+      "desconto": 60,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-29T14:07:49.403Z"
+    },
     {
       "id": "13337",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 40,
       "cupom": "LOAJSOFICIAIS",
       "enviadoEm": "2026-08-27T15:16:38.958Z"
-    },
-    {
-      "id": "12906",
-      "loja": "Amazon",
-      "titulo": "Tomada RJ45 Cat 6E Grafite Inova Pro Class Alumbra",
-      "link": "https://www.amazon.com.br/dp/B08K9F47W5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31VDDZlltfL._SL400_.jpg",
-      "preco": 22,
-      "precoDe": 68.74,
-      "desconto": 68,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T15:15:23.289Z"
     }
   ]
 }
