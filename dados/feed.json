@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-29T18:57:14.711Z",
+  "atualizadoEm": "2026-08-29T19:02:11.604Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13383",
+      "loja": "Shopee",
+      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
+      "link": "https://s.shopee.com.br/112Vh1PoAd",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
+      "preco": 177.9,
+      "precoDe": 599.7,
+      "desconto": 67,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-29T18:58:53.225Z"
+    },
     {
       "id": "13381",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 13,
       "cupom": null,
       "enviadoEm": "2026-08-27T16:49:18.323Z"
-    },
-    {
-      "id": "12957",
-      "loja": "Amazon",
-      "titulo": "KIT Creme Pomada de Assadura Vit A.G.E 15g Cada Maxi Baby (15g)",
-      "link": "https://www.amazon.com.br/dp/B0GY9KKHDJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31uFXrSu3sL._SL400_.jpg",
-      "preco": 8.89,
-      "precoDe": 9.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T16:40:49.793Z"
     }
   ]
 }
