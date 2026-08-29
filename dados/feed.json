@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-29T15:02:11.601Z",
+  "atualizadoEm": "2026-08-29T15:26:21.663Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13348",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Marmitas 900ml com Travas Potes Herméticos - Livres de BPA para Alimentos organiza congelador",
+      "link": "https://s.shopee.com.br/8V8WNUOd4q",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-ms4svnxflfd31d_tn",
+      "preco": 36.9,
+      "precoDe": 80.22,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-08-29T15:16:21.662Z"
+    },
     {
       "id": "13343",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 71,
       "cupom": null,
       "enviadoEm": "2026-08-27T15:19:46.198Z"
-    },
-    {
-      "id": "12909",
-      "loja": "Mercado Livre",
-      "titulo": "Ar Condicionado Electrolux YI24F-YE24F Split Inverter 24000btu Frio Cor Branco",
-      "link": "https://meli.la/1pmvSSQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_647426-MLA99416653798_112025-F.jpg",
-      "preco": 3239,
-      "precoDe": 3899,
-      "desconto": 12,
-      "cupom": "COMPRABOA",
-      "enviadoEm": "2026-08-27T15:18:53.602Z"
     }
   ]
 }
