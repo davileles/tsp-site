@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-29T03:06:49.669Z",
+  "atualizadoEm": "2026-08-29T03:36:49.810Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -711,30 +711,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "DIATV250",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 259,
-      "minimo": 2500,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-29T03:19:42.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "VIP50",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 350,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-29T03:19:42.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "CAMAROTE20",
       "loja": "Magazine Luiza",
       "tipo": "pct",
@@ -975,6 +951,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "AUTOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SOECONOMIA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1083,6 +1071,42 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PROMOAGORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOESPORTE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELHORCUPOMML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "HORADOCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1176,6 +1200,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TBTSTOCKCAR",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 9,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-08-30T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
