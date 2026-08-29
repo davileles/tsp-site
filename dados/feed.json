@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-29T20:32:11.604Z",
+  "atualizadoEm": "2026-08-29T21:01:05.199Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13393",
+      "loja": "Shopee",
+      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
+      "link": "https://s.shopee.com.br/8AVgLtucwZ",
+      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
+      "preco": 54.989999999999995,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-29T20:51:05.197Z"
+    },
     {
       "id": "13392",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-08-27T17:21:27.835Z"
-    },
-    {
-      "id": "12964",
-      "loja": "Amazon",
-      "titulo": "Cerveja Corona, Lata 350ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0DB9568JH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/412TrQf5pBL._SL400_.jpg",
-      "preco": 40.99,
-      "precoDe": 50.32,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T17:02:54.036Z"
     }
   ]
 }
