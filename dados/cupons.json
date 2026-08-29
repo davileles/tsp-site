@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-29T14:17:50.605Z",
+  "atualizadoEm": "2026-08-29T15:02:12.602Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1167,18 +1167,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "AUTOEFERAMENTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-08-29T15:00:00.318Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PROMOPRAMODA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1215,18 +1203,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "AUTOPECAS15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-08-29T15:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PROMOCERTA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1251,18 +1227,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ENTREGASFULL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 39,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-08-29T15:00:00.201Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "VALEMUITO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1275,15 +1239,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULL10",
+      "codigo": "10SITETODO",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 10,
-      "minimo": 39,
+      "minimo": 79,
       "maximo": null,
       "limite": 20,
       "observacao": null,
-      "validadeAte": "2026-08-29T15:00:00.000Z",
+      "validadeAte": "2026-08-30T15:00:36.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1596,18 +1560,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-29T18:34:54.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "F1MD3M3S",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 59,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-29T15:01:45.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
