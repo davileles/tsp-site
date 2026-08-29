@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-29T00:08:42.413Z",
+  "atualizadoEm": "2026-08-29T01:07:49.527Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -795,18 +795,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SITE40",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 299,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-29T11:56:53.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "LIQUIDA30",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -923,7 +911,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-08-29T12:00:17.000Z",
+      "validadeAte": "2026-09-20T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1212,18 +1200,6 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LANCECERTO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-08-29T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
