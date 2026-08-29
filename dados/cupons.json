@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-29T06:36:49.570Z",
+  "atualizadoEm": "2026-08-29T07:36:49.586Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1054,6 +1054,18 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOESPORTE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 150,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
