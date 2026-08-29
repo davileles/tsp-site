@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-29T16:11:05.366Z",
+  "atualizadoEm": "2026-08-29T17:00:17.950Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1429,18 +1429,6 @@
       "observacao": "Códigos fornecidos sem informação de tipo de desconto (percentual ou valor fixo), valor do desconto, loja ou condições de uso",
       "validadeAte": "2026-08-29T22:47:48.000Z",
       "url": null
-    },
-    {
-      "codigo": "ZEBORA30",
-      "loja": "Outro: Zé Delivery",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 15,
-      "observacao": null,
-      "validadeAte": "2026-08-29T16:40:45.000Z",
-      "url": "https://ze.onelink.me/qZhP/p8z09c1x"
     },
     {
       "codigo": "BEMVINDA",
