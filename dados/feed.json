@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-29T19:31:12.573Z",
+  "atualizadoEm": "2026-08-29T19:53:36.998Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13387",
+      "loja": "Shopee",
+      "titulo": "Mixer Power Inox 3 Em 1 Elgin 600w Batedor Processador 127v",
+      "link": "https://s.shopee.com.br/5LBUu3gciR",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ok5c2tre2qbd_tn",
+      "preco": 135,
+      "precoDe": 189.02,
+      "desconto": 18,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-29T19:43:36.997Z"
+    },
     {
       "id": "13385",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-08-27T16:57:49.445Z"
-    },
-    {
-      "id": "12959",
-      "loja": "Amazon",
-      "titulo": "Boss GRAND PRIX 1513476 Cronógrafo masculino design clássico",
-      "link": "https://www.amazon.com.br/dp/B01NBVQDUF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41gnalwa2ML._SL400_.jpg",
-      "preco": 1196.1,
-      "precoDe": 1329,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T16:51:28.442Z"
     }
   ]
 }
