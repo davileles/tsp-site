@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-29T21:23:51.625Z",
+  "atualizadoEm": "2026-08-29T21:46:20.986Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13397",
+      "loja": "Shopee",
+      "titulo": "Processador Processadores 3 Laminas De Alimentos Manual 500ml Multiuso Universal",
+      "link": "https://s.shopee.com.br/9AODaqaSB9",
+      "imagem": "https://cf.shopee.com.br/file/ec94a44236e11acb0440dc5bd1a79843_tn",
+      "preco": 14.99,
+      "precoDe": 22.04,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-08-29T21:36:20.986Z"
+    },
     {
       "id": "13396",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 44,
       "cupom": "4T44M0C0MPR4S",
       "enviadoEm": "2026-08-27T17:44:20.258Z"
-    },
-    {
-      "id": "12977",
-      "loja": "Amazon",
-      "titulo": "MAM Baby Kit 2 Mamadeiras Easy Active Set, 270ml e 330ml Com Formato Ergonômico e Fácil de Segurar para Crianças 2+ Meses com Bico de Silicone Skinsoft, Azul",
-      "link": "https://www.amazon.com.br/dp/B09VW57PZV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ZnQIo1LIL._SL400_.jpg",
-      "preco": 87.29,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T17:41:14.606Z"
     }
   ]
 }
