@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-29T12:46:53.564Z",
+  "atualizadoEm": "2026-08-29T13:02:11.600Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13326",
+      "loja": "Shopee",
+      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
+      "link": "https://s.shopee.com.br/2BESgTNmVK",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
+      "preco": 65.39,
+      "precoDe": 328.42,
+      "desconto": 74,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-29T12:59:42.153Z"
+    },
     {
       "id": "13323",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 83,
       "cupom": null,
       "enviadoEm": "2026-08-27T15:05:56.232Z"
-    },
-    {
-      "id": "12898",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 25 Organizador Modular Multiuso Acrilico Rebirth Cor Cristal",
-      "link": "https://meli.la/1TEikUy",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_788000-MLA85357958204_062025-F.jpg",
-      "preco": 69.9,
-      "precoDe": 157.55,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T15:03:28.114Z"
     }
   ]
 }
