@@ -1,31 +1,7 @@
 {
-  "atualizadoEm": "2026-08-29T02:36:49.518Z",
+  "atualizadoEm": "2026-08-29T03:06:49.669Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "GRANDE",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 281900,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-29T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "GRANDE7",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 700,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-29T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
     {
       "codigo": "AMOO20DAVINES",
       "loja": "BELEZA NA WEB",
@@ -60,18 +36,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
-    },
-    {
-      "codigo": "LUXO15",
-      "loja": "BELEZA NA WEB",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 499,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-29T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
     },
     {
@@ -444,18 +408,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-01T12:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "VEMGTA",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 60,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-29T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -936,6 +888,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-20T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJASOFICIAIS30",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido em lojas oficiais. Lista completa disponível no link.",
+      "validadeAte": "2026-08-30T03:01:30.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
