@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-29T01:36:49.706Z",
+  "atualizadoEm": "2026-08-29T02:36:49.518Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -780,6 +780,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-29T03:19:42.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "CAMAROTE20",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido somente no APP Magalu. Produto: Controle para Xbox e PC sem Fio EP2-40651 Microsoft Carbon Black - R$ 279",
+      "validadeAte": "2026-08-30T02:22:05.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
