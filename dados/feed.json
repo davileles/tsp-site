@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-30T11:09:00.561Z",
+  "atualizadoEm": "2026-08-30T11:37:05.606Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13425",
+      "loja": "Shopee",
+      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1",
+      "link": "https://s.shopee.com.br/8V8XicNXpf",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd48-lupf3z3a40mxf1_tn",
+      "preco": 18.99,
+      "precoDe": 90.43,
+      "desconto": 79,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T11:27:05.605Z"
+    },
+    {
+      "id": "13424",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41cr+Y+sGyL._SL400_.jpg",
+      "preco": 58.54,
+      "precoDe": 71.67,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T11:21:12.640Z"
+    },
+    {
+      "id": "13422",
+      "loja": "Amazon",
+      "titulo": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
+      "link": "https://www.amazon.com.br/dp/B099KXW911?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41QSw44yLeL._SL400_.jpg",
+      "preco": 22.76,
+      "precoDe": 28.68,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T11:13:25.909Z"
+    },
     {
       "id": "13420",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 46,
       "cupom": "MELIAQUI",
       "enviadoEm": "2026-08-27T18:32:58.149Z"
-    },
-    {
-      "id": "13004",
-      "loja": "Mercado Livre",
-      "titulo": "Brinquedo Infantil Volante Fom Fom C/ Retrovisor Elka",
-      "link": "https://meli.la/26bvRcS",
-      "imagem": null,
-      "preco": 97.96000000000001,
-      "precoDe": 129,
-      "desconto": 11,
-      "cupom": "MELIAQUI",
-      "enviadoEm": "2026-08-27T18:32:54.490Z"
-    },
-    {
-      "id": "13002",
-      "loja": "Shopee",
-      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
-      "link": "https://s.shopee.com.br/7VFwDAOgWq",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
-      "preco": 17.99,
-      "precoDe": 21.42,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T18:29:20.673Z"
-    },
-    {
-      "id": "12998",
-      "loja": "Mercado Livre",
-      "titulo": "Brinquedo Educativo Pica Pau Baby Toys Set Didático Encaixe 19 Peças",
-      "link": "https://meli.la/1xTfr3d",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_874707-MLA98409763554_112025-F.jpg",
-      "preco": 40,
-      "precoDe": 78.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T18:21:44.397Z"
     }
   ]
 }
