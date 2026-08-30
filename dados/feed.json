@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-30T14:09:00.568Z",
+  "atualizadoEm": "2026-08-30T14:26:31.074Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13452",
+      "loja": "Amazon",
+      "titulo": "Sabonete Nutritivo Derma Protect JOHNSON'S® Baby 200mL",
+      "link": "https://www.amazon.com.br/dp/B0C9W3MZV2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31VXhamiFDL._SL400_.jpg",
+      "preco": 39.82,
+      "precoDe": 53.99,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T14:16:31.073Z"
+    },
     {
       "id": "13450",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-08-27T21:53:09.897Z"
-    },
-    {
-      "id": "13044",
-      "loja": "Amazon",
-      "titulo": "Granado Sabonete, Enxofre, 90g",
-      "link": "https://www.amazon.com.br/dp/B001EQK3LK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41cxOHoyLqL._SL400_.jpg",
-      "preco": 7.49,
-      "precoDe": 10,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T21:27:42.006Z"
     }
   ]
 }
