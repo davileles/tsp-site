@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-29T23:02:11.609Z",
+  "atualizadoEm": "2026-08-30T11:09:00.561Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13420",
+      "loja": "Amazon",
+      "titulo": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
+      "link": "https://www.amazon.com.br/dp/B095R95SNW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41HV6mGc85L._SL400_.jpg",
+      "preco": 39.59,
+      "precoDe": 53.4,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T11:04:31.134Z"
+    },
+    {
+      "id": "13419",
+      "loja": "Shopee",
+      "titulo": "4 em 1 Conjunto de Vassoura e Pá Revolucionário - Limpeza Rápida e sem Sujeira! O conjunto de vassouras 4 em 1",
+      "link": "https://s.shopee.com.br/3g3Hw5UUJn",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mn2p0k08c9okd4_tn",
+      "preco": 54,
+      "precoDe": 78.72,
+      "desconto": 6,
+      "cupom": "4T44M0C0MPR4S",
+      "enviadoEm": "2026-08-30T11:03:54.662Z"
+    },
     {
       "id": "13404",
       "loja": "Mercado Livre",
@@ -1191,18 +1215,6 @@
       "enviadoEm": "2026-08-27T21:53:09.897Z"
     },
     {
-      "id": "13046",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
-      "link": "https://www.amazon.com.br/dp/B095R95SNW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41HV6mGc85L._SL400_.jpg",
-      "preco": 39.59,
-      "precoDe": 53.4,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T21:33:05.554Z"
-    },
-    {
       "id": "13044",
       "loja": "Amazon",
       "titulo": "Granado Sabonete, Enxofre, 90g",
@@ -1429,18 +1441,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-08-27T18:21:44.397Z"
-    },
-    {
-      "id": "12987",
-      "loja": "Amazon",
-      "titulo": "Giz de Cera Pião Faber-Castell Little Creatives com 4 Cores",
-      "link": "https://www.amazon.com.br/dp/B0D1GTNQTN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41c9lfxJyEL._SL400_.jpg",
-      "preco": 24.1,
-      "precoDe": 26.65,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T17:58:12.246Z"
     }
   ]
 }
