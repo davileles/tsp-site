@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-30T12:09:00.563Z",
+  "atualizadoEm": "2026-08-30T12:31:19.450Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13437",
+      "loja": "Amazon",
+      "titulo": "Cremer Fralda Luxo Branca 70 X 70 Cm Pc Com 5 Unidades (Embalagem Pode Variar)",
+      "link": "https://www.amazon.com.br/dp/B07D2G84RT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/5166f6A6EAL._SL400_.jpg",
+      "preco": 28.29,
+      "precoDe": 39.99,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T12:21:19.449Z"
+    },
+    {
+      "id": "13436",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
+      "link": "https://s.shopee.com.br/3qMiDFmv1K",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-k1jd7z81yzkv2f_tn",
+      "preco": 25,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T12:13:09.586Z"
+    },
     {
       "id": "13434",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-08-27T19:40:40.701Z"
-    },
-    {
-      "id": "13020",
-      "loja": "Shopee",
-      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
-      "link": "https://s.shopee.com.br/4qFB6wRcCx",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
-      "preco": 69,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-27T19:38:02.496Z"
-    },
-    {
-      "id": "13017",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Baby Protect&Sec G, Leve 60 Pague 57 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0BCHWGG5P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41gYTgk90DL._SL400_.jpg",
-      "preco": 55.19,
-      "precoDe": 64.64,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T19:28:04.912Z"
     }
   ]
 }
