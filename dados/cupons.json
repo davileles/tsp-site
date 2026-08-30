@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T17:43:39.432Z",
+  "atualizadoEm": "2026-08-30T18:05:24.462Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -759,6 +759,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "CELULARTECH200",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 1599,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-08-31T18:03:32.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ELETRODOMESTICOS180",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -912,18 +924,6 @@
       "limite": 500,
       "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "RESGATEFULL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Válido em entregas Full. Aplica-se apenas a itens selecionados conforme lista fornecida.",
-      "validadeAte": "2026-08-31T03:00:45.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1167,18 +1167,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PROMOPRAMODA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELIAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1227,18 +1215,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LOJASOFICIAIS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-08-30T18:00:00.211Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SUPERACHADO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1251,15 +1227,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LOJASOFICIAIS10",
+      "codigo": "MODAEBELEZA10",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 10,
-      "minimo": 79,
+      "minimo": 69,
       "maximo": null,
-      "limite": 20,
+      "limite": 25,
       "observacao": null,
-      "validadeAte": "2026-08-30T18:00:00.000Z",
+      "validadeAte": "2026-08-31T18:03:32.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1417,6 +1393,18 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
+    },
+    {
+      "codigo": "50FULL",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 249,
+      "maximo": null,
+      "limite": null,
+      "observacao": "R$ 50,00 de desconto em compras de R$ 249,00",
+      "validadeAte": "2026-08-31T17:43:52.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "99T3MTUD0N4SH0",
