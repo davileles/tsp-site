@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-30T12:31:19.450Z",
+  "atualizadoEm": "2026-08-30T12:39:00.563Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13438",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Inox Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
+      "link": "https://s.shopee.com.br/4AzYdPZPHR",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms49lbchdmh1a1_tn",
+      "preco": 38.9,
+      "precoDe": 99.8,
+      "desconto": 51,
+      "cupom": "ULT1M0M1M0",
+      "enviadoEm": "2026-08-30T12:36:01.692Z"
+    },
     {
       "id": "13437",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-08-27T20:00:55.586Z"
-    },
-    {
-      "id": "13021",
-      "loja": "Amazon",
-      "titulo": "NIVEA SUN Protetor Solar Kids Brincando na Água FPS 60 150ml - Infantil, especialmente formulado para a pele delicada das crianças, muito resistente à água, alta proteção UVA/UVB",
-      "link": "https://www.amazon.com.br/dp/B07LF7C7YL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Tf5G7g+6L._SL400_.jpg",
-      "preco": 54.87,
-      "precoDe": 87.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T19:40:40.701Z"
     }
   ]
 }
