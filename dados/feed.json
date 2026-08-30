@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-30T12:39:00.563Z",
+  "atualizadoEm": "2026-08-30T12:51:52.399Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13440",
+      "loja": "Amazon",
+      "titulo": "Granado Condicionador Bebê, Tradicional, 250ml",
+      "link": "https://www.amazon.com.br/dp/B00TAC06CG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Cgktm3PYL._SL400_.jpg",
+      "preco": 17.63,
+      "precoDe": 30.04,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T12:41:52.398Z"
+    },
     {
       "id": "13438",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-08-27T20:23:19.761Z"
-    },
-    {
-      "id": "13024",
-      "loja": "Shopee",
-      "titulo": "Processador Processadores 3 Laminas De Alimentos Manual 500ml Multiuso Universal",
-      "link": "https://s.shopee.com.br/4LIuXbP872",
-      "imagem": "https://cf.shopee.com.br/file/ec94a44236e11acb0440dc5bd1a79843_tn",
-      "preco": 14.99,
-      "precoDe": 22.04,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T20:00:55.586Z"
     }
   ]
 }
