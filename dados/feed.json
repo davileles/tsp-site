@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-30T15:08:58.590Z",
+  "atualizadoEm": "2026-08-30T15:26:24.203Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13460",
+      "loja": "Shopee",
+      "titulo": "Kit Limpador Pastilha de máquina de lavar roupa, comprimido efervescente sólido para remover manchas【】",
+      "link": "https://s.shopee.com.br/70JkBeptzb",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwt-mcjqjjrew9uu86_tn",
+      "preco": 8.59,
+      "precoDe": 15.34,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T15:16:24.200Z"
+    },
     {
       "id": "13457",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-28T11:25:44.494Z"
-    },
-    {
-      "id": "13070",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
-      "link": "https://s.shopee.com.br/6fgonYpseP",
-      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
-      "preco": 42.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "ULT1M0M1M0",
-      "enviadoEm": "2026-08-28T11:03:20.397Z"
     }
   ]
 }
