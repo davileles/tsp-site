@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-30T14:26:31.074Z",
+  "atualizadoEm": "2026-08-30T14:39:00.569Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13454",
+      "loja": "Amazon",
+      "titulo": "Boia Infantil com Colete Salva Vidas Nash Flamingo",
+      "link": "https://www.amazon.com.br/dp/B0CB75YYN7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41XKOmkKPpL._SL400_.jpg",
+      "preco": 65.9,
+      "precoDe": 77.7,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T14:35:12.027Z"
+    },
+    {
+      "id": "13453",
+      "loja": "Shopee",
+      "titulo": "Kit com 2 - Máscara Capilar Skala 3 em 1 | Creme Sem Enxágue | Protetor Térmico | Vegano - The Gardener Pepper Force",
+      "link": "https://s.shopee.com.br/8fRy7YsP4m",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mq2ggvxkzmde83_tn",
+      "preco": 15.61,
+      "precoDe": 44.6,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T14:30:47.993Z"
+    },
     {
       "id": "13452",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 20,
       "cupom": null,
       "enviadoEm": "2026-08-27T22:30:41.339Z"
-    },
-    {
-      "id": "13053",
-      "loja": "Amazon",
-      "titulo": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
-      "link": "https://www.amazon.com.br/dp/B095D664HJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/312Ay9AaqjL._SL400_.jpg",
-      "preco": 13.64,
-      "precoDe": 22.69,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T22:26:53.535Z"
-    },
-    {
-      "id": "13050",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41zapxN3+7L._SL400_.jpg",
-      "preco": 63.12,
-      "precoDe": 77.27,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T21:53:09.897Z"
     }
   ]
 }
