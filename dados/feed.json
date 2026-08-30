@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-30T16:57:35.024Z",
+  "atualizadoEm": "2026-08-30T17:20:16.289Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13469",
+      "loja": "Shopee",
+      "titulo": "Massageador Elétrico 6 em 1 Corporal Potente Ergonômico Multifuncional Terapia 10 Velocidades",
+      "link": "https://s.shopee.com.br/gPglpXwwp",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mr6qsdj7sydi4b_tn",
+      "preco": 154.78,
+      "precoDe": 242.75,
+      "desconto": 28,
+      "cupom": "99T3MTUD0N4SH0",
+      "enviadoEm": "2026-08-30T17:10:16.287Z"
+    },
     {
       "id": "13468",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 27,
       "cupom": "4T44M0C0MPR4S",
       "enviadoEm": "2026-08-28T13:19:35.317Z"
-    },
-    {
-      "id": "13084",
-      "loja": "Shopee",
-      "titulo": "Creme Desodorante Antitranspirante Herbíssimo Care Rosa Mosqueta E Niacinamida Bisnaga 55g",
-      "link": "https://s.shopee.com.br/1VykICca8z",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmrumknuvu2s97_tn",
-      "preco": 11.93,
-      "precoDe": 15.91,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-28T12:57:01.380Z"
     }
   ]
 }
