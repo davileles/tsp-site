@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-30T13:08:49.321Z",
+  "atualizadoEm": "2026-08-30T13:31:50.374Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13446",
+      "loja": "Shopee",
+      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
+      "link": "https://s.shopee.com.br/6L43GXEWQo",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
+      "preco": 59,
+      "precoDe": 158,
+      "desconto": 50,
+      "cupom": "99T3MTUD0N4SH0",
+      "enviadoEm": "2026-08-30T13:21:50.371Z"
+    },
+    {
+      "id": "13445",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho XXG, 82 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW3YY6FY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51xMvKb-oFL._SL400_.jpg",
+      "preco": 109.99,
+      "precoDe": 118.9,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T13:17:18.271Z"
+    },
     {
       "id": "13441",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-08-27T21:18:15.148Z"
-    },
-    {
-      "id": "13037",
-      "loja": "Amazon",
-      "titulo": "MamyPoko Fralda-Calça Dia & Noite P 46 Unidades",
-      "link": "https://www.amazon.com.br/dp/B086BVM3QD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41YFjbCzH3L._SL400_.jpg",
-      "preco": 53.41,
-      "precoDe": 62.9,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T21:05:46.084Z"
-    },
-    {
-      "id": "13033",
-      "loja": "Shopee",
-      "titulo": "Seringa de Segurança Retrátil para Insulina (1ml) com Agulha Fixa 0,3x13mm (30G 1/2) c/10 | - SOL",
-      "link": "https://s.shopee.com.br/40g4C65hat",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mnepe0233aptdf_tn",
-      "preco": 15,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T20:45:41.633Z"
     }
   ]
 }
