@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-30T18:42:39.101Z",
+  "atualizadoEm": "2026-08-30T19:11:53.279Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13485",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
+      "link": "https://s.shopee.com.br/BTQIe99Bw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
+      "preco": 33.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T19:02:41.361Z"
+    },
+    {
+      "id": "13484",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV TCL 32 Polegadas FHD QLED S5K WiFi Bluetooth Google TV 2 HDMI HDR10 Dolby Audio 32S5K",
+      "link": "https://meli.la/2qB61Uu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_895373-MLA115962251521_082026-F.jpg",
+      "preco": 1059.41,
+      "precoDe": 1249,
+      "desconto": 13,
+      "cupom": "MODAEBELEZA10",
+      "enviadoEm": "2026-08-30T18:57:01.909Z"
+    },
     {
       "id": "13482",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-08-28T15:48:36.322Z"
-    },
-    {
-      "id": "13154",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário para Cozinha Multiuso Taças Pratos Prateleiras Aramado Aço Dicarlo 5 Peças",
-      "link": "https://s.shopee.com.br/gPdTZxLFN",
-      "imagem": "https://cf.shopee.com.br/file/0913c6b2091f5d1f1b53d3b9e5624b4e_tn",
-      "preco": 93.5,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-28T15:35:52.006Z"
-    },
-    {
-      "id": "13152",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
-      "link": "https://s.shopee.com.br/2gAhpj66Wg",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
-      "preco": 44.32,
-      "precoDe": 72.43,
-      "desconto": 25,
-      "cupom": "ULT1M0M1M0",
-      "enviadoEm": "2026-08-28T15:13:31.595Z"
     }
   ]
 }
