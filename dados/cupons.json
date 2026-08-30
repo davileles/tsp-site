@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T03:32:11.890Z",
+  "atualizadoEm": "2026-08-30T04:32:11.881Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -774,10 +774,10 @@
       "codigo": "INTERNACIONALCN",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 70,
+      "valor": 50,
       "minimo": 0,
       "maximo": null,
-      "limite": 150,
+      "limite": 90,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -859,7 +859,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 29,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
