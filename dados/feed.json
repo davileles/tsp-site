@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-30T11:37:05.606Z",
+  "atualizadoEm": "2026-08-30T12:00:43.888Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13429",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
+      "link": "https://s.shopee.com.br/2VrKbBkCQE",
+      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
+      "preco": 42.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "ULT1M0M1M0",
+      "enviadoEm": "2026-08-30T11:50:43.886Z"
+    },
+    {
+      "id": "13428",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51fmR+tg5ML._SL400_.jpg",
+      "preco": 92.9,
+      "precoDe": 109.78,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T11:44:03.514Z"
+    },
+    {
+      "id": "13427",
+      "loja": "Amazon",
+      "titulo": "Kit com 3 Toalhas Lenços Umedecidos Hipoalergênico 50un Cada Maxi Baby",
+      "link": "https://www.amazon.com.br/dp/B0G55V9214?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31FMQk2KQGL._SL400_.jpg",
+      "preco": 14.45,
+      "precoDe": 39.9,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T11:40:31.509Z"
+    },
     {
       "id": "13425",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 55,
       "cupom": null,
       "enviadoEm": "2026-08-27T19:14:50.322Z"
-    },
-    {
-      "id": "13015",
-      "loja": "Amazon",
-      "titulo": "2º Ano - Matemática e Português (Escolinha Todolivro)",
-      "link": "https://www.amazon.com.br/dp/8537631558?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/4163arYsAwL._SL400_.jpg",
-      "preco": 4.48,
-      "precoDe": 14.9,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T19:14:48.720Z"
-    },
-    {
-      "id": "13009",
-      "loja": "Shopee",
-      "titulo": "Mochila Moto LED Olhos 3D Casca Rígida Impermeável Grande Capacidade Mochila Moderna para Viagem Trabalho Dia a Dia",
-      "link": "https://s.shopee.com.br/5foI3KFDes",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mlwrlh9oi1hi51_tn",
-      "preco": 339.99,
-      "precoDe": 1904.71,
-      "desconto": 79,
-      "cupom": "AB3RTR8AF",
-      "enviadoEm": "2026-08-27T18:52:13.250Z"
-    },
-    {
-      "id": "13005",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 100 Blocos Magnéticos De Montar Construção Brinquedo Educativo Imã Empilhamento Cubo Infantil Cashpay",
-      "link": "https://meli.la/17e6rrk",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_678116-MLA116540807507_082026-F.jpg",
-      "preco": 50.43,
-      "precoDe": 109.87,
-      "desconto": 46,
-      "cupom": "MELIAQUI",
-      "enviadoEm": "2026-08-27T18:32:58.149Z"
     }
   ]
 }
