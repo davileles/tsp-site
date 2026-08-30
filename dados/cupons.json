@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T01:02:11.854Z",
+  "atualizadoEm": "2026-08-30T01:32:11.837Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -993,7 +993,7 @@
       "valor": 25,
       "minimo": 19,
       "maximo": null,
-      "limite": 100,
+      "limite": 60,
       "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -1140,6 +1140,18 @@
       "limite": 140,
       "observacao": null,
       "validadeAte": "2026-09-02T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOPRAMODA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1379,7 +1391,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-08-30T01:12:53.000Z",
+      "validadeAte": "2026-08-31T01:15:22.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
