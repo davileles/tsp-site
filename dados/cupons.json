@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T03:02:11.856Z",
+  "atualizadoEm": "2026-08-30T03:32:11.890Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -771,6 +771,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "INTERNACIONALCN",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 70,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "LIQUIDA30",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -847,7 +859,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 29,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
@@ -1023,6 +1035,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LEVEAGORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-09-18T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CHEGOUCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1056,6 +1080,18 @@
       "limite": 500,
       "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "QUEROJA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 22,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-09-18T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
