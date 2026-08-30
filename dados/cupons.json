@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T00:32:11.930Z",
+  "atualizadoEm": "2026-08-30T01:02:11.854Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -814,7 +814,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -826,7 +826,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -850,7 +850,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons válidos em selecionados do Mercado Livre",
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -862,7 +862,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons válidos em selecionados do Mercado Livre",
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -898,7 +898,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-19T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -910,7 +910,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-20T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -922,7 +922,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-20T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -934,7 +934,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -946,7 +946,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -958,7 +958,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -970,7 +970,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -993,8 +993,8 @@
       "valor": 25,
       "minimo": 19,
       "maximo": null,
-      "limite": 60,
-      "observacao": "Cupons válidos em selecionados conforme listas específicas",
+      "limite": 100,
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1006,7 +1006,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1018,7 +1018,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1030,7 +1030,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons válidos em selecionados do Mercado Livre",
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1042,7 +1042,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-19T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1054,7 +1054,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1066,7 +1066,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1078,7 +1078,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-19T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1090,7 +1090,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1114,7 +1114,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1150,7 +1150,7 @@
       "minimo": 59,
       "maximo": null,
       "limite": 50,
-      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1162,7 +1162,7 @@
       "minimo": 50,
       "maximo": null,
       "limite": 200,
-      "observacao": null,
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1174,7 +1174,7 @@
       "minimo": 79,
       "maximo": null,
       "limite": 100,
-      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1210,7 +1210,7 @@
       "minimo": 150,
       "maximo": null,
       "limite": 300,
-      "observacao": null,
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
