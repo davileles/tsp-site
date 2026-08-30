@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T13:08:50.522Z",
+  "atualizadoEm": "2026-08-30T13:31:51.501Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -757,18 +757,6 @@
       "observacao": null,
       "validadeAte": "2026-08-31T21:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "15DOPELANDO",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": 1000,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-30T13:23:07.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "INTERNACIONALCN",
