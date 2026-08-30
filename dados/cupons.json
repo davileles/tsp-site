@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-30T19:36:09.902Z",
+  "atualizadoEm": "2026-08-30T19:59:43.007Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "NATORCIDA",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Válido apenas na primeira compra",
+      "validadeAte": "2026-08-31T19:53:36.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
     {
       "codigo": "AMOO20DAVINES",
       "loja": "BELEZA NA WEB",
