@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-30T12:00:43.888Z",
+  "atualizadoEm": "2026-08-30T12:09:00.563Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13434",
+      "loja": "Amazon",
+      "titulo": "Philips Aparador de Barba 20 ajustes com Tecnologia Lift & Trim",
+      "link": "https://www.amazon.com.br/dp/B0FMXLJHQV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ogDfXtIUL._SL400_.jpg",
+      "preco": 189,
+      "precoDe": 216,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T12:07:09.371Z"
+    },
+    {
+      "id": "13430",
+      "loja": "Amazon",
+      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
+      "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/514iBwYO87L._SL400_.jpg",
+      "preco": 161.57,
+      "precoDe": 229.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T12:03:33.397Z"
+    },
     {
       "id": "13429",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-08-27T19:28:04.912Z"
-    },
-    {
-      "id": "13014",
-      "loja": "Shopee",
-      "titulo": "Organizador de Geladeira Multiuso Plasutil Para Armario Dispensa Cozinha",
-      "link": "https://s.shopee.com.br/3qMdtXHsSS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkxr03l1t53609_tn",
-      "preco": 25.11,
-      "precoDe": 27.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T19:15:01.326Z"
-    },
-    {
-      "id": "13016",
-      "loja": "Amazon",
-      "titulo": "Happy School Cartilha de Alfabetização: Números",
-      "link": "https://www.amazon.com.br/dp/6555073683?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51kweJVWEUL._SL400_.jpg",
-      "preco": 13.49,
-      "precoDe": 29.9,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-08-27T19:14:50.322Z"
     }
   ]
 }
