@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T14:45:12.348Z",
+  "atualizadoEm": "2026-08-30T15:08:59.784Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1179,18 +1179,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BEBESPETS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Válido em itens de bebês e pets",
-      "validadeAte": "2026-08-30T15:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PROMOCERTA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1215,18 +1203,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SITE10",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-30T15:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SUPERACHADO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1236,18 +1212,6 @@
       "limite": 200,
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-08-31T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 10,
-      "observacao": null,
-      "validadeAte": "2026-08-30T14:59:59.289Z",
       "url": "https://meli.la/2xystLt"
     },
     {
