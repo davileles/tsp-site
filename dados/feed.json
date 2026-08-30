@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-30T16:35:03.519Z",
+  "atualizadoEm": "2026-08-30T16:57:35.024Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13468",
+      "loja": "Shopee",
+      "titulo": "Kit Zípers de Reparo Universal Conserto Instantâneo Sem costura Prático",
+      "link": "https://s.shopee.com.br/7KwagXL5cs",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1u55wybuzze95_tn",
+      "preco": 10.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T16:47:35.022Z"
+    },
     {
       "id": "13467",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-08-28T12:57:01.380Z"
-    },
-    {
-      "id": "13083",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Inox Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
-      "link": "https://s.shopee.com.br/5foJEIVNa6",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms49lbchdmh1a1_tn",
-      "preco": 38.9,
-      "precoDe": 99.8,
-      "desconto": 51,
-      "cupom": "ULT1M0M1M0",
-      "enviadoEm": "2026-08-28T12:34:42.034Z"
     }
   ]
 }
