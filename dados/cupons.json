@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T18:42:40.580Z",
+  "atualizadoEm": "2026-08-30T18:50:13.432Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -768,18 +768,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-30T22:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ELETRODOMESTICOS180",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 180,
-      "minimo": 1199,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-31T15:28:43.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
