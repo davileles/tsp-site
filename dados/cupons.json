@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T13:31:51.501Z",
+  "atualizadoEm": "2026-08-30T13:55:09.902Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -975,18 +975,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "AUTOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SOECONOMIA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1152,18 +1140,6 @@
       "limite": 140,
       "observacao": null,
       "validadeAte": "2026-09-02T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMOPRAMODA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
