@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T21:40:53.557Z",
+  "atualizadoEm": "2026-08-30T22:10:53.634Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -771,18 +771,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "CELULARTECH200",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 1599,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-30T22:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "INTERNACIONALCN",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1224,30 +1212,6 @@
       "limite": 200,
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-08-31T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MODAEBELEZA10",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 69,
-      "maximo": null,
-      "limite": 25,
-      "observacao": null,
-      "validadeAte": "2026-08-30T22:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MODAEBELEZA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 69,
-      "maximo": null,
-      "limite": 25,
-      "observacao": null,
-      "validadeAte": "2026-08-30T21:59:59.800Z",
       "url": "https://meli.la/2xystLt"
     },
     {
