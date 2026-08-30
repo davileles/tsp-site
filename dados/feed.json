@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-30T19:36:08.712Z",
+  "atualizadoEm": "2026-08-30T19:59:41.832Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13488",
+      "loja": "Shopee",
+      "titulo": "Regata feminina adulto kit 2 unidades cores variadas malha premium academia e dia a dia",
+      "link": "https://s.shopee.com.br/1qbeKrptpR",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mp9xiwp3c3k0c4_tn",
+      "preco": 22.48,
+      "precoDe": 54.83,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-08-30T19:49:41.831Z"
+    },
     {
       "id": "13486",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-08-28T16:12:38.006Z"
-    },
-    {
-      "id": "13157",
-      "loja": "Shopee",
-      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
-      "link": "https://s.shopee.com.br/904jtfHFOm",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
-      "preco": 44.32,
-      "precoDe": 66.24,
-      "desconto": 18,
-      "cupom": "ULT1M0M1M0",
-      "enviadoEm": "2026-08-28T15:58:19.935Z"
     }
   ]
 }
