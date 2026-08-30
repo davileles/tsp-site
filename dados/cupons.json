@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T01:32:11.837Z",
+  "atualizadoEm": "2026-08-30T02:32:11.903Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -759,18 +759,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "CAMAROTE20",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido somente no APP Magalu. Produto: Controle para Xbox e PC sem Fio EP2-40651 Microsoft Carbon Black - R$ 279",
-      "validadeAte": "2026-08-30T02:22:05.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "15DOPELANDO",
       "loja": "Magazine Luiza",
       "tipo": "pct",
@@ -1140,18 +1128,6 @@
       "limite": 140,
       "observacao": null,
       "validadeAte": "2026-09-02T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMOPRAMODA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
