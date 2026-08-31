@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-31T18:35:49.730Z",
+  "atualizadoEm": "2026-08-31T18:56:12.088Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13705",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira Sem Fio 25n 3/8 12v 10mm Bivolt Bateria Arstheco",
+      "link": "https://meli.la/13L4mhi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_830515-MLA113982529175_072026-F.jpg",
+      "preco": 50.78,
+      "precoDe": 179.98,
+      "desconto": 69,
+      "cupom": "ALLSITE31",
+      "enviadoEm": "2026-08-31T18:46:12.085Z"
+    },
+    {
+      "id": "13704",
+      "loja": "Shopee",
+      "titulo": "Organizador de maquiagem Giratório 360º Acrílico Suporte de Cosméticos",
+      "link": "https://s.shopee.com.br/4fvrEPafqh",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd6c-m729rq2ye1aka6_tn",
+      "preco": 9.979999999999997,
+      "precoDe": 90.65,
+      "desconto": 57,
+      "cupom": "CUPOMDIASAN",
+      "enviadoEm": "2026-08-31T18:42:48.461Z"
+    },
+    {
+      "id": "13703",
+      "loja": "Amazon",
+      "titulo": "Kit de Mamadeiras e Bicos Super Evolution Lillo - 80ml, 150ml e 300ml",
+      "link": "https://www.amazon.com.br/dp/B0DXL6PVLQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31XuUeS8wrL._SL400_.jpg",
+      "preco": 93.6,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-31T18:36:48.610Z"
+    },
     {
       "id": "13700",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 67,
       "cupom": "4T44M0C0MPR4S",
       "enviadoEm": "2026-08-29T18:58:53.225Z"
-    },
-    {
-      "id": "13381",
-      "loja": "Mercado Livre",
-      "titulo": "Gabinete Gamer Obsid Aquário Com 5 Cooler Fan Led Rgb Preto",
-      "link": "https://meli.la/2ivjQZU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_766748-MLB113677013648_072026-O.webp",
-      "preco": 220.76000000000002,
-      "precoDe": 399,
-      "desconto": 35,
-      "cupom": "TUDOPRASUACASA",
-      "enviadoEm": "2026-08-29T18:47:14.707Z"
-    },
-    {
-      "id": "13379",
-      "loja": "Shopee",
-      "titulo": "Monitor Gamer TCL 25 Polegadas QLED Mini LED Full HD G64 300Hz 1ms (GtG) Freesync HDR 600 nits 25G64",
-      "link": "https://s.shopee.com.br/3VjqeRsVgq",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-msbxq2aadlhh9c_tn",
-      "preco": 1235,
-      "precoDe": 2670.21,
-      "desconto": 53,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-29T18:41:48.621Z"
-    },
-    {
-      "id": "13378",
-      "loja": "Mercado Livre",
-      "titulo": "Fonte Msi Mag 650w 80 Plus Bronze Pfc Ativo A650bnl Preto",
-      "link": "https://meli.la/2dgRoum",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_620355-MLA99033065284_112025-F.jpg",
-      "preco": 251.6,
-      "precoDe": 440,
-      "desconto": 33,
-      "cupom": "TUDOPRASUACASA",
-      "enviadoEm": "2026-08-29T18:39:32.713Z"
     }
   ]
 }
