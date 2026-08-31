@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-31T12:10:53.397Z",
+  "atualizadoEm": "2026-08-31T12:21:59.788Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13551",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Inox Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
+      "link": "https://s.shopee.com.br/7pssZP5LsI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms49lbchdmh1a1_tn",
+      "preco": 38.9,
+      "precoDe": 99.8,
+      "desconto": 51,
+      "cupom": "FLA9AGO178FA1Z",
+      "enviadoEm": "2026-08-31T12:11:59.786Z"
+    },
     {
       "id": "13550",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 40,
       "cupom": "ULT1M0M1M0",
       "enviadoEm": "2026-08-28T17:51:19.464Z"
-    },
-    {
-      "id": "13171",
-      "loja": "Shopee",
-      "titulo": "Lorenzetti Aquecedor de Agua Versátil 3 Temperaturas Branco 127",
-      "link": "https://s.shopee.com.br/BTN0NzLGH",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdys-mbptsew8hqq572_tn",
-      "preco": 364.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "99TOPSHO",
-      "enviadoEm": "2026-08-28T17:28:28.809Z"
     }
   ]
 }
