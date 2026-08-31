@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-31T21:17:07.364Z",
+  "atualizadoEm": "2026-08-31T22:29:19.512Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13757",
+      "loja": "Mercado Livre",
+      "titulo": "Garrafa Térmica Stanley Adventure 2.0 com Tampa Antivazamento Matte Black 1L",
+      "link": "https://meli.la/1NyrP29",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_615785-MLA112699694553_062026-F.jpg",
+      "preco": 183.89999999999998,
+      "precoDe": 299,
+      "desconto": 30,
+      "cupom": "PROMOCERTA",
+      "enviadoEm": "2026-08-31T22:19:19.508Z"
+    },
+    {
+      "id": "13755",
+      "loja": "Mercado Livre",
+      "titulo": "Whey Protein Concentrado - Pote 900g Dux Nutrition - Sabor Chocolate",
+      "link": "https://meli.la/2WnmZs6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_728880-MLA107260069950_032026-F.jpg",
+      "preco": 189.99,
+      "precoDe": 344,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-08-31T22:16:48.174Z"
+    },
+    {
+      "id": "13756",
+      "loja": "Mercado Livre",
+      "titulo": "Huggies Fralda Descartável Rápida Absorção XG - 66 Un",
+      "link": "https://meli.la/1xnSz8Y",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_717951-MLA113915298353_062026-F.jpg",
+      "preco": 49.459999999999994,
+      "precoDe": 87,
+      "desconto": 19,
+      "cupom": "LIQUIDA30",
+      "enviadoEm": "2026-08-31T22:16:32.920Z"
+    },
+    {
+      "id": "13754",
+      "loja": "Mercado Livre",
+      "titulo": "Mini Ventilador Soprador Ar Turbo 130000rpm Assoprador Sem Fio Recarregável Usb 3 Níveis Jato Forte Portátil Multiuso Limpeza Teclado Carro Acende Churrasqueira Davely",
+      "link": "https://meli.la/2mg1y1Y",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_667790-MLA113358900874_072026-F.jpg",
+      "preco": 34.93,
+      "precoDe": 96,
+      "desconto": 48,
+      "cupom": "LIQUIDA30",
+      "enviadoEm": "2026-08-31T22:12:23.521Z"
+    },
     {
       "id": "13748",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-08-30T11:13:25.909Z"
-    },
-    {
-      "id": "13420",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
-      "link": "https://www.amazon.com.br/dp/B095R95SNW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41HV6mGc85L._SL400_.jpg",
-      "preco": 39.59,
-      "precoDe": 53.4,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T11:04:31.134Z"
-    },
-    {
-      "id": "13419",
-      "loja": "Shopee",
-      "titulo": "4 em 1 Conjunto de Vassoura e Pá Revolucionário - Limpeza Rápida e sem Sujeira! O conjunto de vassouras 4 em 1",
-      "link": "https://s.shopee.com.br/3g3Hw5UUJn",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mn2p0k08c9okd4_tn",
-      "preco": 54,
-      "precoDe": 78.72,
-      "desconto": 6,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-30T11:03:54.662Z"
-    },
-    {
-      "id": "13404",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Curvo AOC AGON G4Z 27\" 300Hz 0,3ms HDR10 Base Ajustável C27G4Z/P Preto",
-      "link": "https://meli.la/1gM4XQ9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_796898-MLA94128503742_102025-F.jpg",
-      "preco": 1209.8999999999999,
-      "precoDe": 2055.71,
-      "desconto": 35,
-      "cupom": "VALEMUITO",
-      "enviadoEm": "2026-08-29T23:01:40.547Z"
-    },
-    {
-      "id": "13403",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira Gamer Pichau Donek L, Preto, Pch-dnkl-bl02",
-      "link": "https://meli.la/2Pc3GjJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_741471-MLA99455654120_112025-F.jpg",
-      "preco": 641.21,
-      "precoDe": 1131.37,
-      "desconto": 37,
-      "cupom": "VALEMUITO",
-      "enviadoEm": "2026-08-29T22:57:01.556Z"
     }
   ]
 }
