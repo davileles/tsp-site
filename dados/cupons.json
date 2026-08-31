@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-31T19:05:50.803Z",
+  "atualizadoEm": "2026-08-31T19:15:38.997Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1191,18 +1191,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "INTERNACIONALSALE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 140,
-      "observacao": null,
-      "validadeAte": "2026-09-01T03:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PAGUEMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1260,18 +1248,6 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 10,
-      "observacao": null,
-      "validadeAte": "2026-09-02T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
