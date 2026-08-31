@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-31T15:29:12.621Z",
+  "atualizadoEm": "2026-08-31T15:35:49.661Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13652",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 9 Pares Meias Wilson Cano Médio Masculino Adulto",
+      "link": "https://meli.la/2Cisb6X",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_784635-MLB83360247867_032025-O.webp",
+      "preco": 30.460000000000004,
+      "precoDe": 77.5,
+      "desconto": 56,
+      "cupom": "ALLSITE31",
+      "enviadoEm": "2026-08-31T15:32:05.189Z"
+    },
     {
       "id": "13649",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "ULT1M0M1M0",
       "enviadoEm": "2026-08-29T16:01:05.076Z"
-    },
-    {
-      "id": "13356",
-      "loja": "Amazon",
-      "titulo": "Smart TV 43\" Britânia B43KRA Full HD",
-      "link": "https://www.amazon.com.br/dp/B0GVPQGC48?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41UWHL+KyvL._SL400_.jpg",
-      "preco": 899,
-      "precoDe": 1349,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-08-29T15:43:50.231Z"
     }
   ]
 }
