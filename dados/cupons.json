@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-31T15:29:13.894Z",
+  "atualizadoEm": "2026-08-31T15:49:31.034Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -13,6 +13,18 @@
       "observacao": "Válido apenas na primeira compra",
       "validadeAte": "2026-08-31T19:53:36.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "COLOR",
+      "loja": "BELEZA NA WEB",
+      "tipo": "reais",
+      "valor": 299,
+      "minimo": 299,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-12T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
     },
     {
       "codigo": "AMOO20DAVINES",
@@ -48,6 +60,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
+    },
+    {
+      "codigo": "AMOLUXO",
+      "loja": "BELEZA NA WEB",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
     },
     {
@@ -540,6 +564,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-08-31T20:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "JBL25OFF",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -1261,6 +1297,18 @@
       "observacao": "Múltiplos cupons ativos no Mercado Livre com diferentes códigos e limites de desconto",
       "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "NIKE20",
+      "loja": "Nike",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 0,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-04T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17652&id=1207116"
     },
     {
       "codigo": "WELCOME15",
