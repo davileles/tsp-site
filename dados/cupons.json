@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-31T17:27:37.281Z",
+  "atualizadoEm": "2026-08-31T17:44:25.872Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1465,18 +1465,6 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
-    },
-    {
-      "codigo": "50FULL",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 249,
-      "maximo": null,
-      "limite": null,
-      "observacao": "R$ 50,00 de desconto em compras de R$ 249,00",
-      "validadeAte": "2026-08-31T17:43:52.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "CUPOMDIASAN",
