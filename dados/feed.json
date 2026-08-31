@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-31T18:19:38.971Z",
+  "atualizadoEm": "2026-08-31T18:30:02.297Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13696",
+      "loja": "Shopee",
+      "titulo": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
+      "link": "https://s.shopee.com.br/8Kp9ZbZ5xM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902_tn",
+      "preco": 10.89,
+      "precoDe": 199.45,
+      "desconto": 80,
+      "cupom": "CUPOMDIASAN",
+      "enviadoEm": "2026-08-31T18:20:02.295Z"
+    },
     {
       "id": "13692",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 31,
       "cupom": "TUDOPRASUACASA",
       "enviadoEm": "2026-08-29T18:37:15.992Z"
-    },
-    {
-      "id": "13375",
-      "loja": "Shopee",
-      "titulo": "Massageador muscular elétrico profissional de alta frequência, emparelhado com um relógio eletrônico",
-      "link": "https://s.shopee.com.br/5LBUpRH5RZ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mrkjn04g53bad3_tn",
-      "preco": 30.98,
-      "precoDe": 119.15,
-      "desconto": 74,
-      "cupom": null,
-      "enviadoEm": "2026-08-29T18:36:26.416Z"
     }
   ]
 }
