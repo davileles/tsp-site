@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-31T20:23:29.030Z",
+  "atualizadoEm": "2026-08-31T20:34:32.059Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13744",
+      "loja": "Mercado Livre",
+      "titulo": "Pacote De Fraldas Tripla Proteção P Com 46 Unidades Huggies",
+      "link": "https://meli.la/2ZuBmgE",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_667369-MLA99926992121_112025-F.jpg",
+      "preco": 39.06999999999999,
+      "precoDe": 52.43,
+      "desconto": 17,
+      "cupom": "ALLSITE31",
+      "enviadoEm": "2026-08-31T20:24:32.057Z"
+    },
     {
       "id": "13736",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 37,
       "cupom": "VALEMUITO",
       "enviadoEm": "2026-08-29T22:57:01.556Z"
-    },
-    {
-      "id": "13402",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Samsung 24\" FHD,100 Hz, HDMI, VGA,Preto, S3",
-      "link": "https://meli.la/2wCTmXk",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_931100-MLA99973037971_112025-F.jpg",
-      "preco": 485.1,
-      "precoDe": 649,
-      "desconto": 17,
-      "cupom": "VALEMUITO",
-      "enviadoEm": "2026-08-29T22:51:39.674Z"
     }
   ]
 }
