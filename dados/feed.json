@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-31T18:30:02.297Z",
+  "atualizadoEm": "2026-08-31T18:35:49.730Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13700",
+      "loja": "Amazon",
+      "titulo": "Assento Redutor Infantil EASYPOOP Kids Desfralde Bebê Para Vaso Sanitário Troninho com Escada",
+      "link": "https://www.amazon.com.br/dp/B0F2WG8KYD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41+aMNZtXXL._SL400_.jpg",
+      "preco": 49.87,
+      "precoDe": 106.24,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-08-31T18:34:36.031Z"
+    },
     {
       "id": "13696",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 33,
       "cupom": "TUDOPRASUACASA",
       "enviadoEm": "2026-08-29T18:39:32.713Z"
-    },
-    {
-      "id": "13376",
-      "loja": "Mercado Livre",
-      "titulo": "Water Cooler Kalkan Aura Com Tela Lcd 360mm Argb Intel Amd",
-      "link": "https://meli.la/1Qd2Kwg",
-      "imagem": null,
-      "preco": 336,
-      "precoDe": 559,
-      "desconto": 31,
-      "cupom": "TUDOPRASUACASA",
-      "enviadoEm": "2026-08-29T18:37:15.992Z"
     }
   ]
 }
