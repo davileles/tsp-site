@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-31T20:34:32.059Z",
+  "atualizadoEm": "2026-08-31T21:17:07.364Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13748",
+      "loja": "Amazon",
+      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
+      "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/514iBwYO87L._SL400_.jpg",
+      "preco": 174.9,
+      "precoDe": 229.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-08-31T21:07:07.361Z"
+    },
     {
       "id": "13744",
       "loja": "Mercado Livre",
@@ -1321,18 +1333,6 @@
       "desconto": 13,
       "cupom": null,
       "enviadoEm": "2026-08-30T12:07:09.371Z"
-    },
-    {
-      "id": "13430",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
-      "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/514iBwYO87L._SL400_.jpg",
-      "preco": 161.57,
-      "precoDe": 229.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T12:03:33.397Z"
     },
     {
       "id": "13428",
