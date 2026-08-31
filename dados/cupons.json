@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-31T22:29:20.736Z",
+  "atualizadoEm": "2026-08-31T22:56:46.321Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1381,6 +1381,18 @@
       "observacao": "Evento Choice Day - Começa à meia-noite",
       "validadeAte": "2026-09-01T18:18:34.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "B4C0N15",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 20,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido apenas em cidades selecionadas",
+      "validadeAte": "2026-09-01T22:49:19.000Z",
+      "url": null
     },
     {
       "codigo": "BEMVINDA",
