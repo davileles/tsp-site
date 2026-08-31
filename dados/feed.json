@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-31T14:17:15.319Z",
+  "atualizadoEm": "2026-08-31T14:35:49.660Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13632",
+      "loja": "Shopee",
+      "titulo": "JAQUETA DE COURO MASCULINA COM CAPUZ REMOVIVEL FORRADA E PELUCIDA POR DENTRO INVERNO/FRIO",
+      "link": "https://s.shopee.com.br/9V16hw3sIE",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmtaw18rywhs2d_tn",
+      "preco": 132,
+      "precoDe": 230,
+      "desconto": 30,
+      "cupom": "CUPOMDIASAN",
+      "enviadoEm": "2026-08-31T14:30:53.537Z"
+    },
     {
       "id": "13629",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-08-29T13:37:10.147Z"
-    },
-    {
-      "id": "13334",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades – com absorção especial para cocô líquido e indicador de troca.",
-      "link": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41okcss3BrL._SL400_.jpg",
-      "preco": 49.99,
-      "precoDe": 72.65,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-08-29T13:37:07.285Z"
     }
   ]
 }
