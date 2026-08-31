@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-31T20:05:49.731Z",
+  "atualizadoEm": "2026-08-31T20:23:29.030Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13736",
+      "loja": "Shopee",
+      "titulo": "TOYADENT PRO Escova de Dental Com Cerdas Premium Alemãs da Pedex +Capa Protetora",
+      "link": "https://s.shopee.com.br/4LJ0w48GGf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mo3mmcjo6bk26f_tn",
+      "preco": null,
+      "precoDe": 29.83,
+      "desconto": 40,
+      "cupom": "CUPOMDIASAN",
+      "enviadoEm": "2026-08-31T20:13:29.026Z"
+    },
+    {
+      "id": "13735",
+      "loja": "Mercado Livre",
+      "titulo": "Smart Tv Hq 32 Hd Android 12 Design Slim Hqs32nkhm",
+      "link": "https://meli.la/2jrngDT",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_803818-MLA99974462571_112025-F.jpg",
+      "preco": 827.08,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OPORTUNIDADE",
+      "enviadoEm": "2026-08-31T20:11:41.712Z"
+    },
+    {
+      "id": "13734",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Growth: Whey Protein Basic Natural 1kg + Creatina Monohidratada 250g",
+      "link": "https://meli.la/1xfgnHT",
+      "imagem": null,
+      "preco": 85.4,
+      "precoDe": 112.8,
+      "desconto": 16,
+      "cupom": "ALLSITE31",
+      "enviadoEm": "2026-08-31T20:08:34.614Z"
+    },
     {
       "id": "13731",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 17,
       "cupom": "VALEMUITO",
       "enviadoEm": "2026-08-29T22:51:39.674Z"
-    },
-    {
-      "id": "13401",
-      "loja": "Mercado Livre",
-      "titulo": "Teclado Mecânico Para Jogos Attack Shark X68he",
-      "link": "https://meli.la/1vNPS9y",
-      "imagem": null,
-      "preco": 129.55,
-      "precoDe": 243.25,
-      "desconto": 10,
-      "cupom": "INTERNACIONALCN",
-      "enviadoEm": "2026-08-29T22:48:39.087Z"
-    },
-    {
-      "id": "13397",
-      "loja": "Shopee",
-      "titulo": "Processador Processadores 3 Laminas De Alimentos Manual 500ml Multiuso Universal",
-      "link": "https://s.shopee.com.br/9AODaqaSB9",
-      "imagem": "https://cf.shopee.com.br/file/ec94a44236e11acb0440dc5bd1a79843_tn",
-      "preco": 14.99,
-      "precoDe": 22.04,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-08-29T21:36:20.986Z"
-    },
-    {
-      "id": "13396",
-      "loja": "Shopee",
-      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
-      "link": "https://s.shopee.com.br/6VNSONoNuE",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
-      "preco": 14.99,
-      "precoDe": 19.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-29T21:13:51.620Z"
     }
   ]
 }
