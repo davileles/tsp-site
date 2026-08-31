@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-08-31T11:36:19.273Z",
+  "atualizadoEm": "2026-08-31T12:06:53.640Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13545",
+      "loja": "Amazon",
+      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem frald",
+      "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/518pyDilWKL._SL400_.jpg",
+      "preco": 174.9,
+      "precoDe": 246.01,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-08-31T11:56:53.639Z"
+    },
+    {
+      "id": "13544",
+      "loja": "Amazon",
+      "titulo": "Fralda Infantil Personal Baby Protect e Sec M Mega 9x40pads Leve 40 pague 38 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41DupqCSKGL._SL400_.jpg",
+      "preco": 29.99,
+      "precoDe": 36.96,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-08-31T11:56:52.828Z"
+    },
+    {
+      "id": "13542",
+      "loja": "Shopee",
+      "titulo": "Calça Legging Feminina Grossa Flanelada Suplex Térmica Peluciada –Leg Inverno",
+      "link": "https://s.shopee.com.br/9AOG8H4s5P",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mnxayzevqhvo24_tn",
+      "preco": 21.89,
+      "precoDe": 49.83,
+      "desconto": 36,
+      "cupom": "FLA9AGO178FA1Z",
+      "enviadoEm": "2026-08-31T11:49:25.205Z"
+    },
+    {
+      "id": "13541",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51p7Q6bht8L._SL400_.jpg",
+      "preco": 199.29,
+      "precoDe": 229.49,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-08-31T11:43:12.022Z"
+    },
     {
       "id": "13537",
       "loja": "Shopee",
@@ -975,18 +1023,6 @@
       "enviadoEm": "2026-08-29T13:37:07.285Z"
     },
     {
-      "id": "13333",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51p7Q6bht8L._SL400_.jpg",
-      "preco": 199.29,
-      "precoDe": 229.49,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-08-29T13:37:04.535Z"
-    },
-    {
       "id": "13329",
       "loja": "Shopee",
       "titulo": "Colchão Inflável Queen Casal KAYOOSI Elétrico 203x152x40cm com Bomba Embutida  Cama De Campanha",
@@ -1405,42 +1441,6 @@
       "desconto": 60,
       "cupom": null,
       "enviadoEm": "2026-08-28T16:43:27.916Z"
-    },
-    {
-      "id": "13163",
-      "loja": "Shopee",
-      "titulo": "Lente de Contato Uso Diário Clariti - Coopervision + Estojo De Lentes",
-      "link": "https://s.shopee.com.br/7Ad7I9xSHY",
-      "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-lui6b2ll3hph86_tn",
-      "preco": 126,
-      "precoDe": 160.44,
-      "desconto": 9,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-28T16:43:20.590Z"
-    },
-    {
-      "id": "13162",
-      "loja": "Amazon",
-      "titulo": "Kit Danos Vorazes (Shampoo + Condicionador + Leave in) - Lola From Rio",
-      "link": "https://www.amazon.com.br/dp/B0GY9D1852?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/4158IbUzhSL._SL400_.jpg",
-      "preco": 48.9,
-      "precoDe": 99.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-08-28T16:40:20.310Z"
-    },
-    {
-      "id": "13161",
-      "loja": "Amazon",
-      "titulo": "Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 512GB SSD, KeepOS, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
-      "link": "https://www.amazon.com.br/dp/B0CYW2N6TX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41QUmh0GRvL._SL400_.jpg",
-      "preco": 2999,
-      "precoDe": 4299,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-08-28T16:31:40.889Z"
     }
   ]
 }
