@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-31T14:49:23.888Z",
+  "atualizadoEm": "2026-08-31T15:05:49.661Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13641",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira De Descanso Vibratória Rosa Girafa Mastela",
+      "link": "https://meli.la/2gKngA6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_680602-MLA110789357508_052026-F.jpg",
+      "preco": 109.56,
+      "precoDe": 143.65,
+      "desconto": 10,
+      "cupom": "MELIAQUI",
+      "enviadoEm": "2026-08-31T15:02:37.726Z"
+    },
+    {
+      "id": "13638",
+      "loja": "Amazon",
+      "titulo": "Buba Kit Colher De Treinamento Sortido 1 Unidade",
+      "link": "https://www.amazon.com.br/dp/B08WQ23KKK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ikXAcxS4L._SL400_.jpg",
+      "preco": 10.59,
+      "precoDe": 18.9,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-08-31T14:57:30.666Z"
+    },
+    {
+      "id": "13637",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Plus Size Feminina Acolchoada com Capuz – Inverno Quente e Confortável",
+      "link": "https://s.shopee.com.br/9pdx8BATlX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mlzn02kws0zod4_tn",
+      "preco": 90.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CUPOMDIASAN",
+      "enviadoEm": "2026-08-31T14:54:01.805Z"
+    },
     {
       "id": "13635",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 54,
       "cupom": null,
       "enviadoEm": "2026-08-29T15:16:21.662Z"
-    },
-    {
-      "id": "13343",
-      "loja": "Shopee",
-      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
-      "link": "https://s.shopee.com.br/70JiZ8Lw24",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnyps41y3uo4c6_tn",
-      "preco": 79.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-29T14:53:24.600Z"
-    },
-    {
-      "id": "13341",
-      "loja": "Shopee",
-      "titulo": "jaqueta masculina de sarja toda forrada por dentro com capus removível",
-      "link": "https://s.shopee.com.br/W6Enf17l0",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lunnr64z39et7a_tn",
-      "preco": 79,
-      "precoDe": 190.38,
-      "desconto": 48,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-29T14:30:04.807Z"
-    },
-    {
-      "id": "13339",
-      "loja": "Shopee",
-      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
-      "link": "https://s.shopee.com.br/50Yb0k6PNu",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
-      "preco": 59.980000000000004,
-      "precoDe": 199.95,
-      "desconto": 60,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-29T14:07:49.403Z"
     }
   ]
 }
