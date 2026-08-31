@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-31T12:06:53.640Z",
+  "atualizadoEm": "2026-08-31T12:10:53.397Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13550",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira De Escritório Itália Presidente Ergonômica Couro Sintético Encosto Ajustável Com Trava E Apoio Para Pés Cor Branca Luvinco",
+      "link": "https://meli.la/2NRmXFZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_620509-MLA96567996828_112025-F.jpg",
+      "preco": 466.30999999999995,
+      "precoDe": 933.2,
+      "desconto": 43,
+      "cupom": "PROMOCERTA",
+      "enviadoEm": "2026-08-31T12:09:23.467Z"
+    },
+    {
+      "id": "13549",
+      "loja": "Mercado Livre",
+      "titulo": "Fone De Ouvido Preto Havit Gamenote Fuxi-h6 - Black",
+      "link": "https://meli.la/1gNwAvf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_947213-MLA99416728000_112025-F.jpg",
+      "preco": 224.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "VANTAGEMJA",
+      "enviadoEm": "2026-08-31T12:08:50.700Z"
+    },
     {
       "id": "13545",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "99TOPSHO",
       "enviadoEm": "2026-08-28T17:28:28.809Z"
-    },
-    {
-      "id": "13168",
-      "loja": "Shopee",
-      "titulo": "Liquidificador Power Oster Vidro 1.8l 127v",
-      "link": "https://s.shopee.com.br/6VNQWTnc1G",
-      "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-m8g7qc1ijeupeb_tn",
-      "preco": 374,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "99TOPSHO",
-      "enviadoEm": "2026-08-28T17:05:56.551Z"
-    },
-    {
-      "id": "13164",
-      "loja": "Amazon",
-      "titulo": "Xapadinha Shampoo Antiquebra 250ml , Lola Cosmetics",
-      "link": "https://www.amazon.com.br/dp/B0CGBCK7MW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41O5W9Fi0fL._SL400_.jpg",
-      "preco": 17.96,
-      "precoDe": 44.9,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-08-28T16:43:27.916Z"
     }
   ]
 }
