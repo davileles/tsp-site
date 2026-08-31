@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-31T20:01:12.385Z",
+  "atualizadoEm": "2026-08-31T20:05:49.731Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13731",
+      "loja": "Mercado Livre",
+      "titulo": "Bomba Elétrica Portátil Digital Para Encher Pneu De Carro Moto Bicicleta Inflador Automotivo Cor Preto",
+      "link": "https://meli.la/23X9aDj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_919649-MLA112122698633_052026-F.jpg",
+      "preco": 162.99,
+      "precoDe": 199.99,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-08-31T20:05:01.257Z"
+    },
+    {
+      "id": "13732",
+      "loja": "Mercado Livre",
+      "titulo": "Berço Portátil Infantil Cercado Desmontável Lune Maxi Baby - CINZA",
+      "link": "https://meli.la/1ZPa9yY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_865878-MLA95693182272_102025-F.jpg",
+      "preco": 254.90999999999997,
+      "precoDe": 497.48,
+      "desconto": 40,
+      "cupom": "MELIAQUI",
+      "enviadoEm": "2026-08-31T20:04:41.437Z"
+    },
     {
       "id": "13730",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-08-29T21:13:51.620Z"
-    },
-    {
-      "id": "13395",
-      "loja": "Amazon",
-      "titulo": "Cerveja Spaten, Puro Malte, Lata 473ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0DTLDYH91?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41db5AUHaIL._SL400_.jpg",
-      "preco": 64.7,
-      "precoDe": 71.89,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-29T21:05:17.081Z"
-    },
-    {
-      "id": "13392",
-      "loja": "Shopee",
-      "titulo": "Organizador de Mala Viagem, Nécessaire Feminina, Kit para viagem com 3 unidades",
-      "link": "https://s.shopee.com.br/7Ad98WAsmb",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3j5nb4hr5fcb4_tn",
-      "preco": 32,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-29T20:28:41.617Z"
     }
   ]
 }
