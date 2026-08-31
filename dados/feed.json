@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-31T17:35:49.730Z",
+  "atualizadoEm": "2026-08-31T18:05:49.729Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13687",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
+      "link": "https://s.shopee.com.br/1BLz0r4d69",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
+      "preco": null,
+      "precoDe": 47.76,
+      "desconto": 50,
+      "cupom": "CUPOMDIASAN",
+      "enviadoEm": "2026-08-31T17:57:29.872Z"
+    },
     {
       "id": "13684",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 33,
       "cupom": "4T44M0C0MPR4S",
       "enviadoEm": "2026-08-29T18:13:53.209Z"
-    },
-    {
-      "id": "13370",
-      "loja": "Shopee",
-      "titulo": "Kit Tapete Banheiro 38x58cm |50x100m |50x70cm Antiderrapante Pipoca Popcorn Várias Cores Macio",
-      "link": "https://s.shopee.com.br/AKaAjWIxFy",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mqqbq5jvx1c3e8_tn",
-      "preco": 19.99,
-      "precoDe": 25.96,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-08-29T17:51:04.129Z"
     }
   ]
 }
