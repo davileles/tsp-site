@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-31T20:05:51.038Z",
+  "atualizadoEm": "2026-08-31T20:23:30.161Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1548,18 +1548,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-01T16:09:34.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "FLA9AGO178FA1Z",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 0,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-31T20:08:06.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
