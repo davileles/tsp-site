@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-08-31T19:35:50.973Z",
+  "atualizadoEm": "2026-08-31T20:01:13.795Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "NATORCIDA",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Válido apenas na primeira compra",
-      "validadeAte": "2026-08-31T19:53:36.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "COLOR",
       "loja": "BELEZA NA WEB",
@@ -495,18 +483,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "MAGALU35",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 35,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-31T20:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "OFFICE30OFF",
       "loja": "Kabum",
       "tipo": "pct",
@@ -555,18 +531,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "MAGALU25",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-31T20:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "JBL25OFF",
       "loja": "Kabum",
       "tipo": "pct",
@@ -591,18 +555,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "MAGALU20",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-31T20:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "ENDGAME",
       "loja": "Kabum",
       "tipo": "pct",
@@ -624,18 +576,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "DPI15",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-31T20:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
