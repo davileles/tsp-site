@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-31T18:05:50.947Z",
+  "atualizadoEm": "2026-08-31T18:19:40.127Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1011,18 +1011,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CONSTROINOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SOECONOMIA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1323,6 +1311,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CONSTROINOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 0,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Códigos de cupom fornecidos, mas sem informação de percentual ou valor de desconto na mensagem",
+      "validadeAte": "2026-09-01T18:10:45.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "NIKE20",
       "loja": "Nike",
       "tipo": "pct",
@@ -1381,6 +1381,90 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
+    },
+    {
+      "codigo": "BRFS7",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 310,
+      "minimo": 2500,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento Choice Day - Começa à meia-noite",
+      "validadeAte": "2026-09-01T18:18:34.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRFS6",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 230,
+      "minimo": 1900,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento Choice Day - Começa à meia-noite",
+      "validadeAte": "2026-09-01T18:18:34.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRFS5",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 140,
+      "minimo": 1200,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento Choice Day - Começa à meia-noite",
+      "validadeAte": "2026-09-01T18:18:34.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRFS4",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 80,
+      "minimo": 680,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento Choice Day - Começa à meia-noite",
+      "validadeAte": "2026-09-01T18:18:34.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRFS3",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 320,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento Choice Day - Começa à meia-noite",
+      "validadeAte": "2026-09-01T18:18:34.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRFS2",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 25,
+      "minimo": 180,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento Choice Day - Começa à meia-noite",
+      "validadeAte": "2026-09-01T18:18:34.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRFS1",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 12,
+      "minimo": 90,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento Choice Day - Começa à meia-noite",
+      "validadeAte": "2026-09-01T18:18:34.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
       "codigo": "BEMVINDA",
