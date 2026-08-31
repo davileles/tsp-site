@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-08-31T15:05:49.661Z",
+  "atualizadoEm": "2026-08-31T15:29:12.621Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13649",
+      "loja": "Amazon",
+      "titulo": "MamyPoko Fralda-Calça Dia&Noite M 34 Unidades",
+      "link": "https://www.amazon.com.br/dp/B088P9ZRTK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ScKQcFraL._SL400_.jpg",
+      "preco": 33.92,
+      "precoDe": 62.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-08-31T15:19:12.621Z"
+    },
+    {
+      "id": "13648",
+      "loja": "Amazon",
+      "titulo": "Mimo Style Prato Bus Bambu, com Divisória, com Ventosa, Marrom",
+      "link": "https://www.amazon.com.br/dp/B0DCW7VCPG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51ASwzHphaL._SL400_.jpg",
+      "preco": 50.89,
+      "precoDe": 62.12,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-08-31T15:19:10.196Z"
+    },
+    {
+      "id": "13647",
+      "loja": "Amazon",
+      "titulo": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
+      "link": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41DtpwlWPkL._SL400_.jpg",
+      "preco": 46.19,
+      "precoDe": 88.63,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-08-31T15:19:07.831Z"
+    },
+    {
+      "id": "13646",
+      "loja": "Shopee",
+      "titulo": "KIT 20/10 CANETAS MARCADORA PERMANENTE DE PONTA LONGA MARCAR FURAÇÃO PAREDE  PARA TRABALHO PEDREIRO!",
+      "link": "https://s.shopee.com.br/1BLyppco8z",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj4gxg7e6adfc0_tn",
+      "preco": 4.899999999999999,
+      "precoDe": 38.97,
+      "desconto": 13,
+      "cupom": "CUPOMDIASAN",
+      "enviadoEm": "2026-08-31T15:16:41.686Z"
+    },
+    {
+      "id": "13645",
+      "loja": "Mercado Livre",
+      "titulo": "Lixeira Inteligente com Sensor 16L Cor Branco Durável e Moderna para Residencial e Comercial",
+      "link": "https://meli.la/22ida2F",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_986164-MLA115247868104_082026-F.jpg",
+      "preco": 71.08999999999999,
+      "precoDe": 157.98,
+      "desconto": 50,
+      "cupom": "ALLSITE31",
+      "enviadoEm": "2026-08-31T15:08:50.740Z"
+    },
     {
       "id": "13641",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-08-29T15:43:50.231Z"
-    },
-    {
-      "id": "13355",
-      "loja": "Mercado Livre",
-      "titulo": "Caixa de Som Hyperboom 1000 - Waaw By Alok",
-      "link": "https://meli.la/2uzWm2d",
-      "imagem": null,
-      "preco": 1069,
-      "precoDe": 1599,
-      "desconto": 32,
-      "cupom": "10SITETODO",
-      "enviadoEm": "2026-08-29T15:41:37.825Z"
-    },
-    {
-      "id": "13353",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Óleo Reparador de Pontas Amend Gold Black Nutritivo 30ml",
-      "link": "https://s.shopee.com.br/4qFE2KYCPG",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b3-mqz2djzzbf2e8a_tn",
-      "preco": 24.7,
-      "precoDe": 39.84,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-08-29T15:38:40.569Z"
-    },
-    {
-      "id": "13352",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Serra Circular, Vermelho, 1500W, 110V - FSC-04",
-      "link": "https://www.amazon.com.br/dp/B0DBJ9PSZY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41rT-aa+DZL._SL400_.jpg",
-      "preco": 219.75,
-      "precoDe": 549.9,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-08-29T15:36:44.776Z"
-    },
-    {
-      "id": "13351",
-      "loja": "Mercado Livre",
-      "titulo": "- Tapete De Banheiro Superabsorvente Antiderrapante 60 Cm",
-      "link": "https://meli.la/2REnFai",
-      "imagem": "https://http2.mlstatic.com/D_699853-CBT108860006031_032026-F.jpg",
-      "preco": 9.11,
-      "precoDe": 20.98,
-      "desconto": 13,
-      "cupom": "INTERNACIONALCN",
-      "enviadoEm": "2026-08-29T15:34:33.564Z"
-    },
-    {
-      "id": "13348",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Marmitas 900ml com Travas Potes Herméticos - Livres de BPA para Alimentos organiza congelador",
-      "link": "https://s.shopee.com.br/8V8WNUOd4q",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-ms4svnxflfd31d_tn",
-      "preco": 36.9,
-      "precoDe": 80.22,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-08-29T15:16:21.662Z"
     }
   ]
 }
