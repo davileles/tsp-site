@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-31T03:40:53.788Z",
+  "atualizadoEm": "2026-08-31T12:06:54.834Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -915,6 +915,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TOPACHADO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-09-01T12:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "QUEROCUPONS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1047,6 +1059,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MIMOTOP",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-09-01T12:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ECONOMIAML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1092,6 +1116,18 @@
       "limite": 500,
       "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-19T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CLIENTETOP",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 22,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-09-01T12:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1179,6 +1215,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PAGUEMENOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-09-01T12:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MELIAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1224,6 +1272,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "VANTAGEMJA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-09-01T12:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
