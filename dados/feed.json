@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-31T17:27:35.960Z",
+  "atualizadoEm": "2026-08-31T17:35:49.730Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13684",
+      "loja": "Shopee",
+      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
+      "link": "https://s.shopee.com.br/BTRnRCpGM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
+      "preco": 168.9,
+      "precoDe": 599.7,
+      "desconto": 67,
+      "cupom": "CUPOMDIASAN",
+      "enviadoEm": "2026-08-31T17:34:25.644Z"
+    },
     {
       "id": "13679",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 23,
       "cupom": null,
       "enviadoEm": "2026-08-29T17:51:04.129Z"
-    },
-    {
-      "id": "13368",
-      "loja": "Shopee",
-      "titulo": "Kit com 3 Cetrilan Creme Infantil Protetor para Prevenção de Assaduras 120g - Theraskin",
-      "link": "https://s.shopee.com.br/4AzXMdsoOP",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mnojxdtx53408d_tn",
-      "preco": 155.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-29T17:28:43.034Z"
     }
   ]
 }
