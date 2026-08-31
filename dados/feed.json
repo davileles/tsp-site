@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-31T16:35:20.189Z",
+  "atualizadoEm": "2026-08-31T16:58:11.351Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13668",
+      "loja": "Shopee",
+      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
+      "link": "https://s.shopee.com.br/8Kp9TGiG0J",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
+      "preco": 25.32,
+      "precoDe": 66.24,
+      "desconto": 18,
+      "cupom": "CUPOMDIASAN",
+      "enviadoEm": "2026-08-31T16:48:11.348Z"
+    },
     {
       "id": "13663",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-29T16:45:52.827Z"
-    },
-    {
-      "id": "13361",
-      "loja": "Shopee",
-      "titulo": "Kit 3 Calças Jeans Feminina Skinny Lycra Cintura Alta Modelo Empina Bumbum Lançamento Promoção",
-      "link": "https://s.shopee.com.br/40g75s8PN3",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9keeu5abgopdd_tn",
-      "preco": 134.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-29T16:23:26.739Z"
     }
   ]
 }
