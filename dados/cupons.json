@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-31T12:10:54.521Z",
+  "atualizadoEm": "2026-08-31T12:40:54.506Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -771,18 +771,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "INTERNACIONALCN",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 90,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "LIQUIDA30",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1200,18 +1188,6 @@
       "limite": 140,
       "observacao": null,
       "validadeAte": "2026-09-01T03:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "INTERNACIONAL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 140,
-      "observacao": null,
-      "validadeAte": "2026-09-02T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
