@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-08-31T13:31:29.407Z",
+  "atualizadoEm": "2026-08-31T14:02:45.257Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13626",
+      "loja": "Amazon",
+      "titulo": "MAM Baby Kit 2 Mamadeiras Easy Active Set, 270ml e 330ml Com Formato Ergonômico e Fácil de Segurar para Crianças 2+ Meses com Bico de Silicone Skinsoft, Azul",
+      "link": "https://www.amazon.com.br/dp/B09VW57PZV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ZnQIo1LIL._SL400_.jpg",
+      "preco": 87.29,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-08-31T13:52:45.257Z"
+    },
+    {
+      "id": "13624",
+      "loja": "Shopee",
+      "titulo": "iPhone 17 5G 256GB Tela 6,3\" 120Hz 48MP iOS Original Novo Lacrado com Nota FIscal",
+      "link": "https://s.shopee.com.br/2LXw7ci4KX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk46pndmbguab3_tn",
+      "preco": 5873,
+      "precoDe": 8974.24,
+      "desconto": 34,
+      "cupom": "50FULL",
+      "enviadoEm": "2026-08-31T13:44:18.500Z"
+    },
+    {
+      "id": "13623",
+      "loja": "Amazon",
+      "titulo": "LEGO Classic - Caixa Média de Peças Criativas",
+      "link": "https://www.amazon.com.br/dp/B00NHQFA1I?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51ooqeyUaeL._SL400_.jpg",
+      "preco": 214.99,
+      "precoDe": 349.99,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-08-31T13:39:17.049Z"
+    },
     {
       "id": "13615",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 74,
       "cupom": "4T44M0C0MPR4S",
       "enviadoEm": "2026-08-29T12:59:42.153Z"
-    },
-    {
-      "id": "13323",
-      "loja": "Shopee",
-      "titulo": "Bateria selada 12v 4.5ah Planet Selada Recarregavel",
-      "link": "https://s.shopee.com.br/3VjqFLIlRU",
-      "imagem": "https://cf.shopee.com.br/file/5a3c47c37f809c852f6ab2e1f1b42c39_tn",
-      "preco": 59.5,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-29T12:36:53.563Z"
-    },
-    {
-      "id": "13321",
-      "loja": "Shopee",
-      "titulo": "3 Pacotes  Lenços Panos Umedecidos Cuidado Para as Mãos Álcool Coperalcool ( 3 x 50 Unidades )",
-      "link": "https://s.shopee.com.br/7KwYmpCLi8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbqpy6uh5yl547_tn",
-      "preco": 59.980000000000004,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-29T12:13:51.160Z"
-    },
-    {
-      "id": "13316",
-      "loja": "Shopee",
-      "titulo": "10M tecido para decoração  chita, chitão,euroleen 100% poliéster  (10,00m x 1,50m )",
-      "link": "https://s.shopee.com.br/2qU9OvM9mY",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcl0o31l70g10f_tn",
-      "preco": 55.989999999999995,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-29T11:51:01.569Z"
     }
   ]
 }
