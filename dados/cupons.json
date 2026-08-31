@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-31T20:23:30.161Z",
+  "atualizadoEm": "2026-08-31T21:05:49.933Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -627,18 +627,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "10OFFHP",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-31T21:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "PLAYNINJA10",
       "loja": "Kabum",
       "tipo": "pct",
@@ -732,18 +720,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "TOMA5OFF",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-08-31T21:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -1126,7 +1102,7 @@
       "minimo": 10,
       "maximo": null,
       "limite": 30,
-      "observacao": null,
+      "observacao": "Válido para produtos selecionados",
       "validadeAte": "2026-09-08T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
