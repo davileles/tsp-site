@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-31T14:35:49.660Z",
+  "atualizadoEm": "2026-08-31T14:49:23.888Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13635",
+      "loja": "Mercado Livre",
+      "titulo": "Mamadeira Avent Pétala Ppsu Azul E Rosa 125ml 0m+ Bico N°2 Azul E Rosa Decorada Tintas",
+      "link": "https://meli.la/2QP1WvQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_631877-MLA100577942895_122025-F.jpg",
+      "preco": 51.22,
+      "precoDe": 64.84,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-08-31T14:39:23.887Z"
+    },
+    {
+      "id": "13634",
+      "loja": "Amazon",
+      "titulo": "HIDROGRAFICA 2 PONTAS SUPER DUO, Faber-Castell, DUO150610, Multicor",
+      "link": "https://www.amazon.com.br/dp/B07GRGR18H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/514gOd-wQJL._SL400_.jpg",
+      "preco": 29.9,
+      "precoDe": 57.2,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-08-31T14:39:19.578Z"
+    },
     {
       "id": "13632",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 60,
       "cupom": "4T44M0C0MPR4S",
       "enviadoEm": "2026-08-29T14:07:49.403Z"
-    },
-    {
-      "id": "13337",
-      "loja": "Shopee",
-      "titulo": "Conjunto Moletom Infantil Canguru Brooklyn New York 1989  Calça Conjunto Inverno Quentinho Estiloso",
-      "link": "https://s.shopee.com.br/4LIxJb7IQt",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mnk1nztbj2ted2_tn",
-      "preco": 48.849999999999994,
-      "precoDe": 129.91,
-      "desconto": 47,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-29T13:45:27.424Z"
-    },
-    {
-      "id": "13335",
-      "loja": "Amazon",
-      "titulo": "Lenços Umedecidos Huggies Recém-Nascido Sem Fragrância 6x48U",
-      "link": "https://www.amazon.com.br/dp/B07FN7T2LK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416qfNZQeJL._SL400_.jpg",
-      "preco": 49.9,
-      "precoDe": 55.48,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-08-29T13:37:10.147Z"
     }
   ]
 }
