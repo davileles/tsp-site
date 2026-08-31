@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-31T15:35:49.661Z",
+  "atualizadoEm": "2026-08-31T15:49:29.891Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13654",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Frascos Potes Viagem Silicone 90ml   Para Viagem Condicionador Shampoo Creme Cosméticos",
+      "link": "https://s.shopee.com.br/70Jlo78DSy",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-miuylj3ciex269_tn",
+      "preco": null,
+      "precoDe": 40.33,
+      "desconto": 43,
+      "cupom": "CUPOMDIASAN",
+      "enviadoEm": "2026-08-31T15:39:29.889Z"
+    },
     {
       "id": "13652",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 5,
       "cupom": "CONSTROINOML",
       "enviadoEm": "2026-08-29T16:18:41.366Z"
-    },
-    {
-      "id": "13358",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
-      "link": "https://s.shopee.com.br/60RBS0DJR4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
-      "preco": 35,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "ULT1M0M1M0",
-      "enviadoEm": "2026-08-29T16:01:05.076Z"
     }
   ]
 }
