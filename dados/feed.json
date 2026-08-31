@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-31T22:29:19.512Z",
+  "atualizadoEm": "2026-08-31T22:35:49.732Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13758",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Huggies Supreme Care XXG com 54 Unidades",
+      "link": "https://meli.la/2LEvrZZ",
+      "imagem": null,
+      "preco": 50.330000000000005,
+      "precoDe": 89.9,
+      "desconto": 20,
+      "cupom": "LIQUIDA30",
+      "enviadoEm": "2026-08-31T22:34:52.791Z"
+    },
     {
       "id": "13757",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-08-30T11:21:12.640Z"
-    },
-    {
-      "id": "13422",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KXW911?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41QSw44yLeL._SL400_.jpg",
-      "preco": 22.76,
-      "precoDe": 28.68,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T11:13:25.909Z"
     }
   ]
 }
