@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-08-31T12:40:53.398Z",
+  "atualizadoEm": "2026-08-31T13:06:49.660Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13589",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
+      "link": "https://meli.la/1yjYtXC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_631841-MLA99823831015_112025-F.jpg",
+      "preco": 151.17000000000002,
+      "precoDe": 256.9,
+      "desconto": 16,
+      "cupom": "LIQUIDA30",
+      "enviadoEm": "2026-08-31T12:57:52.853Z"
+    },
+    {
+      "id": "13588",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pampers Pants Premium Care XXG 60 unidades",
+      "link": "https://meli.la/2T6xyy2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_637890-MLA99843244735_112025-F.jpg",
+      "preco": 86.65,
+      "precoDe": 157.9,
+      "desconto": 22,
+      "cupom": "LIQUIDA30",
+      "enviadoEm": "2026-08-31T12:57:43.882Z"
+    },
+    {
+      "id": "13587",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pampers Premium Care Pants XG, 64 Unidades",
+      "link": "https://meli.la/1iFrn63",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_800100-MLA99924950787_112025-F.jpg",
+      "preco": 86.66999999999999,
+      "precoDe": 157.9,
+      "desconto": 22,
+      "cupom": "LIQUIDA30",
+      "enviadoEm": "2026-08-31T12:57:43.138Z"
+    },
+    {
+      "id": "13586",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pampers Premium Care Pants Tamanho M 78 unidades",
+      "link": "https://meli.la/119H84X",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_964567-MLA99928206683_112025-F.jpg",
+      "preco": 86.03,
+      "precoDe": 157.9,
+      "desconto": 22,
+      "cupom": "LIQUIDA30",
+      "enviadoEm": "2026-08-31T12:57:42.403Z"
+    },
+    {
+      "id": "13584",
+      "loja": "Shopee",
+      "titulo": "HUAWEI WATCH FIT 5 Pro| Smartwatch Relogio | Tela FullView AMOLED de 1,92\"| Mini Treino | 64 GB ECG",
+      "link": "https://s.shopee.com.br/7Kwc1amcx6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mqeruyatf3eq58_tn",
+      "preco": 1279,
+      "precoDe": 3497.37,
+      "desconto": 62,
+      "cupom": "50FULL",
+      "enviadoEm": "2026-08-31T12:57:41.057Z"
+    },
+    {
+      "id": "13585",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pampers Supersec Xg 32",
+      "link": "https://meli.la/2Yqvd2S",
+      "imagem": null,
+      "preco": 27.290000000000003,
+      "precoDe": 53.9,
+      "desconto": 28,
+      "cupom": "LIQUIDA30",
+      "enviadoEm": "2026-08-31T12:57:26.750Z"
+    },
+    {
+      "id": "13583",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pampers Confort Sec Tamanho XXG 148 Unidades",
+      "link": "https://meli.la/2xpTeHj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_875648-MLA114424086500_082026-F.jpg",
+      "preco": 151.17000000000002,
+      "precoDe": 256.9,
+      "desconto": 16,
+      "cupom": "LIQUIDA30",
+      "enviadoEm": "2026-08-31T12:47:31.283Z"
+    },
+    {
+      "id": "13582",
+      "loja": "Shopee",
+      "titulo": "Neocate LCP 400g Promoção!",
+      "link": "https://s.shopee.com.br/6VNV1JZFiw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7egq3oha79o1b_tn",
+      "preco": 175.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FLA9AGO178FA1Z",
+      "enviadoEm": "2026-08-31T12:43:52.861Z"
+    },
     {
       "id": "13571",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-08-28T22:35:58.048Z"
-    },
-    {
-      "id": "13240",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer LG 24MS500-B 24ms Ips Fullhd 100hz Ajuste de Inclinação Negro",
-      "link": "https://meli.la/27gKiRX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_921982-MLA99962503055_112025-F.jpg",
-      "preco": 464.70000000000005,
-      "precoDe": 749,
-      "desconto": 31,
-      "cupom": "LANCECERTO",
-      "enviadoEm": "2026-08-28T22:29:43.428Z"
-    },
-    {
-      "id": "13237",
-      "loja": "Amazon",
-      "titulo": "Massa Divella Nº 08 Spaghetti Ristoranti",
-      "link": "https://www.amazon.com.br/dp/B00UK3VLPU?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41FJqqXglYL._SL400_.jpg",
-      "preco": 8.99,
-      "precoDe": 14.3,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-08-28T22:13:24.847Z"
-    },
-    {
-      "id": "13236",
-      "loja": "Amazon",
-      "titulo": "Cerveja Michelob Ultra, Lata 350ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0BWNNZLR5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31oJqajX3QL._SL400_.jpg",
-      "preco": 35.92,
-      "precoDe": 41.52,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-08-28T22:10:57.052Z"
-    },
-    {
-      "id": "13235",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label 750ml",
-      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
-      "preco": 57.99,
-      "precoDe": 92.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-08-28T22:08:37.001Z"
-    },
-    {
-      "id": "13229",
-      "loja": "Amazon",
-      "titulo": "Tênis PUMA Caven 2.0 Masculino",
-      "link": "https://www.amazon.com.br/dp/B0C7SKLWT1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31BkoBCajYL._SL400_.jpg",
-      "preco": 192.18,
-      "precoDe": 449.99,
-      "desconto": 47,
-      "cupom": "DESCONTO APARECE NO CARRINHO",
-      "enviadoEm": "2026-08-28T22:00:01.876Z"
-    },
-    {
-      "id": "13230",
-      "loja": "Mercado Livre",
-      "titulo": "Huggies Fralda Pants Roupinha Proteção Acolchoada XG - 64 Un",
-      "link": "https://meli.la/1j6RSf9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_979794-MLA99442042486_112025-F.jpg",
-      "preco": 54.31,
-      "precoDe": 114.33,
-      "desconto": 32,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-08-28T21:58:30.560Z"
-    },
-    {
-      "id": "13228",
-      "loja": "Shopee",
-      "titulo": "Amendoim Japonês Mendorato 1,01kg",
-      "link": "https://s.shopee.com.br/9fKScE0BBi",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mpv756rdtds035_tn",
-      "preco": 15.989999999999998,
-      "precoDe": 33.32,
-      "desconto": 22,
-      "cupom": "SP08T3AF",
-      "enviadoEm": "2026-08-28T21:57:16.246Z"
-    },
-    {
-      "id": "13226",
-      "loja": "Amazon",
-      "titulo": "Tênis de Corrida Puma Scendo Pro 2, Cinza e Preto, 42",
-      "link": "https://www.amazon.com.br/dp/B0G2YYJ1BD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31gX7qVjZML._SL400_.jpg",
-      "preco": 250.79000000000002,
-      "precoDe": 499.99,
-      "desconto": 37,
-      "cupom": "DESCONTO APARECE NO CARRINHO",
-      "enviadoEm": "2026-08-28T21:37:31.043Z"
     }
   ]
 }
