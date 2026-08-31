@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-31T17:44:25.872Z",
+  "atualizadoEm": "2026-08-31T18:05:50.947Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -936,6 +936,18 @@
       "limite": 500,
       "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
       "validadeAte": "2026-09-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOMELI30",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 1000,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-01T18:00:18.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
