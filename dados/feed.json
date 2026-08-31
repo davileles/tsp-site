@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-31T15:49:29.891Z",
+  "atualizadoEm": "2026-08-31T16:05:49.660Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13659",
+      "loja": "Shopee",
+      "titulo": "Kit 6/12/18/24 Panos De Limpeza  Premium Arear Panela Fogão Toalha Louça Tira Gordura Reutilizável",
+      "link": "https://s.shopee.com.br/904qDLsDX5",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mctxxpi1l4qad6_tn",
+      "preco": null,
+      "precoDe": 25,
+      "desconto": 60,
+      "cupom": "FLA9AGO178FA1Z",
+      "enviadoEm": "2026-08-31T16:02:23.344Z"
+    },
     {
       "id": "13654",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "4T44M0C0MPR4S",
       "enviadoEm": "2026-08-29T16:23:26.739Z"
-    },
-    {
-      "id": "13359",
-      "loja": "Mercado Livre",
-      "titulo": "Chuveiro Ducha Lorenzetti Loren Shower Eletrônico Branco 6800w 220V",
-      "link": "https://meli.la/1e5PHED",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_896908-MLA101388142032_122025-F.jpg",
-      "preco": 80.38,
-      "precoDe": 112.81,
-      "desconto": 5,
-      "cupom": "CONSTROINOML",
-      "enviadoEm": "2026-08-29T16:18:41.366Z"
     }
   ]
 }
