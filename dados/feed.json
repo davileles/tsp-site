@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-31T18:05:49.729Z",
+  "atualizadoEm": "2026-08-31T18:19:38.971Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13692",
+      "loja": "Mercado Livre",
+      "titulo": "Lava Louças Brastemp 8 Serviços Preta - Blf08ae",
+      "link": "https://meli.la/1xdCPty",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_894669-MLB90559804976_082025-O.webp",
+      "preco": 1480.5,
+      "precoDe": 1955,
+      "desconto": 16,
+      "cupom": "VANTAGEMJA",
+      "enviadoEm": "2026-08-31T18:09:38.965Z"
+    },
     {
       "id": "13687",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 74,
       "cupom": null,
       "enviadoEm": "2026-08-29T18:36:26.416Z"
-    },
-    {
-      "id": "13373",
-      "loja": "Shopee",
-      "titulo": "Mala De Bordo N18 Duplo Zíper ANAC 10 kilos Expansível Mala De Viagem 10Kg ABS Roda Dupla Com Senha",
-      "link": "https://s.shopee.com.br/3LQQQCXDsr",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mpnaywrpaj2a01_tn",
-      "preco": 149,
-      "precoDe": 252.24,
-      "desconto": 33,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-29T18:13:53.209Z"
     }
   ]
 }
