@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-08-31T14:02:45.257Z",
+  "atualizadoEm": "2026-08-31T14:17:15.319Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13629",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Bobojaco Impermeável Becker Nylon Puffer Masculino com Bolsos e Capuz",
+      "link": "https://s.shopee.com.br/9KhgU392Fr",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmb-lo8gotg960in6f_tn",
+      "preco": 43.989999999999995,
+      "precoDe": 99.99,
+      "desconto": 27,
+      "cupom": "CUPOMDIASAN",
+      "enviadoEm": "2026-08-31T14:07:15.318Z"
+    },
+    {
+      "id": "13631",
+      "loja": "Amazon",
+      "titulo": "Bluey Pequena Biblioteca da Bluey - Box com 4 livrinhos",
+      "link": "https://www.amazon.com.br/dp/6561263022?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51o34WBK0jL._SL400_.jpg",
+      "preco": 21.94,
+      "precoDe": 49.9,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-08-31T14:06:09.877Z"
+    },
     {
       "id": "13626",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-08-29T13:37:07.285Z"
-    },
-    {
-      "id": "13329",
-      "loja": "Shopee",
-      "titulo": "Colchão Inflável Queen Casal KAYOOSI Elétrico 203x152x40cm com Bomba Embutida  Cama De Campanha",
-      "link": "https://s.shopee.com.br/8Kp63MwSQg",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mpm0ksn1gpvn4b_tn",
-      "preco": 328,
-      "precoDe": 600,
-      "desconto": 42,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-29T13:22:39.558Z"
-    },
-    {
-      "id": "13326",
-      "loja": "Shopee",
-      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
-      "link": "https://s.shopee.com.br/2BESgTNmVK",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
-      "preco": 65.39,
-      "precoDe": 328.42,
-      "desconto": 74,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-29T12:59:42.153Z"
     }
   ]
 }
