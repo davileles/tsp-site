@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-31T11:10:53.397Z",
+  "atualizadoEm": "2026-08-31T11:22:04.729Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13531",
+      "loja": "Mercado Livre",
+      "titulo": "Lixeira Inteligente Automática Cinza Universal Com Sensor Recarregável Earman Company Anti Odor 16l Recarregável Usb",
+      "link": "https://meli.la/1LpGaAs",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_765803-MLA112010174337_052026-F.jpg",
+      "preco": 52.940000000000005,
+      "precoDe": 157.98,
+      "desconto": 55,
+      "cupom": "CONSTROINOML",
+      "enviadoEm": "2026-08-31T11:12:04.727Z"
+    },
     {
       "id": "13530",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "4T44M0C0MPR4S",
       "enviadoEm": "2026-08-28T16:20:55.174Z"
-    },
-    {
-      "id": "13158",
-      "loja": "Amazon",
-      "titulo": "Grill Asteria Compact Mallory Grill multifunção, Luzes indicadoras de funcionamento, Alça com Toque-Frio e Trava de segurança 220V",
-      "link": "https://www.amazon.com.br/dp/B08TRLBH7M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/312-elHv8gL._SL400_.jpg",
-      "preco": 89,
-      "precoDe": 188.99,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-08-28T16:12:38.006Z"
     }
   ]
 }
