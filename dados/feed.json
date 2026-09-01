@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-01T16:17:07.943Z",
+  "atualizadoEm": "2026-09-01T16:41:51.602Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13922",
+      "loja": "Amazon",
+      "titulo": "Stanley - Copo Quencher H2.0 FlowState 887ml - Copo de aço inoxidável com tampa, isolamento a vácuo, para água, chá gelado, café, smoothies e muito mais, Cream",
+      "link": "https://www.amazon.com.br/dp/B0BTHQ4GZG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21KtWDElIOL._SL400_.jpg",
+      "preco": 187.98,
+      "precoDe": 319,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T16:31:51.602Z"
+    },
+    {
+      "id": "13920",
+      "loja": "Mercado Livre",
+      "titulo": "Yab - Porta Tempero De Mesa Saleiro Giratório 6 Potes P/ Condimentos Em Vidro E Aço Inox Cozinha Premium",
+      "link": "https://meli.la/2p37hfY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_791826-MLA104219299116_012026-F.jpg",
+      "preco": 32.89,
+      "precoDe": 137.99,
+      "desconto": 66,
+      "cupom": "ECONOMIZEI",
+      "enviadoEm": "2026-09-01T16:26:07.823Z"
+    },
+    {
+      "id": "13919",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Legging Leg Flare Zero Transparência Grossa Academia",
+      "link": "https://meli.la/2hVnG8v",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_658388-MLB90869609638_082025-O.webp",
+      "preco": 35.9,
+      "precoDe": 59.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T16:26:06.522Z"
+    },
+    {
+      "id": "13918",
+      "loja": "Shopee",
+      "titulo": "Massageador Alivia Dor Muscular Corrida treino Liberação Miofacial 10 Velocidades BIVOLT SEM FIO Profissional",
+      "link": "https://s.shopee.com.br/904rpmBcCB",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-msk6nmo7xvd1ba_tn",
+      "preco": 134.9,
+      "precoDe": 228.27,
+      "desconto": 19,
+      "cupom": "T3MCUP0MON",
+      "enviadoEm": "2026-09-01T16:24:11.388Z"
+    },
+    {
+      "id": "13917",
+      "loja": "Amazon",
+      "titulo": "Dove Sabonete em Barra Pele Sensível 90g 6 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CXB8PTML?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41O0W-SgQ4L._SL400_.jpg",
+      "preco": 19.99,
+      "precoDe": 34.41,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T16:23:55.537Z"
+    },
     {
       "id": "13915",
       "loja": "Amazon",
@@ -1381,66 +1441,6 @@
       "desconto": 27,
       "cupom": "INTERNACIONALCN",
       "enviadoEm": "2026-08-31T12:32:07.112Z"
-    },
-    {
-      "id": "13568",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Confort Sec Tamanho Xxg 82 Unidades Pampers",
-      "link": "https://meli.la/2DCQwfp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_971120-MLA115772115597_082026-F.jpg",
-      "preco": 54.989999999999995,
-      "precoDe": 149.9,
-      "desconto": 27,
-      "cupom": "INTERNACIONALCN",
-      "enviadoEm": "2026-08-31T12:32:06.216Z"
-    },
-    {
-      "id": "13567",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Confort Sec Tamanho M, 108 Un",
-      "link": "https://meli.la/1m5oA7R",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_988581-MLA110683983180_052026-F.jpg",
-      "preco": 54.989999999999995,
-      "precoDe": 149.9,
-      "desconto": 27,
-      "cupom": "INTERNACIONALCN",
-      "enviadoEm": "2026-08-31T12:32:04.594Z"
-    },
-    {
-      "id": "13566",
-      "loja": "Amazon",
-      "titulo": "Kit 2 Cremes Pomadas de Assaduras Vit B5 com 100g cada, Total 200g - Bepantol Baby",
-      "link": "https://www.amazon.com.br/dp/B0H2G6W6L5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41UgdtS+L0L._SL400_.jpg",
-      "preco": 89.67,
-      "precoDe": 119.9,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-08-31T12:31:47.659Z"
-    },
-    {
-      "id": "13564",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer LG UltraGear 24”IPS Full HD 180Hz 1ms (GtG) NVIDIA G-SYNC AMD FreeSync HDR10 sRGB 99% HDMI DisplayPort, Preto- 24GS60F",
-      "link": "https://meli.la/1V5V2JB",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_817281-MLA107167838581_022026-F.jpg",
-      "preco": 1026,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "VANTAGEMJA",
-      "enviadoEm": "2026-08-31T12:30:37.453Z"
-    },
-    {
-      "id": "13563",
-      "loja": "Amazon",
-      "titulo": "Gin Tanqueray No Ten 750ml",
-      "link": "https://www.amazon.com.br/dp/B0DXF1QBM1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31UEcjFNlTL._SL400_.jpg",
-      "preco": 123.49,
-      "precoDe": 176.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-08-31T12:28:11.195Z"
     }
   ]
 }
