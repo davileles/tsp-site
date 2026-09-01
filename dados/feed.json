@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-01T22:37:31.632Z",
+  "atualizadoEm": "2026-09-01T22:53:53.237Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14058",
+      "loja": "Mercado Livre",
+      "titulo": "Sanitizante em Pó Omo Lavagem Perfeita 1.6kg",
+      "link": "https://meli.la/24eXSZH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_642127-MLA99361487958_112025-F.jpg",
+      "preco": 15.280000000000001,
+      "precoDe": 28.24,
+      "desconto": 28,
+      "cupom": "SEMPREML",
+      "enviadoEm": "2026-09-01T22:43:53.234Z"
+    },
+    {
+      "id": "14057",
+      "loja": "Mercado Livre",
+      "titulo": "Omo Sabão Líquido Lavagem Perfeita 3L",
+      "link": "https://meli.la/2tp1GkT",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_623440-MLA110007276671_042026-F.jpg",
+      "preco": 21.9,
+      "precoDe": 42.55,
+      "desconto": 26,
+      "cupom": "TOPACHADO",
+      "enviadoEm": "2026-09-01T22:41:14.237Z"
+    },
     {
       "id": "14055",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 10,
       "cupom": "MELIAQUI",
       "enviadoEm": "2026-08-31T15:02:37.726Z"
-    },
-    {
-      "id": "13638",
-      "loja": "Amazon",
-      "titulo": "Buba Kit Colher De Treinamento Sortido 1 Unidade",
-      "link": "https://www.amazon.com.br/dp/B08WQ23KKK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ikXAcxS4L._SL400_.jpg",
-      "preco": 10.59,
-      "precoDe": 18.9,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-08-31T14:57:30.666Z"
-    },
-    {
-      "id": "13637",
-      "loja": "Shopee",
-      "titulo": "Jaqueta Plus Size Feminina Acolchoada com Capuz – Inverno Quente e Confortável",
-      "link": "https://s.shopee.com.br/9pdx8BATlX",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mlzn02kws0zod4_tn",
-      "preco": 90.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CUPOMDIASAN",
-      "enviadoEm": "2026-08-31T14:54:01.805Z"
     }
   ]
 }
