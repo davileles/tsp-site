@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-01T01:35:50.574Z",
+  "atualizadoEm": "2026-09-01T02:05:50.637Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -255,30 +255,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17612&id=1207116"
     },
     {
-      "codigo": "YOGA300",
-      "loja": "Fastshop",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
-      "codigo": "LUUNA200",
-      "loja": "Fastshop",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 400000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
       "codigo": "PS5150",
       "loja": "Fastshop",
       "tipo": "reais",
@@ -288,66 +264,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
-      "codigo": "LUUNA100",
-      "loja": "Fastshop",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 200000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
-      "codigo": "MULTI6",
-      "loja": "Fastshop",
-      "tipo": "pct",
-      "valor": 6,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
-      "codigo": "BRINOX5",
-      "loja": "Fastshop",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
-      "codigo": "ART5",
-      "loja": "Fastshop",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
-      "codigo": "MULTI5",
-      "loja": "Fastshop",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
@@ -811,11 +727,11 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 29,
       "maximo": null,
       "limite": 500,
       "observacao": "Lista com 28 cupons do Mercado Livre com diferentes percentuais e valores mínimos",
-      "validadeAte": "2026-09-01T02:59:00.306Z",
+      "validadeAte": "2026-09-18T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -827,7 +743,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:58:59.694Z",
+      "validadeAte": "2026-09-19T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -899,7 +815,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:59:00.047Z",
+      "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -923,7 +839,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:59:00.047Z",
+      "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -971,7 +887,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:58:59.694Z",
+      "validadeAte": "2026-09-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1019,7 +935,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:59:00.047Z",
+      "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
