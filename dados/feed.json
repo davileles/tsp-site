@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-08-31T22:56:45.108Z",
+  "atualizadoEm": "2026-09-01T11:05:50.383Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13785",
+      "loja": "Shopee",
+      "titulo": "bolsa transversal feminino bolsa femenina feminina Bolsa Popular deste ano portátil leve luxo balde saco",
+      "link": "https://s.shopee.com.br/5LBZ6xSgUb",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820ni-mnbxfpzcc8w833_tn",
+      "preco": 206.8,
+      "precoDe": 321,
+      "desconto": 20,
+      "cupom": "T3MCUP0MON",
+      "enviadoEm": "2026-09-01T11:03:24.433Z"
+    },
     {
       "id": "13760",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 64,
       "cupom": null,
       "enviadoEm": "2026-08-30T11:40:31.509Z"
-    },
-    {
-      "id": "13425",
-      "loja": "Shopee",
-      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1",
-      "link": "https://s.shopee.com.br/8V8XicNXpf",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd48-lupf3z3a40mxf1_tn",
-      "preco": 18.99,
-      "precoDe": 90.43,
-      "desconto": 79,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T11:27:05.605Z"
     }
   ]
 }
