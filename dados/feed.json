@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-01T18:53:12.764Z",
+  "atualizadoEm": "2026-09-01T19:06:19.990Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13988",
+      "loja": "Shopee",
+      "titulo": "Playground Infantil Modular 100% Espuma Seguro Educativo Divertido",
+      "link": "https://s.shopee.com.br/3g3LezbfnN",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mlld6tmgetc5c5_tn",
+      "preco": 329.99,
+      "precoDe": 699.98,
+      "desconto": 50,
+      "cupom": "OFERTA20AF",
+      "enviadoEm": "2026-09-01T19:05:11.979Z"
+    },
+    {
+      "id": "13983",
+      "loja": "Amazon",
+      "titulo": "Sabonete Líquido de Glicerina Frutas Vermelhas JOHNSON'S® Baby 400mL",
+      "link": "https://www.amazon.com.br/dp/B0HBRPYMQN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41J8B7O2O1L._SL400_.jpg",
+      "preco": 27.29,
+      "precoDe": 44.99,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T19:00:46.756Z"
+    },
     {
       "id": "13981",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 20,
       "cupom": "LIQUIDA30",
       "enviadoEm": "2026-08-31T13:08:32.947Z"
-    },
-    {
-      "id": "13595",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pants Ajuste Total Xxxg 66 Unidades Pampers",
-      "link": "https://meli.la/11MwAjV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_763275-MLA110686221900_052026-F.jpg",
-      "preco": 80.49,
-      "precoDe": 154.9,
-      "desconto": 26,
-      "cupom": "LIQUIDA30",
-      "enviadoEm": "2026-08-31T13:08:27.809Z"
-    },
-    {
-      "id": "13594",
-      "loja": "Mercado Livre",
-      "titulo": "Fraldas Pampers Pants Ajuste Total",
-      "link": "https://meli.la/1iSFQRU",
-      "imagem": null,
-      "preco": 80.49,
-      "precoDe": 154.9,
-      "desconto": 26,
-      "cupom": "LIQUIDA30",
-      "enviadoEm": "2026-08-31T13:08:26.880Z"
     }
   ]
 }
