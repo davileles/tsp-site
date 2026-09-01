@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-01T19:06:19.990Z",
+  "atualizadoEm": "2026-09-01T19:41:35.495Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13996",
+      "loja": "Amazon",
+      "titulo": "Simple Joys by Carter's Conjunto de 6 peças para bebês meninos (manga curta e comprida) e calça, Multicolorido/urso/cães/listras/impressão de texto, 0-3 Meses",
+      "link": "https://www.amazon.com.br/dp/B01MDUHM8T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41fVHTwA8mL._SL400_.jpg",
+      "preco": 157.54,
+      "precoDe": 178.84,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T19:35:17.255Z"
+    },
+    {
+      "id": "13993",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/3qMlssb7Nj",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": 14.99,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T19:28:11.074Z"
+    },
     {
       "id": "13988",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 60,
       "cupom": "FLA9AGO178FA1Z",
       "enviadoEm": "2026-08-31T13:21:29.406Z"
-    },
-    {
-      "id": "13597",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
-      "link": "https://meli.la/2y2FKqH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_825242-MLA109518750392_042026-F.jpg",
-      "preco": 40.980000000000004,
-      "precoDe": 74.9,
-      "desconto": 22,
-      "cupom": "LIQUIDA30",
-      "enviadoEm": "2026-08-31T13:08:37.140Z"
-    },
-    {
-      "id": "13596",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Confort Sec P 50 unidades",
-      "link": "https://meli.la/2PQy1Ah",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_871401-MLA99584710690_122025-F.jpg",
-      "preco": 44.17999999999999,
-      "precoDe": 78.9,
-      "desconto": 20,
-      "cupom": "LIQUIDA30",
-      "enviadoEm": "2026-08-31T13:08:32.947Z"
     }
   ]
 }
