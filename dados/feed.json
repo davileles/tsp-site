@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-01T11:05:50.383Z",
+  "atualizadoEm": "2026-09-01T11:35:50.383Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13795",
+      "loja": "Shopee",
+      "titulo": "Bota Feminina Dakota Preta Confortável Dia A Dia Trabalho D2432",
+      "link": "https://s.shopee.com.br/AAGotR9gMz",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823px-mp13rwzdkmj078_tn",
+      "preco": 195.62,
+      "precoDe": 269.91,
+      "desconto": 9,
+      "cupom": "T3MCUP0MON",
+      "enviadoEm": "2026-09-01T11:26:25.332Z"
+    },
+    {
+      "id": "13793",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, Fácil de Vestir, 84 Unidades",
+      "link": "https://www.amazon.com.br/dp/B086DR4Q6Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51wqBwwd2fL._SL400_.jpg",
+      "preco": 103.12,
+      "precoDe": 146.23,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T11:19:28.077Z"
+    },
+    {
+      "id": "13792",
+      "loja": "Amazon",
+      "titulo": "Hidratante e Calmante sem Fragrância para Pele Muito Sensível/Sensibilizada dos Bebês e Crianças, Mustela Bebê, Rosa, Médio/200 ml",
+      "link": "https://www.amazon.com.br/dp/B072MTS8VQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31V6A5ZdwsL._SL400_.jpg",
+      "preco": 78.99,
+      "precoDe": 105.81,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T11:19:26.961Z"
+    },
+    {
+      "id": "13791",
+      "loja": "Amazon",
+      "titulo": "Bis Branco - Kit com 3 unidades de 100,8g",
+      "link": "https://www.amazon.com.br/dp/B0CDCMT8FY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41H3LmGKxlL._SL400_.jpg",
+      "preco": 15.99,
+      "precoDe": 23.29,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T11:11:59.270Z"
+    },
+    {
+      "id": "13789",
+      "loja": "Amazon",
+      "titulo": "Fralda Babysec Premium Hiper XXG 52 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CCF48PKT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41MMIvvAZ-L._SL400_.jpg",
+      "preco": 77.99,
+      "precoDe": 85.2,
+      "desconto": 8,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T11:11:58.044Z"
+    },
+    {
+      "id": "13788",
+      "loja": "Amazon",
+      "titulo": "MamyPoko Lenços Umedecidos Toque Suave 200 Unidades",
+      "link": "https://www.amazon.com.br/dp/B088P9S98P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412G3EnreFL._SL400_.jpg",
+      "preco": 31.79,
+      "precoDe": 43.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T11:07:55.388Z"
+    },
     {
       "id": "13785",
       "loja": "Shopee",
@@ -1299,18 +1371,6 @@
       "enviadoEm": "2026-08-30T14:07:57.813Z"
     },
     {
-      "id": "13449",
-      "loja": "Amazon",
-      "titulo": "Fralda Babysec Premium Hiper XXG 52 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CCF48PKT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41MMIvvAZ-L._SL400_.jpg",
-      "preco": 77.99,
-      "precoDe": 85.2,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T14:04:41.065Z"
-    },
-    {
       "id": "13448",
       "loja": "Shopee",
       "titulo": "Kit 10 Panos De Limpeza Microfibra alta absorção Multiuso",
@@ -1381,66 +1441,6 @@
       "desconto": 51,
       "cupom": "ULT1M0M1M0",
       "enviadoEm": "2026-08-30T12:36:01.692Z"
-    },
-    {
-      "id": "13437",
-      "loja": "Amazon",
-      "titulo": "Cremer Fralda Luxo Branca 70 X 70 Cm Pc Com 5 Unidades (Embalagem Pode Variar)",
-      "link": "https://www.amazon.com.br/dp/B07D2G84RT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/5166f6A6EAL._SL400_.jpg",
-      "preco": 28.29,
-      "precoDe": 39.99,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T12:21:19.449Z"
-    },
-    {
-      "id": "13436",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
-      "link": "https://s.shopee.com.br/3qMiDFmv1K",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-k1jd7z81yzkv2f_tn",
-      "preco": 25,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T12:13:09.586Z"
-    },
-    {
-      "id": "13434",
-      "loja": "Amazon",
-      "titulo": "Philips Aparador de Barba 20 ajustes com Tecnologia Lift & Trim",
-      "link": "https://www.amazon.com.br/dp/B0FMXLJHQV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ogDfXtIUL._SL400_.jpg",
-      "preco": 189,
-      "precoDe": 216,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T12:07:09.371Z"
-    },
-    {
-      "id": "13428",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51fmR+tg5ML._SL400_.jpg",
-      "preco": 92.9,
-      "precoDe": 109.78,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T11:44:03.514Z"
-    },
-    {
-      "id": "13427",
-      "loja": "Amazon",
-      "titulo": "Kit com 3 Toalhas Lenços Umedecidos Hipoalergênico 50un Cada Maxi Baby",
-      "link": "https://www.amazon.com.br/dp/B0G55V9214?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31FMQk2KQGL._SL400_.jpg",
-      "preco": 14.45,
-      "precoDe": 39.9,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T11:40:31.509Z"
     }
   ]
 }
