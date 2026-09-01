@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-01T19:41:35.495Z",
+  "atualizadoEm": "2026-09-01T20:08:29.295Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14010",
+      "loja": "Amazon",
+      "titulo": "Mor - Boia Inflável Golfinho",
+      "link": "https://www.amazon.com.br/dp/B0779KKPXG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ZV2fRsvSL._SL400_.jpg",
+      "preco": 53.09,
+      "precoDe": 129.9,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T19:58:29.292Z"
+    },
+    {
+      "id": "14001",
+      "loja": "Shopee",
+      "titulo": "Secadora de Roupa Mueller Sun 8kg Timer 6 Cabides 220v",
+      "link": "https://s.shopee.com.br/70JngHG01A",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rceq-m6mpsl92q9e435_tn",
+      "preco": 449,
+      "precoDe": 651.39,
+      "desconto": 28,
+      "cupom": "OFERTA20AF",
+      "enviadoEm": "2026-09-01T19:51:42.358Z"
+    },
+    {
+      "id": "14002",
+      "loja": "Amazon",
+      "titulo": "Simple Joys by Carter's Body unissex de manga curta para bebês, pacote com 5, verde/cinza animais da floresta/listras verde-claro/cinza claro/lhama branca, 3 a 6 meses",
+      "link": "https://www.amazon.com.br/dp/B083X7MVK8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41e08ex7h8L._SL400_.jpg",
+      "preco": 144.01,
+      "precoDe": 189.57,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T19:50:09.695Z"
+    },
     {
       "id": "13996",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-31T13:52:45.257Z"
-    },
-    {
-      "id": "13624",
-      "loja": "Shopee",
-      "titulo": "iPhone 17 5G 256GB Tela 6,3\" 120Hz 48MP iOS Original Novo Lacrado com Nota FIscal",
-      "link": "https://s.shopee.com.br/2LXw7ci4KX",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk46pndmbguab3_tn",
-      "preco": 5873,
-      "precoDe": 8974.24,
-      "desconto": 34,
-      "cupom": "50FULL",
-      "enviadoEm": "2026-08-31T13:44:18.500Z"
-    },
-    {
-      "id": "13623",
-      "loja": "Amazon",
-      "titulo": "LEGO Classic - Caixa Média de Peças Criativas",
-      "link": "https://www.amazon.com.br/dp/B00NHQFA1I?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51ooqeyUaeL._SL400_.jpg",
-      "preco": 214.99,
-      "precoDe": 349.99,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-08-31T13:39:17.049Z"
-    },
-    {
-      "id": "13615",
-      "loja": "Shopee",
-      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
-      "link": "https://s.shopee.com.br/1Vyp6SdVOm",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
-      "preco": 69.98,
-      "precoDe": 199.95,
-      "desconto": 60,
-      "cupom": "FLA9AGO178FA1Z",
-      "enviadoEm": "2026-08-31T13:21:29.406Z"
     }
   ]
 }
