@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-09-01T12:21:55.683Z",
+  "atualizadoEm": "2026-09-01T12:54:16.096Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13846",
+      "loja": "Amazon",
+      "titulo": "MAMADEIRA MAM EASY START - EASY START TRIO",
+      "link": "https://www.amazon.com.br/dp/B0D4F67ZRQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Tes2sC4IL._SL400_.jpg",
+      "preco": 179.89,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T12:50:53.098Z"
+    },
+    {
+      "id": "13843",
+      "loja": "Amazon",
+      "titulo": "Simple Joys by Carter's Body unissex para bebês com 8 unidades de manga curta, Branco, 12 Meses",
+      "link": "https://www.amazon.com.br/dp/B01M35CYIX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31WI2YC2lJL._SL400_.jpg",
+      "preco": 118.54,
+      "precoDe": 150.6,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T12:47:12.748Z"
+    },
+    {
+      "id": "13842",
+      "loja": "Amazon",
+      "titulo": "Cetrilan Creme Para Prevenção de Assaduras 120g",
+      "link": "https://www.amazon.com.br/dp/B0B9HWK12S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31t0l+Bm-pL._SL400_.jpg",
+      "preco": 65,
+      "precoDe": 93.02,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T12:47:11.032Z"
+    },
+    {
+      "id": "13841",
+      "loja": "Amazon",
+      "titulo": "Granado Shampoo Bebê, Erva-Doce, 250ml",
+      "link": "https://www.amazon.com.br/dp/B00TAC03RO?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31d9dBk7DXL._SL400_.jpg",
+      "preco": 14.9,
+      "precoDe": 20.26,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T12:47:10.095Z"
+    },
+    {
+      "id": "13840",
+      "loja": "Amazon",
+      "titulo": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
+      "link": "https://www.amazon.com.br/dp/B08LK15F8N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xUuhoGYgL._SL400_.jpg",
+      "preco": 25.75,
+      "precoDe": 47.89,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T12:47:08.021Z"
+    },
+    {
+      "id": "13837",
+      "loja": "Amazon",
+      "titulo": "LEGO Harry Potter O Castelo de Hogwarts™: Aulas de Voo 76447 (651 Peças)",
+      "link": "https://www.amazon.com.br/dp/B0DJ1B25K9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51dvXEK3mLL._SL400_.jpg",
+      "preco": 579.99,
+      "precoDe": 799.99,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T12:39:05.007Z"
+    },
+    {
+      "id": "13838",
+      "loja": "Mercado Livre",
+      "titulo": "Berço Portátil Infantil Cercado 0-15kg Grafite Lazy Maxi Baby",
+      "link": "https://meli.la/1S8VrUs",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_905446-MLA96107568817_102025-F.jpg",
+      "preco": 424,
+      "precoDe": 599.99,
+      "desconto": 25,
+      "cupom": "SITETODO0109",
+      "enviadoEm": "2026-09-01T12:36:59.405Z"
+    },
+    {
+      "id": "13836",
+      "loja": "Mercado Livre",
+      "titulo": "Boné Ess No.1 Logo Baseball Puma",
+      "link": "https://meli.la/333o3uK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_893046-MLA99454489492_112025-F.jpg",
+      "preco": 71.99,
+      "precoDe": 99.99,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T12:36:33.588Z"
+    },
+    {
+      "id": "13835",
+      "loja": "Shopee",
+      "titulo": "JAQUETA DE COURO MASCULINA COM CAPUZ REMOVIVEL FORRADA E PELUCIDA POR DENTRO INVERNO/FRIO",
+      "link": "https://s.shopee.com.br/9V16hw3sIE",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmtaw18rywhs2d_tn",
+      "preco": 179.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "T3MCUP0MON",
+      "enviadoEm": "2026-09-01T12:33:29.708Z"
+    },
+    {
+      "id": "13834",
+      "loja": "Mercado Livre",
+      "titulo": "Ar Condicionado Split Inverter Hitachi Airhome 12.000 Btus Frio R-32",
+      "link": "https://meli.la/1thXbEA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_801611-MLA84185636896_052025-F.jpg",
+      "preco": 1649,
+      "precoDe": 4535.61,
+      "desconto": 59,
+      "cupom": "OFERTASOFF",
+      "enviadoEm": "2026-09-01T12:33:13.271Z"
+    },
     {
       "id": "13815",
       "loja": "Shopee",
@@ -747,18 +867,6 @@
       "enviadoEm": "2026-08-31T14:39:19.578Z"
     },
     {
-      "id": "13632",
-      "loja": "Shopee",
-      "titulo": "JAQUETA DE COURO MASCULINA COM CAPUZ REMOVIVEL FORRADA E PELUCIDA POR DENTRO INVERNO/FRIO",
-      "link": "https://s.shopee.com.br/9V16hw3sIE",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmtaw18rywhs2d_tn",
-      "preco": 132,
-      "precoDe": 230,
-      "desconto": 30,
-      "cupom": "CUPOMDIASAN",
-      "enviadoEm": "2026-08-31T14:30:53.537Z"
-    },
-    {
       "id": "13629",
       "loja": "Shopee",
       "titulo": "Jaqueta Bobojaco Impermeável Becker Nylon Puffer Masculino com Bolsos e Capuz",
@@ -1333,114 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-08-30T18:17:43.428Z"
-    },
-    {
-      "id": "13476",
-      "loja": "Shopee",
-      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
-      "link": "https://s.shopee.com.br/9fKVXT5vk5",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
-      "preco": 179.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "99T3MTUD0N4SH0",
-      "enviadoEm": "2026-08-30T17:55:23.403Z"
-    },
-    {
-      "id": "13471",
-      "loja": "Shopee",
-      "titulo": "Mini Blocos de Montar Cachorro Fofo Kawaii Presente Pinscher Poodle Shiba Ibu Schnauzer Infantil",
-      "link": "https://s.shopee.com.br/5VUwYG7hou",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mrr89ftyrwnad8_tn",
-      "preco": 20.9,
-      "precoDe": 29.86,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T17:32:46.187Z"
-    },
-    {
-      "id": "13469",
-      "loja": "Shopee",
-      "titulo": "Massageador Elétrico 6 em 1 Corporal Potente Ergonômico Multifuncional Terapia 10 Velocidades",
-      "link": "https://s.shopee.com.br/gPglpXwwp",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mr6qsdj7sydi4b_tn",
-      "preco": 154.78,
-      "precoDe": 242.75,
-      "desconto": 28,
-      "cupom": "99T3MTUD0N4SH0",
-      "enviadoEm": "2026-08-30T17:10:16.287Z"
-    },
-    {
-      "id": "13468",
-      "loja": "Shopee",
-      "titulo": "Kit Zípers de Reparo Universal Conserto Instantâneo Sem costura Prático",
-      "link": "https://s.shopee.com.br/7KwagXL5cs",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1u55wybuzze95_tn",
-      "preco": 10.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T16:47:35.022Z"
-    },
-    {
-      "id": "13467",
-      "loja": "Shopee",
-      "titulo": "Kit Pampers Glicerina Shampoo 350ml + Condicionador 200ml + Loção Hidratante 350ml + Sabonete Líquido 200ml",
-      "link": "https://s.shopee.com.br/60RD4VUcdF",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g3-mptqk2z79y4v6b_tn",
-      "preco": 115.69999999999999,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "99T3MTUD0N4SH0",
-      "enviadoEm": "2026-08-30T16:25:03.519Z"
-    },
-    {
-      "id": "13464",
-      "loja": "Shopee",
-      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
-      "link": "https://s.shopee.com.br/2gAl4nlUij",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
-      "preco": 44.32,
-      "precoDe": 66.24,
-      "desconto": 18,
-      "cupom": "ULT1M0M1M0",
-      "enviadoEm": "2026-08-30T16:02:07.715Z"
-    },
-    {
-      "id": "13460",
-      "loja": "Shopee",
-      "titulo": "Kit Limpador Pastilha de máquina de lavar roupa, comprimido efervescente sólido para remover manchas【】",
-      "link": "https://s.shopee.com.br/70JkBeptzb",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwt-mcjqjjrew9uu86_tn",
-      "preco": 8.59,
-      "precoDe": 15.34,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T15:16:24.200Z"
-    },
-    {
-      "id": "13457",
-      "loja": "Amazon",
-      "titulo": "Kit Infantil Dentalclean Peppa Pig Gel 50g com Flúor + Escova Extra Macia + Fio 20m com Estojo, Azul",
-      "link": "https://www.amazon.com.br/dp/B0F3QD36R4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/418fkzIuhQL._SL400_.jpg",
-      "preco": 24.68,
-      "precoDe": 29.04,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T14:58:58.588Z"
-    },
-    {
-      "id": "13456",
-      "loja": "Shopee",
-      "titulo": "Kit Completo Maca Power karseell  Máscara 500 g + condicionador 1L + Shampoo 1L + Óleo P 50ml",
-      "link": "https://s.shopee.com.br/5foMZczMlC",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mnb7dwwwmo748e_tn",
-      "preco": 39,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "ULT1M0M1M0",
-      "enviadoEm": "2026-08-30T14:53:49.121Z"
     }
   ]
 }
