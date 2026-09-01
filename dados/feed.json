@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-01T13:43:42.300Z",
+  "atualizadoEm": "2026-09-01T14:02:52.541Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13867",
+      "loja": "Amazon",
+      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem frald",
+      "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/518pyDilWKL._SL400_.jpg",
+      "preco": 206.91,
+      "precoDe": 246.01,
+      "desconto": 7,
+      "cupom": "10OFFAGORA",
+      "enviadoEm": "2026-09-01T13:52:27.100Z"
+    },
     {
       "id": "13863",
       "loja": "Amazon",
@@ -1357,18 +1369,6 @@
       "desconto": null,
       "cupom": "VANTAGEMJA",
       "enviadoEm": "2026-08-31T12:08:50.700Z"
-    },
-    {
-      "id": "13545",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem frald",
-      "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/518pyDilWKL._SL400_.jpg",
-      "preco": 174.9,
-      "precoDe": 246.01,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-08-31T11:56:53.639Z"
     },
     {
       "id": "13544",
