@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-01T20:24:12.295Z",
+  "atualizadoEm": "2026-09-01T20:40:35.478Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14023",
+      "loja": "Shopee",
+      "titulo": "Whey Ultra Protein Concentrado Pote 900g - FTW",
+      "link": "https://s.shopee.com.br/1LfQz1T4IM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9vukr0feo684_tn",
+      "preco": 69.99,
+      "precoDe": 109.36,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T20:36:44.956Z"
+    },
     {
       "id": "14013",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 27,
       "cupom": "CUPOMDIASAN",
       "enviadoEm": "2026-08-31T14:07:15.318Z"
-    },
-    {
-      "id": "13631",
-      "loja": "Amazon",
-      "titulo": "Bluey Pequena Biblioteca da Bluey - Box com 4 livrinhos",
-      "link": "https://www.amazon.com.br/dp/6561263022?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51o34WBK0jL._SL400_.jpg",
-      "preco": 21.94,
-      "precoDe": 49.9,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-08-31T14:06:09.877Z"
     }
   ]
 }
