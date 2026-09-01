@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-01T17:17:07.942Z",
+  "atualizadoEm": "2026-09-01T17:40:14.663Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13931",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
+      "link": "https://s.shopee.com.br/1BLz0r4d69",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
+      "preco": 23.88,
+      "precoDe": 47.76,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T17:34:37.685Z"
+    },
     {
       "id": "13933",
       "loja": "Shopee",
@@ -1021,18 +1033,6 @@
       "desconto": 16,
       "cupom": "VANTAGEMJA",
       "enviadoEm": "2026-08-31T18:09:38.965Z"
-    },
-    {
-      "id": "13687",
-      "loja": "Shopee",
-      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
-      "link": "https://s.shopee.com.br/1BLz0r4d69",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
-      "preco": null,
-      "precoDe": 47.76,
-      "desconto": 50,
-      "cupom": "CUPOMDIASAN",
-      "enviadoEm": "2026-08-31T17:57:29.872Z"
     },
     {
       "id": "13679",
