@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-01T14:40:52.399Z",
+  "atualizadoEm": "2026-09-01T15:10:04.517Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13881",
+      "loja": "Amazon",
+      "titulo": "Buba, Kit 2 Prendedores De Chupeta Coala Rosa",
+      "link": "https://www.amazon.com.br/dp/B0B3F6BXLH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31BY7Pku1SL._SL400_.jpg",
+      "preco": 19.7,
+      "precoDe": 29.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T15:00:04.515Z"
+    },
+    {
+      "id": "13880",
+      "loja": "Amazon",
+      "titulo": "Protex Baby Lavanda Sabonete Líquido Infantil, 400ml",
+      "link": "https://www.amazon.com.br/dp/B0CLHGKHV8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31H+87+c77L._SL400_.jpg",
+      "preco": 19.59,
+      "precoDe": 34.17,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T15:00:00.485Z"
+    },
+    {
+      "id": "13878",
+      "loja": "Shopee",
+      "titulo": "Kit Jogo 4 Tapete de Banheiro Antiderrapante 60x40cm Tapete Bolinha Macarrão Microfibra Absorvente",
+      "link": "https://s.shopee.com.br/5VUzZ5ngBL",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1c8gqanz7q35_tn",
+      "preco": 21.990000000000002,
+      "precoDe": 63.62,
+      "desconto": 34,
+      "cupom": "M3NG0NASH0AF",
+      "enviadoEm": "2026-09-01T14:54:02.932Z"
+    },
     {
       "id": "13874",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 19,
       "cupom": null,
       "enviadoEm": "2026-08-31T11:56:52.828Z"
-    },
-    {
-      "id": "13542",
-      "loja": "Shopee",
-      "titulo": "Calça Legging Feminina Grossa Flanelada Suplex Térmica Peluciada –Leg Inverno",
-      "link": "https://s.shopee.com.br/9AOG8H4s5P",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mnxayzevqhvo24_tn",
-      "preco": 21.89,
-      "precoDe": 49.83,
-      "desconto": 36,
-      "cupom": "FLA9AGO178FA1Z",
-      "enviadoEm": "2026-08-31T11:49:25.205Z"
-    },
-    {
-      "id": "13541",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51p7Q6bht8L._SL400_.jpg",
-      "preco": 199.29,
-      "precoDe": 229.49,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-08-31T11:43:12.022Z"
-    },
-    {
-      "id": "13537",
-      "loja": "Shopee",
-      "titulo": "Bolsa de Viagem Mala Dobrável Capacidade Impermeável",
-      "link": "https://s.shopee.com.br/AAGnIX5WRE",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmx-lp6czwvd0b9k6f_tn",
-      "preco": 3.83,
-      "precoDe": 39.51,
-      "desconto": 65,
-      "cupom": "FLA9AGO178FA1Z",
-      "enviadoEm": "2026-08-31T11:26:19.270Z"
     }
   ]
 }
