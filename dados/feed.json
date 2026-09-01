@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-01T15:17:07.941Z",
+  "atualizadoEm": "2026-09-01T15:30:27.349Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13893",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 15 Pares Meias Sport Algodão Cano Médio Sandrini Confort",
+      "link": "https://meli.la/23q2Yi7",
+      "imagem": null,
+      "preco": 49.989999999999995,
+      "precoDe": 109.99,
+      "desconto": 36,
+      "cupom": "FULL30",
+      "enviadoEm": "2026-09-01T15:20:27.348Z"
+    },
+    {
+      "id": "13891",
+      "loja": "Mercado Livre",
+      "titulo": "Whey One Protein Proteína Sachê Refil 900g - Dark Lab Sabor Chocolate",
+      "link": "https://meli.la/19Qpn1X",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_882667-MLA99906697039_112025-F.jpg",
+      "preco": 58.900000000000006,
+      "precoDe": 129.9,
+      "desconto": 39,
+      "cupom": "FULL30",
+      "enviadoEm": "2026-09-01T15:18:25.654Z"
+    },
     {
       "id": "13890",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 34,
       "cupom": null,
       "enviadoEm": "2026-08-31T12:22:35.101Z"
-    },
-    {
-      "id": "13558",
-      "loja": "Amazon",
-      "titulo": "Exercícios para o cérebro da criança",
-      "link": "https://www.amazon.com.br/dp/6587638805?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/411Kf-E2LrL._SL400_.jpg",
-      "preco": 45.68,
-      "precoDe": 88,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-08-31T12:22:32.585Z"
-    },
-    {
-      "id": "13556",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo De Cama Queen 3 peças 160 Fios 100% Algodão Branco Karsten",
-      "link": "https://meli.la/2HptStf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_841661-MLA95661910858_102025-F.jpg",
-      "preco": 85.5,
-      "precoDe": 190,
-      "desconto": 10,
-      "cupom": "INTERNACIONALCN",
-      "enviadoEm": "2026-08-31T12:22:25.957Z"
     }
   ]
 }
