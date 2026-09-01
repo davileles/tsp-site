@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-01T15:47:07.942Z",
+  "atualizadoEm": "2026-09-01T16:17:07.943Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13915",
+      "loja": "Amazon",
+      "titulo": "Snob Papel toalha multiuso folha dupla branca hiper 360fls, 3 rolos",
+      "link": "https://www.amazon.com.br/dp/B0CFSDVHFR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41E-GWYnS3L._SL400_.jpg",
+      "preco": 17.49,
+      "precoDe": 25.99,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T16:16:57.606Z"
+    },
+    {
+      "id": "13903",
+      "loja": "Mercado Livre",
+      "titulo": "Laptop Infantil Educativo Candide Disney Stitch Bilíngue",
+      "link": "https://meli.la/1u1DvCr",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_941335-MLA99464009890_112025-F.jpg",
+      "preco": 59.9,
+      "precoDe": 69.99,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T16:07:20.128Z"
+    },
+    {
+      "id": "13898",
+      "loja": "Shopee",
+      "titulo": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
+      "link": "https://s.shopee.com.br/5LBZRTY1kw",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6_tn",
+      "preco": 408.99,
+      "precoDe": 596.09,
+      "desconto": 23,
+      "cupom": "T3MCUP0MON",
+      "enviadoEm": "2026-09-01T16:01:53.723Z"
+    },
     {
       "id": "13896",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-08-31T12:28:11.195Z"
-    },
-    {
-      "id": "13560",
-      "loja": "Mercado Livre",
-      "titulo": "iPhone 17 256 GB - Branco - Distribuidor Autorizado",
-      "link": "https://meli.la/2L8WYyX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_641716-MLA94920239704_102025-F.jpg",
-      "preco": 5699,
-      "precoDe": 7999,
-      "desconto": 26,
-      "cupom": "VANTAGEMJA",
-      "enviadoEm": "2026-08-31T12:25:22.669Z"
-    },
-    {
-      "id": "13555",
-      "loja": "Mercado Livre",
-      "titulo": "Smart Tv Samsung 32 Ls32h5000fgxzd Hd Led Wifi Hdmi 110/220v",
-      "link": "https://meli.la/31Hji2P",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_899090-MLA107424021398_032026-F.jpg",
-      "preco": 699.3,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TOPACHADO",
-      "enviadoEm": "2026-08-31T12:23:02.591Z"
-    },
-    {
-      "id": "13559",
-      "loja": "Amazon",
-      "titulo": "Exercícios de atenção para TDAH: Práticas e perguntas para crianças e adolescentes",
-      "link": "https://www.amazon.com.br/dp/8582306466?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41RBXq-TEaL._SL400_.jpg",
-      "preco": 33.91,
-      "precoDe": 51,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-08-31T12:22:35.101Z"
     }
   ]
 }
