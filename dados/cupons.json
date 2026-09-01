@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-01T13:40:09.597Z",
+  "atualizadoEm": "2026-09-01T13:43:43.533Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1020,18 +1020,6 @@
       "limite": 20,
       "observacao": "Cupom para produtos selecionados",
       "validadeAte": "2026-09-01T19:30:58.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "CUPOMDIASAN",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 29,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom disponível no aplicativo Shopee",
-      "validadeAte": "2026-09-01T13:42:51.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
