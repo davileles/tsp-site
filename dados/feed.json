@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-01T18:28:13.470Z",
+  "atualizadoEm": "2026-09-01T18:53:12.764Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13981",
+      "loja": "Shopee",
+      "titulo": "Smart TV 40” Britânia B40CRA Full HD Wi-Fi HDMI USB Conversor Digital",
+      "link": "https://s.shopee.com.br/60RGPlw1z1",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mmzz81wngu814b_tn",
+      "preco": 1150,
+      "precoDe": 2294.12,
+      "desconto": 49,
+      "cupom": "OFERTA20AF",
+      "enviadoEm": "2026-09-01T18:43:12.764Z"
+    },
+    {
+      "id": "13980",
+      "loja": "Shopee",
+      "titulo": "Pillow Top 400 Fios Super Macio Matelado – Solteiro, Casal, Queen e King | Ajuste Perfeito",
+      "link": "https://s.shopee.com.br/9V18a3zXdq",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mmvop81nlama8e_tn",
+      "preco": 95,
+      "precoDe": 132.18,
+      "desconto": 13,
+      "cupom": "OFERTA20AF",
+      "enviadoEm": "2026-09-01T18:42:10.039Z"
+    },
+    {
+      "id": "13979",
+      "loja": "Amazon",
+      "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+      "link": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xmDfLLgRL._SL400_.jpg",
+      "preco": 73.89,
+      "precoDe": 101.58,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T18:37:46.530Z"
+    },
+    {
+      "id": "13978",
+      "loja": "Amazon",
+      "titulo": "Coleção Cores Mágicas - Bluey",
+      "link": "https://www.amazon.com.br/dp/6561264053?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51oK-3ZYdHL._SL400_.jpg",
+      "preco": 13.02,
+      "precoDe": 29.9,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T18:37:45.774Z"
+    },
     {
       "id": "13971",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 26,
       "cupom": "LIQUIDA30",
       "enviadoEm": "2026-08-31T13:08:26.880Z"
-    },
-    {
-      "id": "13593",
-      "loja": "Mercado Livre",
-      "titulo": "Fraldas Pampers Pants Ajuste Total",
-      "link": "https://meli.la/2WuiYke",
-      "imagem": null,
-      "preco": 80.49,
-      "precoDe": 154.9,
-      "desconto": 26,
-      "cupom": "LIQUIDA30",
-      "enviadoEm": "2026-08-31T13:08:26.424Z"
-    },
-    {
-      "id": "13589",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
-      "link": "https://meli.la/1yjYtXC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_631841-MLA99823831015_112025-F.jpg",
-      "preco": 151.17000000000002,
-      "precoDe": 256.9,
-      "desconto": 16,
-      "cupom": "LIQUIDA30",
-      "enviadoEm": "2026-08-31T12:57:52.853Z"
-    },
-    {
-      "id": "13588",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Pants Premium Care XXG 60 unidades",
-      "link": "https://meli.la/2T6xyy2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_637890-MLA99843244735_112025-F.jpg",
-      "preco": 86.65,
-      "precoDe": 157.9,
-      "desconto": 22,
-      "cupom": "LIQUIDA30",
-      "enviadoEm": "2026-08-31T12:57:43.882Z"
-    },
-    {
-      "id": "13587",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Premium Care Pants XG, 64 Unidades",
-      "link": "https://meli.la/1iFrn63",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_800100-MLA99924950787_112025-F.jpg",
-      "preco": 86.66999999999999,
-      "precoDe": 157.9,
-      "desconto": 22,
-      "cupom": "LIQUIDA30",
-      "enviadoEm": "2026-08-31T12:57:43.138Z"
     }
   ]
 }
