@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-01T17:40:14.663Z",
+  "atualizadoEm": "2026-09-01T17:52:58.124Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13959",
+      "loja": "Amazon",
+      "titulo": "Simple Joys by Carter's Body unissex de manga comprida para bebês, Caminhões azul/cinza/listra vermelha, Newborn",
+      "link": "https://www.amazon.com.br/dp/B01M7XQYBB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51dWXFcMglL._SL400_.jpg",
+      "preco": 117.88,
+      "precoDe": 142.29,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T17:42:58.123Z"
+    },
+    {
+      "id": "13958",
+      "loja": "Amazon",
+      "titulo": "Neslac Comfor Zero Lactose - Composto Lácteo, Fórmula infantil, 700g",
+      "link": "https://www.amazon.com.br/dp/B08K3PF8Q7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51sIY-dwEiL._SL400_.jpg",
+      "preco": 60.59,
+      "precoDe": 76.69,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T17:42:56.686Z"
+    },
+    {
+      "id": "13957",
+      "loja": "Amazon",
+      "titulo": "Simple Joys by Carter's Body de manga comprida para bebês meninas, pacote com 5, Pontos/Floral/Corações/Coruja, 24 Meses",
+      "link": "https://www.amazon.com.br/dp/B0797LK562?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51PKhViJTeL._SL400_.jpg",
+      "preco": 129.59,
+      "precoDe": 159.89,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T17:42:55.079Z"
+    },
+    {
+      "id": "13956",
+      "loja": "Amazon",
+      "titulo": "Simple Joys by Carter's Meias de algodão para bebês meninas, para dormir e brincar, pacote com 2, Bolinhas roxas/patos brancos, 3-6 Meses",
+      "link": "https://www.amazon.com.br/dp/B0BLD2KD9H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Nr90fWreL._SL400_.jpg",
+      "preco": 112.65,
+      "precoDe": 132.12,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T17:42:53.356Z"
+    },
     {
       "id": "13931",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 22,
       "cupom": "LIQUIDA30",
       "enviadoEm": "2026-08-31T12:57:43.138Z"
-    },
-    {
-      "id": "13586",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Premium Care Pants Tamanho M 78 unidades",
-      "link": "https://meli.la/119H84X",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_964567-MLA99928206683_112025-F.jpg",
-      "preco": 86.03,
-      "precoDe": 157.9,
-      "desconto": 22,
-      "cupom": "LIQUIDA30",
-      "enviadoEm": "2026-08-31T12:57:42.403Z"
-    },
-    {
-      "id": "13584",
-      "loja": "Shopee",
-      "titulo": "HUAWEI WATCH FIT 5 Pro| Smartwatch Relogio | Tela FullView AMOLED de 1,92\"| Mini Treino | 64 GB ECG",
-      "link": "https://s.shopee.com.br/7Kwc1amcx6",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mqeruyatf3eq58_tn",
-      "preco": 1279,
-      "precoDe": 3497.37,
-      "desconto": 62,
-      "cupom": "50FULL",
-      "enviadoEm": "2026-08-31T12:57:41.057Z"
-    },
-    {
-      "id": "13585",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Supersec Xg 32",
-      "link": "https://meli.la/2Yqvd2S",
-      "imagem": null,
-      "preco": 27.290000000000003,
-      "precoDe": 53.9,
-      "desconto": 28,
-      "cupom": "LIQUIDA30",
-      "enviadoEm": "2026-08-31T12:57:26.750Z"
-    },
-    {
-      "id": "13583",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Confort Sec Tamanho XXG 148 Unidades",
-      "link": "https://meli.la/2xpTeHj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_875648-MLA114424086500_082026-F.jpg",
-      "preco": 151.17000000000002,
-      "precoDe": 256.9,
-      "desconto": 16,
-      "cupom": "LIQUIDA30",
-      "enviadoEm": "2026-08-31T12:47:31.283Z"
     }
   ]
 }
