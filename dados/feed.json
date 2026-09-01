@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-01T22:04:29.551Z",
+  "atualizadoEm": "2026-09-01T22:37:31.632Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14055",
+      "loja": "Amazon",
+      "titulo": "TCL QLED SMART TV 65” 65P8K 4K UHD GOOGLE TV",
+      "link": "https://www.amazon.com.br/dp/B0GH2L5MZL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41jtn+DAf3L._SL400_.jpg",
+      "preco": 2399,
+      "precoDe": 4400,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T22:27:31.630Z"
+    },
     {
       "id": "14050",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "CUPOMDIASAN",
       "enviadoEm": "2026-08-31T14:54:01.805Z"
-    },
-    {
-      "id": "13635",
-      "loja": "Mercado Livre",
-      "titulo": "Mamadeira Avent Pétala Ppsu Azul E Rosa 125ml 0m+ Bico N°2 Azul E Rosa Decorada Tintas",
-      "link": "https://meli.la/2QP1WvQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_631877-MLA100577942895_122025-F.jpg",
-      "preco": 51.22,
-      "precoDe": 64.84,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-08-31T14:39:23.887Z"
     }
   ]
 }
