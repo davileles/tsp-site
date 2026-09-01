@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-01T15:10:04.517Z",
+  "atualizadoEm": "2026-09-01T15:17:07.941Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13890",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
+      "link": "https://s.shopee.com.br/9V15BnYP0y",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
+      "preco": 34.32,
+      "precoDe": 72.43,
+      "desconto": 25,
+      "cupom": "M3NG0NASH0AF",
+      "enviadoEm": "2026-09-01T15:16:20.985Z"
+    },
+    {
+      "id": "13889",
+      "loja": "Mercado Livre",
+      "titulo": "Sanduicheira Elétrica Inox Midea 127v",
+      "link": "https://meli.la/14KoW2G",
+      "imagem": null,
+      "preco": 179,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FULL30",
+      "enviadoEm": "2026-09-01T15:15:18.634Z"
+    },
+    {
+      "id": "13888",
+      "loja": "Mercado Livre",
+      "titulo": "YoPRO Bebida Láctea UHT Chocolate 15g de proteínas 250ml - 12 unidades",
+      "link": "https://meli.la/1GJEwQv",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_953528-MLA112540456984_062026-F.jpg",
+      "preco": 59,
+      "precoDe": 98.99,
+      "desconto": 20,
+      "cupom": "FULL30",
+      "enviadoEm": "2026-09-01T15:14:55.148Z"
+    },
+    {
+      "id": "13887",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina Monohidratada 500g Pó Growth",
+      "link": "https://meli.la/1wgvXzH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_602304-MLA109372354737_032026-F.jpg",
+      "preco": 54.900000000000006,
+      "precoDe": 104.9,
+      "desconto": 29,
+      "cupom": "FULL30",
+      "enviadoEm": "2026-09-01T15:13:38.852Z"
+    },
+    {
+      "id": "13886",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
+      "link": "https://meli.la/1U1Yvd6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_998463-MLA116907384785_082026-F.jpg",
+      "preco": 48.900000000000006,
+      "precoDe": 239.9,
+      "desconto": 71,
+      "cupom": "FULL30",
+      "enviadoEm": "2026-09-01T15:12:21.666Z"
+    },
     {
       "id": "13881",
       "loja": "Amazon",
@@ -843,18 +903,6 @@
       "enviadoEm": "2026-08-31T16:48:11.348Z"
     },
     {
-      "id": "13663",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
-      "link": "https://s.shopee.com.br/9V15BnYP0y",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
-      "preco": 25.32,
-      "precoDe": 72.43,
-      "desconto": 25,
-      "cupom": "CUPOMDIASAN",
-      "enviadoEm": "2026-08-31T16:25:20.188Z"
-    },
-    {
       "id": "13659",
       "loja": "Shopee",
       "titulo": "Kit 6/12/18/24 Panos De Limpeza  Premium Arear Panela Fogão Toalha Louça Tira Gordura Reutilizável",
@@ -1393,54 +1441,6 @@
       "desconto": 10,
       "cupom": "INTERNACIONALCN",
       "enviadoEm": "2026-08-31T12:22:25.957Z"
-    },
-    {
-      "id": "13551",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Inox Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
-      "link": "https://s.shopee.com.br/7pssZP5LsI",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms49lbchdmh1a1_tn",
-      "preco": 38.9,
-      "precoDe": 99.8,
-      "desconto": 51,
-      "cupom": "FLA9AGO178FA1Z",
-      "enviadoEm": "2026-08-31T12:11:59.786Z"
-    },
-    {
-      "id": "13550",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira De Escritório Itália Presidente Ergonômica Couro Sintético Encosto Ajustável Com Trava E Apoio Para Pés Cor Branca Luvinco",
-      "link": "https://meli.la/2NRmXFZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_620509-MLA96567996828_112025-F.jpg",
-      "preco": 466.30999999999995,
-      "precoDe": 933.2,
-      "desconto": 43,
-      "cupom": "PROMOCERTA",
-      "enviadoEm": "2026-08-31T12:09:23.467Z"
-    },
-    {
-      "id": "13549",
-      "loja": "Mercado Livre",
-      "titulo": "Fone De Ouvido Preto Havit Gamenote Fuxi-h6 - Black",
-      "link": "https://meli.la/1gNwAvf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_947213-MLA99416728000_112025-F.jpg",
-      "preco": 224.1,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "VANTAGEMJA",
-      "enviadoEm": "2026-08-31T12:08:50.700Z"
-    },
-    {
-      "id": "13544",
-      "loja": "Amazon",
-      "titulo": "Fralda Infantil Personal Baby Protect e Sec M Mega 9x40pads Leve 40 pague 38 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41DupqCSKGL._SL400_.jpg",
-      "preco": 29.99,
-      "precoDe": 36.96,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-08-31T11:56:52.828Z"
     }
   ]
 }
