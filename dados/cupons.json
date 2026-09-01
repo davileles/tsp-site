@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-01T14:44:43.451Z",
+  "atualizadoEm": "2026-09-01T14:48:08.362Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -325,18 +325,6 @@
       "observacao": null,
       "validadeAte": "2026-09-07T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "TECNO200",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom válido somente no APP Magalu. Produto: Antena de Internet Via Satélite Starlink Mini",
-      "validadeAte": "2026-09-01T14:45:17.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "ECONOMIZEI",
@@ -779,7 +767,7 @@
       "maximo": null,
       "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-09-01T15:00:00.182Z",
+      "validadeAte": "2026-09-01T14:59:59.766Z",
       "url": "https://meli.la/2xystLt"
     },
     {
