@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-01T02:35:50.643Z",
+  "atualizadoEm": "2026-09-01T03:05:50.599Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -15,30 +15,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
     },
     {
-      "codigo": "AMOO20DAVINES",
-      "loja": "BELEZA NA WEB",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
-    },
-    {
-      "codigo": "EUAMOO15MASCAVO",
-      "loja": "BELEZA NA WEB",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
-    },
-    {
       "codigo": "15SELECAO",
       "loja": "BELEZA NA WEB",
       "tipo": "pct",
@@ -51,42 +27,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
     },
     {
-      "codigo": "AMOLUXO",
-      "loja": "BELEZA NA WEB",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 499,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
-    },
-    {
-      "codigo": "MAKE10",
-      "loja": "BELEZA NA WEB",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
-    },
-    {
-      "codigo": "UNIVER10GRANADO",
-      "loja": "BELEZA NA WEB",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
-    },
-    {
       "codigo": "BELEZA10",
       "loja": "BELEZA NA WEB",
       "tipo": "pct",
@@ -96,18 +36,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-31T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
-    },
-    {
-      "codigo": "10EXTRA",
-      "loja": "BELEZA NA WEB",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 150,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
     },
     {
@@ -157,18 +85,6 @@
       "observacao": null,
       "validadeAte": "2030-01-02T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
-    },
-    {
-      "codigo": "MAISFUT",
-      "loja": "Centauro",
-      "tipo": "reais",
-      "valor": 6999,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17806&id=1207116"
     },
     {
       "codigo": "GOLACO",
@@ -243,30 +159,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "ANIVERSARIO",
-      "loja": "eLens",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17612&id=1207116"
-    },
-    {
-      "codigo": "PS5150",
-      "loja": "Fastshop",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
       "codigo": "CAMA5",
       "loja": "Fastshop",
       "tipo": "pct",
@@ -289,30 +181,6 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
-      "codigo": "MISTER40",
-      "loja": "iPlace",
-      "tipo": "pct",
-      "valor": 40,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=31355&id=1207116"
-    },
-    {
-      "codigo": "TCL200",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T03:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
       "codigo": "PS5VIP200",
@@ -375,18 +243,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "AOC50",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "ALL50",
       "loja": "Kabum",
       "tipo": "reais",
@@ -396,42 +252,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-11T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "OFFICE30OFF",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "ALL30",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "ESSENTIALS28",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 28,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -468,30 +288,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-01T12:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "ENDGAME",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "ATTACKSHARK",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -555,30 +351,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "STAR10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "ROGSTRIX10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "VGA8",
       "loja": "Kabum",
       "tipo": "pct",
@@ -588,54 +360,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "PC5OFF",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "MEUIPHONE",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "5ZEBRA",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "NINTENDO5OFF",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -649,18 +373,6 @@
       "observacao": "Cupom válido somente no APP Magalu. Produto: Antena de Internet Via Satélite Starlink Mini",
       "validadeAte": "2026-09-01T14:45:17.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "LIQUIDA30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 1000,
-      "observacao": "Válido em produtos selecionados",
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "ECONOMIZEI",
@@ -684,18 +396,6 @@
       "limite": 500,
       "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-16T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ESTOQUEDOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 1000,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.155Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -727,11 +427,11 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 29,
       "maximo": null,
       "limite": 500,
       "observacao": "Lista com 28 cupons do Mercado Livre com diferentes percentuais e valores mínimos",
-      "validadeAte": "2026-09-01T02:59:00.372Z",
+      "validadeAte": "2026-09-18T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -743,7 +443,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:58:59.779Z",
+      "validadeAte": "2026-09-19T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -783,42 +483,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PROMOMELI30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 1000,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "QUEROCUPONS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MAISCUPONS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:59:00.155Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELHORNOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -828,18 +492,6 @@
       "limite": 500,
       "observacao": "Lista com 27 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DESCOTOSMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:59:00.155Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -927,30 +579,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ECONOMIAML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 22,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:59:00.155Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MAISPORMENOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 22,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "QUEROJA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -999,18 +627,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SHOWDEPROMO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Lista com 28 cupons do Mercado Livre com diferentes percentuais e valores mínimos",
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BASICS20",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1020,18 +636,6 @@
       "limite": 30,
       "observacao": "Válido para produtos selecionados",
       "validadeAte": "2026-09-08T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "HORADOCUPOM",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1047,42 +651,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIAQUI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 59,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BARATOAGORA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 250,
-      "observacao": "Múltiplos cupons ativos no Mercado Livre com diferentes códigos e limites de desconto",
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMOCERTA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 12,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:59:00.372Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SAMSUNG10OFF",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1092,30 +660,6 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "VANTAGEMJA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 250,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OPORTUNIDADE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 8,
-      "minimo": 150,
-      "maximo": null,
-      "limite": 300,
-      "observacao": "Múltiplos cupons ativos no Mercado Livre com diferentes códigos e limites de desconto",
-      "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1153,30 +697,6 @@
       "observacao": null,
       "validadeAte": "2027-07-20T13:32:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
-    },
-    {
-      "codigo": "QUERO100",
-      "loja": "Olympikus",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
-    },
-    {
-      "codigo": "CALC20",
-      "loja": "Olympikus",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
     },
     {
       "codigo": "AQUECE20",
@@ -1297,54 +817,6 @@
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17634&id=1207116"
-    },
-    {
-      "codigo": "KIDS",
-      "loja": "Riachuelo",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
-    },
-    {
-      "codigo": "SALDOS",
-      "loja": "Riachuelo",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
-    },
-    {
-      "codigo": "BW20",
-      "loja": "Riachuelo",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
-    },
-    {
-      "codigo": "PRIMEIRACOMPRA15",
-      "loja": "Riachuelo",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
     },
     {
       "codigo": "GANHE10",
