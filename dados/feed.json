@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-01T15:30:27.349Z",
+  "atualizadoEm": "2026-09-01T15:47:07.942Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13896",
+      "loja": "Shopee",
+      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
+      "link": "https://s.shopee.com.br/2BEW9W14Ik",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
+      "preco": 99.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "T3MCUP0MON",
+      "enviadoEm": "2026-09-01T15:38:54.827Z"
+    },
     {
       "id": "13893",
       "loja": "Mercado Livre",
@@ -901,18 +913,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-08-31T17:17:33.378Z"
-    },
-    {
-      "id": "13677",
-      "loja": "Shopee",
-      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
-      "link": "https://s.shopee.com.br/2BEW9W14Ik",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
-      "preco": 120.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CUPOMDIASAN",
-      "enviadoEm": "2026-08-31T17:11:22.259Z"
     },
     {
       "id": "13668",
