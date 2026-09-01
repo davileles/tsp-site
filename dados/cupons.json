@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-01T22:04:31.380Z",
+  "atualizadoEm": "2026-09-01T22:37:32.901Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -505,6 +505,18 @@
       "observacao": null,
       "validadeAte": "2026-09-07T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "PRESENTE50",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom válido para compras via WhatsApp da Magalu",
+      "validadeAte": "2026-09-02T22:13:26.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "TOPACHADO",
