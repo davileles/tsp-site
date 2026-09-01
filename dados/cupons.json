@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-01T12:54:17.473Z",
+  "atualizadoEm": "2026-09-01T13:05:47.677Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "10OFFAGORA",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-02T12:58:19.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
     {
       "codigo": "COLOR",
       "loja": "BELEZA NA WEB",
