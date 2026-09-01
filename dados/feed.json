@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-01T11:35:50.383Z",
+  "atualizadoEm": "2026-09-01T12:04:18.620Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13805",
+      "loja": "Amazon",
+      "titulo": "Simple Joys by Carter's Pacote com 4 calças para bebês meninas, Marfim/bolinhas azul-claro/floral marinho/rosa, 3-6 Meses",
+      "link": "https://www.amazon.com.br/dp/B08XWCCJYZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412OtbULDdL._SL400_.jpg",
+      "preco": 106.88,
+      "precoDe": 133.08,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T11:54:18.618Z"
+    },
+    {
+      "id": "13804",
+      "loja": "Amazon",
+      "titulo": "Simple Joys by Carter's Pacote com 6 bodies de manga curta para bebês meninas, Rosa/amarelo, 6-9 Meses",
+      "link": "https://www.amazon.com.br/dp/B01MREMHR8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41EhAisE+vL._SL400_.jpg",
+      "preco": 131.24,
+      "precoDe": 162.52,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T11:54:16.850Z"
+    },
+    {
+      "id": "13803",
+      "loja": "Shopee",
+      "titulo": "Fórmula Infantil Aptamil Pepti 800g Lata",
+      "link": "https://s.shopee.com.br/70Jn9iV5z8",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mew0gq8xlseb0d_tn",
+      "preco": 179.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "T3MCUP0MON",
+      "enviadoEm": "2026-09-01T11:54:14.423Z"
+    },
+    {
+      "id": "13802",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Latas NAN Supreme 800gr 0 a 6 Meses (AMARELO) EQ.1",
+      "link": "https://s.shopee.com.br/20v7CWRrB2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgcmcundedc5c3_tn",
+      "preco": 373.98,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "T3MCUP0MON",
+      "enviadoEm": "2026-09-01T11:54:09.972Z"
+    },
+    {
+      "id": "13800",
+      "loja": "Shopee",
+      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
+      "link": "https://s.shopee.com.br/9KhhvU8bSh",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
+      "preco": 56.39,
+      "precoDe": 328.42,
+      "desconto": 74,
+      "cupom": "CUPOMDIASAN",
+      "enviadoEm": "2026-09-01T11:49:18.054Z"
+    },
+    {
+      "id": "13799",
+      "loja": "Amazon",
+      "titulo": "Simple Joys by Carter's Body unissex para bebês com 8 unidades de manga curta, Branco/cinza claro/cinza médio mesclado, Recém nascido",
+      "link": "https://www.amazon.com.br/dp/B07NGXP45B?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41HNd1KFpXL._SL400_.jpg",
+      "preco": 117.44,
+      "precoDe": 154.78,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T11:42:19.263Z"
+    },
+    {
+      "id": "13797",
+      "loja": "Shopee",
+      "titulo": "Copo Pote de Salada Portátil com Compartimento de Molho Marmita Saudável para Almoço",
+      "link": "https://s.shopee.com.br/gPjavdc7Z",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82634-mlnqybctxlhh9c_tn",
+      "preco": 31.99,
+      "precoDe": 88.86,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T11:37:30.675Z"
+    },
     {
       "id": "13795",
       "loja": "Shopee",
@@ -1357,90 +1441,6 @@
       "desconto": 26,
       "cupom": null,
       "enviadoEm": "2026-08-30T14:16:31.073Z"
-    },
-    {
-      "id": "13450",
-      "loja": "Shopee",
-      "titulo": "Kit Até 24 Pares De Meias Soquete unissex Menor Preço",
-      "link": "https://s.shopee.com.br/7AdAJF6Uyl",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7jjwb23o4he79_tn",
-      "preco": 13.75,
-      "precoDe": 27.5,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T14:07:57.813Z"
-    },
-    {
-      "id": "13448",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Panos De Limpeza Microfibra alta absorção Multiuso",
-      "link": "https://s.shopee.com.br/4fvpJ3GCdf",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rffl-m3zbdqna4dhzc0_tn",
-      "preco": 18.49,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T13:45:08.741Z"
-    },
-    {
-      "id": "13446",
-      "loja": "Shopee",
-      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
-      "link": "https://s.shopee.com.br/6L43GXEWQo",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
-      "preco": 59,
-      "precoDe": 158,
-      "desconto": 50,
-      "cupom": "99T3MTUD0N4SH0",
-      "enviadoEm": "2026-08-30T13:21:50.371Z"
-    },
-    {
-      "id": "13445",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho XXG, 82 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GW3YY6FY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51xMvKb-oFL._SL400_.jpg",
-      "preco": 109.99,
-      "precoDe": 118.9,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T13:17:18.271Z"
-    },
-    {
-      "id": "13441",
-      "loja": "Shopee",
-      "titulo": "Jaqueta Bobojaco Impermeável Becker Nylon Puffer Masculino com Bolsos e Capuz",
-      "link": "https://s.shopee.com.br/80CHE1CZ9Z",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmb-lo8gotg960in6f_tn",
-      "preco": 52.989999999999995,
-      "precoDe": 99.99,
-      "desconto": 27,
-      "cupom": "4T44M0C0MPR4S",
-      "enviadoEm": "2026-08-30T12:58:49.318Z"
-    },
-    {
-      "id": "13440",
-      "loja": "Amazon",
-      "titulo": "Granado Condicionador Bebê, Tradicional, 250ml",
-      "link": "https://www.amazon.com.br/dp/B00TAC06CG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Cgktm3PYL._SL400_.jpg",
-      "preco": 17.63,
-      "precoDe": 30.04,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T12:41:52.398Z"
-    },
-    {
-      "id": "13438",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Inox Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
-      "link": "https://s.shopee.com.br/4AzYdPZPHR",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms49lbchdmh1a1_tn",
-      "preco": 38.9,
-      "precoDe": 99.8,
-      "desconto": 51,
-      "cupom": "ULT1M0M1M0",
-      "enviadoEm": "2026-08-30T12:36:01.692Z"
     }
   ]
 }
