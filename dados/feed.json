@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-01T17:52:58.124Z",
+  "atualizadoEm": "2026-09-01T18:28:13.470Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13971",
+      "loja": "Shopee",
+      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
+      "link": "https://s.shopee.com.br/8AVgLtucwZ",
+      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
+      "preco": 74.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T18:18:13.469Z"
+    },
     {
       "id": "13959",
       "loja": "Amazon",
@@ -985,18 +997,6 @@
       "desconto": null,
       "cupom": "CUPOMDIASAN",
       "enviadoEm": "2026-08-31T19:28:45.335Z"
-    },
-    {
-      "id": "13715",
-      "loja": "Shopee",
-      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
-      "link": "https://s.shopee.com.br/8AVgLtucwZ",
-      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
-      "preco": 45.989999999999995,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CUPOMDIASAN",
-      "enviadoEm": "2026-08-31T19:05:38.727Z"
     },
     {
       "id": "13713",
