@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-01T16:47:07.942Z",
+  "atualizadoEm": "2026-09-01T17:17:07.942Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13933",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
+      "link": "https://s.shopee.com.br/1Vyqx4bsQj",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
+      "preco": 8.999999999999998,
+      "precoDe": 21.42,
+      "desconto": 16,
+      "cupom": "M3NG0NASH0AF",
+      "enviadoEm": "2026-09-01T17:09:30.962Z"
+    },
+    {
+      "id": "13930",
+      "loja": "Amazon",
+      "titulo": "Simple Joys by Carter's Body de manga comprida para bebês e meninos, pacote com 5 bodies, Urso/animais da floresta/listra, 6-9 Months",
+      "link": "https://www.amazon.com.br/dp/B079614MM6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41re+P0I+bL._SL400_.jpg",
+      "preco": 122.89,
+      "precoDe": 151.03,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T16:59:52.191Z"
+    },
+    {
+      "id": "13928",
+      "loja": "Amazon",
+      "titulo": "Tapete Mágico Acqua para Colorir Hot Wheels Multikids - Br2387",
+      "link": "https://www.amazon.com.br/dp/B0DV6WB1M9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4125kxe4JDL._SL400_.jpg",
+      "preco": 19.9,
+      "precoDe": 29,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T16:59:47.838Z"
+    },
     {
       "id": "13924",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 16,
       "cupom": "LIQUIDA30",
       "enviadoEm": "2026-08-31T12:47:31.283Z"
-    },
-    {
-      "id": "13582",
-      "loja": "Shopee",
-      "titulo": "Neocate LCP 400g Promoção!",
-      "link": "https://s.shopee.com.br/6VNV1JZFiw",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7egq3oha79o1b_tn",
-      "preco": 175.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FLA9AGO178FA1Z",
-      "enviadoEm": "2026-08-31T12:43:52.861Z"
-    },
-    {
-      "id": "13571",
-      "loja": "Shopee",
-      "titulo": "forma pudim banho maria n 18 panela 2 em 1",
-      "link": "https://s.shopee.com.br/5VUxog5zIB",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mox9kud7btadec_tn",
-      "preco": 30.9,
-      "precoDe": 53.82,
-      "desconto": 24,
-      "cupom": "FLA9AGO178FA1Z",
-      "enviadoEm": "2026-08-31T12:34:33.019Z"
-    },
-    {
-      "id": "13565",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Starlink MINI Internet Via Satélite",
-      "link": "https://meli.la/2cDZpjr",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_799612-MLA95359719699_102025-F.jpg",
-      "preco": 503.1,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "VANTAGEMJA",
-      "enviadoEm": "2026-08-31T12:33:23.099Z"
     }
   ]
 }
