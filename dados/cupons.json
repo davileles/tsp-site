@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-01T02:05:50.637Z",
+  "atualizadoEm": "2026-09-01T02:35:50.643Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -695,7 +695,7 @@
       "maximo": null,
       "limite": 1000,
       "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.047Z",
+      "validadeAte": "2026-09-01T02:59:00.155Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -727,11 +727,11 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 29,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "Lista com 28 cupons do Mercado Livre com diferentes percentuais e valores mínimos",
-      "validadeAte": "2026-09-18T02:59:00.000Z",
+      "validadeAte": "2026-09-01T02:59:00.372Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -743,7 +743,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-19T02:59:00.000Z",
+      "validadeAte": "2026-09-01T02:58:59.779Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -815,7 +815,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "validadeAte": "2026-09-01T02:59:00.155Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -839,7 +839,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "validadeAte": "2026-09-01T02:59:00.155Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -935,7 +935,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "validadeAte": "2026-09-01T02:59:00.155Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1011,18 +1011,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "QUEIMADEESTOQUE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 39,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-09-01T02:59:00.306Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BASICS20",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1091,7 +1079,7 @@
       "maximo": null,
       "limite": 100,
       "observacao": "Lista com 27 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-01T02:59:00.000Z",
+      "validadeAte": "2026-09-01T02:59:00.372Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1104,6 +1092,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "VANTAGEMJA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 250,
+      "observacao": null,
+      "validadeAte": "2026-09-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
