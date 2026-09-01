@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-01T12:04:18.620Z",
+  "atualizadoEm": "2026-09-01T12:21:55.683Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "13815",
+      "loja": "Shopee",
+      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
+      "link": "https://s.shopee.com.br/8KpAlD3t6m",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
+      "preco": 50.989999999999995,
+      "precoDe": 199.97,
+      "desconto": 60,
+      "cupom": "CUPOMDIASAN",
+      "enviadoEm": "2026-09-01T12:11:55.682Z"
+    },
+    {
+      "id": "13816",
+      "loja": "Mercado Livre",
+      "titulo": "Ventisol Ventilador de Coluna Turbo 6 Pás 50cm cor Preto",
+      "link": "https://meli.la/2JPV7pN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_698391-MLA95694772172_102025-F.jpg",
+      "preco": 185.49,
+      "precoDe": 287.9,
+      "desconto": 28,
+      "cupom": "QUEROPROMO",
+      "enviadoEm": "2026-09-01T12:11:51.719Z"
+    },
+    {
+      "id": "13807",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 50 Cabide Adulto Preto Reforçado Organizador Combate",
+      "link": "https://meli.la/1BePUC6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_605517-MLA99579398050_122025-F.jpg",
+      "preco": 27.64,
+      "precoDe": 32.99,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-09-01T12:06:30.285Z"
+    },
     {
       "id": "13805",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": "ULT1M0M1M0",
       "enviadoEm": "2026-08-30T14:53:49.121Z"
-    },
-    {
-      "id": "13454",
-      "loja": "Amazon",
-      "titulo": "Boia Infantil com Colete Salva Vidas Nash Flamingo",
-      "link": "https://www.amazon.com.br/dp/B0CB75YYN7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41XKOmkKPpL._SL400_.jpg",
-      "preco": 65.9,
-      "precoDe": 77.7,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T14:35:12.027Z"
-    },
-    {
-      "id": "13453",
-      "loja": "Shopee",
-      "titulo": "Kit com 2 - Máscara Capilar Skala 3 em 1 | Creme Sem Enxágue | Protetor Térmico | Vegano - The Gardener Pepper Force",
-      "link": "https://s.shopee.com.br/8fRy7YsP4m",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mq2ggvxkzmde83_tn",
-      "preco": 15.61,
-      "precoDe": 44.6,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T14:30:47.993Z"
-    },
-    {
-      "id": "13452",
-      "loja": "Amazon",
-      "titulo": "Sabonete Nutritivo Derma Protect JOHNSON'S® Baby 200mL",
-      "link": "https://www.amazon.com.br/dp/B0C9W3MZV2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31VXhamiFDL._SL400_.jpg",
-      "preco": 39.82,
-      "precoDe": 53.99,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-08-30T14:16:31.073Z"
     }
   ]
 }
