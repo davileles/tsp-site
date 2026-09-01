@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-01T12:25:16.511Z",
+  "atualizadoEm": "2026-09-01T12:54:17.473Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -639,6 +639,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "HORADOCUPOM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Lista com 27 cupons ativos do Mercado Livre",
+      "validadeAte": "2026-09-22T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PAGUEMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -756,6 +768,18 @@
       "limite": 25,
       "observacao": null,
       "validadeAte": "2026-09-03T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTAJA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 150,
+      "maximo": null,
+      "limite": 300,
+      "observacao": null,
+      "validadeAte": "2026-09-02T12:48:09.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
