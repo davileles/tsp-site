@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-02T16:02:20.731Z",
+  "atualizadoEm": "2026-09-02T16:32:20.758Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -627,6 +627,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "GARANTIDO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "DESCOTOSMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -715,7 +727,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -763,7 +775,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -876,6 +888,18 @@
       "limite": 65,
       "observacao": null,
       "validadeAte": "2026-09-02T18:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CASAEDECOR",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 399,
+      "maximo": null,
+      "limite": 65,
+      "observacao": null,
+      "validadeAte": "2026-09-02T17:59:59.720Z",
       "url": "https://meli.la/2xystLt"
     },
     {
