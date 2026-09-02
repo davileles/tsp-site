@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-02T13:32:20.455Z",
+  "atualizadoEm": "2026-09-02T13:53:11.749Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14217",
+      "loja": "Shopee",
+      "titulo": "Dispositivo Elétrico De Enxágue Nasal 360 ° Limpador De Sinusite Portátil Giratório De Cabeça Dupla Para Recuperação Aut",
+      "link": "https://s.shopee.com.br/5VV156eBjm",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mjme2wakn8qt69_tn",
+      "preco": 300,
+      "precoDe": 533.33,
+      "desconto": 40,
+      "cupom": "OFERTA20AF",
+      "enviadoEm": "2026-09-02T13:43:11.748Z"
+    },
+    {
+      "id": "14214",
+      "loja": "Amazon",
+      "titulo": "Garrafa Térmica Inox Parede Dupla Matterhorn 591ml Azul Mônaco Contigo",
+      "link": "https://www.amazon.com.br/dp/B07K8XJF9D?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21T8Sq8jwcL._SL400_.jpg",
+      "preco": 46.73,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "VIRAL20",
+      "enviadoEm": "2026-09-02T13:36:28.670Z"
+    },
     {
       "id": "14212",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 34,
       "cupom": null,
       "enviadoEm": "2026-09-01T15:00:04.515Z"
-    },
-    {
-      "id": "13880",
-      "loja": "Amazon",
-      "titulo": "Protex Baby Lavanda Sabonete Líquido Infantil, 400ml",
-      "link": "https://www.amazon.com.br/dp/B0CLHGKHV8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31H+87+c77L._SL400_.jpg",
-      "preco": 19.59,
-      "precoDe": 34.17,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-01T15:00:00.485Z"
-    },
-    {
-      "id": "13878",
-      "loja": "Shopee",
-      "titulo": "Kit Jogo 4 Tapete de Banheiro Antiderrapante 60x40cm Tapete Bolinha Macarrão Microfibra Absorvente",
-      "link": "https://s.shopee.com.br/5VUzZ5ngBL",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1c8gqanz7q35_tn",
-      "preco": 21.990000000000002,
-      "precoDe": 63.62,
-      "desconto": 34,
-      "cupom": "M3NG0NASH0AF",
-      "enviadoEm": "2026-09-01T14:54:02.932Z"
     }
   ]
 }
