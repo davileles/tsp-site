@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-02T11:58:20.828Z",
+  "atualizadoEm": "2026-09-02T12:24:18.291Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -531,6 +531,54 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "SITE200",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 1499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-03T12:02:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITE100",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-03T12:02:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITE500109",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-03T12:02:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SIRW0209",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 299,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-03T12:02:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TOPACHADO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -876,6 +924,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DESCONTO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Válido em selecionados. Clique em 'Mostrar mais' para ver a lista completa",
+      "validadeAte": "2026-09-03T12:01:50.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
