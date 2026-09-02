@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-02T13:53:11.749Z",
+  "atualizadoEm": "2026-09-02T14:02:20.455Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14241",
+      "loja": "Amazon",
+      "titulo": "Bundle Nintendo Switch OLED + Super Mario Bros. Wonder + 3 Meses de Assinatura Nintendo Switch Online",
+      "link": "https://www.amazon.com.br/dp/B0FR6PC1FB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41n92BuHeXL._SL400_.jpg",
+      "preco": 2139.9,
+      "precoDe": 2699.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-09-02T14:01:22.143Z"
+    },
+    {
+      "id": "14239",
+      "loja": "Amazon",
+      "titulo": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
+      "link": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51LhtXiumlL._SL400_.jpg",
+      "preco": 84,
+      "precoDe": 118.35,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-09-02T14:01:21.290Z"
+    },
+    {
+      "id": "14238",
+      "loja": "Amazon",
+      "titulo": "Mustela Stelatopia Óleo de Banho 500 ml - Limpeza e Hidratação suave para Peles Secas e extremamente Ressecadas - Seguro Para Bebês, Crianças e Adultos - Sem Fragrância - Stelatopi",
+      "link": "https://www.amazon.com.br/dp/B089Z8DV9N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31aA2QcZiZL._SL400_.jpg",
+      "preco": 136.49,
+      "precoDe": 143.91,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-09-02T14:01:17.713Z"
+    },
+    {
+      "id": "14237",
+      "loja": "Amazon",
+      "titulo": "Johnson's Baby Lenços Umedecidos Recém Nascido, 192 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0F4G5NL2K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Wj9GWRP7L._SL400_.jpg",
+      "preco": 42.470000000000006,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "IMPERDIVEL20",
+      "enviadoEm": "2026-09-02T14:01:15.339Z"
+    },
+    {
+      "id": "14236",
+      "loja": "Amazon",
+      "titulo": "Carrinho de Bebê Maxi-Cosi, Eva³, Essential Black Champagne",
+      "link": "https://www.amazon.com.br/dp/B0DB8VCNJZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31o6VNs-YxL._SL400_.jpg",
+      "preco": 1911.27,
+      "precoDe": 2299,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-09-02T14:01:13.011Z"
+    },
+    {
+      "id": "14235",
+      "loja": "Amazon",
+      "titulo": "Garrafa Thermos Blue Funtainer 340 ml",
+      "link": "https://www.amazon.com.br/dp/B00DAPQV0K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31dXeSjRwfL._SL400_.jpg",
+      "preco": 112,
+      "precoDe": 152.29,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-02T14:01:10.287Z"
+    },
+    {
+      "id": "14234",
+      "loja": "Amazon",
+      "titulo": "Garrafa infantil Thermos Funtainer Carros, 354 ml, cinza",
+      "link": "https://www.amazon.com.br/dp/B08VFFKR33?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31U+iMMC-5L._SL400_.jpg",
+      "preco": 108.5,
+      "precoDe": 157.19,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-02T14:01:08.456Z"
+    },
+    {
+      "id": "14219",
+      "loja": "Amazon",
+      "titulo": "Mimo Style Cafeteira Prensa Francesa, Com Haste e Alça, Resistente, Suporta Altas e Baixas Temperaturas (-20 °C a 180 °C), Excelente Sistema de Filtragem (600ml)",
+      "link": "https://www.amazon.com.br/dp/B07WXJ8GQP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3169sEzlcNL._SL400_.jpg",
+      "preco": 21.56,
+      "precoDe": 75.7,
+      "desconto": 64,
+      "cupom": "VIRAL20",
+      "enviadoEm": "2026-09-02T13:59:33.679Z"
+    },
     {
       "id": "14217",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": null,
       "cupom": "T3MCUP0MON",
       "enviadoEm": "2026-09-01T15:38:54.827Z"
-    },
-    {
-      "id": "13893",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 15 Pares Meias Sport Algodão Cano Médio Sandrini Confort",
-      "link": "https://meli.la/23q2Yi7",
-      "imagem": null,
-      "preco": 49.989999999999995,
-      "precoDe": 109.99,
-      "desconto": 36,
-      "cupom": "FULL30",
-      "enviadoEm": "2026-09-01T15:20:27.348Z"
-    },
-    {
-      "id": "13891",
-      "loja": "Mercado Livre",
-      "titulo": "Whey One Protein Proteína Sachê Refil 900g - Dark Lab Sabor Chocolate",
-      "link": "https://meli.la/19Qpn1X",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_882667-MLA99906697039_112025-F.jpg",
-      "preco": 58.900000000000006,
-      "precoDe": 129.9,
-      "desconto": 39,
-      "cupom": "FULL30",
-      "enviadoEm": "2026-09-01T15:18:25.654Z"
-    },
-    {
-      "id": "13890",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
-      "link": "https://s.shopee.com.br/9V15BnYP0y",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
-      "preco": 34.32,
-      "precoDe": 72.43,
-      "desconto": 25,
-      "cupom": "M3NG0NASH0AF",
-      "enviadoEm": "2026-09-01T15:16:20.985Z"
-    },
-    {
-      "id": "13889",
-      "loja": "Mercado Livre",
-      "titulo": "Sanduicheira Elétrica Inox Midea 127v",
-      "link": "https://meli.la/14KoW2G",
-      "imagem": null,
-      "preco": 179,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FULL30",
-      "enviadoEm": "2026-09-01T15:15:18.634Z"
-    },
-    {
-      "id": "13888",
-      "loja": "Mercado Livre",
-      "titulo": "YoPRO Bebida Láctea UHT Chocolate 15g de proteínas 250ml - 12 unidades",
-      "link": "https://meli.la/1GJEwQv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_953528-MLA112540456984_062026-F.jpg",
-      "preco": 59,
-      "precoDe": 98.99,
-      "desconto": 20,
-      "cupom": "FULL30",
-      "enviadoEm": "2026-09-01T15:14:55.148Z"
-    },
-    {
-      "id": "13887",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina Monohidratada 500g Pó Growth",
-      "link": "https://meli.la/1wgvXzH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_602304-MLA109372354737_032026-F.jpg",
-      "preco": 54.900000000000006,
-      "precoDe": 104.9,
-      "desconto": 29,
-      "cupom": "FULL30",
-      "enviadoEm": "2026-09-01T15:13:38.852Z"
-    },
-    {
-      "id": "13886",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
-      "link": "https://meli.la/1U1Yvd6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_998463-MLA116907384785_082026-F.jpg",
-      "preco": 48.900000000000006,
-      "precoDe": 239.9,
-      "desconto": 71,
-      "cupom": "FULL30",
-      "enviadoEm": "2026-09-01T15:12:21.666Z"
-    },
-    {
-      "id": "13881",
-      "loja": "Amazon",
-      "titulo": "Buba, Kit 2 Prendedores De Chupeta Coala Rosa",
-      "link": "https://www.amazon.com.br/dp/B0B3F6BXLH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31BY7Pku1SL._SL400_.jpg",
-      "preco": 19.7,
-      "precoDe": 29.9,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-09-01T15:00:04.515Z"
     }
   ]
 }
