@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-02T18:18:45.745Z",
+  "atualizadoEm": "2026-09-02T18:30:45.233Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14327",
+      "loja": "Amazon",
+      "titulo": "Stanley - Copo Térmico para Cerveja, 473ml, para Bebidas Quentes ou Frias, Black 2.0",
+      "link": "https://www.amazon.com.br/dp/B0GC94RH4S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21ThpKx+xOL._SL400_.jpg",
+      "preco": 79.2,
+      "precoDe": 159,
+      "desconto": 38,
+      "cupom": "VIRAL20",
+      "enviadoEm": "2026-09-02T18:20:45.229Z"
+    },
     {
       "id": "14321",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-09-01T17:42:56.686Z"
-    },
-    {
-      "id": "13957",
-      "loja": "Amazon",
-      "titulo": "Simple Joys by Carter's Body de manga comprida para bebês meninas, pacote com 5, Pontos/Floral/Corações/Coruja, 24 Meses",
-      "link": "https://www.amazon.com.br/dp/B0797LK562?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51PKhViJTeL._SL400_.jpg",
-      "preco": 129.59,
-      "precoDe": 159.89,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-09-01T17:42:55.079Z"
     }
   ]
 }
