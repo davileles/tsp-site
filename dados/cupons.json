@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-02T15:02:20.710Z",
+  "atualizadoEm": "2026-09-02T15:32:20.708Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -715,7 +715,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -763,7 +763,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -831,18 +831,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "RESGATEFULL0109",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Válido em entregas Full. Desconto limitado a R$50.",
-      "validadeAte": "2026-09-03T03:00:28.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PAGUEMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -867,15 +855,27 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OFERTASOFF",
+      "codigo": "BEBE0209",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 15,
-      "minimo": 50,
+      "minimo": 89,
       "maximo": null,
-      "limite": 200,
+      "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-09-04T02:59:00.000Z",
+      "validadeAte": "2026-09-03T15:02:42.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DECOR0209",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 399,
+      "maximo": null,
+      "limite": 65,
+      "observacao": null,
+      "validadeAte": "2026-09-03T15:02:42.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
