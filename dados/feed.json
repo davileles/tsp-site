@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-02T12:54:16.944Z",
+  "atualizadoEm": "2026-09-02T13:03:20.455Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14189",
+      "loja": "Shopee",
+      "titulo": "Conjunto Tal Mãe e Filha Baby Doll Preto Pijama Feminino Lua Cinza",
+      "link": "https://s.shopee.com.br/2BEZ3omSQD",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwyr4mfbl8r652_tn",
+      "preco": 45.5,
+      "precoDe": 65,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-02T12:56:37.984Z"
+    },
     {
       "id": "14184",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-09-01T12:39:05.007Z"
-    },
-    {
-      "id": "13838",
-      "loja": "Mercado Livre",
-      "titulo": "Berço Portátil Infantil Cercado 0-15kg Grafite Lazy Maxi Baby",
-      "link": "https://meli.la/1S8VrUs",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_905446-MLA96107568817_102025-F.jpg",
-      "preco": 424,
-      "precoDe": 599.99,
-      "desconto": 25,
-      "cupom": "SITETODO0109",
-      "enviadoEm": "2026-09-01T12:36:59.405Z"
     }
   ]
 }
