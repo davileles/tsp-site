@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-02T12:54:18.276Z",
+  "atualizadoEm": "2026-09-02T13:03:21.733Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -543,42 +543,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOSITE100",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-03T12:02:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SITE500109",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 399,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-03T12:02:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SIRW0209",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 299,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-03T12:02:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TOPACHADO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -915,6 +879,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OFERTASOFF",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-09-04T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SAMSUNG10OFF",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -935,7 +911,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": "Válido em selecionados. Clique em 'Mostrar mais' para ver a lista completa",
-      "validadeAte": "2026-09-03T12:01:50.000Z",
+      "validadeAte": "2026-09-03T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
