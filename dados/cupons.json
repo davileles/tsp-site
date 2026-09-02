@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-02T17:50:19.970Z",
+  "atualizadoEm": "2026-09-02T18:18:47.236Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -787,7 +787,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -835,7 +835,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -927,42 +927,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BEBE0209",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-09-02T18:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DECOR0209",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 399,
-      "maximo": null,
-      "limite": 65,
-      "observacao": null,
-      "validadeAte": "2026-09-02T18:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CASAEDECOR",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 399,
-      "maximo": null,
-      "limite": 65,
-      "observacao": null,
-      "validadeAte": "2026-09-02T17:59:59.510Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SAMSUNG10OFF",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -987,15 +951,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OFERTAJA",
+      "codigo": "moda0209",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 8,
-      "minimo": 150,
+      "valor": 10,
+      "minimo": 69,
       "maximo": null,
-      "limite": 300,
-      "observacao": null,
-      "validadeAte": "2026-09-04T02:59:00.000Z",
+      "limite": 25,
+      "observacao": "Válido em selecionados de Moda e Beleza",
+      "validadeAte": "2026-09-03T18:02:08.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1104,18 +1068,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-03T16:32:51.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "OFERTA20AF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-02T17:58:49.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
