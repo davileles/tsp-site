@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-02T14:16:11.745Z",
+  "atualizadoEm": "2026-09-02T14:32:20.455Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14274",
+      "loja": "Amazon",
+      "titulo": "TakTark Babá Eletrônica Câmera, 4.3\" Monitores de Câmara de Vídeo, Pan & Tilt, 2 Way Audio, Visão Nocturna, Zoom Digital, Decoração Sonora VOX, Ideal para Novos Pais",
+      "link": "https://www.amazon.com.br/dp/B0BR51ZZY6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41GfcNBHpdL._SL400_.jpg",
+      "preco": 460.26,
+      "precoDe": 569.99,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-02T14:31:09.825Z"
+    },
+    {
+      "id": "14272",
+      "loja": "Shopee",
+      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
+      "link": "https://s.shopee.com.br/80CM6tTg6D",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
+      "preco": 59,
+      "precoDe": 158,
+      "desconto": 50,
+      "cupom": "OFERTA20AF",
+      "enviadoEm": "2026-09-02T14:29:15.995Z"
+    },
+    {
+      "id": "14271",
+      "loja": "Amazon",
+      "titulo": "Oster Moedor de Café Elétrico Inox, 150W, OMDR110, 127V",
+      "link": "https://www.amazon.com.br/dp/B0FLZPJYYR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41TVzY9quHL._SL400_.jpg",
+      "preco": 121.30999999999999,
+      "precoDe": 259.9,
+      "desconto": 42,
+      "cupom": "VIRAL20",
+      "enviadoEm": "2026-09-02T14:22:25.467Z"
+    },
+    {
+      "id": "14270",
+      "loja": "Amazon",
+      "titulo": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
+      "link": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51v9SS5+YCL._SL400_.jpg",
+      "preco": 95.92,
+      "precoDe": 131.78,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-02T14:16:40.490Z"
+    },
+    {
+      "id": "14269",
+      "loja": "Amazon",
+      "titulo": "Fralda Pants Huggies Proteção Acolchoada, Tamanho M, 80 unidades, Estilo Roupinha, Cintura Macia, Vermelho",
+      "link": "https://www.amazon.com.br/dp/B0BXM2Q9SQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51giC17e5lL._SL400_.jpg",
+      "preco": 99.9,
+      "precoDe": 131.78,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-02T14:16:39.883Z"
+    },
     {
       "id": "14254",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-09-01T16:26:06.522Z"
-    },
-    {
-      "id": "13918",
-      "loja": "Shopee",
-      "titulo": "Massageador Alivia Dor Muscular Corrida treino Liberação Miofacial 10 Velocidades BIVOLT SEM FIO Profissional",
-      "link": "https://s.shopee.com.br/904rpmBcCB",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-msk6nmo7xvd1ba_tn",
-      "preco": 134.9,
-      "precoDe": 228.27,
-      "desconto": 19,
-      "cupom": "T3MCUP0MON",
-      "enviadoEm": "2026-09-01T16:24:11.388Z"
-    },
-    {
-      "id": "13917",
-      "loja": "Amazon",
-      "titulo": "Dove Sabonete em Barra Pele Sensível 90g 6 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CXB8PTML?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41O0W-SgQ4L._SL400_.jpg",
-      "preco": 19.99,
-      "precoDe": 34.41,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-01T16:23:55.537Z"
-    },
-    {
-      "id": "13915",
-      "loja": "Amazon",
-      "titulo": "Snob Papel toalha multiuso folha dupla branca hiper 360fls, 3 rolos",
-      "link": "https://www.amazon.com.br/dp/B0CFSDVHFR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41E-GWYnS3L._SL400_.jpg",
-      "preco": 17.49,
-      "precoDe": 25.99,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-01T16:16:57.606Z"
-    },
-    {
-      "id": "13903",
-      "loja": "Mercado Livre",
-      "titulo": "Laptop Infantil Educativo Candide Disney Stitch Bilíngue",
-      "link": "https://meli.la/1u1DvCr",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_941335-MLA99464009890_112025-F.jpg",
-      "preco": 59.9,
-      "precoDe": 69.99,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-09-01T16:07:20.128Z"
-    },
-    {
-      "id": "13898",
-      "loja": "Shopee",
-      "titulo": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
-      "link": "https://s.shopee.com.br/5LBZRTY1kw",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6_tn",
-      "preco": 408.99,
-      "precoDe": 596.09,
-      "desconto": 23,
-      "cupom": "T3MCUP0MON",
-      "enviadoEm": "2026-09-01T16:01:53.723Z"
     }
   ]
 }
