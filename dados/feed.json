@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-02T11:24:16.933Z",
+  "atualizadoEm": "2026-09-02T11:42:03.747Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14117",
+      "loja": "Amazon",
+      "titulo": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
+      "link": "https://www.amazon.com.br/dp/B095R9CKYR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41srPqkVhsL._SL400_.jpg",
+      "preco": 29.9,
+      "precoDe": 43.59,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-02T11:32:03.746Z"
+    },
+    {
+      "id": "14116",
+      "loja": "Amazon",
+      "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper M 86 Unidades",
+      "link": "https://www.amazon.com.br/dp/B097RYMQZ5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41EZ6ybg71L._SL400_.jpg",
+      "preco": 56.76,
+      "precoDe": 77.37,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-02T11:32:00.434Z"
+    },
+    {
+      "id": "14107",
+      "loja": "Shopee",
+      "titulo": "Assento Massageador Elétrico Controle Aliviar Dores Lombar Coluna Pescoço Veicular Escritório 8 Modos 3 Intensidade 3036",
+      "link": "https://s.shopee.com.br/9pe05fuo1Q",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m83r5tij7p5d46_tn",
+      "preco": 139.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFERTA20AF",
+      "enviadoEm": "2026-09-02T11:25:38.136Z"
+    },
     {
       "id": "14106",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 19,
       "cupom": null,
       "enviadoEm": "2026-08-31T20:05:01.257Z"
-    },
-    {
-      "id": "13732",
-      "loja": "Mercado Livre",
-      "titulo": "Berço Portátil Infantil Cercado Desmontável Lune Maxi Baby - CINZA",
-      "link": "https://meli.la/1ZPa9yY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_865878-MLA95693182272_102025-F.jpg",
-      "preco": 254.90999999999997,
-      "precoDe": 497.48,
-      "desconto": 40,
-      "cupom": "MELIAQUI",
-      "enviadoEm": "2026-08-31T20:04:41.437Z"
-    },
-    {
-      "id": "13730",
-      "loja": "Shopee",
-      "titulo": "Tapete de Banheiro Absorvente Antiderrapante Secagem Rápida",
-      "link": "https://s.shopee.com.br/7VG2gL8egV",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260b-mm4q3xn8yayw0f_tn",
-      "preco": null,
-      "precoDe": 49.96,
-      "desconto": 76,
-      "cupom": "CUPOMDIASAN",
-      "enviadoEm": "2026-08-31T19:51:12.384Z"
-    },
-    {
-      "id": "13725",
-      "loja": "Mercado Livre",
-      "titulo": "Banheira De Bebê Dobrável 45l Com Redutor De Assento Pipdip",
-      "link": "https://meli.la/17ze3Xz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_787607-MLB112356649852_062026-O.webp",
-      "preco": 151.22,
-      "precoDe": 249.9,
-      "desconto": 29,
-      "cupom": "MELIAQUI",
-      "enviadoEm": "2026-08-31T19:45:40.774Z"
     }
   ]
 }
