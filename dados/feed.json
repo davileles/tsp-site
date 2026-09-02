@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-02T14:57:18.903Z",
+  "atualizadoEm": "2026-09-02T17:27:43.202Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14302",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
+      "link": "https://s.shopee.com.br/7VG5hPVImI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnyps41y3uo4c6_tn",
+      "preco": 49.95,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SHOPEE50AF",
+      "enviadoEm": "2026-09-02T17:17:43.200Z"
+    },
+    {
+      "id": "14301",
+      "loja": "Amazon",
+      "titulo": "Stanley - Copo de Café Térmico, Caneca de Viagem Café Go com Tampa de Duas Partes Para Beber e Alça de Transporte, Garrafa Térmica de Aço Inoxidável, 236 ml, Rose Quartz",
+      "link": "https://www.amazon.com.br/dp/B0F6148SYC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21--Un8jZ+L._SL400_.jpg",
+      "preco": 159.47,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "VIRAL20",
+      "enviadoEm": "2026-09-02T17:12:47.845Z"
+    },
     {
       "id": "14277",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-09-01T16:44:40.755Z"
-    },
-    {
-      "id": "13922",
-      "loja": "Amazon",
-      "titulo": "Stanley - Copo Quencher H2.0 FlowState 887ml - Copo de aço inoxidável com tampa, isolamento a vácuo, para água, chá gelado, café, smoothies e muito mais, Cream",
-      "link": "https://www.amazon.com.br/dp/B0BTHQ4GZG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21KtWDElIOL._SL400_.jpg",
-      "preco": 187.98,
-      "precoDe": 319,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-09-01T16:31:51.602Z"
-    },
-    {
-      "id": "13920",
-      "loja": "Mercado Livre",
-      "titulo": "Yab - Porta Tempero De Mesa Saleiro Giratório 6 Potes P/ Condimentos Em Vidro E Aço Inox Cozinha Premium",
-      "link": "https://meli.la/2p37hfY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_791826-MLA104219299116_012026-F.jpg",
-      "preco": 32.89,
-      "precoDe": 137.99,
-      "desconto": 66,
-      "cupom": "ECONOMIZEI",
-      "enviadoEm": "2026-09-01T16:26:07.823Z"
     }
   ]
 }
