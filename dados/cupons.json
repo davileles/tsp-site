@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-02T18:18:47.236Z",
+  "atualizadoEm": "2026-09-02T18:49:19.071Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -787,7 +787,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -835,7 +835,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -951,7 +951,7 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "moda0209",
+      "codigo": "MODA0209",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 10,
@@ -959,7 +959,7 @@
       "maximo": null,
       "limite": 25,
       "observacao": "Válido em selecionados de Moda e Beleza",
-      "validadeAte": "2026-09-03T18:02:08.000Z",
+      "validadeAte": "2026-09-02T22:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
