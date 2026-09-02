@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-02T15:32:20.708Z",
+  "atualizadoEm": "2026-09-02T16:02:20.731Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -715,7 +715,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -763,7 +763,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -863,7 +863,7 @@
       "maximo": null,
       "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-09-03T15:02:42.000Z",
+      "validadeAte": "2026-09-02T18:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -875,7 +875,7 @@
       "maximo": null,
       "limite": 65,
       "observacao": null,
-      "validadeAte": "2026-09-03T15:02:42.000Z",
+      "validadeAte": "2026-09-02T18:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -996,6 +996,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-02T17:58:49.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "O1V0LT4MOS",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-03T15:58:07.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
