@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-03T19:24:17.631Z",
+  "atualizadoEm": "2026-09-03T19:54:17.632Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14693",
+      "loja": "Amazon",
+      "titulo": "Buba, Kit 3 Potinhos Buba Zoo Unicórnio",
+      "link": "https://www.amazon.com.br/dp/B0DP5KZMP3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21-oPn5zv9L._SL400_.jpg",
+      "preco": 29.18,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T19:50:09.656Z"
+    },
+    {
+      "id": "14692",
+      "loja": "Amazon",
+      "titulo": "Buba Almofada De Atividades Multicor",
+      "link": "https://www.amazon.com.br/dp/B07THDVKQP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51ublMG4mwL._SL400_.jpg",
+      "preco": 66,
+      "precoDe": 87.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T19:50:08.546Z"
+    },
+    {
+      "id": "14688",
+      "loja": "Shopee",
+      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
+      "link": "https://s.shopee.com.br/20vAuE3XnB",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
+      "preco": 64.99,
+      "precoDe": 199.97,
+      "desconto": 60,
+      "cupom": "V3ND4S15",
+      "enviadoEm": "2026-09-03T19:41:36.672Z"
+    },
+    {
+      "id": "14689",
+      "loja": "Amazon",
+      "titulo": "Condicionador Infantil Johnson's Baby Regular 400 ml, Amarelo",
+      "link": "https://www.amazon.com.br/dp/B07F1Z7ZM2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31rGr0DpGFL._SL400_.jpg",
+      "preco": 22.99,
+      "precoDe": 44.99,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T19:41:11.469Z"
+    },
     {
       "id": "14682",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 43,
       "cupom": "NATORCIDA",
       "enviadoEm": "2026-09-03T12:35:58.189Z"
-    },
-    {
-      "id": "14389",
-      "loja": "Mercado Livre",
-      "titulo": "Placa Mãe Gigabyte Amd Am5 B650m Ultra D3hp 4xddr5 Matx Preto",
-      "link": "https://meli.la/2yzhHpF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_905196-MLA99954634311_112025-F.jpg",
-      "preco": 594.9,
-      "precoDe": 1372,
-      "desconto": 52,
-      "cupom": "MEUCUPOM",
-      "enviadoEm": "2026-09-03T12:35:30.982Z"
-    },
-    {
-      "id": "14387",
-      "loja": "Amazon",
-      "titulo": "Stanley - Garrafa de água Aerolight Fast Flow, garrafa isolada a vácuo para bebidas frias, aço inoxidável Leve, 710 ml, Lilac",
-      "link": "https://www.amazon.com.br/dp/B0DXQDGYKW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21IKVUzzgcL._SL400_.jpg",
-      "preco": 202.66000000000003,
-      "precoDe": 309,
-      "desconto": 18,
-      "cupom": "VIRAL20",
-      "enviadoEm": "2026-09-03T12:35:09.445Z"
-    },
-    {
-      "id": "14410",
-      "loja": "Mercado Livre",
-      "titulo": "Huggies Fralda Descartável Premium Natural Care RN 34 Unidades",
-      "link": "https://meli.la/2kecLmX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_837020-MLA99452042258_112025-F.jpg",
-      "preco": 20.93,
-      "precoDe": 39.24,
-      "desconto": 24,
-      "cupom": "TOPACHADO",
-      "enviadoEm": "2026-09-03T12:33:44.500Z"
-    },
-    {
-      "id": "14373",
-      "loja": "Shopee",
-      "titulo": "1 unidade Saquinho de veludo 13cm x 18cm p/ embalagem presente",
-      "link": "https://s.shopee.com.br/8plUZG8fN1",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lth372jhd161e3_tn",
-      "preco": 7.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-03T12:32:24.485Z"
     }
   ]
 }
