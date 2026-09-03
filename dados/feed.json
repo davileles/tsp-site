@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-03T18:24:17.584Z",
+  "atualizadoEm": "2026-09-03T18:54:17.594Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14670",
+      "loja": "Amazon",
+      "titulo": "Protex Baby Delicate Care Sabonete em Barra Infantil, 3x85g",
+      "link": "https://www.amazon.com.br/dp/B08JQMFG5T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/510LkMGsT2L._SL400_.jpg",
+      "preco": 9.89,
+      "precoDe": 13.53,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T18:54:09.416Z"
+    },
+    {
+      "id": "14666",
+      "loja": "Mercado Livre",
+      "titulo": "Xiaomi Poco X7 Pro 512gb 12ram Global Lançamento2025 Cor Preto",
+      "link": "https://meli.la/1hPZDZh",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_951119-MLA107805875660_032026-F.jpg",
+      "preco": 2810,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CELULARES0309",
+      "enviadoEm": "2026-09-03T18:48:38.674Z"
+    },
+    {
+      "id": "14664",
+      "loja": "Amazon",
+      "titulo": "Sacos de Armazenamento de Leite Materno Philips Avent | 25 unidades",
+      "link": "https://www.amazon.com.br/dp/B01LYCDVES?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31s5IDWUrRL._SL400_.jpg",
+      "preco": 59.89,
+      "precoDe": 69.9,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T18:43:44.693Z"
+    },
+    {
+      "id": "14661",
+      "loja": "Amazon",
+      "titulo": "Lillo Mamadeira Super Evolution Magia 300Ml 6M+ Azul –",
+      "link": "https://www.amazon.com.br/dp/B07DXDX152?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/419+msukGoL._SL400_.jpg",
+      "preco": 31.82,
+      "precoDe": 46.47,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T18:41:48.763Z"
+    },
+    {
+      "id": "14655",
+      "loja": "Amazon",
+      "titulo": "Hisense Smart TV UHD 4K HI-QLED 55\" Polegadas 55Q7QG",
+      "link": "https://www.amazon.com.br/dp/B0FLLK2HNZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41yQ++VHvIL._SL400_.jpg",
+      "preco": 2289,
+      "precoDe": 3299,
+      "desconto": 23,
+      "cupom": "VEMPRAAMAZON",
+      "enviadoEm": "2026-09-03T18:41:16.788Z"
+    },
+    {
+      "id": "14647",
+      "loja": "Shopee",
+      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
+      "link": "https://s.shopee.com.br/5AsCbK8Vz0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
+      "preco": 49.33,
+      "precoDe": 65.77,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T18:33:01.663Z"
+    },
     {
       "id": "14646",
       "loja": "Mercado Livre",
@@ -1369,78 +1441,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-09-02T18:08:45.743Z"
-    },
-    {
-      "id": "14319",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Organizador De Mala Necessaire Bolsa De Viagem Travel Bag Premium",
-      "link": "https://s.shopee.com.br/5LBZJTNCO8",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repg-m2poj36o1kzt4b_tn",
-      "preco": 11.989999999999998,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-02T18:02:57.989Z"
-    },
-    {
-      "id": "14318",
-      "loja": "Amazon",
-      "titulo": "Berço Moisés Portátil Com Balanço Comfy 9kgs Cinza - MaxiBaby",
-      "link": "https://www.amazon.com.br/dp/B09VH4SJHT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31nNuxI4y1L._SL400_.jpg",
-      "preco": 320.3,
-      "precoDe": 649.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T17:59:09.319Z"
-    },
-    {
-      "id": "14317",
-      "loja": "Amazon",
-      "titulo": "O Pequeno Príncipe - Edição de Luxo Almofadada",
-      "link": "https://www.amazon.com.br/dp/6589647194?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41KEFkkfdBL._SL400_.jpg",
-      "preco": 13.87,
-      "precoDe": 29.9,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T17:59:08.284Z"
-    },
-    {
-      "id": "14305",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
-      "link": "https://s.shopee.com.br/gPjhgtM2v",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
-      "preco": 22.5,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-02T17:39:59.547Z"
-    },
-    {
-      "id": "14309",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho XXG 148 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0DDV1QKW7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51LPPafVF3L._SL400_.jpg",
-      "preco": 183,
-      "precoDe": 235.87,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T17:39:38.278Z"
-    },
-    {
-      "id": "14304",
-      "loja": "Amazon",
-      "titulo": "Stanley - Copo prismático isolado para cocktails, antiderrapante, para bebidas quentes ou frias, 381 ml, Ash Bronze",
-      "link": "https://www.amazon.com.br/dp/B0CZPVFNB3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3160k2oI1tL._SL400_.jpg",
-      "preco": 111.44000000000001,
-      "precoDe": 199,
-      "desconto": 30,
-      "cupom": "VIRAL20",
-      "enviadoEm": "2026-09-02T17:35:10.417Z"
     }
   ]
 }
