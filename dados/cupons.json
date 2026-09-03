@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-03T16:08:35.902Z",
+  "atualizadoEm": "2026-09-03T16:24:19.281Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -51,6 +51,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
+      "codigo": "CLAF55",
+      "loja": "Aliexpress",
+      "tipo": "pct",
+      "valor": 55,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-08T01:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
       "codigo": "BRFS3",
       "loja": "Aliexpress",
       "tipo": "reais",
@@ -63,6 +75,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
+      "codigo": "CLAF40",
+      "loja": "Aliexpress",
+      "tipo": "pct",
+      "valor": 40,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-08T01:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
       "codigo": "BRFS2",
       "loja": "Aliexpress",
       "tipo": "reais",
@@ -72,6 +96,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-08T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "CLAF15",
+      "loja": "Aliexpress",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-08T01:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
