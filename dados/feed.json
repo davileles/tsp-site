@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-03T16:08:34.365Z",
+  "atualizadoEm": "2026-09-03T16:24:17.584Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14576",
+      "loja": "Shopee",
+      "titulo": "HEROI Banco Dobrável Para Exercícios Em Casa, Multifuncional com Banco Pastor Removível + Até 150kg",
+      "link": "https://s.shopee.com.br/4VcVewXhxE",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgq65zdx3i84f2_tn",
+      "preco": 249.5,
+      "precoDe": 998,
+      "desconto": 50,
+      "cupom": "SHOPEE50AF",
+      "enviadoEm": "2026-09-03T16:19:35.059Z"
+    },
+    {
+      "id": "14575",
+      "loja": "Mercado Livre",
+      "titulo": "Ar Condicionado Split Inverter Hitachi Airhome 12.000 Btus Frio R-32",
+      "link": "https://meli.la/1thXbEA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_801611-MLA84185636896_052025-F.jpg",
+      "preco": 1664.1,
+      "precoDe": 4535.61,
+      "desconto": 59,
+      "cupom": "MEUCUPOM",
+      "enviadoEm": "2026-09-03T16:17:32.301Z"
+    },
+    {
+      "id": "14571",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
+      "link": "https://s.shopee.com.br/20vAg1TRWe",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
+      "preco": 16.14,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SHOPEE50AF",
+      "enviadoEm": "2026-09-03T16:14:42.941Z"
+    },
+    {
+      "id": "14570",
+      "loja": "Amazon",
+      "titulo": "JBL PartyBox On-the-Go 2 - Altifalante portátil Bluetooth para festas com microfone sem fio, espetáculo de luz dinâmica, 15 horas de reprodução, classificação IPX4 à prova de salpi",
+      "link": "https://www.amazon.com.br/dp/B0FPMMQWM3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41hljTVO0kL._SL400_.jpg",
+      "preco": 1649,
+      "precoDe": 1748,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T16:14:17.233Z"
+    },
+    {
+      "id": "14569",
+      "loja": "Amazon",
+      "titulo": "Kit Wella Professionals Invigo Nutri-Enrich Salon Máscara P (3 produtos)",
+      "link": "https://www.amazon.com.br/dp/B0DTLKF7JQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31wCDga9NAL._SL400_.jpg",
+      "preco": 352.9,
+      "precoDe": 419.9,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T16:11:02.495Z"
+    },
+    {
+      "id": "14568",
+      "loja": "Amazon",
+      "titulo": "Bundle Nintendo Switch OLED + Super Mario Bros. Wonder + 3 Meses de Assinatura Nintendo Switch Online",
+      "link": "https://www.amazon.com.br/dp/B0FR6PC1FB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41n92BuHeXL._SL400_.jpg",
+      "preco": 2139.9,
+      "precoDe": 2699.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T16:08:38.649Z"
+    },
     {
       "id": "14563",
       "loja": "Amazon",
@@ -1119,18 +1191,6 @@
       "enviadoEm": "2026-09-02T14:06:11.743Z"
     },
     {
-      "id": "14241",
-      "loja": "Amazon",
-      "titulo": "Bundle Nintendo Switch OLED + Super Mario Bros. Wonder + 3 Meses de Assinatura Nintendo Switch Online",
-      "link": "https://www.amazon.com.br/dp/B0FR6PC1FB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41n92BuHeXL._SL400_.jpg",
-      "preco": 2139.9,
-      "precoDe": 2699.9,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T14:01:22.143Z"
-    },
-    {
       "id": "14239",
       "loja": "Amazon",
       "titulo": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
@@ -1381,66 +1441,6 @@
       "desconto": 23,
       "cupom": "TOPACHADO",
       "enviadoEm": "2026-09-02T13:04:13.806Z"
-    },
-    {
-      "id": "14197",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Baby Premium Protection Personal G 30 unidades",
-      "link": "https://meli.la/2FJBAcQ",
-      "imagem": null,
-      "preco": 21.669999999999998,
-      "precoDe": 47.89,
-      "desconto": 40,
-      "cupom": "SEMPREML",
-      "enviadoEm": "2026-09-02T13:04:09.740Z"
-    },
-    {
-      "id": "14196",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Personal Baby Premium XG 26 unidades",
-      "link": "https://meli.la/1xdWfgq",
-      "imagem": null,
-      "preco": 21.400000000000002,
-      "precoDe": 47.89,
-      "desconto": 40,
-      "cupom": "SEMPREML",
-      "enviadoEm": "2026-09-02T13:04:07.290Z"
-    },
-    {
-      "id": "14189",
-      "loja": "Shopee",
-      "titulo": "Conjunto Tal Mãe e Filha Baby Doll Preto Pijama Feminino Lua Cinza",
-      "link": "https://s.shopee.com.br/2BEZ3omSQD",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwyr4mfbl8r652_tn",
-      "preco": 45.5,
-      "precoDe": 65,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T12:56:37.984Z"
-    },
-    {
-      "id": "14184",
-      "loja": "Amazon",
-      "titulo": "Electrolux Kit 16 Potes Herméticos Plástico Multiuso Vedação Silicone",
-      "link": "https://www.amazon.com.br/dp/B0FVJWQ3PX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41SiEw9EtyL._SL400_.jpg",
-      "preco": 98.03,
-      "precoDe": 129,
-      "desconto": 5,
-      "cupom": "VIRAL20",
-      "enviadoEm": "2026-09-02T12:50:02.548Z"
-    },
-    {
-      "id": "14181",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Refletor Super Led 400w Ip67 Holofote Bivolt Prova D'água Branco Frio 6500k Preto",
-      "link": "https://meli.la/13hV5fe",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753073-MLA110946060098_052026-F.jpg",
-      "preco": 43.77,
-      "precoDe": 99.98,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T12:40:44.984Z"
     }
   ]
 }
