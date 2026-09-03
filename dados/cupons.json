@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-03T13:24:19.304Z",
+  "atualizadoEm": "2026-09-03T14:24:19.329Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -907,7 +907,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1079,7 +1079,7 @@
       "maximo": null,
       "limite": 40,
       "observacao": null,
-      "validadeAte": "2026-09-05T02:59:00.000Z",
+      "validadeAte": "2026-09-03T14:59:59.967Z",
       "url": "https://meli.la/2xystLt"
     },
     {
