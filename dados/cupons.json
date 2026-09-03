@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-03T10:53:51.578Z",
+  "atualizadoEm": "2026-09-03T11:53:51.530Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -96,18 +96,6 @@
       "limite": 50,
       "observacao": "Cupom para primeira compra",
       "validadeAte": "2026-09-04T01:23:58.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "9PRIME9",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 60,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom para primeira compra",
-      "validadeAte": "2026-09-03T11:29:00.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
