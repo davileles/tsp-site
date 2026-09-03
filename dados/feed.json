@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-03T17:24:17.584Z",
+  "atualizadoEm": "2026-09-03T17:54:17.584Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14622",
+      "loja": "Shopee",
+      "titulo": "JOGO DE CAMA Queen 500 Fios Percal Toque Algodão + 2 Fronhas 50x70 | Cobre Leito Luxo Sem Elástico",
+      "link": "https://s.shopee.com.br/80CNvanVxh",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mnmy209iybcya0_tn",
+      "preco": 42.57,
+      "precoDe": 72.15,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T17:50:04.258Z"
+    },
+    {
+      "id": "14621",
+      "loja": "Shopee",
+      "titulo": "Ugreen - Hub USB-C 7X1 Multifunctional  1*HDMI 4K 60@ -  2*USB-C 3.2 - 1*USB-A 3.2 - SD/TF - 100W PD",
+      "link": "https://s.shopee.com.br/8V8eWFnoOP",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdam700q9q8106_tn",
+      "preco": 294,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "V3ND4S15",
+      "enviadoEm": "2026-09-03T17:46:16.296Z"
+    },
+    {
+      "id": "14620",
+      "loja": "Amazon",
+      "titulo": "Repelente para Bebê SBP Baby Loção Corporal com Icaridina 100ml",
+      "link": "https://www.amazon.com.br/dp/B08T6JZC6D?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Ulvhs2ytL._SL400_.jpg",
+      "preco": 22.59,
+      "precoDe": 40.49,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T17:42:37.680Z"
+    },
+    {
+      "id": "14618",
+      "loja": "Amazon",
+      "titulo": "Safety 1st, Travel System Magnific Trio, Grey Denin",
+      "link": "https://www.amazon.com.br/dp/B0CRZ8FZBP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41fSFje6xRL._SL400_.jpg",
+      "preco": 1200,
+      "precoDe": 2199,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T17:36:34.357Z"
+    },
+    {
+      "id": "14617",
+      "loja": "Amazon",
+      "titulo": "Kit Refeição Bebê com Tigela e Colher Termossensível | Tipo Buba | Bowl Infantil com Tampa e Base Antiderrapante | Ideal para Introdução Alimentar, Papinha e Refeição Infantil (Azu",
+      "link": "https://www.amazon.com.br/dp/B0GWY9FVVZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31P3BliARUL._SL400_.jpg",
+      "preco": 25.19,
+      "precoDe": 27.99,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T17:36:31.482Z"
+    },
+    {
+      "id": "14616",
+      "loja": "Amazon",
+      "titulo": "Copo Easy Sip c/Bico de Silicone 260ml Philips Avent - SCF553/03",
+      "link": "https://www.amazon.com.br/dp/B00WJNJ4EO?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31QO4KeHHyL._SL400_.jpg",
+      "preco": 38.98,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T17:32:45.468Z"
+    },
+    {
+      "id": "14615",
+      "loja": "Mercado Livre",
+      "titulo": "Vitamina B12 Metilcobalamina 414% 60caps Nutrify",
+      "link": "https://meli.la/2RRVEnd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745981-MLA100089582957_122025-F.jpg",
+      "preco": 24.06,
+      "precoDe": 42,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T17:32:44.317Z"
+    },
+    {
+      "id": "14614",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
+      "link": "https://s.shopee.com.br/9KhlUUqYc2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnyps41y3uo4c6_tn",
+      "preco": 84.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "V3ND4S15",
+      "enviadoEm": "2026-09-03T17:27:20.703Z"
+    },
     {
       "id": "14610",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-09-02T14:01:21.290Z"
-    },
-    {
-      "id": "14238",
-      "loja": "Amazon",
-      "titulo": "Mustela Stelatopia Óleo de Banho 500 ml - Limpeza e Hidratação suave para Peles Secas e extremamente Ressecadas - Seguro Para Bebês, Crianças e Adultos - Sem Fragrância - Stelatopi",
-      "link": "https://www.amazon.com.br/dp/B089Z8DV9N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31aA2QcZiZL._SL400_.jpg",
-      "preco": 136.49,
-      "precoDe": 143.91,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T14:01:17.713Z"
-    },
-    {
-      "id": "14237",
-      "loja": "Amazon",
-      "titulo": "Johnson's Baby Lenços Umedecidos Recém Nascido, 192 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0F4G5NL2K?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Wj9GWRP7L._SL400_.jpg",
-      "preco": 42.470000000000006,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "IMPERDIVEL20",
-      "enviadoEm": "2026-09-02T14:01:15.339Z"
-    },
-    {
-      "id": "14236",
-      "loja": "Amazon",
-      "titulo": "Carrinho de Bebê Maxi-Cosi, Eva³, Essential Black Champagne",
-      "link": "https://www.amazon.com.br/dp/B0DB8VCNJZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31o6VNs-YxL._SL400_.jpg",
-      "preco": 1911.27,
-      "precoDe": 2299,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T14:01:13.011Z"
-    },
-    {
-      "id": "14235",
-      "loja": "Amazon",
-      "titulo": "Garrafa Thermos Blue Funtainer 340 ml",
-      "link": "https://www.amazon.com.br/dp/B00DAPQV0K?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31dXeSjRwfL._SL400_.jpg",
-      "preco": 112,
-      "precoDe": 152.29,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T14:01:10.287Z"
-    },
-    {
-      "id": "14234",
-      "loja": "Amazon",
-      "titulo": "Garrafa infantil Thermos Funtainer Carros, 354 ml, cinza",
-      "link": "https://www.amazon.com.br/dp/B08VFFKR33?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31U+iMMC-5L._SL400_.jpg",
-      "preco": 108.5,
-      "precoDe": 157.19,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T14:01:08.456Z"
-    },
-    {
-      "id": "14219",
-      "loja": "Amazon",
-      "titulo": "Mimo Style Cafeteira Prensa Francesa, Com Haste e Alça, Resistente, Suporta Altas e Baixas Temperaturas (-20 °C a 180 °C), Excelente Sistema de Filtragem (600ml)",
-      "link": "https://www.amazon.com.br/dp/B07WXJ8GQP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3169sEzlcNL._SL400_.jpg",
-      "preco": 21.56,
-      "precoDe": 75.7,
-      "desconto": 64,
-      "cupom": "VIRAL20",
-      "enviadoEm": "2026-09-02T13:59:33.679Z"
-    },
-    {
-      "id": "14217",
-      "loja": "Shopee",
-      "titulo": "Dispositivo Elétrico De Enxágue Nasal 360 ° Limpador De Sinusite Portátil Giratório De Cabeça Dupla Para Recuperação Aut",
-      "link": "https://s.shopee.com.br/5VV156eBjm",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mjme2wakn8qt69_tn",
-      "preco": 300,
-      "precoDe": 533.33,
-      "desconto": 40,
-      "cupom": "OFERTA20AF",
-      "enviadoEm": "2026-09-02T13:43:11.748Z"
-    },
-    {
-      "id": "14214",
-      "loja": "Amazon",
-      "titulo": "Garrafa Térmica Inox Parede Dupla Matterhorn 591ml Azul Mônaco Contigo",
-      "link": "https://www.amazon.com.br/dp/B07K8XJF9D?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21T8Sq8jwcL._SL400_.jpg",
-      "preco": 46.73,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "VIRAL20",
-      "enviadoEm": "2026-09-02T13:36:28.670Z"
     }
   ]
 }
