@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-03T18:22:35.500Z",
+  "atualizadoEm": "2026-09-03T18:24:17.584Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14646",
+      "loja": "Mercado Livre",
+      "titulo": "Prancheta Magnética Didática Educacional Para Crianças",
+      "link": "https://meli.la/31nPG9j",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_908758-MLA95534063880_102025-F.jpg",
+      "preco": 43.08,
+      "precoDe": 53.9,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T18:24:05.738Z"
+    },
     {
       "id": "14636",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 30,
       "cupom": "VIRAL20",
       "enviadoEm": "2026-09-02T17:35:10.417Z"
-    },
-    {
-      "id": "14302",
-      "loja": "Shopee",
-      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
-      "link": "https://s.shopee.com.br/7VG5hPVImI",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnyps41y3uo4c6_tn",
-      "preco": 49.95,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-02T17:17:43.200Z"
     }
   ]
 }
