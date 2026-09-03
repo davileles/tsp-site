@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-03T20:22:36.883Z",
+  "atualizadoEm": "2026-09-03T20:38:10.088Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14708",
+      "loja": "Mercado Livre",
+      "titulo": "Chinelo Adilette Aqua (unissex) adidas",
+      "link": "https://meli.la/1qbKYk8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_630064-MLB75442923670_042024-O.webp",
+      "preco": 49.99,
+      "precoDe": 149.99,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T20:28:10.082Z"
+    },
+    {
+      "id": "14707",
+      "loja": "Shopee",
+      "titulo": "Mochila Moto LED Olhos 3D Casca Rígida Impermeável Grande Capacidade Mochila Moderna para Viagem Trabalho Dia a Dia",
+      "link": "https://s.shopee.com.br/3Vjyk5COX0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mlwrlh9oi1hi51_tn",
+      "preco": 384.99,
+      "precoDe": 1904.71,
+      "desconto": 79,
+      "cupom": "V3ND4S15",
+      "enviadoEm": "2026-09-03T20:26:54.202Z"
+    },
     {
       "id": "14701",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-09-03T12:36:03.700Z"
-    },
-    {
-      "id": "14406",
-      "loja": "Amazon",
-      "titulo": "Kärcher Bocal de Solo para Extratora SE 4001",
-      "link": "https://www.amazon.com.br/dp/B004WCHMEO?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21Yx6OaGQpL._SL400_.jpg",
-      "preco": 36.95,
-      "precoDe": 192,
-      "desconto": 81,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T12:36:02.117Z"
-    },
-    {
-      "id": "14404",
-      "loja": "Shopee",
-      "titulo": "Smart TV 40” Britânia B40CRA Full HD Wi-Fi HDMI USB Conversor Digital",
-      "link": "https://s.shopee.com.br/1BM3RSUich",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mmzz81wngu814b_tn",
-      "preco": 649.5,
-      "precoDe": 2319.64,
-      "desconto": 44,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-03T12:36:00.676Z"
     }
   ]
 }
