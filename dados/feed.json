@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-03T21:44:16.948Z",
+  "atualizadoEm": "2026-09-03T21:51:37.059Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14767",
+      "loja": "Amazon",
+      "titulo": "Lenços Umedecidos Huggies Recém-Nascido Sem Fragrância 6x48U",
+      "link": "https://www.amazon.com.br/dp/B07FN7T2LK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41+x4I9GYhL._SL400_.jpg",
+      "preco": 49.9,
+      "precoDe": 55.48,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T21:50:02.755Z"
+    },
     {
       "id": "14763",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 64,
       "cupom": null,
       "enviadoEm": "2026-09-03T12:39:11.927Z"
-    },
-    {
-      "id": "14417",
-      "loja": "Mercado Livre",
-      "titulo": "Notebook Acer Aspire Go AG15-51P-39MU Intel Core i3-1305U 8GB 256ssd Windows 11 Home 15,3''",
-      "link": "https://meli.la/18MS5wN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_692920-MLA100061644521_122025-F.jpg",
-      "preco": 2999.99,
-      "precoDe": 4299,
-      "desconto": 19,
-      "cupom": "TOPACHADO",
-      "enviadoEm": "2026-09-03T12:38:48.519Z"
     }
   ]
 }
