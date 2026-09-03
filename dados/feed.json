@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-03T13:24:17.531Z",
+  "atualizadoEm": "2026-09-03T13:52:50.076Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14456",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
+      "link": "https://s.shopee.com.br/8V8eFXWroV",
+      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
+      "preco": 26.45,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SHOPEE50AF",
+      "enviadoEm": "2026-09-03T13:42:50.073Z"
+    },
+    {
+      "id": "14455",
+      "loja": "Amazon",
+      "titulo": "MOMODENT Escova Elétrica Infantil Sônica, Cerdas Extra Macias, 3 Modos de Vibração, 3 Cabeças Substituíveis, IPX7 à Prova D'Água, Recarregável, para Crianças de 3 a 12 Anos (Azul)",
+      "link": "https://www.amazon.com.br/dp/B0FPCXP3ZL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/518vw8SiYsL._SL400_.jpg",
+      "preco": 99,
+      "precoDe": 149,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T13:38:15.226Z"
+    },
+    {
+      "id": "14454",
+      "loja": "Shopee",
+      "titulo": "Mala Pequena de Bordo 10kg TSA Polipropileno Giro 360º Munique Polo King",
+      "link": "https://s.shopee.com.br/7psxRplNzj",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfrbrzcgpqtj8e_tn",
+      "preco": 149.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SHOPEE50AF",
+      "enviadoEm": "2026-09-03T13:35:47.810Z"
+    },
+    {
+      "id": "14453",
+      "loja": "Amazon",
+      "titulo": "Philips Colgate Sonicpro 10 Kids Escova de Dente Elétrica Infantil",
+      "link": "https://www.amazon.com.br/dp/B0FN889LGY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41dB9G6Ua0L._SL400_.jpg",
+      "preco": 164.68,
+      "precoDe": 212.73,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T13:33:16.887Z"
+    },
     {
       "id": "14450",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 64,
       "cupom": null,
       "enviadoEm": "2026-09-02T11:15:12.226Z"
-    },
-    {
-      "id": "14095",
-      "loja": "Amazon",
-      "titulo": "Toyster - Stitch - Jogo Super Trilha - Divertido, Interativo e Estratégico - Disney - JAK",
-      "link": "https://www.amazon.com.br/dp/B0F39PQNMJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41bDGSq3pmL._SL400_.jpg",
-      "preco": 27.11,
-      "precoDe": 84.9,
-      "desconto": 68,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T11:12:32.714Z"
-    },
-    {
-      "id": "14094",
-      "loja": "Amazon",
-      "titulo": "Personal VIP - Papel Higiênico Folha Dupla, Branco 24 unidades (Embalagem pode variar)",
-      "link": "https://www.amazon.com.br/dp/B07D5LZZCC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41aRvYjm3DL._SL400_.jpg",
-      "preco": 34.27,
-      "precoDe": 46.01,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T11:10:18.758Z"
-    },
-    {
-      "id": "14081",
-      "loja": "Amazon",
-      "titulo": "Papel Sulfite, Chamex, A4, 75 Gramas, Branco, Caixa com 5 Pacotes de 500 Folhas",
-      "link": "https://www.amazon.com.br/dp/B08WTDCC9Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41p3nkwDshL._SL400_.jpg",
-      "preco": 135,
-      "precoDe": 162,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T11:08:07.944Z"
-    },
-    {
-      "id": "14093",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXXG,108 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0DFQJQGPL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Tr1-+5LIL._SL400_.jpg",
-      "preco": 155.5,
-      "precoDe": 229.49,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T11:06:42.828Z"
     }
   ]
 }
