@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-03T12:29:34.280Z",
+  "atualizadoEm": "2026-09-03T12:55:19.216Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -96,6 +96,18 @@
       "limite": 50,
       "observacao": "Cupom para primeira compra",
       "validadeAte": "2026-09-04T01:23:58.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "NUPAY9DO9",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 40,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 29,
+      "observacao": "Cupom válido para primeira compra com NuPay",
+      "validadeAte": "2026-09-04T12:40:05.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -895,7 +907,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -948,18 +960,6 @@
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELICUPONS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-09-04T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1059,6 +1059,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "AUTO0309",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Primeiro cupom válido em todo o site. Segundo cupom válido apenas em categoria Auto e Ferramentas.",
+      "validadeAte": "2026-09-03T15:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AUTOEFERRAMENTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-09-05T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SAMSUNG10OFF",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1116,6 +1140,18 @@
       "limite": 25,
       "observacao": null,
       "validadeAte": "2026-09-05T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTAJA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 150,
+      "maximo": null,
+      "limite": 300,
+      "observacao": null,
+      "validadeAte": "2026-09-04T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
