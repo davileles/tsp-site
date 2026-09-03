@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-03T14:24:19.329Z",
+  "atualizadoEm": "2026-09-03T14:54:19.039Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -108,6 +108,18 @@
       "limite": 29,
       "observacao": "Cupom válido para primeira compra com NuPay",
       "validadeAte": "2026-09-04T12:40:05.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "TECH15",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom exclusivo para membros Prime em eletrônicos selecionados",
+      "validadeAte": "2026-09-04T14:39:41.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -859,7 +871,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -919,7 +931,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -955,7 +967,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 22,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1027,7 +1039,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 18,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
