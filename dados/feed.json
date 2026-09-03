@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-03T20:51:36.941Z",
+  "atualizadoEm": "2026-09-03T21:21:37.059Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14757",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
+      "link": "https://meli.la/1YTVYRd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_624574-MLA107288145353_022026-F.jpg",
+      "preco": 179.16000000000003,
+      "precoDe": 329.99,
+      "desconto": 34,
+      "cupom": "SUPERDESCONTO",
+      "enviadoEm": "2026-09-03T21:12:35.065Z"
+    },
+    {
+      "id": "14756",
+      "loja": "Shopee",
+      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
+      "link": "https://s.shopee.com.br/2qUHdzTysW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
+      "preco": 74,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "V3ND4S15",
+      "enviadoEm": "2026-09-03T21:11:40.208Z"
+    },
+    {
+      "id": "14745",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 4 Potes Acrílico 3,8l Organizador Geladeira Rebirth",
+      "link": "https://meli.la/29sSvUj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_735971-MLA95941810245_102025-F.jpg",
+      "preco": 74.59,
+      "precoDe": 199,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T21:10:24.875Z"
+    },
+    {
+      "id": "14747",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Soft & Protect Hiper XXG, 50 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0B7K83GYL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41gtkGdKp9L._SL400_.jpg",
+      "preco": 52.33,
+      "precoDe": 64.98,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T21:09:00.893Z"
+    },
+    {
+      "id": "14746",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Protect E Sec M Hiper, 70 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41VhQ4JSbGL._SL400_.jpg",
+      "preco": 52.33,
+      "precoDe": 64.64,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T21:09:00.519Z"
+    },
     {
       "id": "14731",
       "loja": "Shopee",
@@ -699,18 +759,6 @@
       "enviadoEm": "2026-09-03T15:53:31.489Z"
     },
     {
-      "id": "14555",
-      "loja": "Shopee",
-      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
-      "link": "https://s.shopee.com.br/2qUHdzTysW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
-      "preco": 44.5,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-03T15:51:54.432Z"
-    },
-    {
       "id": "14554",
       "loja": "Mercado Livre",
       "titulo": "Kit 3 Camisetas Masculina Canelada Americana Gola Careca",
@@ -1393,54 +1441,6 @@
       "desconto": 70,
       "cupom": null,
       "enviadoEm": "2026-09-03T12:38:45.401Z"
-    },
-    {
-      "id": "14414",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Personal Baby Premium Protection Tamanho RN Até P 24 Unidades Sem Gênero",
-      "link": "https://meli.la/2o85KH1",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_738569-MLA79686828795_102024-F.jpg",
-      "preco": 32.690000000000005,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TOPACHADO",
-      "enviadoEm": "2026-09-03T12:38:23.992Z"
-    },
-    {
-      "id": "14411",
-      "loja": "Mercado Livre",
-      "titulo": "Cotonetes Flexíveis de Algodão 300 unidades",
-      "link": "https://meli.la/2ws1vi9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_964850-MLA108909265036_032026-F.jpg",
-      "preco": 16.5,
-      "precoDe": 23.79,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T12:37:28.185Z"
-    },
-    {
-      "id": "14409",
-      "loja": "Mercado Livre",
-      "titulo": "Papel Higiênico Folha Dupla 30m L24p22 Personal",
-      "link": "https://meli.la/1pWftkv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_746115-MLA108568976775_032026-F.jpg",
-      "preco": 26.6,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TOPACHADO",
-      "enviadoEm": "2026-09-03T12:36:24.719Z"
-    },
-    {
-      "id": "14407",
-      "loja": "Amazon",
-      "titulo": "Óculos De Sol Retangular Retrô Preto Proteção UV400 Unissex Blogueira Moda Vintage Hype Solar",
-      "link": "https://www.amazon.com.br/dp/B09PX9X2MP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31o36ztvwPL._SL400_.jpg",
-      "preco": 12.89,
-      "precoDe": 19,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T12:36:03.700Z"
     }
   ]
 }
