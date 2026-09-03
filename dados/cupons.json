@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-03T17:54:19.091Z",
+  "atualizadoEm": "2026-09-03T18:22:36.782Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -156,6 +156,30 @@
       "limite": null,
       "observacao": "Cupom exclusivo para membros Prime em eletrônicos selecionados",
       "validadeAte": "2026-09-04T14:39:41.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "TEMNAAMAZON",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 60,
+      "maximo": null,
+      "limite": 69,
+      "observacao": null,
+      "validadeAte": "2026-09-04T18:00:45.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "VEMPRAAMAZON",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 1299,
+      "maximo": null,
+      "limite": 250,
+      "observacao": null,
+      "validadeAte": "2026-09-04T18:00:45.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -847,7 +871,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -943,7 +967,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -991,7 +1015,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1003,7 +1027,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1051,7 +1075,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 22,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1099,7 +1123,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 18,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1128,6 +1152,18 @@
       "limite": 200,
       "observacao": "10 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-04T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CELULARES0309",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 899,
+      "maximo": null,
+      "limite": 189,
+      "observacao": "Válido em TVs e Celulares selecionados",
+      "validadeAte": "2026-09-04T18:03:13.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
