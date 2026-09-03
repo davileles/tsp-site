@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-03T19:54:17.632Z",
+  "atualizadoEm": "2026-09-03T20:22:36.883Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14701",
+      "loja": "Amazon",
+      "titulo": "Lysoform Original, Desinfetante Líquido, Limpeza Casa, 5L",
+      "link": "https://www.amazon.com.br/dp/B07N4FX3TC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/411IxYjdlbL._SL400_.jpg",
+      "preco": 45.54,
+      "precoDe": 49.9,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T20:12:47.326Z"
+    },
+    {
+      "id": "14700",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
+      "link": "https://s.shopee.com.br/4qFLvQkuR6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
+      "preco": 17.99,
+      "precoDe": 21.42,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T20:04:02.048Z"
+    },
     {
       "id": "14693",
       "loja": "Amazon",
@@ -903,18 +927,6 @@
       "enviadoEm": "2026-09-03T14:28:34.824Z"
     },
     {
-      "id": "14515",
-      "loja": "Shopee",
-      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
-      "link": "https://s.shopee.com.br/4qFLvQkuR6",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
-      "preco": 8.999999999999998,
-      "precoDe": 21.42,
-      "desconto": 16,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-03T14:21:11.376Z"
-    },
-    {
       "id": "14511",
       "loja": "Mercado Livre",
       "titulo": "Cozinha Brinquedo Infantil Grande Completa Menina sai água",
@@ -1429,18 +1441,6 @@
       "desconto": 44,
       "cupom": "SHOPEE50AF",
       "enviadoEm": "2026-09-03T12:36:00.676Z"
-    },
-    {
-      "id": "14408",
-      "loja": "Amazon",
-      "titulo": "Lay's Batata Frita Lisa Clássica 257g",
-      "link": "https://www.amazon.com.br/dp/B0GP2WLCXT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41VGeJQMdTL._SL400_.jpg",
-      "preco": 7.95,
-      "precoDe": 27.99,
-      "desconto": 43,
-      "cupom": "NATORCIDA",
-      "enviadoEm": "2026-09-03T12:35:58.189Z"
     }
   ]
 }
