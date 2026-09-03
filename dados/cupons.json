@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-03T15:54:18.960Z",
+  "atualizadoEm": "2026-09-03T16:08:35.902Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -399,6 +399,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
+      "codigo": "PREDATOR",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 950,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-07T15:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "NINTENDIN",
       "loja": "Kabum",
       "tipo": "reais",
@@ -567,6 +579,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "COOLERS12OFF",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-04T18:30:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "ESQUENTA10",
       "loja": "Kabum",
       "tipo": "pct",
@@ -588,6 +612,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "SSDESQUENTA",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-04T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -783,18 +819,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "GARANTIDO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-18T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CUPOMAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -804,18 +828,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-04T12:03:27.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FULL3003",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 39,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-09-04T15:02:26.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -907,7 +919,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -955,7 +967,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -967,7 +979,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1015,7 +1027,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 22,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1023,14 +1035,14 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "GARANTEAQUI",
+      "codigo": "MELICUPONS",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
-      "minimo": 19,
+      "minimo": 79,
       "maximo": null,
-      "limite": 100,
-      "observacao": "10 cupons ativos do Mercado Livre",
+      "limite": 60,
+      "observacao": null,
       "validadeAte": "2026-09-04T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1059,18 +1071,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "RESGATELOJAS0209",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Válido em lojas oficiais. Desconto de 20% com compra mínima de R$ 89, limitado a R$ 50 de desconto",
-      "validadeAte": "2026-09-04T03:01:07.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PAGUEMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1087,7 +1087,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 18,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1131,18 +1131,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "AGORAOUNUNCA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-09-04T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MEUCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1150,30 +1138,6 @@
       "minimo": 149,
       "maximo": null,
       "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-09-04T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 25,
-      "observacao": null,
-      "validadeAte": "2026-09-05T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTAJA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 8,
-      "minimo": 150,
-      "maximo": null,
-      "limite": 300,
       "observacao": null,
       "validadeAte": "2026-09-04T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -1296,18 +1260,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-04T15:01:09.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "O1V0LT4MOS",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-03T15:58:07.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
