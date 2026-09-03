@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-03T16:24:17.584Z",
+  "atualizadoEm": "2026-09-03T16:52:19.705Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14597",
+      "loja": "Shopee",
+      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
+      "link": "https://s.shopee.com.br/gPn7SiNtj",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
+      "preco": 64.99,
+      "precoDe": 199.97,
+      "desconto": 60,
+      "cupom": "V3ND4S15",
+      "enviadoEm": "2026-09-03T16:42:19.703Z"
+    },
+    {
+      "id": "14592",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/20vAhaPOAb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": 14.99,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T16:37:42.958Z"
+    },
+    {
+      "id": "14589",
+      "loja": "Amazon",
+      "titulo": "Berço Portátil Safety 1st, Falcon, 0 a 20kg, Black Night",
+      "link": "https://www.amazon.com.br/dp/B0FFTLCTZD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/417hoc30OoL._SL400_.jpg",
+      "preco": 710,
+      "precoDe": 1099,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T16:32:57.369Z"
+    },
+    {
+      "id": "14588",
+      "loja": "Mercado Livre",
+      "titulo": "Boneca Barbie Supermercado De Luxo Da Barbie Mattel Frp01",
+      "link": "https://meli.la/181jCzT",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_852942-MLA100024458541_122025-F.jpg",
+      "preco": 208.05,
+      "precoDe": 299.99,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T16:32:40.611Z"
+    },
+    {
+      "id": "14587",
+      "loja": "Amazon",
+      "titulo": "Lápis de Cor, Faber-Castell, Ecolápis Triangular Jumbo + Apontador com Depósito, 12.3024AP, 24 Cores",
+      "link": "https://www.amazon.com.br/dp/B072M2YNYS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51UxKgC1kIL._SL400_.jpg",
+      "preco": 61.64,
+      "precoDe": 100.18,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T16:32:36.307Z"
+    },
+    {
+      "id": "14585",
+      "loja": "Amazon",
+      "titulo": "Burigotto Banheira Splash+ Rose Madder",
+      "link": "https://www.amazon.com.br/dp/B0CGBNCPC5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41EnW4alokL._SL400_.jpg",
+      "preco": 377.9,
+      "precoDe": 639,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T16:32:28.715Z"
+    },
+    {
+      "id": "14584",
+      "loja": "Amazon",
+      "titulo": "Coleção Monteiro Lobato - Caixa",
+      "link": "https://www.amazon.com.br/dp/8587898183?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51m8n14c9PL._SL400_.jpg",
+      "preco": 25.52,
+      "precoDe": 69.9,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T16:32:26.429Z"
+    },
     {
       "id": "14576",
       "loja": "Shopee",
@@ -1357,90 +1441,6 @@
       "desconto": 17,
       "cupom": null,
       "enviadoEm": "2026-09-02T13:12:24.808Z"
-    },
-    {
-      "id": "14206",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Tamanho XG, 120 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0DDV1C223?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51CR7jzxXeL._SL400_.jpg",
-      "preco": 190.95,
-      "precoDe": 242.27,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T13:12:21.414Z"
-    },
-    {
-      "id": "14205",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care M - 160 fraldas",
-      "link": "https://www.amazon.com.br/dp/B0DDTYD6Q7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51wl+rPXY0L._SL400_.jpg",
-      "preco": 183.18,
-      "precoDe": 242.27,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T13:12:17.734Z"
-    },
-    {
-      "id": "14204",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Tamanho G 136 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0DDTZD5BS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51W9QO0hXPL._SL400_.jpg",
-      "preco": 194.86,
-      "precoDe": 242.27,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T13:12:11.136Z"
-    },
-    {
-      "id": "14203",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Premium Pants Tamanho M 70 Unidades Personal Baby M Sem Gênero",
-      "link": "https://meli.la/2B1WAgt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_743157-MLA99391016394_112025-F.jpg",
-      "preco": 70.02,
-      "precoDe": 129.79,
-      "desconto": 23,
-      "cupom": "TOPACHADO",
-      "enviadoEm": "2026-09-02T13:12:08.114Z"
-    },
-    {
-      "id": "14202",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Personal Baby Protect&Sec G 78 unidades",
-      "link": "https://meli.la/2VfPJ7r",
-      "imagem": null,
-      "preco": 43.53,
-      "precoDe": 79.9,
-      "desconto": 22,
-      "cupom": "TOPACHADO",
-      "enviadoEm": "2026-09-02T13:12:02.970Z"
-    },
-    {
-      "id": "14199",
-      "loja": "Amazon",
-      "titulo": "Shampoogotas de Brilho, Johnson'S Baby, Rosa, 400 Ml",
-      "link": "https://www.amazon.com.br/dp/B07DHS1MD2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/319bF1G8bJL._SL400_.jpg",
-      "preco": 15.989999999999998,
-      "precoDe": 34.99,
-      "desconto": 43,
-      "cupom": "IMPERDIVEL20",
-      "enviadoEm": "2026-09-02T13:04:15.417Z"
-    },
-    {
-      "id": "14198",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Personal Baby Protect&Sec M 90 unidades",
-      "link": "https://meli.la/1ojECDG",
-      "imagem": null,
-      "preco": 34.43,
-      "precoDe": 63.9,
-      "desconto": 23,
-      "cupom": "TOPACHADO",
-      "enviadoEm": "2026-09-02T13:04:13.806Z"
     }
   ]
 }
