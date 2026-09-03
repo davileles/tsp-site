@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-03T20:38:10.088Z",
+  "atualizadoEm": "2026-09-03T20:51:36.941Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14731",
+      "loja": "Shopee",
+      "titulo": "Organizador de Geladeira Multiuso Plasutil Para Armario Dispensa Cozinha",
+      "link": "https://s.shopee.com.br/1A6FDnMGa",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkxr03l1t53609_tn",
+      "preco": 27.9,
+      "precoDe": 31,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T20:49:23.082Z"
+    },
     {
       "id": "14708",
       "loja": "Mercado Livre",
@@ -769,18 +781,6 @@
       "desconto": null,
       "cupom": "FULL3003",
       "enviadoEm": "2026-09-03T15:29:48.594Z"
-    },
-    {
-      "id": "14545",
-      "loja": "Shopee",
-      "titulo": "Organizador de Geladeira Multiuso Plasutil Para Armario Dispensa Cozinha",
-      "link": "https://s.shopee.com.br/1A6FDnMGa",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkxr03l1t53609_tn",
-      "preco": 13.95,
-      "precoDe": 31,
-      "desconto": 10,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-03T15:29:21.838Z"
     },
     {
       "id": "14543",
