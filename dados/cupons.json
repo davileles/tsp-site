@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-03T09:53:51.477Z",
+  "atualizadoEm": "2026-09-03T10:53:51.578Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -708,18 +708,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-16T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "GARANTIDO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-18T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
