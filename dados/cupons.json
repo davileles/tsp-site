@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-03T16:52:21.197Z",
+  "atualizadoEm": "2026-09-03T17:14:50.643Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -747,18 +747,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "CASA0309",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 45,
-      "minimo": 299,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-04T15:02:26.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TOPACHADO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1068,18 +1056,6 @@
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELICUPONS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-09-04T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
