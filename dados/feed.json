@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-03T22:21:37.073Z",
+  "atualizadoEm": "2026-09-03T22:49:08.093Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14781",
+      "loja": "Amazon",
+      "titulo": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
+      "link": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lVmXe4CVL._SL400_.jpg",
+      "preco": 43.02,
+      "precoDe": 59.99,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T22:39:08.091Z"
+    },
     {
       "id": "14779",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 59,
       "cupom": "AGORAOUNUNCA",
       "enviadoEm": "2026-09-03T12:46:34.428Z"
-    },
-    {
-      "id": "14427",
-      "loja": "Mercado Livre",
-      "titulo": "Prancha Lizze Profissional 480 Extreme 127v",
-      "link": "https://meli.la/1XzfzZt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_818555-MLA99479472410_112025-F.jpg",
-      "preco": 350.1,
-      "precoDe": 459,
-      "desconto": 15,
-      "cupom": "AGORAOUNUNCA",
-      "enviadoEm": "2026-09-03T12:44:47.334Z"
     }
   ]
 }
