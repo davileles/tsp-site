@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-03T15:16:31.216Z",
+  "atualizadoEm": "2026-09-03T15:24:17.581Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14542",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina Monohidratada 500g Pó Growth",
+      "link": "https://meli.la/1wgvXzH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_602304-MLA109372354737_032026-F.jpg",
+      "preco": 58.900000000000006,
+      "precoDe": 104.9,
+      "desconto": 25,
+      "cupom": "FULL3003",
+      "enviadoEm": "2026-09-03T15:23:59.072Z"
+    },
+    {
+      "id": "14540",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 15 Pares Meias Sport Algodão Cano Médio Sandrini Confort",
+      "link": "https://meli.la/23q2Yi7",
+      "imagem": null,
+      "preco": 49.989999999999995,
+      "precoDe": 109.99,
+      "desconto": 36,
+      "cupom": "FULL3003",
+      "enviadoEm": "2026-09-03T15:20:51.216Z"
+    },
+    {
+      "id": "14539",
+      "loja": "Mercado Livre",
+      "titulo": "YoPRO Bebida Láctea UHT Chocolate 15g de proteínas 250ml - 12 unidades",
+      "link": "https://meli.la/1GJEwQv",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_953528-MLA112540456984_062026-F.jpg",
+      "preco": 59,
+      "precoDe": 98.99,
+      "desconto": 20,
+      "cupom": "FULL3003",
+      "enviadoEm": "2026-09-03T15:18:57.442Z"
+    },
+    {
+      "id": "14538",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
+      "link": "https://meli.la/1U1Yvd6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_998463-MLA116907384785_082026-F.jpg",
+      "preco": 48.900000000000006,
+      "precoDe": 239.9,
+      "desconto": 71,
+      "cupom": "FULL3003",
+      "enviadoEm": "2026-09-03T15:18:02.015Z"
+    },
     {
       "id": "14535",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 40,
       "cupom": "DESCONTO",
       "enviadoEm": "2026-09-02T12:13:35.422Z"
-    },
-    {
-      "id": "14153",
-      "loja": "Amazon",
-      "titulo": "Whisky Macallan Double Cask 15 anos Single Malt 700ml",
-      "link": "https://www.amazon.com.br/dp/B0929RQXRN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/512DgH8aSQL._SL400_.jpg",
-      "preco": 1299.9,
-      "precoDe": 1999.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T12:11:39.135Z"
-    },
-    {
-      "id": "14152",
-      "loja": "Shopee",
-      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
-      "link": "https://s.shopee.com.br/9KhhvU8bSh",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
-      "preco": 81.54,
-      "precoDe": 327.55,
-      "desconto": 69,
-      "cupom": "OFERTA20AF",
-      "enviadoEm": "2026-09-02T12:11:05.503Z"
-    },
-    {
-      "id": "14150",
-      "loja": "Amazon",
-      "titulo": "Carregador de parede Super Rápido 45W (Cabo USB-C)",
-      "link": "https://www.amazon.com.br/dp/B0DDTYB5KT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31eCdfhWjSL._SL400_.jpg",
-      "preco": 159.3,
-      "precoDe": 329,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T12:06:28.990Z"
-    },
-    {
-      "id": "14147",
-      "loja": "Amazon",
-      "titulo": "CAFE PILAO CAFETERIA ESPECIALIDADES ESPRESSO POUCH 500G",
-      "link": "https://www.amazon.com.br/dp/B0H2FGZM6S?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41bnlzYhsYL._SL400_.jpg",
-      "preco": 21.6,
-      "precoDe": 24.04,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-02T12:04:19.197Z"
     }
   ]
 }
