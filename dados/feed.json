@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-03T21:51:37.059Z",
+  "atualizadoEm": "2026-09-03T22:21:37.073Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14779",
+      "loja": "Amazon",
+      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
+      "link": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51kgcUDgWfL._SL400_.jpg",
+      "preco": 159.89,
+      "precoDe": 229.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T22:19:58.384Z"
+    },
+    {
+      "id": "14778",
+      "loja": "Shopee",
+      "titulo": "Seringa de Segurança Retrátil para Insulina (1ml) com Agulha Fixa 0,3x13mm (30G 1/2) c/10 | - SOL",
+      "link": "https://s.shopee.com.br/60RJqRAxwK",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mnepe0233aptdf_tn",
+      "preco": 15,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T22:19:31.186Z"
+    },
+    {
+      "id": "14777",
+      "loja": "Amazon",
+      "titulo": "Johnson's Baby Shampoo Infantil Cheiro Prolongado, 400ml, Azul",
+      "link": "https://www.amazon.com.br/dp/B07DHR9LSK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41vG4C1XcdL._SL400_.jpg",
+      "preco": 19.99,
+      "precoDe": 34.99,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T22:09:59.909Z"
+    },
+    {
+      "id": "14776",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Fila Racer Speedzone Feminino Corrida",
+      "link": "https://meli.la/2DtaBCN",
+      "imagem": null,
+      "preco": 288.53,
+      "precoDe": 599,
+      "desconto": 43,
+      "cupom": "SUPERDESCONTO",
+      "enviadoEm": "2026-09-03T22:07:37.917Z"
+    },
+    {
+      "id": "14775",
+      "loja": "Mercado Livre",
+      "titulo": "Ar Condicionado Inverter Philco 9000 Btus Frio 220v Pac9ft",
+      "link": "https://meli.la/1FHY2Sn",
+      "imagem": null,
+      "preco": 1499,
+      "precoDe": 1799,
+      "desconto": 6,
+      "cupom": "OFERTASOFF",
+      "enviadoEm": "2026-09-03T22:04:17.769Z"
+    },
+    {
+      "id": "14772",
+      "loja": "Mercado Livre",
+      "titulo": "Filtro de Linha com Protetor de Surto DPS iClamper Energia 5 Tomadas 3 Pinos 10 Amperes com Tecnologia LCF Anti Raio Clamper Cor Preto",
+      "link": "https://meli.la/1omEjKz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_866018-MLA99534240446_122025-F.jpg",
+      "preco": 54.54,
+      "precoDe": 71.9,
+      "desconto": 5,
+      "cupom": "GARANTEAQUI",
+      "enviadoEm": "2026-09-03T22:01:28.109Z"
+    },
+    {
+      "id": "14771",
+      "loja": "Shopee",
+      "titulo": "Regata Masculina Americana Ribana Canelada Slim Justa ao Corpo Marrom",
+      "link": "https://s.shopee.com.br/20vB3WYmiL",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcri0jg5g27mb2_tn",
+      "preco": 29.97,
+      "precoDe": 39.96,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-03T21:56:59.608Z"
+    },
     {
       "id": "14767",
       "loja": "Amazon",
@@ -1357,90 +1441,6 @@
       "desconto": 15,
       "cupom": "AGORAOUNUNCA",
       "enviadoEm": "2026-09-03T12:44:47.334Z"
-    },
-    {
-      "id": "14426",
-      "loja": "Amazon",
-      "titulo": "Contigo, Garrafa Térmica Inox Parede Dupla Matterhorn, 591ML",
-      "link": "https://www.amazon.com.br/dp/B07K8WF98V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21NQt4PHUGS._SL400_.jpg",
-      "preco": 45.48,
-      "precoDe": 149.9,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T12:44:06.785Z"
-    },
-    {
-      "id": "14429",
-      "loja": "Mercado Livre",
-      "titulo": "Lenços Umedecidos Huggies Recém Nascido Pack C/4 - 192 Un",
-      "link": "https://meli.la/257XXbL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_700377-MLA99930638257_112025-F.jpg",
-      "preco": 19.7,
-      "precoDe": 45.8,
-      "desconto": 39,
-      "cupom": "CUPOMAQUI",
-      "enviadoEm": "2026-09-03T12:43:38.403Z"
-    },
-    {
-      "id": "14428",
-      "loja": "Mercado Livre",
-      "titulo": "Lenços Umedecidos Huggies Rosto E Corpo 4 pcts - 192 Un",
-      "link": "https://meli.la/2f6Sqi3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753827-MLA80015367155_102024-F.jpg",
-      "preco": 18.75,
-      "precoDe": 39.23,
-      "desconto": 32,
-      "cupom": "CUPOMAQUI",
-      "enviadoEm": "2026-09-03T12:43:37.801Z"
-    },
-    {
-      "id": "14423",
-      "loja": "Amazon",
-      "titulo": "Caloi Bicicleta Aluminum Pro, Aro 29, Tamanho 17, Câmbio Microshift 20 Velocidades, Branca",
-      "link": "https://www.amazon.com.br/dp/B0DQQV7GDF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41pEhs7xB5L._SL400_.jpg",
-      "preco": 1199,
-      "precoDe": 1587.99,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T12:42:02.338Z"
-    },
-    {
-      "id": "14422",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV LG UHD AI UA75 50 polegadas HDR10 Pro Processador α7 AI Ger8 webOS 25",
-      "link": "https://meli.la/2A9XzJ1",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_884169-MLA106908124660_022026-F.jpg",
-      "preco": 2161.91,
-      "precoDe": 5000,
-      "desconto": 53,
-      "cupom": "OFERTAJA",
-      "enviadoEm": "2026-09-03T12:41:41.321Z"
-    },
-    {
-      "id": "14421",
-      "loja": "Amazon",
-      "titulo": "Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 512GB SSD, KeepOS, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
-      "link": "https://www.amazon.com.br/dp/B0CYW2N6TX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41QUmh0GRvL._SL400_.jpg",
-      "preco": 2999,
-      "precoDe": 4299,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T12:39:32.616Z"
-    },
-    {
-      "id": "14420",
-      "loja": "Amazon",
-      "titulo": "Contigo Copo Térmico Streeterville, com Canudo 1,18L - Verde",
-      "link": "https://www.amazon.com.br/dp/B0DKJZV8XC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31UE-GknI5L._SL400_.jpg",
-      "preco": 108.99,
-      "precoDe": 299,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T12:39:11.927Z"
     }
   ]
 }
