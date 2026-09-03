@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-02T18:30:45.233Z",
+  "atualizadoEm": "2026-09-03T12:29:33.010Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14373",
+      "loja": "Shopee",
+      "titulo": "Kit Até 4 Sacos de Lixo Perfumados Lavanda | 160 Sacos | Pia e Banheiro | 34x38cm | Neutraliza Odores",
+      "link": "https://s.shopee.com.br/8KpDy3MEwB",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mlpok0p0fg933f_tn",
+      "preco": 5.95,
+      "precoDe": 24.29,
+      "desconto": 51,
+      "cupom": "SHOPEE50AF",
+      "enviadoEm": "2026-09-03T12:27:16.238Z"
+    },
     {
       "id": "14327",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 17,
       "cupom": null,
       "enviadoEm": "2026-09-01T17:42:58.123Z"
-    },
-    {
-      "id": "13958",
-      "loja": "Amazon",
-      "titulo": "Neslac Comfor Zero Lactose - Composto Lácteo, Fórmula infantil, 700g",
-      "link": "https://www.amazon.com.br/dp/B08K3PF8Q7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51sIY-dwEiL._SL400_.jpg",
-      "preco": 60.59,
-      "precoDe": 76.69,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-09-01T17:42:56.686Z"
     }
   ]
 }
