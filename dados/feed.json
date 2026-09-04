@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-04T18:33:34.133Z",
+  "atualizadoEm": "2026-09-04T18:44:08.340Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15035",
+      "loja": "Amazon",
+      "titulo": "Protex Baby Glicerina Natural Sabonete Líquido Infantil, 400ml",
+      "link": "https://www.amazon.com.br/dp/B09ZLS7X53?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31frNClOndL._SL400_.jpg",
+      "preco": 19.59,
+      "precoDe": 34.17,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T18:43:08.581Z"
+    },
+    {
+      "id": "15029",
+      "loja": "Shopee",
+      "titulo": "Massageador Elétrico 6 em 1 Corporal Potente Ergonômico Multifuncional Terapia 10 Velocidades",
+      "link": "https://s.shopee.com.br/6AklO7LGfU",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mr6qsdj7sydi4b_tn",
+      "preco": 164.78,
+      "precoDe": 242.75,
+      "desconto": 28,
+      "cupom": "D14D3V3ND3R",
+      "enviadoEm": "2026-09-04T18:33:38.869Z"
+    },
     {
       "id": "15025",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-09-03T16:32:40.611Z"
-    },
-    {
-      "id": "14587",
-      "loja": "Amazon",
-      "titulo": "Lápis de Cor, Faber-Castell, Ecolápis Triangular Jumbo + Apontador com Depósito, 12.3024AP, 24 Cores",
-      "link": "https://www.amazon.com.br/dp/B072M2YNYS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51UxKgC1kIL._SL400_.jpg",
-      "preco": 61.64,
-      "precoDe": 100.18,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T16:32:36.307Z"
-    },
-    {
-      "id": "14585",
-      "loja": "Amazon",
-      "titulo": "Burigotto Banheira Splash+ Rose Madder",
-      "link": "https://www.amazon.com.br/dp/B0CGBNCPC5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41EnW4alokL._SL400_.jpg",
-      "preco": 377.9,
-      "precoDe": 639,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T16:32:28.715Z"
     }
   ]
 }
