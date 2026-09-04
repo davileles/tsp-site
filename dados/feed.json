@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-04T14:36:52.049Z",
+  "atualizadoEm": "2026-09-04T15:07:05.699Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14943",
+      "loja": "Amazon",
+      "titulo": "Mustela Creme Estrias 250ml - Hidrata e Acalma a Sensação de Coceira - Com 96% de Ingredientes de Origem Natural - Mustela Maternité",
+      "link": "https://www.amazon.com.br/dp/B07YVNBQ6Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/310P4x82iHL._SL400_.jpg",
+      "preco": 149.9,
+      "precoDe": 238.59,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T14:57:05.698Z"
+    },
+    {
+      "id": "14939",
+      "loja": "Shopee",
+      "titulo": "KIT 2 Camisa Gola Polo Alta Qualidade 100% Algodão Camiseta Básica Masculina  Diversas Cores",
+      "link": "https://s.shopee.com.br/4qFNYGtjfM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zty-mkjyqctdl34035_tn",
+      "preco": 59.8,
+      "precoDe": 99.67,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T14:49:31.825Z"
+    },
+    {
+      "id": "14940",
+      "loja": "Amazon",
+      "titulo": "Simple Joys by Carter's Body unissex de manga comprida para bebês, Urso/animais da floresta/listra, 0-3 Months",
+      "link": "https://www.amazon.com.br/dp/B0796683XL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41re+P0I+bL._SL400_.jpg",
+      "preco": 119.53,
+      "precoDe": 139.88,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T14:47:07.228Z"
+    },
     {
       "id": "14929",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 36,
       "cupom": "FULL3003",
       "enviadoEm": "2026-09-03T15:20:51.216Z"
-    },
-    {
-      "id": "14539",
-      "loja": "Mercado Livre",
-      "titulo": "YoPRO Bebida Láctea UHT Chocolate 15g de proteínas 250ml - 12 unidades",
-      "link": "https://meli.la/1GJEwQv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_953528-MLA112540456984_062026-F.jpg",
-      "preco": 59,
-      "precoDe": 98.99,
-      "desconto": 20,
-      "cupom": "FULL3003",
-      "enviadoEm": "2026-09-03T15:18:57.442Z"
-    },
-    {
-      "id": "14538",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
-      "link": "https://meli.la/1U1Yvd6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_998463-MLA116907384785_082026-F.jpg",
-      "preco": 48.900000000000006,
-      "precoDe": 239.9,
-      "desconto": 71,
-      "cupom": "FULL3003",
-      "enviadoEm": "2026-09-03T15:18:02.015Z"
-    },
-    {
-      "id": "14535",
-      "loja": "Shopee",
-      "titulo": "Multiprocessador de Alimentos Turbo Chef 9 em 1 MPN-01-BF Mondial",
-      "link": "https://s.shopee.com.br/5foSy5ZhM7",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82608-mlgfmgmedhjca8_tn",
-      "preco": 179.73000000000002,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-03T15:06:31.214Z"
     }
   ]
 }
