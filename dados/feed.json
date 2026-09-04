@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-04T21:29:08.503Z",
+  "atualizadoEm": "2026-09-04T22:10:47.662Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15101",
+      "loja": "Mercado Livre",
+      "titulo": "Aspirador Extrator De Mão Elgin Remove & Clean 1.2L Azul-Escuro 1650W",
+      "link": "https://meli.la/1ejPwis",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_914285-MLA117038952763_092026-F.jpg",
+      "preco": 279.3,
+      "precoDe": 679.99,
+      "desconto": 41,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-04T22:00:47.660Z"
+    },
     {
       "id": "15098",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-09-03T17:58:47.455Z"
-    },
-    {
-      "id": "14622",
-      "loja": "Shopee",
-      "titulo": "JOGO DE CAMA Queen 500 Fios Percal Toque Algodão + 2 Fronhas 50x70 | Cobre Leito Luxo Sem Elástico",
-      "link": "https://s.shopee.com.br/80CNvanVxh",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mnmy209iybcya0_tn",
-      "preco": 42.57,
-      "precoDe": 72.15,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T17:50:04.258Z"
     }
   ]
 }
