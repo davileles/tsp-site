@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-04T13:53:29.776Z",
+  "atualizadoEm": "2026-09-04T14:15:44.594Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -778,7 +778,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Cupons em selecionados do Mercado Livre",
       "validadeAte": "2026-09-20T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -838,7 +838,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Cupons em selecionados do Mercado Livre",
       "validadeAte": "2026-09-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -891,6 +891,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "GARNIERNOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 60,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-09-05T13:58:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "DESCOTOSMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -910,7 +922,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Cupons em selecionados do Mercado Livre",
       "validadeAte": "2026-09-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
