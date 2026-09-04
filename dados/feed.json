@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-04T16:07:37.074Z",
+  "atualizadoEm": "2026-09-04T16:44:08.340Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14989",
+      "loja": "Shopee",
+      "titulo": "Lente de Contato Uso Diário Clariti - Coopervision + Estojo De Lentes",
+      "link": "https://s.shopee.com.br/LmyJn4fsD",
+      "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-lui6b2ll3hph86_tn",
+      "preco": 136.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "D14D3V3ND3R",
+      "enviadoEm": "2026-09-04T16:42:57.220Z"
+    },
+    {
+      "id": "14988",
+      "loja": "Amazon",
+      "titulo": "Protex Baby Lavanda Sabonete Líquido Infantil, 1L",
+      "link": "https://www.amazon.com.br/dp/B0DP835W1R?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31MbBn99j4L._SL400_.jpg",
+      "preco": 54.99,
+      "precoDe": 68.34,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T16:39:10.247Z"
+    },
+    {
+      "id": "14979",
+      "loja": "Mercado Livre",
+      "titulo": "Chuveiro Ducha Loren Comfort Eletrônica Lorenzetti 7500w 220v Branco",
+      "link": "https://meli.la/2TLLmBu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_968391-MLA115593426468_092026-F.jpg",
+      "preco": 95.76,
+      "precoDe": 133,
+      "desconto": 10,
+      "cupom": "CUPOMOFF",
+      "enviadoEm": "2026-09-04T16:32:28.727Z"
+    },
+    {
+      "id": "14969",
+      "loja": "Mercado Livre",
+      "titulo": "Lavadora de Alta Pressão Compacta WAP WL 1800 1400W 1500PSI 360L/h 127V",
+      "link": "https://meli.la/2gqvN3w",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_914656-MLA112812146736_072026-F.jpg",
+      "preco": 239.2,
+      "precoDe": 575,
+      "desconto": 48,
+      "cupom": "CUPOMOFF",
+      "enviadoEm": "2026-09-04T16:25:46.427Z"
+    },
+    {
+      "id": "14962",
+      "loja": "Shopee",
+      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
+      "link": "https://s.shopee.com.br/8fS6DXhXXG",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
+      "preco": 139.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "D14D3V3ND3R",
+      "enviadoEm": "2026-09-04T16:20:16.428Z"
+    },
+    {
+      "id": "14965",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 6 Bonecas Polly Pocket Mattel Original Bonequinha Lila",
+      "link": "https://meli.la/29Qvi5F",
+      "imagem": null,
+      "preco": 85.53,
+      "precoDe": 177.88,
+      "desconto": 31,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-04T16:17:59.942Z"
+    },
+    {
+      "id": "14964",
+      "loja": "Amazon",
+      "titulo": "Histórias Incríveis para Crianças: 2 anos",
+      "link": "https://www.amazon.com.br/dp/6555074361?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41miG3CvUjL._SL400_.jpg",
+      "preco": 23.33,
+      "precoDe": 49.9,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T16:17:57.242Z"
+    },
+    {
+      "id": "14963",
+      "loja": "Amazon",
+      "titulo": "Buba Kit Cuidados Baby Cinza Tamanho Único",
+      "link": "https://www.amazon.com.br/dp/B086JCX68G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31L0EY8bhBL._SL400_.jpg",
+      "preco": 27,
+      "precoDe": 47.9,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T16:17:55.701Z"
+    },
     {
       "id": "14955",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 33,
       "cupom": "SHOPEE50AF",
       "enviadoEm": "2026-09-03T15:56:44.805Z"
-    },
-    {
-      "id": "14557",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 4 Tops Alcinha Sem Bojo Academia Fitness Roupas Feminina",
-      "link": "https://meli.la/1gJqMMZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_988963-MLB115248654963_072026-O.webp",
-      "preco": 49.9,
-      "precoDe": 53.9,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T15:56:09.117Z"
-    },
-    {
-      "id": "14556",
-      "loja": "Amazon",
-      "titulo": "Freso Baby Soft Play Sofá de Brincar Infantil Montessori Verde, Sofá Modular 4 Peças, Fácil Montagem, Macio e Maleável, Método Montessoriano para Estimular Desenvolvimento Infantil",
-      "link": "https://www.amazon.com.br/dp/B0DHLT3ZR4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41m4AyJqw7L._SL400_.jpg",
-      "preco": 346.42,
-      "precoDe": 704.19,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T15:53:31.489Z"
-    },
-    {
-      "id": "14554",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Camisetas Masculina Canelada Americana Gola Careca",
-      "link": "https://meli.la/2kMQvdW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_884946-MLB108165070314_032026-O.webp",
-      "preco": 69.9,
-      "precoDe": 99.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T15:50:59.451Z"
-    },
-    {
-      "id": "14553",
-      "loja": "Mercado Livre",
-      "titulo": "SSD Externo Portátil 1TB Interface USB 3.2 SanDisk SDSSDE30-1T00 Velocidade de Leitura Até 800MB/s Preto",
-      "link": "https://meli.la/2muCT5F",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_845091-MLA101661887490_122025-F.jpg",
-      "preco": 850.5,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MEUCUPOM",
-      "enviadoEm": "2026-09-03T15:45:31.202Z"
-    },
-    {
-      "id": "14552",
-      "loja": "Amazon",
-      "titulo": "Britânia Escova Modeladora BEC04 2 em 1 Bivolt Plástico e Metal",
-      "link": "https://www.amazon.com.br/dp/B08QDX99RL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31u2ufPDL0L._SL400_.jpg",
-      "preco": 60.9,
-      "precoDe": 111.67,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T15:42:50.628Z"
-    },
-    {
-      "id": "14550",
-      "loja": "Amazon",
-      "titulo": "Baggio Café Cápsulas De Café Aroma Chocolate Trufado Compatível Com Máquinas Dolce Gusto Contém 10 Cápsulas",
-      "link": "https://www.amazon.com.br/dp/B0F1W5SD61?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41cM1be8rkL._SL400_.jpg",
-      "preco": 16.9,
-      "precoDe": 25.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T15:40:30.728Z"
-    },
-    {
-      "id": "14547",
-      "loja": "Shopee",
-      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
-      "link": "https://s.shopee.com.br/8AVnyYWFzH",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
-      "preco": 50.77,
-      "precoDe": 327.55,
-      "desconto": 69,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-03T15:33:57.035Z"
-    },
-    {
-      "id": "14546",
-      "loja": "Mercado Livre",
-      "titulo": "Percarbonato De Sódio Limpador Clareador Tira Manchas - 3kg",
-      "link": "https://meli.la/1WXjfyz",
-      "imagem": null,
-      "preco": 48.900000000000006,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FULL3003",
-      "enviadoEm": "2026-09-03T15:29:48.594Z"
     }
   ]
 }
