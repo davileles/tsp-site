@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-04T11:21:37.893Z",
+  "atualizadoEm": "2026-09-04T11:35:03.231Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14810",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
+      "link": "https://s.shopee.com.br/3VjyJulqfa",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-k1jd7z81yzkv2f_tn",
+      "preco": 25,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T11:25:03.230Z"
+    },
+    {
+      "id": "14808",
+      "loja": "Amazon",
+      "titulo": "3 Corações TRES Cafeteira Espresso e Multibebida Passione Vermelha - 220V",
+      "link": "https://www.amazon.com.br/dp/B08S23W892?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31LsYg28vsS._SL400_.jpg",
+      "preco": 319.2,
+      "precoDe": 499.9,
+      "desconto": 20,
+      "cupom": "COZINHA20",
+      "enviadoEm": "2026-09-04T11:22:30.271Z"
+    },
     {
       "id": "14802",
       "loja": "Amazon",
@@ -1239,18 +1263,6 @@
       "enviadoEm": "2026-09-03T14:13:07.200Z"
     },
     {
-      "id": "14472",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
-      "link": "https://s.shopee.com.br/3VjyJulqfa",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-k1jd7z81yzkv2f_tn",
-      "preco": 12.5,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-03T14:05:49.404Z"
-    },
-    {
       "id": "14470",
       "loja": "Mercado Livre",
       "titulo": "Fralda Descartável Turma da Mônica Baby XG Pacote 42 Unidades",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": "AGORAOUNUNCA",
       "enviadoEm": "2026-09-03T13:07:20.044Z"
-    },
-    {
-      "id": "14433",
-      "loja": "Amazon",
-      "titulo": "Thermos Garrafa infantil Carros Funtainer, aço inoxidável, 354 ml, rosa",
-      "link": "https://www.amazon.com.br/dp/B00DAPQT3O?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313H6-po+-L._SL400_.jpg",
-      "preco": 144.69,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T13:00:29.454Z"
     }
   ]
 }
