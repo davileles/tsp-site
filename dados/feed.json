@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-04T17:44:08.340Z",
+  "atualizadoEm": "2026-09-04T17:58:38.326Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15007",
+      "loja": "Shopee",
+      "titulo": "Macacão Feminino Longo Pantalona Elegante Premium Assimétrico Duna Tomara Que Caia Solto Alfaiataria Social Moda Casual",
+      "link": "https://s.shopee.com.br/6q0S8FhUSs",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-moy6w5u9jf2e9a_tn",
+      "preco": 49.99,
+      "precoDe": 99.98,
+      "desconto": 40,
+      "cupom": "D14D3V3ND3R",
+      "enviadoEm": "2026-09-04T17:48:38.317Z"
+    },
     {
       "id": "15005",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 59,
       "cupom": "MEUCUPOM",
       "enviadoEm": "2026-09-03T16:17:32.301Z"
-    },
-    {
-      "id": "14571",
-      "loja": "Shopee",
-      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
-      "link": "https://s.shopee.com.br/20vAg1TRWe",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
-      "preco": 16.14,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-03T16:14:42.941Z"
     }
   ]
 }
