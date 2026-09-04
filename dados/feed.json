@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-04T12:41:23.317Z",
+  "atualizadoEm": "2026-09-04T12:46:43.001Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14878",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51p7Q6bht8L._SL400_.jpg",
+      "preco": 199.29,
+      "precoDe": 229.49,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T12:44:20.825Z"
+    },
+    {
+      "id": "14877",
+      "loja": "Amazon",
+      "titulo": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51itse07rNL._SL400_.jpg",
+      "preco": 37.49,
+      "precoDe": 52.65,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T12:44:19.829Z"
+    },
+    {
+      "id": "14876",
+      "loja": "Amazon",
+      "titulo": "Buba Kit Aspirador Nasal De Sucção E Seringa",
+      "link": "https://www.amazon.com.br/dp/B0BVG9B3NF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31sbsNnENRL._SL400_.jpg",
+      "preco": 19.4,
+      "precoDe": 20.5,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T12:44:18.878Z"
+    },
     {
       "id": "14871",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 23,
       "cupom": null,
       "enviadoEm": "2026-09-03T14:13:13.725Z"
-    },
-    {
-      "id": "14510",
-      "loja": "Amazon",
-      "titulo": "Graco Cadeira de Alimentação e Refeição Infantil Alta Dobrável e Reclinável Slim Snacker Cinza",
-      "link": "https://www.amazon.com.br/dp/B00PTL13LA?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31oT+dUxK4L._SL400_.jpg",
-      "preco": 394.31,
-      "precoDe": 489.89,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T14:13:09.345Z"
-    },
-    {
-      "id": "14509",
-      "loja": "Amazon",
-      "titulo": "Repelente de Insetos KIDS Loção 120g - Zaz",
-      "link": "https://www.amazon.com.br/dp/B08RZCY6WG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31O490bg7NL._SL400_.jpg",
-      "preco": 14.15,
-      "precoDe": 22.36,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T14:13:07.200Z"
-    },
-    {
-      "id": "14470",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Descartável Turma da Mônica Baby XG Pacote 42 Unidades",
-      "link": "https://meli.la/1Jy4wxy",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_908623-MLA111032843377_042026-F.jpg",
-      "preco": 37.8,
-      "precoDe": 50.05,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T13:59:01.674Z"
     }
   ]
 }
