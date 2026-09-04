@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-04T13:28:50.914Z",
+  "atualizadoEm": "2026-09-04T13:45:43.062Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14889",
+      "loja": "Amazon",
+      "titulo": "Desitin Creme Preventivo De Assaduras Proteção Diária Creamy, Kit com 3 Unidades de 113g",
+      "link": "https://www.amazon.com.br/dp/B0F4KXTCFT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41R6nej2kbL._SL400_.jpg",
+      "preco": 128.89,
+      "precoDe": 175.49,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T13:43:29.398Z"
+    },
+    {
+      "id": "14888",
+      "loja": "Shopee",
+      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
+      "link": "https://s.shopee.com.br/1BM3jwYAIW",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
+      "preco": 64,
+      "precoDe": 158,
+      "desconto": 50,
+      "cupom": "V3ND4S15",
+      "enviadoEm": "2026-09-04T13:41:44.765Z"
+    },
+    {
+      "id": "14886",
+      "loja": "Mercado Livre",
+      "titulo": "Empurrador Galinha Pintadinha Vamos Passear Elka",
+      "link": "https://meli.la/1co3Xfh",
+      "imagem": null,
+      "preco": 45.71,
+      "precoDe": 129.99,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T13:37:43.801Z"
+    },
     {
       "id": "14883",
       "loja": "Shopee",
@@ -999,18 +1035,6 @@
       "enviadoEm": "2026-09-03T17:22:41.169Z"
     },
     {
-      "id": "14604",
-      "loja": "Shopee",
-      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
-      "link": "https://s.shopee.com.br/1BM3jwYAIW",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
-      "preco": 64,
-      "precoDe": 158,
-      "desconto": 50,
-      "cupom": "V3ND4S15",
-      "enviadoEm": "2026-09-03T17:04:49.421Z"
-    },
-    {
       "id": "14603",
       "loja": "Shopee",
       "titulo": "Sutiã Santa Passion Tomara que Caia com Bojo e Aro Liso de Alta Sustentação Push Up Confortável",
@@ -1417,30 +1441,6 @@
       "desconto": 43,
       "cupom": "SHOPEE50AF",
       "enviadoEm": "2026-09-03T14:51:15.308Z"
-    },
-    {
-      "id": "14522",
-      "loja": "Shopee",
-      "titulo": "Mop Com Centrifuga Inox e Cabo em Inox Com Refil De Microfibra 9 Litros Mopi",
-      "link": "https://s.shopee.com.br/9AOL6xUcXi",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mqdqvf8wjr4316_tn",
-      "preco": 22.67,
-      "precoDe": 82.45,
-      "desconto": 45,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-03T14:43:58.980Z"
-    },
-    {
-      "id": "14521",
-      "loja": "Amazon",
-      "titulo": "Cercadinho Para Bebe, 128 × 105 × 65 Hexagonal Cercadinho,Antiderrapante, 0 a 6 Anos",
-      "link": "https://www.amazon.com.br/dp/B0H9KVBMLS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/517dSvfg-PL._SL400_.jpg",
-      "preco": 114.98,
-      "precoDe": 199,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T14:40:49.538Z"
     }
   ]
 }
