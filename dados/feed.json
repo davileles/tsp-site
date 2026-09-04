@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-04T18:14:08.340Z",
+  "atualizadoEm": "2026-09-04T18:33:34.133Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15025",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino Barreda Adidas",
+      "link": "https://meli.la/2r8uWRD",
+      "imagem": null,
+      "preco": 190.65,
+      "precoDe": 399.99,
+      "desconto": 42,
+      "cupom": "OFERTASEMPRE",
+      "enviadoEm": "2026-09-04T18:23:34.132Z"
+    },
+    {
+      "id": "15022",
+      "loja": "Mercado Livre",
+      "titulo": "Bicicleta aro 29 Gts Dexter 24 velocidades freio a disco cor grafite com preto tamanho do quadro 17",
+      "link": "https://meli.la/14LAfkt",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_920776-MLA99484738714_112025-F.jpg",
+      "preco": 809,
+      "precoDe": 1413,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T18:16:12.778Z"
+    },
     {
       "id": "15019",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-09-03T16:32:28.715Z"
-    },
-    {
-      "id": "14584",
-      "loja": "Amazon",
-      "titulo": "Coleção Monteiro Lobato - Caixa",
-      "link": "https://www.amazon.com.br/dp/8587898183?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51m8n14c9PL._SL400_.jpg",
-      "preco": 25.52,
-      "precoDe": 69.9,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T16:32:26.429Z"
-    },
-    {
-      "id": "14576",
-      "loja": "Shopee",
-      "titulo": "HEROI Banco Dobrável Para Exercícios Em Casa, Multifuncional com Banco Pastor Removível + Até 150kg",
-      "link": "https://s.shopee.com.br/4VcVewXhxE",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgq65zdx3i84f2_tn",
-      "preco": 249.5,
-      "precoDe": 998,
-      "desconto": 50,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-03T16:19:35.059Z"
     }
   ]
 }
