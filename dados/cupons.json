@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-04T14:15:44.594Z",
+  "atualizadoEm": "2026-09-04T14:36:53.274Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -732,6 +732,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-05T12:01:21.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "PELANDODAY20",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 100,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-05T14:36:37.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
