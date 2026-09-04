@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-04T19:06:23.448Z",
+  "atualizadoEm": "2026-09-04T19:29:01.333Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15049",
+      "loja": "Shopee",
+      "titulo": "Percarbonato 100% Puro Tira Manchas Roupas Brancas e Coloridas",
+      "link": "https://s.shopee.com.br/4LJ7Fr7Pbo",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqdb9tob0xdu3d_tn",
+      "preco": 17.99,
+      "precoDe": 33.94,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T19:19:01.329Z"
+    },
     {
       "id": "15040",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 35,
       "cupom": null,
       "enviadoEm": "2026-09-03T16:32:57.369Z"
-    },
-    {
-      "id": "14588",
-      "loja": "Mercado Livre",
-      "titulo": "Boneca Barbie Supermercado De Luxo Da Barbie Mattel Frp01",
-      "link": "https://meli.la/181jCzT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_852942-MLA100024458541_122025-F.jpg",
-      "preco": 208.05,
-      "precoDe": 299.99,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T16:32:40.611Z"
     }
   ]
 }
