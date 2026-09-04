@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-04T17:36:00.626Z",
+  "atualizadoEm": "2026-09-04T17:44:08.340Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15005",
+      "loja": "Amazon",
+      "titulo": "Garrafa Thermos Blue Funtainer 340 ml",
+      "link": "https://www.amazon.com.br/dp/B00DAPQV0K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31dXeSjRwfL._SL400_.jpg",
+      "preco": 112,
+      "precoDe": 152.29,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T17:42:28.155Z"
+    },
+    {
+      "id": "15004",
+      "loja": "Amazon",
+      "titulo": "Pote para comida FunTainer Thermos, 295 ml, roxo",
+      "link": "https://www.amazon.com.br/dp/B08NCG2YPF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31LNE8oeDaL._SL400_.jpg",
+      "preco": 128.1,
+      "precoDe": 177.25,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T17:42:27.329Z"
+    },
+    {
+      "id": "15003",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Baby Premium Protection M, 62 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0C3FS2GXX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41MSdJEeHsL._SL400_.jpg",
+      "preco": 67.89,
+      "precoDe": 94.84,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T17:42:26.413Z"
+    },
     {
       "id": "14998",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": "SHOPEE50AF",
       "enviadoEm": "2026-09-03T16:14:42.941Z"
-    },
-    {
-      "id": "14570",
-      "loja": "Amazon",
-      "titulo": "JBL PartyBox On-the-Go 2 - Altifalante portátil Bluetooth para festas com microfone sem fio, espetáculo de luz dinâmica, 15 horas de reprodução, classificação IPX4 à prova de salpi",
-      "link": "https://www.amazon.com.br/dp/B0FPMMQWM3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41hljTVO0kL._SL400_.jpg",
-      "preco": 1649,
-      "precoDe": 1748,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T16:14:17.233Z"
-    },
-    {
-      "id": "14569",
-      "loja": "Amazon",
-      "titulo": "Kit Wella Professionals Invigo Nutri-Enrich Salon Máscara P (3 produtos)",
-      "link": "https://www.amazon.com.br/dp/B0DTLKF7JQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31wCDga9NAL._SL400_.jpg",
-      "preco": 352.9,
-      "precoDe": 419.9,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T16:11:02.495Z"
-    },
-    {
-      "id": "14568",
-      "loja": "Amazon",
-      "titulo": "Bundle Nintendo Switch OLED + Super Mario Bros. Wonder + 3 Meses de Assinatura Nintendo Switch Online",
-      "link": "https://www.amazon.com.br/dp/B0FR6PC1FB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41n92BuHeXL._SL400_.jpg",
-      "preco": 2139.9,
-      "precoDe": 2699.9,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T16:08:38.649Z"
     }
   ]
 }
