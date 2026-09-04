@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-04T15:44:08.340Z",
+  "atualizadoEm": "2026-09-04T16:07:37.074Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14955",
+      "loja": "Shopee",
+      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
+      "link": "https://s.shopee.com.br/5AsCbK8Vz0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
+      "preco": 49.33,
+      "precoDe": 65.77,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T15:57:37.073Z"
+    },
     {
       "id": "14952",
       "loja": "Shopee",
@@ -889,18 +901,6 @@
       "desconto": 23,
       "cupom": "VEMPRAAMAZON",
       "enviadoEm": "2026-09-03T18:41:16.788Z"
-    },
-    {
-      "id": "14647",
-      "loja": "Shopee",
-      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
-      "link": "https://s.shopee.com.br/5AsCbK8Vz0",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
-      "preco": 49.33,
-      "precoDe": 65.77,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T18:33:01.663Z"
     },
     {
       "id": "14646",
