@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-04T20:59:27.467Z",
+  "atualizadoEm": "2026-09-04T21:14:08.340Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15090",
+      "loja": "Shopee",
+      "titulo": "Tarraxa Mágica de Sustentação p/ Sutiã Orelha Rasgada Banhado a Ouro 18k Acessório Anti Alérgico",
+      "link": "https://s.shopee.com.br/2VrTCGUsK3",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcc7rjg9zdgrb2_tn",
+      "preco": 12.89,
+      "precoDe": 15.91,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T21:12:04.312Z"
+    },
+    {
+      "id": "15091",
+      "loja": "Amazon",
+      "titulo": "Cereal Sucrilhos® Original Kellogg's® 1kg",
+      "link": "https://www.amazon.com.br/dp/B09CRHZV85?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51hTDCe71vL._SL400_.jpg",
+      "preco": 27.75,
+      "precoDe": 117.83,
+      "desconto": 76,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T21:12:01.193Z"
+    },
+    {
+      "id": "15089",
+      "loja": "Amazon",
+      "titulo": "Buchanan's Whisky Escocês Blended Deluxe Garrafa 750Ml",
+      "link": "https://www.amazon.com.br/dp/B001QZ5GUW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41FsIQ2bzmL._SL400_.jpg",
+      "preco": 119.9,
+      "precoDe": 189.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T21:09:57.183Z"
+    },
     {
       "id": "15085",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-09-03T17:36:31.482Z"
-    },
-    {
-      "id": "14616",
-      "loja": "Amazon",
-      "titulo": "Copo Easy Sip c/Bico de Silicone 260ml Philips Avent - SCF553/03",
-      "link": "https://www.amazon.com.br/dp/B00WJNJ4EO?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31QO4KeHHyL._SL400_.jpg",
-      "preco": 38.98,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T17:32:45.468Z"
-    },
-    {
-      "id": "14615",
-      "loja": "Mercado Livre",
-      "titulo": "Vitamina B12 Metilcobalamina 414% 60caps Nutrify",
-      "link": "https://meli.la/2RRVEnd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745981-MLA100089582957_122025-F.jpg",
-      "preco": 24.06,
-      "precoDe": 42,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T17:32:44.317Z"
-    },
-    {
-      "id": "14614",
-      "loja": "Shopee",
-      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
-      "link": "https://s.shopee.com.br/9KhlUUqYc2",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnyps41y3uo4c6_tn",
-      "preco": 84.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "V3ND4S15",
-      "enviadoEm": "2026-09-03T17:27:20.703Z"
     }
   ]
 }
