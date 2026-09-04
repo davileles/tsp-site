@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-04T13:06:02.654Z",
+  "atualizadoEm": "2026-09-04T13:28:50.914Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14883",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Bobojaco Impermeável Becker Nylon Puffer Masculino com Bolsos e Capuz",
+      "link": "https://s.shopee.com.br/9pe3PE7px8",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmb-lo8gotg960in6f_tn",
+      "preco": 72.99,
+      "precoDe": 99.99,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T13:18:50.913Z"
+    },
     {
       "id": "14880",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-09-03T14:40:49.538Z"
-    },
-    {
-      "id": "14519",
-      "loja": "Amazon",
-      "titulo": "Cadeira de Alimentação Infantil 4 em 1 (Cinza)",
-      "link": "https://www.amazon.com.br/dp/B0H61PS8TB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41tGd5A2DKL._SL400_.jpg",
-      "preco": 404,
-      "precoDe": 479,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T14:40:47.358Z"
     }
   ]
 }
