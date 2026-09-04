@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-04T15:07:05.699Z",
+  "atualizadoEm": "2026-09-04T15:13:53.943Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14951",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
+      "link": "https://s.shopee.com.br/5q7ulfhTW0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
+      "preco": 49.33,
+      "precoDe": 65.77,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T15:11:49.451Z"
+    },
+    {
+      "id": "14950",
+      "loja": "Mercado Livre",
+      "titulo": "Protetor Solar Facial com Cor FPS 70 Alta Cobertura - L'Oréal Paris Solar Expertise Efeito Make Up 30g",
+      "link": "https://meli.la/1UXYCrp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_661431-MLA99923107715_112025-F.jpg",
+      "preco": 28.659999999999997,
+      "precoDe": 63.99,
+      "desconto": 36,
+      "cupom": "FULL0409",
+      "enviadoEm": "2026-09-04T15:10:09.913Z"
+    },
     {
       "id": "14943",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 32,
       "cupom": "FULL3003",
       "enviadoEm": "2026-09-03T15:24:40.418Z"
-    },
-    {
-      "id": "14542",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina Monohidratada 500g Pó Growth",
-      "link": "https://meli.la/1wgvXzH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_602304-MLA109372354737_032026-F.jpg",
-      "preco": 58.900000000000006,
-      "precoDe": 104.9,
-      "desconto": 25,
-      "cupom": "FULL3003",
-      "enviadoEm": "2026-09-03T15:23:59.072Z"
-    },
-    {
-      "id": "14540",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 15 Pares Meias Sport Algodão Cano Médio Sandrini Confort",
-      "link": "https://meli.la/23q2Yi7",
-      "imagem": null,
-      "preco": 49.989999999999995,
-      "precoDe": 109.99,
-      "desconto": 36,
-      "cupom": "FULL3003",
-      "enviadoEm": "2026-09-03T15:20:51.216Z"
     }
   ]
 }
