@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-04T21:14:08.340Z",
+  "atualizadoEm": "2026-09-04T21:29:08.503Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15098",
+      "loja": "Amazon",
+      "titulo": "Ventilador de Teto Elluz Inverter Ventisol",
+      "link": "https://www.amazon.com.br/dp/B0BLT3S7RH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31OpXqsggVL._SL400_.jpg",
+      "preco": 264.9,
+      "precoDe": 399,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T21:19:08.351Z"
+    },
+    {
+      "id": "15094",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray London Dry 375ml",
+      "link": "https://www.amazon.com.br/dp/B0FC8SKB2F?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PACUxdzUL._SL400_.jpg",
+      "preco": 39.9,
+      "precoDe": 73.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T21:16:55.834Z"
+    },
+    {
+      "id": "15097",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41zapxN3+7L._SL400_.jpg",
+      "preco": 57.99,
+      "precoDe": 77.27,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T21:15:51.390Z"
+    },
+    {
+      "id": "15092",
+      "loja": "Amazon",
+      "titulo": "Azeite Andorinha Vintage 500ml",
+      "link": "https://www.amazon.com.br/dp/B07Y5Q12H5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41EhX0esuaL._SL400_.jpg",
+      "preco": 37.85,
+      "precoDe": 41.96,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T21:14:24.733Z"
+    },
     {
       "id": "15090",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-09-03T17:50:04.258Z"
-    },
-    {
-      "id": "14621",
-      "loja": "Shopee",
-      "titulo": "Ugreen - Hub USB-C 7X1 Multifunctional  1*HDMI 4K 60@ -  2*USB-C 3.2 - 1*USB-A 3.2 - SD/TF - 100W PD",
-      "link": "https://s.shopee.com.br/8V8eWFnoOP",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdam700q9q8106_tn",
-      "preco": 294,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "V3ND4S15",
-      "enviadoEm": "2026-09-03T17:46:16.296Z"
-    },
-    {
-      "id": "14620",
-      "loja": "Amazon",
-      "titulo": "Repelente para Bebê SBP Baby Loção Corporal com Icaridina 100ml",
-      "link": "https://www.amazon.com.br/dp/B08T6JZC6D?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Ulvhs2ytL._SL400_.jpg",
-      "preco": 22.59,
-      "precoDe": 40.49,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T17:42:37.680Z"
-    },
-    {
-      "id": "14618",
-      "loja": "Amazon",
-      "titulo": "Safety 1st, Travel System Magnific Trio, Grey Denin",
-      "link": "https://www.amazon.com.br/dp/B0CRZ8FZBP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41fSFje6xRL._SL400_.jpg",
-      "preco": 1200,
-      "precoDe": 2199,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T17:36:34.357Z"
-    },
-    {
-      "id": "14617",
-      "loja": "Amazon",
-      "titulo": "Kit Refeição Bebê com Tigela e Colher Termossensível | Tipo Buba | Bowl Infantil com Tampa e Base Antiderrapante | Ideal para Introdução Alimentar, Papinha e Refeição Infantil (Azu",
-      "link": "https://www.amazon.com.br/dp/B0GWY9FVVZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31P3BliARUL._SL400_.jpg",
-      "preco": 25.19,
-      "precoDe": 27.99,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T17:36:31.482Z"
     }
   ]
 }
