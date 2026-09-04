@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-04T20:14:05.447Z",
+  "atualizadoEm": "2026-09-04T20:36:45.673Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15082",
+      "loja": "Shopee",
+      "titulo": "Saco de Lixo resistente 20/40/60/100 Litros direto da fábrica",
+      "link": "https://s.shopee.com.br/3LQa8fe4cx",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-luz0raa04k0w98_tn",
+      "preco": 8.99,
+      "precoDe": 19.98,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T20:26:45.672Z"
+    },
     {
       "id": "15069",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 60,
       "cupom": null,
       "enviadoEm": "2026-09-03T17:23:37.505Z"
-    },
-    {
-      "id": "14612",
-      "loja": "Amazon",
-      "titulo": "Kit com 5 Creme Pomada de Assadura Para Bebê Maxi Baby Vitamina A.E com Óleo de Girassol A.G.E - 15g Cada Total 75g",
-      "link": "https://www.amazon.com.br/dp/B0GZX2227D?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41E-v+J0fqL._SL400_.jpg",
-      "preco": 22.9,
-      "precoDe": 39.9,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T17:22:42.415Z"
     }
   ]
 }
