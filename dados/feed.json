@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-04T15:13:53.943Z",
+  "atualizadoEm": "2026-09-04T15:44:08.340Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14952",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário para Cozinha Multiuso Taças Pratos Prateleiras Aramado Aço Dicarlo 5 Peças",
+      "link": "https://s.shopee.com.br/20vATXC3CC",
+      "imagem": "https://cf.shopee.com.br/file/0913c6b2091f5d1f1b53d3b9e5624b4e_tn",
+      "preco": 103.5,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "D14D3V3ND3R",
+      "enviadoEm": "2026-09-04T15:34:49.134Z"
+    },
     {
       "id": "14951",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "FULL3003",
       "enviadoEm": "2026-09-03T15:29:48.594Z"
-    },
-    {
-      "id": "14543",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 5 Camisetas Básicas Masculina Dry Fit Lisa Tradicional",
-      "link": "https://meli.la/2kfwGEn",
-      "imagem": null,
-      "preco": 37.44,
-      "precoDe": 78.99,
-      "desconto": 32,
-      "cupom": "FULL3003",
-      "enviadoEm": "2026-09-03T15:24:40.418Z"
     }
   ]
 }
