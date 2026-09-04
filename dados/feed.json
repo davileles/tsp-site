@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-04T16:44:08.340Z",
+  "atualizadoEm": "2026-09-04T17:36:00.626Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14998",
+      "loja": "Shopee",
+      "titulo": "Lorenzetti Aquecedor de Agua Versátil 3 Temperaturas Branco 127",
+      "link": "https://s.shopee.com.br/7AdIVIk8cY",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdys-mbptsew8hqq572_tn",
+      "preco": 379.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "D14D3V3ND3R",
+      "enviadoEm": "2026-09-04T17:26:00.563Z"
+    },
+    {
+      "id": "14999",
+      "loja": "Amazon",
+      "titulo": "Play-Doh Kit com 10 cores básicas de massinha, refil",
+      "link": "https://www.amazon.com.br/dp/B0DJDRPNVS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41hWsGbpnnL._SL400_.jpg",
+      "preco": 12.99,
+      "precoDe": 19.99,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T17:23:37.134Z"
+    },
     {
       "id": "14989",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-09-03T16:08:38.649Z"
-    },
-    {
-      "id": "14563",
-      "loja": "Amazon",
-      "titulo": "Gillette Desodorante Antitranspirante em Gel Cool Wave 82 g",
-      "link": "https://www.amazon.com.br/dp/B00CXI9918?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41WHaUX-+zL._SL400_.jpg",
-      "preco": 16.24,
-      "precoDe": 33.15,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T15:58:34.365Z"
-    },
-    {
-      "id": "14558",
-      "loja": "Shopee",
-      "titulo": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
-      "link": "https://s.shopee.com.br/3qMoq9ilfd",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134207-825ai-mr9pynhmd43k22_tn",
-      "preco": 73.5,
-      "precoDe": 219.4,
-      "desconto": 33,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-03T15:56:44.805Z"
     }
   ]
 }
