@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-04T17:58:38.326Z",
+  "atualizadoEm": "2026-09-04T18:14:08.340Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15019",
+      "loja": "Shopee",
+      "titulo": "Mala De Viagem/Bordo 10KG,Nova Estilo Zíper Dupla Camada Anti-Roubo,Rodas Duplas 360Grau lançamento",
+      "link": "https://s.shopee.com.br/5q7uxxYmOQ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6kfam0o02sw54_tn",
+      "preco": 138.5,
+      "precoDe": 270,
+      "desconto": 45,
+      "cupom": "D14D3V3ND3R",
+      "enviadoEm": "2026-09-04T18:11:01.047Z"
+    },
     {
       "id": "15007",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 50,
       "cupom": "SHOPEE50AF",
       "enviadoEm": "2026-09-03T16:19:35.059Z"
-    },
-    {
-      "id": "14575",
-      "loja": "Mercado Livre",
-      "titulo": "Ar Condicionado Split Inverter Hitachi Airhome 12.000 Btus Frio R-32",
-      "link": "https://meli.la/1thXbEA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_801611-MLA84185636896_052025-F.jpg",
-      "preco": 1664.1,
-      "precoDe": 4535.61,
-      "desconto": 59,
-      "cupom": "MEUCUPOM",
-      "enviadoEm": "2026-09-03T16:17:32.301Z"
     }
   ]
 }
