@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-03T22:49:08.093Z",
+  "atualizadoEm": "2026-09-04T11:21:37.893Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "14802",
+      "loja": "Amazon",
+      "titulo": "Mustela Stelatopia Óleo de Banho 500 ml - Limpeza e Hidratação suave para Peles Secas e extremamente Ressecadas - Seguro Para Bebês, Crianças e Adultos - Sem Fragrância - Stelatopi",
+      "link": "https://www.amazon.com.br/dp/B089Z8DV9N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31aA2QcZiZL._SL400_.jpg",
+      "preco": 135.9,
+      "precoDe": 143.91,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T11:14:33.782Z"
+    },
+    {
+      "id": "14801",
+      "loja": "Amazon",
+      "titulo": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
+      "link": "https://www.amazon.com.br/dp/B095R9CKYR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41srPqkVhsL._SL400_.jpg",
+      "preco": 29.9,
+      "precoDe": 43.59,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T11:14:32.879Z"
+    },
+    {
+      "id": "14798",
+      "loja": "Amazon",
+      "titulo": "Caloi Bicicleta Andes, Aro 26, Câmbio 21 Velocidades, Preta",
+      "link": "https://www.amazon.com.br/dp/B0DQQCM4T3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Kq4WRfW5L._SL400_.jpg",
+      "preco": 699,
+      "precoDe": 1229.9,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T11:09:22.194Z"
+    },
+    {
+      "id": "14797",
+      "loja": "Amazon",
+      "titulo": "Amstel Cerveja Lager Puro Malte, Lata 350ml, Pack 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CMXV5WLB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41HMYUaJgHL._SL400_.jpg",
+      "preco": 39.9,
+      "precoDe": 46.68,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T11:05:01.242Z"
+    },
+    {
+      "id": "14796",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
+      "link": "https://s.shopee.com.br/8V8eFXWroV",
+      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
+      "preco": 52.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-04T11:02:40.457Z"
+    },
     {
       "id": "14781",
       "loja": "Amazon",
@@ -1251,18 +1311,6 @@
       "enviadoEm": "2026-09-03T13:58:22.168Z"
     },
     {
-      "id": "14456",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
-      "link": "https://s.shopee.com.br/8V8eFXWroV",
-      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
-      "preco": 26.45,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-03T13:42:50.073Z"
-    },
-    {
       "id": "14455",
       "loja": "Amazon",
       "titulo": "MOMODENT Escova Elétrica Infantil Sônica, Cerdas Extra Macias, 3 Modos de Vibração, 3 Cabeças Substituíveis, IPX7 à Prova D'Água, Recarregável, para Crianças de 3 a 12 Anos (Azul)",
@@ -1393,54 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-03T13:00:29.454Z"
-    },
-    {
-      "id": "14432",
-      "loja": "Shopee",
-      "titulo": "1080° Torneira Giratória de Braço Robótico Chuveiro À Prova De Respingos Banheiro Cozinha Do Aerador Dois Modos",
-      "link": "https://s.shopee.com.br/4Azf2IU2EM",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mev5hs72r2mac1_tn",
-      "preco": 14.49,
-      "precoDe": 63,
-      "desconto": 54,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-03T12:57:45.450Z"
-    },
-    {
-      "id": "14432",
-      "loja": "Shopee",
-      "titulo": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
-      "link": "https://s.shopee.com.br/AUtiZZk55u",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mq3nf4vg8k5f75_tn",
-      "preco": 19.45,
-      "precoDe": 55.57,
-      "desconto": 30,
-      "cupom": "SHOPEE50AF",
-      "enviadoEm": "2026-09-03T12:50:11.892Z"
-    },
-    {
-      "id": "14431",
-      "loja": "Mercado Livre",
-      "titulo": "Central Multimídia Android Universal 7\" com CarPlay e Android Auto Sem Fio, Bluetooth e GPS",
-      "link": "https://meli.la/2yCc3o5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_916129-MLA114372153002_082026-F.jpg",
-      "preco": 267.40999999999997,
-      "precoDe": 679,
-      "desconto": 44,
-      "cupom": "TOPACHADO",
-      "enviadoEm": "2026-09-03T12:47:18.800Z"
-    },
-    {
-      "id": "14430",
-      "loja": "Mercado Livre",
-      "titulo": "Bicicleta Ergométrica Bike Spinning 6kg Sensação inércia Fitness Preto e Vermelho Sevenfit Para Cardio E Musculação",
-      "link": "https://meli.la/2ZrUucG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745785-MLA114987927277_072026-F.jpg",
-      "preco": 404.90999999999997,
-      "precoDe": 1094.99,
-      "desconto": 59,
-      "cupom": "AGORAOUNUNCA",
-      "enviadoEm": "2026-09-03T12:46:34.428Z"
     }
   ]
 }
