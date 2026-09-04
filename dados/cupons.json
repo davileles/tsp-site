@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-04T14:45:43.627Z",
+  "atualizadoEm": "2026-09-04T15:07:06.909Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -735,18 +735,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "SITE500309",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 499,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons válidos para todo o site do Mercado Livre",
-      "validadeAte": "2026-09-04T15:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -903,6 +891,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "FULL0409",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupom válido em entregas Full. 30% de desconto com limite máximo de R$ 20 de economia, aplicável em compras acima de R$ 39.",
+      "validadeAte": "2026-09-05T15:01:40.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "DESCOTOSMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -991,7 +991,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1051,7 +1051,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1083,18 +1083,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SITE25",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 25,
-      "minimo": 219,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons válidos para todo o site do Mercado Livre",
-      "validadeAte": "2026-09-04T15:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CLIENTETOP",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1111,7 +1099,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 22,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1183,7 +1171,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 18,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1224,6 +1212,18 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-09-09T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SUPER0309",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-09-05T15:01:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1371,15 +1371,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
     },
     {
-      "codigo": "V3ND4S15",
+      "codigo": "D14D3V3ND3R",
       "loja": "Shopee",
       "tipo": "reais",
-      "valor": 15,
-      "minimo": 79,
+      "valor": 10,
+      "minimo": 59,
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-09-04T15:01:09.000Z",
+      "validadeAte": "2026-09-05T15:01:04.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
