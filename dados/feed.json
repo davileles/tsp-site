@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-04T22:14:08.341Z",
+  "atualizadoEm": "2026-09-04T22:37:07.262Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15106",
+      "loja": "Mercado Livre",
+      "titulo": "Boné Sportswear Baseball Unissex adidas",
+      "link": "https://meli.la/31ZqSmg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_966057-MLB85298155013_052025-O.webp",
+      "preco": 90.19,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFERTASEMPRE",
+      "enviadoEm": "2026-09-04T22:27:07.260Z"
+    },
     {
       "id": "15104",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 12,
       "cupom": null,
       "enviadoEm": "2026-09-03T17:58:59.687Z"
-    },
-    {
-      "id": "14625",
-      "loja": "Amazon",
-      "titulo": "Cadeirinha Safety 1st, i-NXT, 0 a 36kg, com Giro 360° e Isofix, Grey Urban",
-      "link": "https://www.amazon.com.br/dp/B09SP2WJV6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41P5C6lHM7L._SL400_.jpg",
-      "preco": 1375,
-      "precoDe": 2299,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T17:58:52.271Z"
     }
   ]
 }
