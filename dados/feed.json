@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-05T16:08:08.211Z",
+  "atualizadoEm": "2026-09-05T16:14:08.438Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15191",
+      "loja": "Amazon",
+      "titulo": "NESCAFÉ Gelado Café Solúvel 100g",
+      "link": "https://www.amazon.com.br/dp/B0DP5CYPSC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41VvZ5GqRML._SL400_.jpg",
+      "preco": 15.9,
+      "precoDe": 23.79,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-05T16:13:50.873Z"
+    },
+    {
+      "id": "15190",
+      "loja": "Mercado Livre",
+      "titulo": "Chaleira Elétrica 1.8 Litros Em Inox Automática Aquecimento Rápido Segura",
+      "link": "https://meli.la/2gC2U4q",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_935276-MLA115019226867_072026-F.jpg",
+      "preco": 40,
+      "precoDe": 49.99,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-09-05T16:10:11.487Z"
+    },
     {
       "id": "15189",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-09-03T22:39:08.091Z"
-    },
-    {
-      "id": "14779",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
-      "link": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51kgcUDgWfL._SL400_.jpg",
-      "preco": 159.89,
-      "precoDe": 229.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T22:19:58.384Z"
-    },
-    {
-      "id": "14778",
-      "loja": "Shopee",
-      "titulo": "Seringa de Segurança Retrátil para Insulina (1ml) com Agulha Fixa 0,3x13mm (30G 1/2) c/10 | - SOL",
-      "link": "https://s.shopee.com.br/60RJqRAxwK",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mnepe0233aptdf_tn",
-      "preco": 15,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T22:19:31.186Z"
     }
   ]
 }
