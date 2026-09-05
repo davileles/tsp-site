@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-05T19:01:57.348Z",
+  "atualizadoEm": "2026-09-05T19:30:40.615Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15214",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
+      "link": "https://s.shopee.com.br/4qFPRmyFSo",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
+      "preco": 23.88,
+      "precoDe": 47.76,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-05T19:20:40.613Z"
+    },
     {
       "id": "15212",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 72,
       "cupom": null,
       "enviadoEm": "2026-09-04T12:09:49.595Z"
-    },
-    {
-      "id": "14847",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis New Balance Original 480 Low Masculino Urbano Clássico",
-      "link": "https://meli.la/1rYmoZp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_833132-MLB110980756244_052026-O.webp",
-      "preco": 212.8,
-      "precoDe": 736.62,
-      "desconto": 59,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-04T12:09:07.152Z"
     }
   ]
 }
