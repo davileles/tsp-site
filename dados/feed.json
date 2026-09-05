@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-05T11:39:42.784Z",
+  "atualizadoEm": "2026-09-05T11:44:08.365Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15121",
+      "loja": "Amazon",
+      "titulo": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
+      "link": "https://www.amazon.com.br/dp/B095R9CKYR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41srPqkVhsL._SL400_.jpg",
+      "preco": 29.9,
+      "precoDe": 43.59,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-05T11:43:56.567Z"
+    },
     {
       "id": "15119",
       "loja": "Amazon",
@@ -961,18 +973,6 @@
       "desconto": 6,
       "cupom": null,
       "enviadoEm": "2026-09-04T11:14:33.782Z"
-    },
-    {
-      "id": "14801",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
-      "link": "https://www.amazon.com.br/dp/B095R9CKYR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41srPqkVhsL._SL400_.jpg",
-      "preco": 29.9,
-      "precoDe": 43.59,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T11:14:32.879Z"
     },
     {
       "id": "14798",
