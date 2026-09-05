@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-05T02:44:08.692Z",
+  "atualizadoEm": "2026-09-05T03:14:08.589Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -627,18 +627,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "LS12",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 12,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-05T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "ESQUENTA10",
       "loja": "Kabum",
       "tipo": "pct",
@@ -1083,6 +1071,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "RESGATELOJAS0409",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido somente para quem resgatou ontem. Aplicável a Lojas Oficiais.",
+      "validadeAte": "2026-09-06T03:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CLIENTETOP",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1260,18 +1260,6 @@
       "limite": 300,
       "observacao": null,
       "validadeAte": "2026-09-09T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIAPROVEITA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-09-05T02:58:59.781Z",
       "url": "https://meli.la/2xystLt"
     },
     {
