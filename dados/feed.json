@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-05T14:37:03.425Z",
+  "atualizadoEm": "2026-09-05T15:14:08.438Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15186",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Marmitas 900ml com Travas Potes Herméticos - Livres de BPA para Alimentos organiza congelador",
+      "link": "https://s.shopee.com.br/70Jtkhqjyu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-ms4svnxflfd31d_tn",
+      "preco": 36.9,
+      "precoDe": 80.22,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-09-05T15:12:11.687Z"
+    },
+    {
+      "id": "15185",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
+      "link": "https://meli.la/1U1Yvd6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_998463-MLA116907384785_082026-F.jpg",
+      "preco": 48.900000000000006,
+      "precoDe": 239.9,
+      "desconto": 71,
+      "cupom": "FULL0509",
+      "enviadoEm": "2026-09-05T15:05:27.261Z"
+    },
+    {
+      "id": "15184",
+      "loja": "Amazon",
+      "titulo": "Percarbonato de Sódio 1kg 100% Puro Tira Manchas em Pó Sem Cloro, Biodegradável e Seguro para Roupas Brancas, Coloridas e Limpeza Doméstica Calisul",
+      "link": "https://www.amazon.com.br/dp/B0FWCTHSWQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41sOH8U4u4L._SL400_.jpg",
+      "preco": 28,
+      "precoDe": 49.9,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-09-05T15:01:04.432Z"
+    },
+    {
+      "id": "15180",
+      "loja": "Amazon",
+      "titulo": "Banheira Portátil Infantil Com Termômetro Digital para Bebê - Cinza",
+      "link": "https://www.amazon.com.br/dp/B0FDL656XX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314RsxM355L._SL400_.jpg",
+      "preco": 104.39,
+      "precoDe": 109.9,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-09-05T14:51:50.721Z"
+    },
+    {
+      "id": "15178",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
+      "link": "https://s.shopee.com.br/112ga8Pghv",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnyps41y3uo4c6_tn",
+      "preco": 89.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "D14D3V3ND3R",
+      "enviadoEm": "2026-09-05T14:49:41.772Z"
+    },
     {
       "id": "15174",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 43,
       "cupom": "SUPERDESCONTO",
       "enviadoEm": "2026-09-03T22:07:37.917Z"
-    },
-    {
-      "id": "14775",
-      "loja": "Mercado Livre",
-      "titulo": "Ar Condicionado Inverter Philco 9000 Btus Frio 220v Pac9ft",
-      "link": "https://meli.la/1FHY2Sn",
-      "imagem": null,
-      "preco": 1499,
-      "precoDe": 1799,
-      "desconto": 6,
-      "cupom": "OFERTASOFF",
-      "enviadoEm": "2026-09-03T22:04:17.769Z"
-    },
-    {
-      "id": "14772",
-      "loja": "Mercado Livre",
-      "titulo": "Filtro de Linha com Protetor de Surto DPS iClamper Energia 5 Tomadas 3 Pinos 10 Amperes com Tecnologia LCF Anti Raio Clamper Cor Preto",
-      "link": "https://meli.la/1omEjKz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_866018-MLA99534240446_122025-F.jpg",
-      "preco": 54.54,
-      "precoDe": 71.9,
-      "desconto": 5,
-      "cupom": "GARANTEAQUI",
-      "enviadoEm": "2026-09-03T22:01:28.109Z"
-    },
-    {
-      "id": "14771",
-      "loja": "Shopee",
-      "titulo": "Regata Masculina Americana Ribana Canelada Slim Justa ao Corpo Marrom",
-      "link": "https://s.shopee.com.br/20vB3WYmiL",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcri0jg5g27mb2_tn",
-      "preco": 29.97,
-      "precoDe": 39.96,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T21:56:59.608Z"
-    },
-    {
-      "id": "14767",
-      "loja": "Amazon",
-      "titulo": "Lenços Umedecidos Huggies Recém-Nascido Sem Fragrância 6x48U",
-      "link": "https://www.amazon.com.br/dp/B07FN7T2LK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41+x4I9GYhL._SL400_.jpg",
-      "preco": 49.9,
-      "precoDe": 55.48,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T21:50:02.755Z"
-    },
-    {
-      "id": "14763",
-      "loja": "Shopee",
-      "titulo": "Processador Processadores 3 Laminas De Alimentos Manual 500ml Multiuso Universal",
-      "link": "https://s.shopee.com.br/30niDolgnn",
-      "imagem": "https://cf.shopee.com.br/file/ec94a44236e11acb0440dc5bd1a79843_tn",
-      "preco": 14.99,
-      "precoDe": 22.04,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T21:34:16.946Z"
     }
   ]
 }
