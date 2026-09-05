@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-05T12:44:08.437Z",
+  "atualizadoEm": "2026-09-05T13:06:10.129Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15149",
+      "loja": "Shopee",
+      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
+      "link": "https://s.shopee.com.br/9pe4yZXib0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
+      "preco": 89.73,
+      "precoDe": 321.71,
+      "desconto": 69,
+      "cupom": "D14D3V3ND3R",
+      "enviadoEm": "2026-09-05T12:56:10.127Z"
+    },
     {
       "id": "15147",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 79,
       "cupom": "V3ND4S15",
       "enviadoEm": "2026-09-03T20:26:54.202Z"
-    },
-    {
-      "id": "14701",
-      "loja": "Amazon",
-      "titulo": "Lysoform Original, Desinfetante Líquido, Limpeza Casa, 5L",
-      "link": "https://www.amazon.com.br/dp/B07N4FX3TC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/411IxYjdlbL._SL400_.jpg",
-      "preco": 45.54,
-      "precoDe": 49.9,
-      "desconto": 9,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T20:12:47.326Z"
     }
   ]
 }
