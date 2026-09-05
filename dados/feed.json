@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-05T13:28:50.216Z",
+  "atualizadoEm": "2026-09-05T13:44:08.438Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15160",
+      "loja": "Shopee",
+      "titulo": "Conjunto Moletom Infantil Canguru Brooklyn New York 1989  Calça Conjunto Inverno Quentinho Estiloso",
+      "link": "https://s.shopee.com.br/3B7B5Qgrws",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mnk1nztbj2ted2_tn",
+      "preco": 58.84,
+      "precoDe": 129.89,
+      "desconto": 47,
+      "cupom": "D14D3V3ND3R",
+      "enviadoEm": "2026-09-05T13:41:33.014Z"
+    },
     {
       "id": "15154",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 19,
       "cupom": null,
       "enviadoEm": "2026-09-03T21:09:00.519Z"
-    },
-    {
-      "id": "14731",
-      "loja": "Shopee",
-      "titulo": "Organizador de Geladeira Multiuso Plasutil Para Armario Dispensa Cozinha",
-      "link": "https://s.shopee.com.br/1A6FDnMGa",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkxr03l1t53609_tn",
-      "preco": 27.9,
-      "precoDe": 31,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T20:49:23.082Z"
     }
   ]
 }
