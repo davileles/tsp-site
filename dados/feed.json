@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-05T16:14:08.438Z",
+  "atualizadoEm": "2026-09-05T16:30:29.239Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15196",
+      "loja": "Shopee",
+      "titulo": "Kit 3 Calças Jeans Feminina Skinny Lycra Cintura Alta Modelo Empina Bumbum Lançamento Promoção",
+      "link": "https://s.shopee.com.br/50YpRjd3fX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9keeu5abgopdd_tn",
+      "preco": 144.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "C0RR1D499",
+      "enviadoEm": "2026-09-05T16:20:29.237Z"
+    },
+    {
+      "id": "15195",
+      "loja": "Mercado Livre",
+      "titulo": "Ar-condicionado Split Electrolux 18.000 Btus (ni18r/ne18r",
+      "link": "https://meli.la/2yuDwZb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_699244-MLA113471147859_062026-F.jpg",
+      "preco": 2399,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-05T16:20:02.222Z"
+    },
+    {
+      "id": "15193",
+      "loja": "Mercado Livre",
+      "titulo": "Soprador 48v Turbo Portátil Com 2 Baterias Potente Preto",
+      "link": "https://meli.la/2dwxo7c",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_616518-MLA99997067814_122025-F.jpg",
+      "preco": 83.19,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CUPOMOFF",
+      "enviadoEm": "2026-09-05T16:16:26.820Z"
+    },
     {
       "id": "15191",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-09-04T11:09:22.194Z"
-    },
-    {
-      "id": "14797",
-      "loja": "Amazon",
-      "titulo": "Amstel Cerveja Lager Puro Malte, Lata 350ml, Pack 12 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CMXV5WLB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41HMYUaJgHL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 46.68,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T11:05:01.242Z"
-    },
-    {
-      "id": "14796",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
-      "link": "https://s.shopee.com.br/8V8eFXWroV",
-      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
-      "preco": 52.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T11:02:40.457Z"
-    },
-    {
-      "id": "14781",
-      "loja": "Amazon",
-      "titulo": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
-      "link": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lVmXe4CVL._SL400_.jpg",
-      "preco": 43.02,
-      "precoDe": 59.99,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T22:39:08.091Z"
     }
   ]
 }
