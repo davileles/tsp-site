@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-05T19:30:40.615Z",
+  "atualizadoEm": "2026-09-05T19:53:19.798Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15217",
+      "loja": "Shopee",
+      "titulo": "Mixer Power Inox 3 Em 1 Elgin 600w Batedor Processador 127v",
+      "link": "https://s.shopee.com.br/4fvzH1mVCO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ok5c2tre2qbd_tn",
+      "preco": 142,
+      "precoDe": 190,
+      "desconto": 20,
+      "cupom": "C0RR1D499",
+      "enviadoEm": "2026-09-05T19:43:19.772Z"
+    },
     {
       "id": "15214",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-04T12:10:16.243Z"
-    },
-    {
-      "id": "14849",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Inox 2l Com Desligamento Automático Full",
-      "link": "https://s.shopee.com.br/5AsDlwbtQ2",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820nf-mnfpx6z1slc5e1_tn",
-      "preco": 56.99,
-      "precoDe": 203.54,
-      "desconto": 72,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T12:09:49.595Z"
     }
   ]
 }
