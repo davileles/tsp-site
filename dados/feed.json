@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-05T18:45:26.304Z",
+  "atualizadoEm": "2026-09-05T19:01:57.348Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15212",
+      "loja": "Shopee",
+      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
+      "link": "https://s.shopee.com.br/6Akn0g5opc",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
+      "preco": 187.9,
+      "precoDe": 599.7,
+      "desconto": 67,
+      "cupom": "C0RR1D499",
+      "enviadoEm": "2026-09-05T18:58:03.544Z"
+    },
     {
       "id": "15211",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 59,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-09-04T12:09:07.152Z"
-    },
-    {
-      "id": "14846",
-      "loja": "Amazon",
-      "titulo": "MINI GRILL OSTER 2 em 1, 1000W, 110V, OGRL230",
-      "link": "https://www.amazon.com.br/dp/B0BSP1XKYL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31GHlHxl7sL._SL400_.jpg",
-      "preco": 115.99000000000001,
-      "precoDe": 259,
-      "desconto": 44,
-      "cupom": "COZINHA20",
-      "enviadoEm": "2026-09-04T12:07:33.489Z"
     }
   ]
 }
