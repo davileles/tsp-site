@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-05T11:14:08.364Z",
+  "atualizadoEm": "2026-09-05T11:39:42.784Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15119",
+      "loja": "Amazon",
+      "titulo": "Lenços Umedecidos Huggies Rosto e Corpo Limpeza 4 x 48 Un",
+      "link": "https://www.amazon.com.br/dp/B07MJ251Z8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41kdm-GOGJL._SL400_.jpg",
+      "preco": 29.9,
+      "precoDe": 32.6,
+      "desconto": 8,
+      "cupom": null,
+      "enviadoEm": "2026-09-05T11:29:42.783Z"
+    },
+    {
+      "id": "15118",
+      "loja": "Shopee",
+      "titulo": "1/2/3/4  Peças Mini Máquina Seladora Recarregável Para Embalagens Plásticas - Selagem Rápida/ Alta Qualidade/ Promoção",
+      "link": "https://s.shopee.com.br/20vDXxgvsy",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mmr759zcedj476_tn",
+      "preco": 12.98,
+      "precoDe": 25.96,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-05T11:25:47.193Z"
+    },
     {
       "id": "15116",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-09-03T18:09:21.663Z"
-    },
-    {
-      "id": "14633",
-      "loja": "Mercado Livre",
-      "titulo": "Celular Samsung Galaxy A17 Com Ia, 128gb, 4gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Preto",
-      "link": "https://meli.la/1zKCqXh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_807017-MLA91535682558_092025-F.jpg",
-      "preco": 745.54,
-      "precoDe": 854,
-      "desconto": 3,
-      "cupom": "MEUCUPOM",
-      "enviadoEm": "2026-09-03T18:07:01.457Z"
-    },
-    {
-      "id": "14631",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo Q.i Brinquedo Educativo 3d Raciocínio 120 Desafio",
-      "link": "https://meli.la/2qzKStC",
-      "imagem": null,
-      "preco": 26.68,
-      "precoDe": 53.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T18:04:05.513Z"
     }
   ]
 }
