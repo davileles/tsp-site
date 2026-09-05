@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-05T12:44:09.829Z",
+  "atualizadoEm": "2026-09-05T13:06:11.163Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -516,18 +516,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-06T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "TAMALUCO",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-05T13:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
