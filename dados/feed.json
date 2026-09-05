@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-05T12:03:39.705Z",
+  "atualizadoEm": "2026-09-05T12:14:08.366Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15135",
+      "loja": "Amazon",
+      "titulo": "Caixa Sonho de Valsa e Ouro Branco Sortidos 220g",
+      "link": "https://www.amazon.com.br/dp/B0CK3Q4RTH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41V3T+3S07L._SL400_.jpg",
+      "preco": 11.99,
+      "precoDe": 18.49,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-09-05T12:12:10.109Z"
+    },
+    {
+      "id": "15134",
+      "loja": "Shopee",
+      "titulo": "3 Pacotes  Lenços Panos Umedecidos Cuidado Para as Mãos Álcool Coperalcool ( 3 x 50 Unidades )",
+      "link": "https://s.shopee.com.br/1LfWnrSq3W",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbqpy6uh5yl547_tn",
+      "preco": 69.98,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "D14D3V3ND3R",
+      "enviadoEm": "2026-09-05T12:11:00.255Z"
+    },
+    {
+      "id": "15129",
+      "loja": "Amazon",
+      "titulo": "Neutrogena Hidratante Corporal Intensivo Norwegian, Sem Fragrância, 400ml",
+      "link": "https://www.amazon.com.br/dp/B0B91WQ41J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Tl6va8haL._SL400_.jpg",
+      "preco": 59.79,
+      "precoDe": 122.99,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-09-05T12:07:10.891Z"
+    },
     {
       "id": "15124",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 14,
       "cupom": null,
       "enviadoEm": "2026-09-03T18:43:44.693Z"
-    },
-    {
-      "id": "14661",
-      "loja": "Amazon",
-      "titulo": "Lillo Mamadeira Super Evolution Magia 300Ml 6M+ Azul –",
-      "link": "https://www.amazon.com.br/dp/B07DXDX152?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/419+msukGoL._SL400_.jpg",
-      "preco": 31.82,
-      "precoDe": 46.47,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T18:41:48.763Z"
-    },
-    {
-      "id": "14655",
-      "loja": "Amazon",
-      "titulo": "Hisense Smart TV UHD 4K HI-QLED 55\" Polegadas 55Q7QG",
-      "link": "https://www.amazon.com.br/dp/B0FLLK2HNZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41yQ++VHvIL._SL400_.jpg",
-      "preco": 2289,
-      "precoDe": 3299,
-      "desconto": 23,
-      "cupom": "VEMPRAAMAZON",
-      "enviadoEm": "2026-09-03T18:41:16.788Z"
-    },
-    {
-      "id": "14646",
-      "loja": "Mercado Livre",
-      "titulo": "Prancheta Magnética Didática Educacional Para Crianças",
-      "link": "https://meli.la/31nPG9j",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_908758-MLA95534063880_102025-F.jpg",
-      "preco": 43.08,
-      "precoDe": 53.9,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T18:24:05.738Z"
     }
   ]
 }
