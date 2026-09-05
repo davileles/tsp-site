@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-05T20:31:57.386Z",
+  "atualizadoEm": "2026-09-05T21:01:07.706Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15223",
+      "loja": "Shopee",
+      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
+      "link": "https://s.shopee.com.br/AAGvto2wyk",
+      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
+      "preco": 64.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "C0RR1D499",
+      "enviadoEm": "2026-09-05T20:51:07.703Z"
+    },
     {
       "id": "15221",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-09-04T12:23:17.706Z"
-    },
-    {
-      "id": "14851",
-      "loja": "Mercado Livre",
-      "titulo": "Aspirador de Pó e Água Electrolux Compacto Potente 1400W Função Sopro 12L total 5L útil protetor térmico AWD01",
-      "link": "https://meli.la/1fASj6i",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_658360-MLA111078325188_052026-F.jpg",
-      "preco": 179,
-      "precoDe": 269.99,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T12:14:16.161Z"
     }
   ]
 }
