@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-05T13:14:08.437Z",
+  "atualizadoEm": "2026-09-05T13:28:50.216Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15154",
+      "loja": "Shopee",
+      "titulo": "Colchão Inflável Queen Casal KAYOOSI Elétrico 203x152x40cm com Bomba Embutida  Cama De Campanha",
+      "link": "https://s.shopee.com.br/904y0aONBO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mpm0ksn1gpvn4b_tn",
+      "preco": 338,
+      "precoDe": 600,
+      "desconto": 42,
+      "cupom": "D14D3V3ND3R",
+      "enviadoEm": "2026-09-05T13:18:50.191Z"
+    },
     {
       "id": "15152",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-09-03T20:49:23.082Z"
-    },
-    {
-      "id": "14708",
-      "loja": "Mercado Livre",
-      "titulo": "Chinelo Adilette Aqua (unissex) adidas",
-      "link": "https://meli.la/1qbKYk8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_630064-MLB75442923670_042024-O.webp",
-      "preco": 49.99,
-      "precoDe": 149.99,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-09-03T20:28:10.082Z"
     }
   ]
 }
