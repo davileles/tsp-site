@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-05T21:46:25.178Z",
+  "atualizadoEm": "2026-09-05T22:31:57.393Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15232",
+      "loja": "Mercado Livre",
+      "titulo": "Fritadeira Elétrica Air Fryer Oven Black INOX WAP WAOD2",
+      "link": "https://meli.la/1XouFew",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_705038-MLA99580433144_122025-F.jpg",
+      "preco": 405.55,
+      "precoDe": 978,
+      "desconto": 55,
+      "cupom": "LIBERAESSA",
+      "enviadoEm": "2026-09-05T22:26:05.594Z"
+    },
+    {
+      "id": "15231",
+      "loja": "Shopee",
+      "titulo": "LANÇAMENTO • iPhone 17 Pro / 17 Pro Max 256GB • Novo Original NF Lacrado",
+      "link": "https://s.shopee.com.br/5foWdplC0l",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhcaeeg33imda2_tn",
+      "preco": 7416.6,
+      "precoDe": 15135.92,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-09-05T22:23:09.525Z"
+    },
     {
       "id": "15227",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 5,
       "cupom": null,
       "enviadoEm": "2026-09-04T12:44:18.878Z"
-    },
-    {
-      "id": "14871",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Inox Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
-      "link": "https://s.shopee.com.br/qjEdXjnYy",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms49lbchdmh1a1_tn",
-      "preco": 48.9,
-      "precoDe": 99.8,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T12:32:36.876Z"
-    },
-    {
-      "id": "14870",
-      "loja": "Amazon",
-      "titulo": "Stanley - Garrafa Térmica AeroLight Transit, garrafa isolada em vácuo para café, chá e bebidas, em aço inoxidável leve, 354ml, Cream",
-      "link": "https://www.amazon.com.br/dp/B0F62GR5MM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21wnFGqRgiL._SL400_.jpg",
-      "preco": 133.74,
-      "precoDe": 219,
-      "desconto": 24,
-      "cupom": "COZINHA20",
-      "enviadoEm": "2026-09-04T12:30:17.361Z"
     }
   ]
 }
