@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-05T13:06:10.129Z",
+  "atualizadoEm": "2026-09-05T13:14:08.437Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15152",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeirinha Infantil Para Carro Mass Litet 0 A 36kg Com 13 Ajustes De Cabeça 4 Reclínios E Cinto 3 Pontos - BB456",
+      "link": "https://meli.la/2uW3HJz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_658042-MLA99508459328_112025-F.jpg",
+      "preco": 539.1,
+      "precoDe": 999.9,
+      "desconto": 40,
+      "cupom": "CHEGUEIAQUI",
+      "enviadoEm": "2026-09-05T13:07:51.349Z"
+    },
     {
       "id": "15149",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 67,
       "cupom": null,
       "enviadoEm": "2026-09-03T20:28:10.082Z"
-    },
-    {
-      "id": "14707",
-      "loja": "Shopee",
-      "titulo": "Mochila Moto LED Olhos 3D Casca Rígida Impermeável Grande Capacidade Mochila Moderna para Viagem Trabalho Dia a Dia",
-      "link": "https://s.shopee.com.br/3Vjyk5COX0",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mlwrlh9oi1hi51_tn",
-      "preco": 384.99,
-      "precoDe": 1904.71,
-      "desconto": 79,
-      "cupom": "V3ND4S15",
-      "enviadoEm": "2026-09-03T20:26:54.202Z"
     }
   ]
 }
