@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-05T18:45:27.441Z",
+  "atualizadoEm": "2026-09-05T19:30:41.838Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1188,6 +1188,18 @@
       "limite": 300,
       "observacao": null,
       "validadeAte": "2026-09-09T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PEGASEUDESCONTO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-09-06T19:23:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
