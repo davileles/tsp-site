@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-05T19:53:19.798Z",
+  "atualizadoEm": "2026-09-05T20:15:51.995Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15219",
+      "loja": "Shopee",
+      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
+      "link": "https://s.shopee.com.br/1LfXKSqsNN",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
+      "preco": 79,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "C0RR1D499",
+      "enviadoEm": "2026-09-05T20:05:51.993Z"
+    },
     {
       "id": "15217",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 34,
       "cupom": null,
       "enviadoEm": "2026-09-04T12:13:24.792Z"
-    },
-    {
-      "id": "14850",
-      "loja": "Amazon",
-      "titulo": "Ninho Nestle Zero Lactose 700G",
-      "link": "https://www.amazon.com.br/dp/B081QWG9J1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314ndBz3+ZL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T12:10:16.243Z"
     }
   ]
 }
