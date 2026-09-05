@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-05T16:44:08.439Z",
+  "atualizadoEm": "2026-09-05T17:32:57.333Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15200",
+      "loja": "Shopee",
+      "titulo": "Kit com 3 Cetrilan Creme Infantil Protetor para Prevenção de Assaduras 120g - Theraskin",
+      "link": "https://s.shopee.com.br/904yHaGrPf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mnojxdtx53408d_tn",
+      "preco": 165.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "C0RR1D499",
+      "enviadoEm": "2026-09-05T17:26:18.145Z"
+    },
     {
       "id": "15197",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 20,
       "cupom": "COZINHA20",
       "enviadoEm": "2026-09-04T11:22:30.271Z"
-    },
-    {
-      "id": "14802",
-      "loja": "Amazon",
-      "titulo": "Mustela Stelatopia Óleo de Banho 500 ml - Limpeza e Hidratação suave para Peles Secas e extremamente Ressecadas - Seguro Para Bebês, Crianças e Adultos - Sem Fragrância - Stelatopi",
-      "link": "https://www.amazon.com.br/dp/B089Z8DV9N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31aA2QcZiZL._SL400_.jpg",
-      "preco": 135.9,
-      "precoDe": 143.91,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T11:14:33.782Z"
     }
   ]
 }
