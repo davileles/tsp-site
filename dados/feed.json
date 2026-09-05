@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-05T17:32:57.333Z",
+  "atualizadoEm": "2026-09-05T17:59:41.181Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15200",
+      "loja": "Shopee",
+      "titulo": "Kit Tapete Banheiro 38x58cm |50x100m |50x70cm Antiderrapante Pipoca Popcorn Várias Cores Macio",
+      "link": "https://s.shopee.com.br/3g3RxLJhjM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mqqbq5jvx1c3e8_tn",
+      "preco": 19.99,
+      "precoDe": 25.96,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-09-05T17:49:41.175Z"
+    },
     {
       "id": "15200",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-04T11:25:03.230Z"
-    },
-    {
-      "id": "14808",
-      "loja": "Amazon",
-      "titulo": "3 Corações TRES Cafeteira Espresso e Multibebida Passione Vermelha - 220V",
-      "link": "https://www.amazon.com.br/dp/B08S23W892?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31LsYg28vsS._SL400_.jpg",
-      "preco": 319.2,
-      "precoDe": 499.9,
-      "desconto": 20,
-      "cupom": "COZINHA20",
-      "enviadoEm": "2026-09-04T11:22:30.271Z"
     }
   ]
 }
