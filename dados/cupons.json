@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-05T22:36:05.833Z",
+  "atualizadoEm": "2026-09-06T00:01:57.683Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -697,18 +697,6 @@
       "observacao": "Cupons do Magalu APP",
       "validadeAte": "2026-09-06T12:03:01.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "TOPACHADO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "GARIMPEI",
