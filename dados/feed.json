@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-06T13:01:57.434Z",
+  "atualizadoEm": "2026-09-06T13:31:57.435Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15287",
+      "loja": "Amazon",
+      "titulo": "Fralda Pants Huggies Proteção Acolchoada, Tamanho G, 70 unidades, Estilo Roupinha, Cintura Macia, Fácil de Colocar",
+      "link": "https://www.amazon.com.br/dp/B0BXM1CSC2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/517Azmkq2dL._SL400_.jpg",
+      "preco": 92.82,
+      "precoDe": 131.78,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-06T13:26:11.069Z"
+    },
+    {
+      "id": "15285",
+      "loja": "Shopee",
+      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
+      "link": "https://s.shopee.com.br/2VrVrOmaxD",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
+      "preco": 69,
+      "precoDe": 158,
+      "desconto": 50,
+      "cupom": "C0RR1D499",
+      "enviadoEm": "2026-09-06T13:16:58.216Z"
+    },
+    {
+      "id": "15286",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41cr+Y+sGyL._SL400_.jpg",
+      "preco": 57.72,
+      "precoDe": 71.67,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-06T13:16:16.433Z"
+    },
+    {
+      "id": "15284",
+      "loja": "Amazon",
+      "titulo": "Fralda Huggies Tripla Proteção M - 42 fraldas",
+      "link": "https://www.amazon.com.br/dp/B08QG5H9RD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41u8miitEEL._SL400_.jpg",
+      "preco": 43.41,
+      "precoDe": 55.53,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-09-06T13:07:48.450Z"
+    },
     {
       "id": "15282",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 40,
       "cupom": "D14D3V3ND3R",
       "enviadoEm": "2026-09-04T17:48:38.317Z"
-    },
-    {
-      "id": "15005",
-      "loja": "Amazon",
-      "titulo": "Garrafa Thermos Blue Funtainer 340 ml",
-      "link": "https://www.amazon.com.br/dp/B00DAPQV0K?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31dXeSjRwfL._SL400_.jpg",
-      "preco": 112,
-      "precoDe": 152.29,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T17:42:28.155Z"
-    },
-    {
-      "id": "15004",
-      "loja": "Amazon",
-      "titulo": "Pote para comida FunTainer Thermos, 295 ml, roxo",
-      "link": "https://www.amazon.com.br/dp/B08NCG2YPF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31LNE8oeDaL._SL400_.jpg",
-      "preco": 128.1,
-      "precoDe": 177.25,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T17:42:27.329Z"
-    },
-    {
-      "id": "15003",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Baby Premium Protection M, 62 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0C3FS2GXX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41MSdJEeHsL._SL400_.jpg",
-      "preco": 67.89,
-      "precoDe": 94.84,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T17:42:26.413Z"
-    },
-    {
-      "id": "14998",
-      "loja": "Shopee",
-      "titulo": "Lorenzetti Aquecedor de Agua Versátil 3 Temperaturas Branco 127",
-      "link": "https://s.shopee.com.br/7AdIVIk8cY",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdys-mbptsew8hqq572_tn",
-      "preco": 379.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "D14D3V3ND3R",
-      "enviadoEm": "2026-09-04T17:26:00.563Z"
     }
   ]
 }
