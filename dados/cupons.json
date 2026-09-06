@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T00:01:57.683Z",
+  "atualizadoEm": "2026-09-06T00:31:57.743Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -132,18 +132,6 @@
       "limite": null,
       "observacao": "Válido em produtos selecionados de limpeza",
       "validadeAte": "2026-09-06T14:35:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "VEMPRIME99",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 60,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-06T00:08:53.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
