@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T01:01:57.645Z",
+  "atualizadoEm": "2026-09-06T02:01:57.683Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1131,18 +1131,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PEGAESSAPROMO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-09-06T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "LIBERAESSA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1163,7 +1151,7 @@
       "maximo": null,
       "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-09-06T02:59:00.000Z",
+      "validadeAte": "2026-09-06T02:59:00.092Z",
       "url": "https://meli.la/2xystLt"
     },
     {
