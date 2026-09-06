@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T20:31:57.712Z",
+  "atualizadoEm": "2026-09-06T21:01:57.771Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -751,10 +751,10 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
       "validadeAte": "2026-09-29T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -963,6 +963,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ACHEIOFF",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
+      "validadeAte": "2026-09-07T20:47:50.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CLIENTETOP",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1131,6 +1143,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PRECINHOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-09-09T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TUDOAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1176,6 +1200,30 @@
       "limite": 300,
       "observacao": "Válido em selecionados conforme lista fornecida",
       "validadeAte": "2026-09-09T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CUSTAPOUCO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-09-07T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TOPMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-09-07T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
