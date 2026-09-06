@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-06T18:01:07.823Z",
+  "atualizadoEm": "2026-09-06T18:31:57.438Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15325",
+      "loja": "Amazon",
+      "titulo": "Dr. Peanut Pasta de Amendoim Sabor Pistache Pote 250g",
+      "link": "https://www.amazon.com.br/dp/B0FM8RKDNQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/510qj-ZxSCL._SL400_.jpg",
+      "preco": 18.98,
+      "precoDe": 25.5,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-06T18:22:53.657Z"
+    },
+    {
+      "id": "15323",
+      "loja": "Shopee",
+      "titulo": "mini processador de alimentos elétrico picador de alho triturador de pimenta 350ml",
+      "link": "https://s.shopee.com.br/6AkoYXBwUC",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262a-mjeyzg7g2e4na3_tn",
+      "preco": 25.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-06T18:14:00.102Z"
+    },
     {
       "id": "15317",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-09-04T21:15:51.390Z"
-    },
-    {
-      "id": "15092",
-      "loja": "Amazon",
-      "titulo": "Azeite Andorinha Vintage 500ml",
-      "link": "https://www.amazon.com.br/dp/B07Y5Q12H5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41EhX0esuaL._SL400_.jpg",
-      "preco": 37.85,
-      "precoDe": 41.96,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T21:14:24.733Z"
-    },
-    {
-      "id": "15090",
-      "loja": "Shopee",
-      "titulo": "Tarraxa Mágica de Sustentação p/ Sutiã Orelha Rasgada Banhado a Ouro 18k Acessório Anti Alérgico",
-      "link": "https://s.shopee.com.br/2VrTCGUsK3",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcc7rjg9zdgrb2_tn",
-      "preco": 12.89,
-      "precoDe": 15.91,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T21:12:04.312Z"
     }
   ]
 }
