@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-05T22:31:57.393Z",
+  "atualizadoEm": "2026-09-06T11:31:57.433Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15243",
+      "loja": "Shopee",
+      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1",
+      "link": "https://s.shopee.com.br/5VV7J7L5t2",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd48-lupf3z3a40mxf1_tn",
+      "preco": 18.99,
+      "precoDe": 90.43,
+      "desconto": 79,
+      "cupom": null,
+      "enviadoEm": "2026-09-06T11:23:19.962Z"
+    },
+    {
+      "id": "15244",
+      "loja": "Amazon",
+      "titulo": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
+      "link": "https://www.amazon.com.br/dp/B099KXW911?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41QSw44yLeL._SL400_.jpg",
+      "preco": 21.99,
+      "precoDe": 28.68,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-09-06T11:21:55.565Z"
+    },
+    {
+      "id": "15242",
+      "loja": "Amazon",
+      "titulo": "Huggies Fralda Supreme Care M 196 Un",
+      "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51+st-gYHFL._SL400_.jpg",
+      "preco": 159.9,
+      "precoDe": 229.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-06T11:17:34.299Z"
+    },
     {
       "id": "15232",
       "loja": "Mercado Livre",
@@ -711,18 +747,6 @@
       "enviadoEm": "2026-09-05T11:25:47.193Z"
     },
     {
-      "id": "15116",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Supreme Care M 196 Un",
-      "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51+st-gYHFL._SL400_.jpg",
-      "preco": 159.9,
-      "precoDe": 229.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-05T11:11:08.579Z"
-    },
-    {
       "id": "15115",
       "loja": "Amazon",
       "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem frald",
@@ -1417,30 +1441,6 @@
       "desconto": 13,
       "cupom": null,
       "enviadoEm": "2026-09-04T12:44:20.825Z"
-    },
-    {
-      "id": "14877",
-      "loja": "Amazon",
-      "titulo": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51itse07rNL._SL400_.jpg",
-      "preco": 37.49,
-      "precoDe": 52.65,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T12:44:19.829Z"
-    },
-    {
-      "id": "14876",
-      "loja": "Amazon",
-      "titulo": "Buba Kit Aspirador Nasal De Sucção E Seringa",
-      "link": "https://www.amazon.com.br/dp/B0BVG9B3NF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31sbsNnENRL._SL400_.jpg",
-      "preco": 19.4,
-      "precoDe": 20.5,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T12:44:18.878Z"
     }
   ]
 }
