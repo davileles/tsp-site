@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-06T19:01:57.438Z",
+  "atualizadoEm": "2026-09-06T19:31:57.439Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15331",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Portátil Elétrica Profissional Recarregável USB com Múltiplas Ponteiras para Relaxamento",
+      "link": "https://s.shopee.com.br/8V8jPViNCJ",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225c-mhjox6ltdn9ef0_tn",
+      "preco": 28.46,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-06T19:22:07.921Z"
+    },
     {
       "id": "15329",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 34,
       "cupom": null,
       "enviadoEm": "2026-09-04T21:19:08.351Z"
-    },
-    {
-      "id": "15094",
-      "loja": "Amazon",
-      "titulo": "Gin Tanqueray London Dry 375ml",
-      "link": "https://www.amazon.com.br/dp/B0FC8SKB2F?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31PACUxdzUL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 73.9,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T21:16:55.834Z"
     }
   ]
 }
