@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T17:38:23.612Z",
+  "atualizadoEm": "2026-09-06T18:01:09.076Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -663,6 +663,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "ELETRODOMESTICO0609",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 180,
+      "minimo": 1199,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-07T18:01:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "GARIMPEI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -780,6 +792,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-30T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ENTREGASFULL0609",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-09-07T18:01:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1080,18 +1104,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MODA0609",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Múltiplos cupons em selecionados",
-      "validadeAte": "2026-09-06T18:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
