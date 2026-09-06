@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T03:01:57.659Z",
+  "atualizadoEm": "2026-09-06T03:31:57.756Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -337,6 +337,18 @@
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
+    },
+    {
+      "codigo": "BYO10",
+      "loja": "Fastshop",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-16T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
       "codigo": "CLIENTE",
