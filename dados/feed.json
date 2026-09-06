@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-06T19:54:54.173Z",
+  "atualizadoEm": "2026-09-06T20:26:59.747Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15340",
+      "loja": "Mercado Livre",
+      "titulo": "Short Lupo Attack Para Esporte Fitness Compressão Original",
+      "link": "https://meli.la/1Cqe97i",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_673926-MLB87504377037_072025-O.webp",
+      "preco": 65.44,
+      "precoDe": 119.9,
+      "desconto": 33,
+      "cupom": "OFERTASEMPRE",
+      "enviadoEm": "2026-09-06T20:16:59.745Z"
+    },
+    {
+      "id": "15338",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Refletor Super Led 400w Ip67 Holofote Bivolt Prova D'água Branco Frio 6500k Preto",
+      "link": "https://meli.la/13hV5fe",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753073-MLA110946060098_052026-F.jpg",
+      "preco": 43.77,
+      "precoDe": 99.98,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-09-06T20:11:27.880Z"
+    },
+    {
+      "id": "15337",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo Toalhas Banho E Rosto Grossas Macias 100% Algodão 4pçs",
+      "link": "https://meli.la/15hUCPn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_625349-MLB114921553689_072026-O.webp",
+      "preco": 69.62,
+      "precoDe": 149.9,
+      "desconto": 45,
+      "cupom": "TUDOAQUI",
+      "enviadoEm": "2026-09-06T20:09:08.501Z"
+    },
     {
       "id": "15333",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": "D14D3V3ND3R",
       "enviadoEm": "2026-09-05T11:02:59.072Z"
-    },
-    {
-      "id": "15106",
-      "loja": "Mercado Livre",
-      "titulo": "Boné Sportswear Baseball Unissex adidas",
-      "link": "https://meli.la/31ZqSmg",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_966057-MLB85298155013_052025-O.webp",
-      "preco": 90.19,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFERTASEMPRE",
-      "enviadoEm": "2026-09-04T22:27:07.260Z"
-    },
-    {
-      "id": "15104",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV 4K 55\" LG QNED Mini LED AI QNED70 2026 Processador α7 Ger9 HDR10 Xbox Bluetooth Wi-Fi AI Search Google Gemini Integrados webOS 26 - 55QNED70BSA",
-      "link": "https://meli.la/17becKw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_648434-MLA115300888751_072026-F.jpg",
-      "preco": 2943.2599999999998,
-      "precoDe": 3999,
-      "desconto": 20,
-      "cupom": "LIBERAESSA",
-      "enviadoEm": "2026-09-04T22:12:58.708Z"
-    },
-    {
-      "id": "15101",
-      "loja": "Mercado Livre",
-      "titulo": "Aspirador Extrator De Mão Elgin Remove & Clean 1.2L Azul-Escuro 1650W",
-      "link": "https://meli.la/1ejPwis",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_914285-MLA117038952763_092026-F.jpg",
-      "preco": 279.3,
-      "precoDe": 679.99,
-      "desconto": 41,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-04T22:00:47.660Z"
     }
   ]
 }
