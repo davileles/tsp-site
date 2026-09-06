@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-06T18:46:42.867Z",
+  "atualizadoEm": "2026-09-06T19:01:57.438Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15329",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
+      "link": "https://s.shopee.com.br/6VNf0GtyLJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
+      "preco": 32.29,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-06T18:59:21.192Z"
+    },
     {
       "id": "15328",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-09-04T21:16:55.834Z"
-    },
-    {
-      "id": "15097",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41zapxN3+7L._SL400_.jpg",
-      "preco": 57.99,
-      "precoDe": 77.27,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T21:15:51.390Z"
     }
   ]
 }
