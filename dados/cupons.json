@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T19:54:55.311Z",
+  "atualizadoEm": "2026-09-06T20:31:57.712Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1296,6 +1296,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-07T18:19:34.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "VIAGEM50",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 249,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-07T20:28:03.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
