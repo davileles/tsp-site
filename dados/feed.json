@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-06T11:31:57.433Z",
+  "atualizadoEm": "2026-09-06T11:56:09.714Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15247",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
+      "link": "https://s.shopee.com.br/40gJXvILoH",
+      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
+      "preco": 52.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-06T11:46:09.712Z"
+    },
     {
       "id": "15243",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-09-04T12:53:56.684Z"
-    },
-    {
-      "id": "14878",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51p7Q6bht8L._SL400_.jpg",
-      "preco": 199.29,
-      "precoDe": 229.49,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T12:44:20.825Z"
     }
   ]
 }
