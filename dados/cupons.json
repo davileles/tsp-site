@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T02:01:57.683Z",
+  "atualizadoEm": "2026-09-06T03:01:57.659Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -277,18 +277,6 @@
       "observacao": null,
       "validadeAte": "2030-01-02T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
-    },
-    {
-      "codigo": "GOLACO",
-      "loja": "Centauro",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-06T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17806&id=1207116"
     },
     {
       "codigo": "QUERO300",
@@ -588,18 +576,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-20T23:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "DRAMOFF15",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-06T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -963,6 +939,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "RESGATEFULL0509",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Cupom válido apenas para quem resgatou ontem",
+      "validadeAte": "2026-09-07T03:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CLIENTETOP",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1143,18 +1131,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PEGASEUDESCONTO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-09-06T02:59:00.092Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "Cliente20",
       "loja": "Mizuno",
       "tipo": "pct",
@@ -1237,6 +1213,18 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
+    },
+    {
+      "codigo": "OCARA50",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 249,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-07T02:57:35.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "C0RR1D499",
