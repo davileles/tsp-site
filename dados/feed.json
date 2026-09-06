@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-06T16:29:58.786Z",
+  "atualizadoEm": "2026-09-06T16:52:56.311Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15307",
+      "loja": "Shopee",
+      "titulo": "Kit Zípers de Reparo Universal Conserto Instantâneo Sem costura Prático",
+      "link": "https://s.shopee.com.br/70JvRncNnW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1u55wybuzze95_tn",
+      "preco": 10.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-06T16:42:56.285Z"
+    },
     {
       "id": "15305",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-04T20:04:05.444Z"
-    },
-    {
-      "id": "15067",
-      "loja": "Amazon",
-      "titulo": "BUBA Garrafa Térmica Parede Dupla 400 Ml - Azul, Azul, Tamanho único",
-      "link": "https://www.amazon.com.br/dp/B07Y2GSDVN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Sjz5FCv5L._SL400_.jpg",
-      "preco": 65,
-      "precoDe": 98.99,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T19:59:01.317Z"
     }
   ]
 }
