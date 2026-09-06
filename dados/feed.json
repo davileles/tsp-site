@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-06T14:31:57.434Z",
+  "atualizadoEm": "2026-09-06T15:00:56.809Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15296",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pampers Confort Sec Tamanho G, 92 Un",
+      "link": "https://meli.la/26k7Vm5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_635774-MLA110683595720_052026-F.jpg",
+      "preco": 104.9,
+      "precoDe": 149.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-06T14:50:56.807Z"
+    },
+    {
+      "id": "15295",
+      "loja": "Shopee",
+      "titulo": "Kit Completo Maca Power karseell  Máscara 500 g + condicionador 1L + Shampoo 1L + Óleo P 50ml",
+      "link": "https://s.shopee.com.br/8plZVL307s",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mnb7dwwwmo748e_tn",
+      "preco": 300,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OCARA50",
+      "enviadoEm": "2026-09-06T14:48:39.822Z"
+    },
     {
       "id": "15293",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 60,
       "cupom": "D14D3V3ND3R",
       "enviadoEm": "2026-09-04T18:56:23.423Z"
-    },
-    {
-      "id": "15035",
-      "loja": "Amazon",
-      "titulo": "Protex Baby Glicerina Natural Sabonete Líquido Infantil, 400ml",
-      "link": "https://www.amazon.com.br/dp/B09ZLS7X53?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31frNClOndL._SL400_.jpg",
-      "preco": 19.59,
-      "precoDe": 34.17,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-04T18:43:08.581Z"
-    },
-    {
-      "id": "15029",
-      "loja": "Shopee",
-      "titulo": "Massageador Elétrico 6 em 1 Corporal Potente Ergonômico Multifuncional Terapia 10 Velocidades",
-      "link": "https://s.shopee.com.br/6AklO7LGfU",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mr6qsdj7sydi4b_tn",
-      "preco": 164.78,
-      "precoDe": 242.75,
-      "desconto": 28,
-      "cupom": "D14D3V3ND3R",
-      "enviadoEm": "2026-09-04T18:33:38.869Z"
     }
   ]
 }
