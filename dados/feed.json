@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-06T14:14:30.807Z",
+  "atualizadoEm": "2026-09-06T14:31:57.434Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15293",
+      "loja": "Shopee",
+      "titulo": "Kit com 2 - Máscara Capilar Skala 3 em 1 | Creme Sem Enxágue | Protetor Térmico | Vegano - The Gardener Pepper Force",
+      "link": "https://s.shopee.com.br/7VGBtJCSwO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mq2ggvxkzmde83_tn",
+      "preco": 15.61,
+      "precoDe": 44.6,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-09-06T14:25:49.594Z"
+    },
     {
       "id": "15292",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 28,
       "cupom": "D14D3V3ND3R",
       "enviadoEm": "2026-09-04T18:33:38.869Z"
-    },
-    {
-      "id": "15025",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino Barreda Adidas",
-      "link": "https://meli.la/2r8uWRD",
-      "imagem": null,
-      "preco": 190.65,
-      "precoDe": 399.99,
-      "desconto": 42,
-      "cupom": "OFERTASEMPRE",
-      "enviadoEm": "2026-09-04T18:23:34.132Z"
     }
   ]
 }
