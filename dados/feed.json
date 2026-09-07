@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-07T17:59:17.257Z",
+  "atualizadoEm": "2026-09-07T18:27:32.103Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15527",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Huggies Rápida Absorção XXG 66 Unidades",
+      "link": "https://meli.la/165nzCA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_792466-MLA110434988991_042026-F.jpg",
+      "preco": 67.69,
+      "precoDe": 88.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T18:17:32.102Z"
+    },
+    {
+      "id": "15526",
+      "loja": "Mercado Livre",
+      "titulo": "Huggies Tripla Proteção Fralda g 78 Unidades",
+      "link": "https://meli.la/2YKWGr9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_907479-MLA100242913347_122025-F.jpg",
+      "preco": 69.19,
+      "precoDe": 74.9,
+      "desconto": 8,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T18:17:31.296Z"
+    },
+    {
+      "id": "15525",
+      "loja": "Shopee",
+      "titulo": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
+      "link": "https://s.shopee.com.br/112k07RChv",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902_tn",
+      "preco": 34.89,
+      "precoDe": 199.45,
+      "desconto": 80,
+      "cupom": "F3R14D05",
+      "enviadoEm": "2026-09-07T18:16:41.160Z"
+    },
+    {
+      "id": "15524",
+      "loja": "Mercado Livre",
+      "titulo": "Pistola de pulverização elétrica para pintura hvlp Tssaper TP550 do 800mL cor azul-turquesa 550W",
+      "link": "https://meli.la/271cs88",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_865507-MLA99367780510_112025-F.jpg",
+      "preco": 183.2,
+      "precoDe": 376.7,
+      "desconto": 39,
+      "cupom": "CUPOMOFF",
+      "enviadoEm": "2026-09-07T18:14:02.677Z"
+    },
+    {
+      "id": "15523",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 4 Falantes 6 Polegadas Jbl 6trms80 Triaxial 320w 4 Ohms Preto",
+      "link": "https://meli.la/2k9737n",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_913220-MLA106137604926_022026-F.jpg",
+      "preco": 636.74,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "USAESSAPROMO",
+      "enviadoEm": "2026-09-07T18:10:03.225Z"
+    },
+    {
+      "id": "15521",
+      "loja": "Mercado Livre",
+      "titulo": "Camisas Térmica Feminina Voker Proteção Uv Bike Academia",
+      "link": "https://meli.la/31ThZxc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603567-MLB105912204268_022026-O.webp",
+      "preco": 35.05,
+      "precoDe": 54.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T18:03:28.273Z"
+    },
     {
       "id": "15519",
       "loja": "Mercado Livre",
@@ -1369,78 +1441,6 @@
       "desconto": 60,
       "cupom": "SOECONOMIA",
       "enviadoEm": "2026-09-06T12:47:57.802Z"
-    },
-    {
-      "id": "15280",
-      "loja": "Mercado Livre",
-      "titulo": "Placa Mãe Gigabyte B650m D3hp - Soquete Am5 - Micro Atx",
-      "link": "https://meli.la/14vCPCy",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_867369-MLA99571496342_122025-F.jpg",
-      "preco": 585,
-      "precoDe": 1100,
-      "desconto": 41,
-      "cupom": "TOPMELI",
-      "enviadoEm": "2026-09-06T12:47:30.364Z"
-    },
-    {
-      "id": "15279",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gigabyte Gs24f14 23.8 Pol Full Hd Ips 144hz 1ms",
-      "link": "https://meli.la/19FGHzM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_872401-MLA113528429319_062026-F.jpg",
-      "preco": 517.7,
-      "precoDe": 799,
-      "desconto": 28,
-      "cupom": "TOPMELI",
-      "enviadoEm": "2026-09-06T12:45:16.757Z"
-    },
-    {
-      "id": "15277",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Sedutor Árabe Sabah 100ml Original Feminino",
-      "link": "https://meli.la/1miymJp",
-      "imagem": null,
-      "preco": 207,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TODOODITE0609",
-      "enviadoEm": "2026-09-06T12:44:33.734Z"
-    },
-    {
-      "id": "15276",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Acer Ek241y Gbi 23.8” FHD LED IPS 120Hz 1 ms",
-      "link": "https://meli.la/1mGiGmZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_981386-MLA114907864515_072026-F.jpg",
-      "preco": 495.9,
-      "precoDe": 795,
-      "desconto": 31,
-      "cupom": "TOPMELI",
-      "enviadoEm": "2026-09-06T12:43:02.018Z"
-    },
-    {
-      "id": "15278",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Descartável Premium Natural Care M - 78 Un",
-      "link": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/413C6Qz-mOL._SL400_.jpg",
-      "preco": 88.3,
-      "precoDe": 125.24,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T12:42:52.774Z"
-    },
-    {
-      "id": "15274",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer AOC AGON G4S 25\" 310Hz 0.3ms HDR400 IPS Base Ajustável 25G4S/P Preto",
-      "link": "https://meli.la/1hffGey",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_687589-MLA99536545292_122025-F.jpg",
-      "preco": 1079.1,
-      "precoDe": 2427.14,
-      "desconto": 51,
-      "cupom": "TOPMELI",
-      "enviadoEm": "2026-09-06T12:40:36.033Z"
     }
   ]
 }
