@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-07T17:29:17.257Z",
+  "atualizadoEm": "2026-09-07T17:41:07.448Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15514",
+      "loja": "Shopee",
+      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
+      "link": "https://s.shopee.com.br/50YsiKOc0C",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
+      "preco": 172.9,
+      "precoDe": 599.7,
+      "desconto": 67,
+      "cupom": "INDEPENDENCIA25AF",
+      "enviadoEm": "2026-09-07T17:31:07.425Z"
+    },
     {
       "id": "15513",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "TOPMELI",
       "enviadoEm": "2026-09-06T12:38:11.541Z"
-    },
-    {
-      "id": "15272",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer AOC AGON G50 27\" 144Hz 0,5ms IPS HDR10 G-SYNC 27G50F",
-      "link": "https://meli.la/1npXcBF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_922246-MLA99988034526_122025-F.jpg",
-      "preco": 674.1,
-      "precoDe": 899,
-      "desconto": 17,
-      "cupom": "TOPMELI",
-      "enviadoEm": "2026-09-06T12:35:37.219Z"
     }
   ]
 }
