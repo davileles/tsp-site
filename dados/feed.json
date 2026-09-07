@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-07T19:11:41.297Z",
+  "atualizadoEm": "2026-09-07T19:29:17.363Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15542",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
+      "link": "https://s.shopee.com.br/6VNf0GtyLJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
+      "preco": 27.29,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "F3R14D05",
+      "enviadoEm": "2026-09-07T19:24:30.837Z"
+    },
+    {
+      "id": "15541",
+      "loja": "Mercado Livre",
+      "titulo": "Volante Brinquedo Simulador Interativo Som Gira 360 Ventosa",
+      "link": "https://meli.la/1oCjBo3",
+      "imagem": "https://http2.mlstatic.com/D_699594-MLB109936489820_042026-F.jpg",
+      "preco": 31.95,
+      "precoDe": 65,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T19:19:49.261Z"
+    },
+    {
+      "id": "15540",
+      "loja": "Amazon",
+      "titulo": "Simple Joys by Carter's Conjunto de 6 peças unissex para bebês (manga curta e comprida) e calça, Estampa de texto preto/cinza/lhama branca/panda, 24 Meses",
+      "link": "https://www.amazon.com.br/dp/B08G8SRT1D?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41WVM1LBJXL._SL400_.jpg",
+      "preco": 143.57,
+      "precoDe": 167.8,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T19:19:44.100Z"
+    },
     {
       "id": "15538",
       "loja": "Shopee",
@@ -1263,18 +1299,6 @@
       "enviadoEm": "2026-09-06T19:22:07.921Z"
     },
     {
-      "id": "15329",
-      "loja": "Shopee",
-      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
-      "link": "https://s.shopee.com.br/6VNf0GtyLJ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
-      "preco": 32.29,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T18:59:21.192Z"
-    },
-    {
       "id": "15328",
       "loja": "Shopee",
       "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
@@ -1417,30 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-09-06T15:34:10.471Z"
-    },
-    {
-      "id": "15300",
-      "loja": "Mercado Livre",
-      "titulo": "Calça Legging Leg Flare Zero Transparência Grossa Academia",
-      "link": "https://meli.la/2hVnG8v",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_658388-MLB90869609638_082025-O.webp",
-      "preco": 25.13,
-      "precoDe": 59.9,
-      "desconto": 40,
-      "cupom": "GARIMPEI",
-      "enviadoEm": "2026-09-06T15:13:52.855Z"
-    },
-    {
-      "id": "15299",
-      "loja": "Shopee",
-      "titulo": "Kit Limpador Pastilha de máquina de lavar roupa, comprimido efervescente sólido para remover manchas【】",
-      "link": "https://s.shopee.com.br/70JvLX1Jvf",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwt-mcjqjjrew9uu86_tn",
-      "preco": 8.59,
-      "precoDe": 15.34,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T15:11:19.650Z"
     }
   ]
 }
