@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-07T02:31:57.798Z",
+  "atualizadoEm": "2026-09-07T03:01:57.732Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -987,6 +987,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "RESGATETO0709",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido em lojas oficiais, produtos selecionados",
+      "validadeAte": "2026-09-08T03:00:18.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CLIENTETOP",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1321,18 +1333,6 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
-    },
-    {
-      "codigo": "OCARA50",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 249,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-07T02:57:35.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "VOLTOU50",
