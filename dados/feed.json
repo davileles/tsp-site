@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-07T17:41:07.448Z",
+  "atualizadoEm": "2026-09-07T17:59:17.257Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15519",
+      "loja": "Mercado Livre",
+      "titulo": "Vitamina B12 Metilcobalamina 414% 60caps Nutrify",
+      "link": "https://meli.la/2RRVEnd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745981-MLA100089582957_122025-F.jpg",
+      "preco": 24.06,
+      "precoDe": 42,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T17:57:03.996Z"
+    },
+    {
+      "id": "15517",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
+      "link": "https://s.shopee.com.br/4qFPRmyFSo",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
+      "preco": 23.88,
+      "precoDe": 47.76,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T17:53:55.368Z"
+    },
     {
       "id": "15514",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 51,
       "cupom": "TOPMELI",
       "enviadoEm": "2026-09-06T12:40:36.033Z"
-    },
-    {
-      "id": "15275",
-      "loja": "Amazon",
-      "titulo": "Sabonete Líquido Glicerina Huggies Extra Suave Refil 400 ml",
-      "link": "https://www.amazon.com.br/dp/B0DX7B8VG7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/417z3sXqCzL._SL400_.jpg",
-      "preco": 23.99,
-      "precoDe": 28.34,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T12:38:37.066Z"
-    },
-    {
-      "id": "15273",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer TCL 25 Polegadas QLED Mini LED Full HD G64 300Hz 1ms (GtG) Freesync HDR 600 nits 25G64",
-      "link": "https://meli.la/2JapqS9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_789392-MLA116823388817_082026-F.jpg",
-      "preco": 2749,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TOPMELI",
-      "enviadoEm": "2026-09-06T12:38:11.541Z"
     }
   ]
 }
