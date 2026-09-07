@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-07T13:56:54.967Z",
+  "atualizadoEm": "2026-09-07T14:16:56.663Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15453",
+      "loja": "Amazon",
+      "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
+      "link": "https://www.amazon.com.br/dp/B08JQND4NB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41R2NzOIiVL._SL400_.jpg",
+      "preco": 14.99,
+      "precoDe": 25.55,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T14:06:56.661Z"
+    },
+    {
+      "id": "15452",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Bobojaco Impermeável Becker Nylon Puffer Masculino com Bolsos e Capuz",
+      "link": "https://s.shopee.com.br/7VGBn1c0tv",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmb-lo8gotg960in6f_tn",
+      "preco": 52.989999999999995,
+      "precoDe": 99.99,
+      "desconto": 27,
+      "cupom": "OSEHPE",
+      "enviadoEm": "2026-09-07T14:05:35.337Z"
+    },
+    {
+      "id": "15451",
+      "loja": "Amazon",
+      "titulo": "Travel System Maxi-Cosi, Eva³, Select Grey",
+      "link": "https://www.amazon.com.br/dp/B0DB8XBBFR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/414lmQxB3bL._SL400_.jpg",
+      "preco": 2981.87,
+      "precoDe": 3499,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T14:01:53.844Z"
+    },
+    {
+      "id": "15450",
+      "loja": "Amazon",
+      "titulo": "Carrinho de Bebê Safety 1st, Tracer, 0 a 22kg, Taupe Royal",
+      "link": "https://www.amazon.com.br/dp/B0H7YY44ST?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41cOpmaYxNL._SL400_.jpg",
+      "preco": 1499,
+      "precoDe": 1779,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T14:01:52.234Z"
+    },
     {
       "id": "15448",
       "loja": "Amazon",
@@ -855,18 +903,6 @@
       "enviadoEm": "2026-09-06T13:07:48.450Z"
     },
     {
-      "id": "15282",
-      "loja": "Shopee",
-      "titulo": "Jaqueta Bobojaco Impermeável Becker Nylon Puffer Masculino com Bolsos e Capuz",
-      "link": "https://s.shopee.com.br/7VGBn1c0tv",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmb-lo8gotg960in6f_tn",
-      "preco": 62.989999999999995,
-      "precoDe": 99.99,
-      "desconto": 27,
-      "cupom": "C0RR1D499",
-      "enviadoEm": "2026-09-06T12:54:02.774Z"
-    },
-    {
       "id": "15281",
       "loja": "Mercado Livre",
       "titulo": "Kit 12 Pares Meia Masculina Cano Curto Soquete Algodão Duomo",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-09-05T16:20:02.222Z"
-    },
-    {
-      "id": "15193",
-      "loja": "Mercado Livre",
-      "titulo": "Soprador 48v Turbo Portátil Com 2 Baterias Potente Preto",
-      "link": "https://meli.la/2dwxo7c",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_616518-MLA99997067814_122025-F.jpg",
-      "preco": 83.19,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CUPOMOFF",
-      "enviadoEm": "2026-09-05T16:16:26.820Z"
-    },
-    {
-      "id": "15191",
-      "loja": "Amazon",
-      "titulo": "NESCAFÉ Gelado Café Solúvel 100g",
-      "link": "https://www.amazon.com.br/dp/B0DP5CYPSC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41VvZ5GqRML._SL400_.jpg",
-      "preco": 15.9,
-      "precoDe": 23.79,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-05T16:13:50.873Z"
-    },
-    {
-      "id": "15190",
-      "loja": "Mercado Livre",
-      "titulo": "Chaleira Elétrica 1.8 Litros Em Inox Automática Aquecimento Rápido Segura",
-      "link": "https://meli.la/2gC2U4q",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_935276-MLA115019226867_072026-F.jpg",
-      "preco": 40,
-      "precoDe": 49.99,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-09-05T16:10:11.487Z"
     }
   ]
 }
