@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-07T15:29:18.471Z",
+  "atualizadoEm": "2026-09-07T15:47:07.189Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -727,7 +727,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
@@ -739,7 +739,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -756,18 +756,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-30T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FULL0709",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 39,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-09-08T15:01:21.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -907,7 +895,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -919,7 +907,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -955,23 +943,11 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
       "validadeAte": "2026-09-29T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "RESGATETO0709",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Válido em lojas oficiais, produtos selecionados",
-      "validadeAte": "2026-09-08T03:00:18.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -991,7 +967,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 22,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1111,7 +1087,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 18,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1143,18 +1119,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PRECINHOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-09-09T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TUDOAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1162,18 +1126,6 @@
       "minimo": 79,
       "maximo": null,
       "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-09-09T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TVSECELULARES",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 899,
-      "maximo": null,
-      "limite": 189,
       "observacao": null,
       "validadeAte": "2026-09-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -1200,6 +1152,18 @@
       "limite": 40,
       "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
       "validadeAte": "2026-09-07T18:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OBRASEFERRAMENTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-09-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1260,18 +1224,6 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-09-08T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 25,
-      "observacao": null,
-      "validadeAte": "2026-09-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
