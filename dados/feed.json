@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-07T16:12:10.452Z",
+  "atualizadoEm": "2026-09-07T16:29:17.258Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15502",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
+      "link": "https://s.shopee.com.br/2gAxrJoetv",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
+      "preco": 44.33,
+      "precoDe": 65.77,
+      "desconto": 25,
+      "cupom": "F3R14D05",
+      "enviadoEm": "2026-09-07T16:22:21.912Z"
+    },
+    {
+      "id": "15500",
+      "loja": "Amazon",
+      "titulo": "Verden Bicicleta Infantil Verden Paty Aro 12 com cestinha e rodinhas de apoio",
+      "link": "https://www.amazon.com.br/dp/B0B4YFBNJF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41gA0ZxOQGL._SL400_.jpg",
+      "preco": 169,
+      "precoDe": 249.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T16:15:18.225Z"
+    },
+    {
+      "id": "15499",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Camisetas Masculina Dry Fit Colmeia Alpha P M G Gg",
+      "link": "https://meli.la/1GW3oCz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_706939-MLB112504508170_062026-O.webp",
+      "preco": 45.06,
+      "precoDe": 59.29,
+      "desconto": 5,
+      "cupom": "CUPOMOFF",
+      "enviadoEm": "2026-09-07T16:15:12.145Z"
+    },
     {
       "id": "15497",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": "TOPMELI",
       "enviadoEm": "2026-09-06T12:21:08.431Z"
-    },
-    {
-      "id": "15262",
-      "loja": "Amazon",
-      "titulo": "Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnson's Baby, 400ml",
-      "link": "https://www.amazon.com.br/dp/B077BY84XX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31QjgyWVbVL._SL400_.jpg",
-      "preco": 25.99,
-      "precoDe": 40.99,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T12:19:15.480Z"
-    },
-    {
-      "id": "15260",
-      "loja": "Mercado Livre",
-      "titulo": "Processador AMD Ryzen 5 5500 3.6GHz 4.2GHz Max Turbo Cache 16MB AM4",
-      "link": "https://meli.la/1DNb6go",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_668758-MLA115010415187_072026-F.jpg",
-      "preco": 540.39,
-      "precoDe": 1399,
-      "desconto": 57,
-      "cupom": "TOPMELI",
-      "enviadoEm": "2026-09-06T12:18:50.312Z"
-    },
-    {
-      "id": "15258",
-      "loja": "Mercado Livre",
-      "titulo": "Placa-mãe Asus P/amd Am4 B550m-plus Tuf Gaming 4xddr4 Matx",
-      "link": "https://meli.la/2x5cr2M",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_666926-MLA99989580013_112025-F.jpg",
-      "preco": 671.9100000000001,
-      "precoDe": 1097.9,
-      "desconto": 32,
-      "cupom": "TOPMELI",
-      "enviadoEm": "2026-09-06T12:11:12.082Z"
     }
   ]
 }
