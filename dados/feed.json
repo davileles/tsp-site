@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-07T15:47:05.801Z",
+  "atualizadoEm": "2026-09-07T15:59:17.258Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15495",
+      "loja": "Amazon",
+      "titulo": "Cif Cremoso Limpeza Milagrosa Remove 100% Da Sujeira 450 Ml",
+      "link": "https://www.amazon.com.br/dp/B07DTNB6SY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31yLGjGVQVL._SL400_.jpg",
+      "preco": 12.99,
+      "precoDe": 22.4,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T15:59:07.793Z"
+    },
+    {
+      "id": "15494",
+      "loja": "Mercado Livre",
+      "titulo": "Whey Protein 1kg Whey Pro Max Titanium Sabor Baunilha BCAA e Aminoácidos",
+      "link": "https://meli.la/1SE8Rbp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_960337-MLA111724818522_062026-F.jpg",
+      "preco": 80.99,
+      "precoDe": 149.86,
+      "desconto": 40,
+      "cupom": "BOLSOCHEIO",
+      "enviadoEm": "2026-09-07T15:56:51.815Z"
+    },
+    {
+      "id": "15492",
+      "loja": "Mercado Livre",
+      "titulo": "Extratora Remove & Clean 3 Em 1 Elgin 1.650w 110v Azul-escuro",
+      "link": "https://meli.la/2KZ1GdZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_916443-MLA114090078258_082026-F.jpg",
+      "preco": 351.91999999999996,
+      "precoDe": 679.99,
+      "desconto": 42,
+      "cupom": "SEUOFFMELI",
+      "enviadoEm": "2026-09-07T15:54:01.952Z"
+    },
+    {
+      "id": "15491",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 4 Bermuda Masculino Short Elastano Academia Bolso Casual",
+      "link": "https://meli.la/2ZXkFxH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_698303-MLB117052326983_092026-O.webp",
+      "preco": 64.99,
+      "precoDe": 151.13,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T15:51:42.918Z"
+    },
     {
       "id": "15481",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": null,
       "cupom": "LIBERAESSA",
       "enviadoEm": "2026-09-06T12:09:15.077Z"
-    },
-    {
-      "id": "15255",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
-      "link": "https://s.shopee.com.br/BTb0ROYjr",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-k1jd7z81yzkv2f_tn",
-      "preco": 25,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T12:08:58.616Z"
-    },
-    {
-      "id": "15256",
-      "loja": "Amazon",
-      "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper XG 60 Unidades",
-      "link": "https://www.amazon.com.br/dp/B097S11KYF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41S23peQtaL._SL400_.jpg",
-      "preco": 56.41,
-      "precoDe": 77.37,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T12:06:53.793Z"
-    },
-    {
-      "id": "15243",
-      "loja": "Shopee",
-      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1",
-      "link": "https://s.shopee.com.br/5VV7J7L5t2",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd48-lupf3z3a40mxf1_tn",
-      "preco": 18.99,
-      "precoDe": 90.43,
-      "desconto": 79,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T11:23:19.962Z"
-    },
-    {
-      "id": "15244",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KXW911?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41QSw44yLeL._SL400_.jpg",
-      "preco": 21.99,
-      "precoDe": 28.68,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T11:21:55.565Z"
     }
   ]
 }
