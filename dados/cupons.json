@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-07T02:01:57.738Z",
+  "atualizadoEm": "2026-09-07T02:31:57.798Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -651,6 +651,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "CUPOMNIVER40",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 100,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom válido via WhatsApp da Magalu. Requer envio de produto e aplicação manual do código.",
+      "validadeAte": "2026-09-08T02:22:09.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "TOMA30",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -1164,6 +1176,18 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-09-09T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "HOJENOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-09-08T02:23:24.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
