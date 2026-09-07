@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-07T20:20:22.782Z",
+  "atualizadoEm": "2026-09-07T22:29:17.410Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15560",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira de Escritório Sweet Studio Ergonômica Preta, com Apoio de Cabeça e Suporte Lombar",
+      "link": "https://meli.la/1fobViG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_770973-MLA117146528499_092026-F.jpg",
+      "preco": 297.40999999999997,
+      "precoDe": 622,
+      "desconto": 44,
+      "cupom": "TUDOAQUI",
+      "enviadoEm": "2026-09-07T22:20:28.069Z"
+    },
+    {
+      "id": "15558",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Legging Lupo Max Feminina Academia Cintura Alta",
+      "link": "https://meli.la/2eChLZR",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_751516-MLB87616956895_072025-O.webp",
+      "preco": 115.37,
+      "precoDe": 197,
+      "desconto": 29,
+      "cupom": "OFERTASEMPRE",
+      "enviadoEm": "2026-09-07T22:11:38.561Z"
+    },
+    {
+      "id": "15557",
+      "loja": "Mercado Livre",
+      "titulo": "Polo Calvin Klein Jeans Piquet Regular Light Re Issue Branca",
+      "link": "https://meli.la/2q2tn5X",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_645505-MLB89515846670_082025-O.webp",
+      "preco": 171.92,
+      "precoDe": 348.35,
+      "desconto": 48,
+      "cupom": "CARRINHOCERTO",
+      "enviadoEm": "2026-09-07T22:08:31.905Z"
+    },
+    {
+      "id": "15556",
+      "loja": "Amazon",
+      "titulo": "MONDIAL Aparador de Pelos Super Groom 06, Preto/Verde, 6W, Bivolt - BG-04",
+      "link": "https://www.amazon.com.br/dp/B07G56XF47?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31QF7PYSI1L._SL400_.jpg",
+      "preco": 79,
+      "precoDe": 169.9,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T22:06:18.130Z"
+    },
     {
       "id": "15548",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-09-06T17:28:23.364Z"
-    },
-    {
-      "id": "15313",
-      "loja": "Shopee",
-      "titulo": "Massageador Elétrico 6 em 1 Corporal Potente Ergonômico Multifuncional Terapia 10 Velocidades",
-      "link": "https://s.shopee.com.br/4Azk6Aii9m",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mr6qsdj7sydi4b_tn",
-      "preco": 174.78,
-      "precoDe": 242.75,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T17:05:44.036Z"
-    },
-    {
-      "id": "15311",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto De 6 Pratos Rasos Donna Folk 61431 24cm Off White E Preto Biona",
-      "link": "https://meli.la/2NT4xA1",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_730845-MLA96151309063_102025-F.jpg",
-      "preco": 42.8,
-      "precoDe": 118.07,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T17:02:39.260Z"
-    },
-    {
-      "id": "15309",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo De 8 Peças Café Pequenos Voadores 90ml -l Hermitage",
-      "link": "https://meli.la/1h1GMgA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_799377-MLA105594266054_012026-F.jpg",
-      "preco": 36.42,
-      "precoDe": 91.04,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T17:00:21.891Z"
-    },
-    {
-      "id": "15307",
-      "loja": "Shopee",
-      "titulo": "Kit Zípers de Reparo Universal Conserto Instantâneo Sem costura Prático",
-      "link": "https://s.shopee.com.br/70JvRncNnW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1u55wybuzze95_tn",
-      "preco": 10.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T16:42:56.285Z"
     }
   ]
 }
