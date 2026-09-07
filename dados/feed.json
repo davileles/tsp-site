@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-07T16:29:17.258Z",
+  "atualizadoEm": "2026-09-07T16:56:22.214Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15507",
+      "loja": "Mercado Livre",
+      "titulo": "Water Cooler Kalkan Iota V2 360 Rgb 360mm Tdp 280w Preto",
+      "link": "https://meli.la/2s5QVHb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_952760-MLA106712806690_022026-F.jpg",
+      "preco": 241.2,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SEUOFFMELI",
+      "enviadoEm": "2026-09-07T16:46:22.209Z"
+    },
+    {
+      "id": "15506",
+      "loja": "Shopee",
+      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
+      "link": "https://s.shopee.com.br/6fh6eFV2d2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
+      "preco": 44.33,
+      "precoDe": 65.77,
+      "desconto": 25,
+      "cupom": "F3R14D05",
+      "enviadoEm": "2026-09-07T16:45:15.964Z"
+    },
+    {
+      "id": "15505",
+      "loja": "Mercado Livre",
+      "titulo": "Mondial LAP-04 GY Lavadora de Alta Pressão 1400W + Jato Ajustável",
+      "link": "https://meli.la/18EBb9H",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_811406-MLA113291070942_072026-F.jpg",
+      "preco": 239.2,
+      "precoDe": 600,
+      "desconto": 50,
+      "cupom": "CUPOMOFF",
+      "enviadoEm": "2026-09-07T16:37:40.981Z"
+    },
+    {
+      "id": "15504",
+      "loja": "Amazon",
+      "titulo": "Simple Joys by Carter's Conjunto de 6 peças para bebês meninas (manga curta e comprida) e calça, Multicolorido/Coelho/Pontos/Impressão de texto, 0-3 Meses",
+      "link": "https://www.amazon.com.br/dp/B01MDUHO8I?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/416ACvNJJhL._SL400_.jpg",
+      "preco": 149.73,
+      "precoDe": 169.54,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T16:32:46.084Z"
+    },
     {
       "id": "15502",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-09-06T12:32:58.944Z"
-    },
-    {
-      "id": "15266",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Samsung Odyssey G5, 27 , Qhd, 165hz Cor Preto",
-      "link": "https://meli.la/2zQjrgA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_929601-MLA99994006017_112025-F.jpg",
-      "preco": 906.49,
-      "precoDe": 1499,
-      "desconto": 33,
-      "cupom": "TOPMELI",
-      "enviadoEm": "2026-09-06T12:30:50.175Z"
-    },
-    {
-      "id": "15265",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor AOC 27 Gaming Full Hd IPS 120Hz 1ms 27b30h3",
-      "link": "https://meli.la/2ynpoYX",
-      "imagem": null,
-      "preco": 563.0799999999999,
-      "precoDe": 999,
-      "desconto": 37,
-      "cupom": "TOPMELI",
-      "enviadoEm": "2026-09-06T12:28:25.545Z"
-    },
-    {
-      "id": "15263",
-      "loja": "Mercado Livre",
-      "titulo": "Placa de Vídeo Palit RTX 5060 Ti 16GB GDDR7 Ray Tracing 8K",
-      "link": "https://meli.la/1FSkcuz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_932536-MLA99471212656_112025-F.jpg",
-      "preco": 3999,
-      "precoDe": 8999,
-      "desconto": 53,
-      "cupom": "TOPMELI",
-      "enviadoEm": "2026-09-06T12:23:40.281Z"
-    },
-    {
-      "id": "15261",
-      "loja": "Mercado Livre",
-      "titulo": "Ssd M.2 1tb Sandisk Plus Nvme 2280",
-      "link": "https://meli.la/1i8Mqy5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_729633-MLA99465062840_112025-F.jpg",
-      "preco": 772.2,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TOPMELI",
-      "enviadoEm": "2026-09-06T12:21:08.431Z"
     }
   ]
 }
