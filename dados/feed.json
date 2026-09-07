@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-07T11:24:35.659Z",
+  "atualizadoEm": "2026-09-07T11:27:50.616Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15385",
+      "loja": "Shopee",
+      "titulo": "Bolsa de Viagem Mala Dobrável Capacidade Impermeável",
+      "link": "https://s.shopee.com.br/30nnvbmGow",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmx-lp6czwvd0b9k6f_tn",
+      "preco": 14.5,
+      "precoDe": 39.19,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T11:26:21.870Z"
+    },
     {
       "id": "15384",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "BEBESEPETS0509",
       "enviadoEm": "2026-09-05T12:28:14.367Z"
-    },
-    {
-      "id": "15140",
-      "loja": "Mercado Livre",
-      "titulo": "Huggies Fralda Descartável Máxima Proteção M - 172 Un",
-      "link": "https://meli.la/2Rwgwwt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_787625-MLA99442296758_112025-F.jpg",
-      "preco": 118.88,
-      "precoDe": 197.75,
-      "desconto": 25,
-      "cupom": "BEBESEPETS0509",
-      "enviadoEm": "2026-09-05T12:28:13.659Z"
     }
   ]
 }
