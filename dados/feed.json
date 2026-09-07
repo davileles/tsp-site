@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-07T14:27:32.438Z",
+  "atualizadoEm": "2026-09-07T14:29:17.256Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15457",
+      "loja": "Shopee",
+      "titulo": "JAQUETA DE COURO MASCULINA COM CAPUZ REMOVIVEL FORRADA E PELUCIDA POR DENTRO INVERNO/FRIO",
+      "link": "https://s.shopee.com.br/5VV96iFfhM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmtaw18rywhs2d_tn",
+      "preco": 159,
+      "precoDe": 230,
+      "desconto": 20,
+      "cupom": "INDEPENDENCIA25AF",
+      "enviadoEm": "2026-09-07T14:28:36.423Z"
+    },
     {
       "id": "15456",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 23,
       "cupom": null,
       "enviadoEm": "2026-09-05T17:49:41.175Z"
-    },
-    {
-      "id": "15200",
-      "loja": "Shopee",
-      "titulo": "Kit com 3 Cetrilan Creme Infantil Protetor para Prevenção de Assaduras 120g - Theraskin",
-      "link": "https://s.shopee.com.br/904yHaGrPf",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mnojxdtx53408d_tn",
-      "preco": 165.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "C0RR1D499",
-      "enviadoEm": "2026-09-05T17:26:18.145Z"
     }
   ]
 }
