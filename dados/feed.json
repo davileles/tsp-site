@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-07T11:27:50.616Z",
+  "atualizadoEm": "2026-09-07T11:57:50.616Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15387",
+      "loja": "Shopee",
+      "titulo": "Calça Legging Feminina Grossa Flanelada Suplex Térmica Peluciada –Leg Inverno",
+      "link": "https://s.shopee.com.br/7Kwn79RFNb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mnxayzevqhvo24_tn",
+      "preco": 31.89,
+      "precoDe": 49.83,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T11:49:07.560Z"
+    },
     {
       "id": "15385",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": "BEBESEPETS0509",
       "enviadoEm": "2026-09-05T12:28:15.769Z"
-    },
-    {
-      "id": "15141",
-      "loja": "Mercado Livre",
-      "titulo": "Huggies Fralda Descartável Máxima Proteção G - 136 Un",
-      "link": "https://meli.la/2csWVan",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_749827-MLA99338537280_112025-F.jpg",
-      "preco": 101.6,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "BEBESEPETS0509",
-      "enviadoEm": "2026-09-05T12:28:14.367Z"
     }
   ]
 }
