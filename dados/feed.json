@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-07T15:29:17.256Z",
+  "atualizadoEm": "2026-09-07T15:47:05.801Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15481",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Frascos Potes Viagem Silicone 90ml   Para Viagem Condicionador Shampoo Creme Cosméticos",
+      "link": "https://s.shopee.com.br/9051LstZye",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-miuylj3ciex269_tn",
+      "preco": 22.99,
+      "precoDe": 40.33,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T15:37:05.795Z"
+    },
+    {
+      "id": "15479",
+      "loja": "Mercado Livre",
+      "titulo": "Mochila jiesipote À Prova D'água Reforçada Expansível Cor Preto",
+      "link": "https://meli.la/2HpjQww",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_974980-MLA112776013576_062026-F.jpg",
+      "preco": 66,
+      "precoDe": 269,
+      "desconto": 68,
+      "cupom": "FULL0709",
+      "enviadoEm": "2026-09-07T15:33:04.181Z"
+    },
     {
       "id": "15477",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 23,
       "cupom": null,
       "enviadoEm": "2026-09-06T11:21:55.565Z"
-    },
-    {
-      "id": "15242",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Supreme Care M 196 Un",
-      "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51+st-gYHFL._SL400_.jpg",
-      "preco": 159.9,
-      "precoDe": 229.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T11:17:34.299Z"
-    },
-    {
-      "id": "15232",
-      "loja": "Mercado Livre",
-      "titulo": "Fritadeira Elétrica Air Fryer Oven Black INOX WAP WAOD2",
-      "link": "https://meli.la/1XouFew",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_705038-MLA99580433144_122025-F.jpg",
-      "preco": 405.55,
-      "precoDe": 978,
-      "desconto": 55,
-      "cupom": "LIBERAESSA",
-      "enviadoEm": "2026-09-05T22:26:05.594Z"
     }
   ]
 }
