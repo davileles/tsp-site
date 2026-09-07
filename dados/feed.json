@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-07T11:57:50.616Z",
+  "atualizadoEm": "2026-09-07T12:27:50.616Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15408",
+      "loja": "Mercado Livre",
+      "titulo": "Microfone de lapela Hollyland Lark M2 Lark M2 Combo Preto.",
+      "link": "https://meli.la/2KtLBuM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_974504-MLA99991742439_112025-F.jpg",
+      "preco": 571.48,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BOLSOCHEIO",
+      "enviadoEm": "2026-09-07T12:26:08.326Z"
+    },
+    {
+      "id": "15405",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor 21.4 Acer 100hz Led Mk221q Bi",
+      "link": "https://meli.la/2VEXTzu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_826608-MLA106672479893_022026-F.jpg",
+      "preco": 415.79,
+      "precoDe": 699.98,
+      "desconto": 34,
+      "cupom": "SEUOFFMELI",
+      "enviadoEm": "2026-09-07T12:21:07.908Z"
+    },
+    {
+      "id": "15404",
+      "loja": "Mercado Livre",
+      "titulo": "Gpu Powercolor Amd Radeon Rx 9060xt 16gb Gddr6 128bits 16g-a",
+      "link": "https://meli.la/2sCxPGL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_945424-MLA86954553079_062025-F.jpg",
+      "preco": 3259.9,
+      "precoDe": 3810.96,
+      "desconto": 9,
+      "cupom": "SEUOFFMELI",
+      "enviadoEm": "2026-09-07T12:18:46.651Z"
+    },
+    {
+      "id": "15401",
+      "loja": "Mercado Livre",
+      "titulo": "Caixa de Som PCX6700 Amplificada 650W de Potência Ex Bass Philco",
+      "link": "https://meli.la/243aCMZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_977921-MLA96972461760_112025-F.jpg",
+      "preco": 506.7,
+      "precoDe": 899,
+      "desconto": 37,
+      "cupom": "BOLSOCHEIO",
+      "enviadoEm": "2026-09-07T12:16:21.490Z"
+    },
+    {
+      "id": "15397",
+      "loja": "Mercado Livre",
+      "titulo": "Water Cooler Obsid Pro 360 Digital Argb Amd E Intel Preto",
+      "link": "https://meli.la/2p7KqwG",
+      "imagem": null,
+      "preco": 304.67999999999995,
+      "precoDe": 499,
+      "desconto": 32,
+      "cupom": "SEUOFFMELI",
+      "enviadoEm": "2026-09-07T12:13:43.855Z"
+    },
+    {
+      "id": "15395",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Inox Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
+      "link": "https://s.shopee.com.br/AKaN8gdTFS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms49lbchdmh1a1_tn",
+      "preco": 48.9,
+      "precoDe": 99.8,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T12:11:28.879Z"
+    },
+    {
+      "id": "15390",
+      "loja": "Shopee",
+      "titulo": "LANÇAMENTO • iPhone 17 Pro / 17 Pro Max 256GB • Novo Original NF Lacrado",
+      "link": "https://s.shopee.com.br/4qFS9Zbqqv",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhcaeeg33imda2_tn",
+      "preco": 7416.6,
+      "precoDe": 15135.92,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-09-07T12:03:31.416Z"
+    },
     {
       "id": "15387",
       "loja": "Shopee",
@@ -699,18 +783,6 @@
       "enviadoEm": "2026-09-06T12:32:58.944Z"
     },
     {
-      "id": "15267",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Inox Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
-      "link": "https://s.shopee.com.br/AKaN8gdTFS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms49lbchdmh1a1_tn",
-      "preco": 48.9,
-      "precoDe": 99.8,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T12:31:30.853Z"
-    },
-    {
       "id": "15266",
       "loja": "Mercado Livre",
       "titulo": "Monitor Gamer Samsung Odyssey G5, 27 , Qhd, 165hz Cor Preto",
@@ -1369,78 +1441,6 @@
       "desconto": 69,
       "cupom": "D14D3V3ND3R",
       "enviadoEm": "2026-09-05T12:56:10.127Z"
-    },
-    {
-      "id": "15147",
-      "loja": "Mercado Livre",
-      "titulo": "Lenços Umedecidos Pampers, Cuidado de bebê 12 pacotes em total 576 Unidades",
-      "link": "https://meli.la/1NqUMug",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_748978-MLA99449654790_112025-F.jpg",
-      "preco": 109.9,
-      "precoDe": 151.9,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-05T12:38:29.936Z"
-    },
-    {
-      "id": "15146",
-      "loja": "Amazon",
-      "titulo": "Granado Refil Sabonete Terrapeutics, Castanha Do Brasil, 300ml",
-      "link": "https://www.amazon.com.br/dp/B08H3DQ6S4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41kX0yzzqEL._SL400_.jpg",
-      "preco": 17.86,
-      "precoDe": 26.75,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-05T12:35:17.929Z"
-    },
-    {
-      "id": "15145",
-      "loja": "Shopee",
-      "titulo": "Bateria selada 12v 4.5ah Planet Selada Recarregavel",
-      "link": "https://s.shopee.com.br/2LY41FCmvZ",
-      "imagem": "https://cf.shopee.com.br/file/5a3c47c37f809c852f6ab2e1f1b42c39_tn",
-      "preco": 69.5,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "D14D3V3ND3R",
-      "enviadoEm": "2026-09-05T12:33:35.999Z"
-    },
-    {
-      "id": "15144",
-      "loja": "Amazon",
-      "titulo": "Colgate Plax Odor Control Enxaguante Bucal Sem Álcool, 2L",
-      "link": "https://www.amazon.com.br/dp/B0FDFZBGXB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41w4OCsDfoL._SL400_.jpg",
-      "preco": 28.19,
-      "precoDe": 42.68,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-09-05T12:32:53.366Z"
-    },
-    {
-      "id": "15143",
-      "loja": "Mercado Livre",
-      "titulo": "Huggies Fralda Descartável Máxima Proteção XXG - 112 Un",
-      "link": "https://meli.la/1Dc8rDk",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_939152-MLA99933491581_112025-F.jpg",
-      "preco": 122.22999999999999,
-      "precoDe": 197.75,
-      "desconto": 23,
-      "cupom": "BEBESEPETS0509",
-      "enviadoEm": "2026-09-05T12:28:16.554Z"
-    },
-    {
-      "id": "15142",
-      "loja": "Mercado Livre",
-      "titulo": "Huggies Fralda Descartável Máxima Proteção XG - 112 Un",
-      "link": "https://meli.la/1nGspZn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_782627-MLA99928206837_112025-F.jpg",
-      "preco": 118.88,
-      "precoDe": 197.75,
-      "desconto": 25,
-      "cupom": "BEBESEPETS0509",
-      "enviadoEm": "2026-09-05T12:28:15.769Z"
     }
   ]
 }
