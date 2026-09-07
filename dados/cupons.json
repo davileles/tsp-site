@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-07T00:01:57.735Z",
+  "atualizadoEm": "2026-09-07T02:01:57.738Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1199,6 +1199,18 @@
       "maximo": null,
       "limite": 300,
       "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-09T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LIBERAESSA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 150,
+      "maximo": null,
+      "limite": 300,
+      "observacao": null,
       "validadeAte": "2026-09-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
