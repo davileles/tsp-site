@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-07T18:59:17.348Z",
+  "atualizadoEm": "2026-09-07T19:11:41.297Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15538",
+      "loja": "Shopee",
+      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
+      "link": "https://s.shopee.com.br/40gLcjzUA2",
+      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
+      "preco": 54.989999999999995,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OSEHPE",
+      "enviadoEm": "2026-09-07T19:01:41.295Z"
+    },
     {
       "id": "15537",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 44,
       "cupom": null,
       "enviadoEm": "2026-09-06T15:11:19.650Z"
-    },
-    {
-      "id": "15296",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Confort Sec Tamanho G, 92 Un",
-      "link": "https://meli.la/26k7Vm5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_635774-MLA110683595720_052026-F.jpg",
-      "preco": 104.9,
-      "precoDe": 149.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T14:50:56.807Z"
     }
   ]
 }
