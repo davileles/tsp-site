@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-08T21:09:34.267Z",
+  "atualizadoEm": "2026-09-08T21:39:34.266Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15963",
+      "loja": "Mercado Livre",
+      "titulo": "Notebook ASUS VivoBook Go 15 AMD Ryzen 5 7520U 8GB 512GB SSD KeepOS Tela 15,6\" FHD Mixed Black - E1504FA-NJ732",
+      "link": "https://meli.la/1fFZBTL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_737034-MLU75570682760_042024-F.jpg",
+      "preco": 2704.41,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "TUDODEBOM",
+      "enviadoEm": "2026-09-08T21:38:25.039Z"
+    },
+    {
+      "id": "15965",
+      "loja": "Mercado Livre",
+      "titulo": "Escova Secadora de Cabelos Soft Beauty Cherry Philco Pec13 1300w 4 em 1 seca, alisa, modela e dá volume",
+      "link": "https://meli.la/1F2h1Ho",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_653169-MLA99851166997_112025-F.jpg",
+      "preco": 97.44,
+      "precoDe": 124.32,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T21:34:49.827Z"
+    },
+    {
+      "id": "15961",
+      "loja": "Mercado Livre",
+      "titulo": "Huggies Fralda Pants Roupinha Proteção Acolchoada M - 72 Un",
+      "link": "https://meli.la/1eEDpbu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_724166-MLA104126595686_012026-F.jpg",
+      "preco": 67.41,
+      "precoDe": 99.07,
+      "desconto": 32,
+      "cupom": "DESCONTEI",
+      "enviadoEm": "2026-09-08T21:31:32.421Z"
+    },
+    {
+      "id": "15959",
+      "loja": "Amazon",
+      "titulo": "CAMERA INSTAX MINI 12 AZUL CANDY",
+      "link": "https://www.amazon.com.br/dp/B0BX8W9SPW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/312EYb+Ty-L._SL400_.jpg",
+      "preco": 429.75,
+      "precoDe": 649,
+      "desconto": 34,
+      "cupom": "TEMNO9DO9",
+      "enviadoEm": "2026-09-08T21:30:31.727Z"
+    },
     {
       "id": "15953",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-09-07T18:03:28.273Z"
-    },
-    {
-      "id": "15519",
-      "loja": "Mercado Livre",
-      "titulo": "Vitamina B12 Metilcobalamina 414% 60caps Nutrify",
-      "link": "https://meli.la/2RRVEnd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745981-MLA100089582957_122025-F.jpg",
-      "preco": 24.06,
-      "precoDe": 42,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T17:57:03.996Z"
-    },
-    {
-      "id": "15514",
-      "loja": "Shopee",
-      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
-      "link": "https://s.shopee.com.br/50YsiKOc0C",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
-      "preco": 172.9,
-      "precoDe": 599.7,
-      "desconto": 67,
-      "cupom": "INDEPENDENCIA25AF",
-      "enviadoEm": "2026-09-07T17:31:07.425Z"
-    },
-    {
-      "id": "15513",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416kQ1MEMqL._SL400_.jpg",
-      "preco": 109.9,
-      "precoDe": 119.9,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T17:25:43.994Z"
-    },
-    {
-      "id": "15507",
-      "loja": "Mercado Livre",
-      "titulo": "Water Cooler Kalkan Iota V2 360 Rgb 360mm Tdp 280w Preto",
-      "link": "https://meli.la/2s5QVHb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_952760-MLA106712806690_022026-F.jpg",
-      "preco": 241.2,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SEUOFFMELI",
-      "enviadoEm": "2026-09-07T16:46:22.209Z"
     }
   ]
 }
