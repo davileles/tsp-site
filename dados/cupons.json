@@ -1,91 +1,7 @@
 {
-  "atualizadoEm": "2026-09-08T02:59:17.697Z",
+  "atualizadoEm": "2026-09-08T03:29:17.735Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "BRFS7",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 310,
-      "minimo": 2500,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-08T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRFS6",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 230,
-      "minimo": 1900,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-08T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRFS5",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 140,
-      "minimo": 1200,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-08T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRFS4",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 80,
-      "minimo": 680,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-08T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRFS3",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 320,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-08T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRFS2",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 25,
-      "minimo": 180,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-08T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRFS1",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 12,
-      "minimo": 90,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-08T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
     {
       "codigo": "COLOR",
       "loja": "BELEZA NA WEB",
@@ -229,42 +145,6 @@
       "observacao": null,
       "validadeAte": "2030-01-02T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
-    },
-    {
-      "codigo": "QUERO300",
-      "loja": "Dafiti",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 1700,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-08T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17697&id=1207116"
-    },
-    {
-      "codigo": "QUERO150",
-      "loja": "Dafiti",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 1000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-08T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17697&id=1207116"
-    },
-    {
-      "codigo": "QUERO50",
-      "loja": "Dafiti",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 500,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-08T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17697&id=1207116"
     },
     {
       "codigo": "DUFRIO50",
@@ -459,18 +339,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "SHARK20",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-08T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "LOFREE20",
       "loja": "Kabum",
       "tipo": "pct",
@@ -516,6 +384,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-12T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "KABUMOURO",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-14T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -565,6 +445,18 @@
       "observacao": null,
       "validadeAte": "2026-09-08T11:10:09.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "MELIMAISTODOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-08T12:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "GARIMPEI",
@@ -655,7 +547,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
@@ -667,7 +559,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -775,7 +667,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -823,7 +715,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -835,7 +727,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -871,11 +763,23 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
       "validadeAte": "2026-09-29T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "RESGATEFULL0809",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido apenas em entregas FULL",
+      "validadeAte": "2026-09-09T03:01:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -895,7 +799,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 22,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -971,7 +875,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-09-10T02:59:00.000Z",
+      "validadeAte": "2026-09-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1003,7 +907,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 18,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1043,7 +947,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-09-10T02:59:00.000Z",
+      "validadeAte": "2026-09-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1067,7 +971,7 @@
       "maximo": null,
       "limite": 300,
       "observacao": "Válido em selecionados conforme lista fornecida",
-      "validadeAte": "2026-09-10T02:59:00.000Z",
+      "validadeAte": "2026-09-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1079,7 +983,7 @@
       "maximo": null,
       "limite": 300,
       "observacao": "Válido em selecionados conforme lista fornecida",
-      "validadeAte": "2026-09-10T02:59:00.000Z",
+      "validadeAte": "2026-09-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1176,18 +1080,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-09T02:41:39.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "INDEPENDENCIA25AF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 25,
-      "minimo": 99,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-08T03:00:03.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
