@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-08T15:53:08.257Z",
+  "atualizadoEm": "2026-09-08T16:11:26.476Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15770",
+      "loja": "Mercado Livre",
+      "titulo": "Pneus Dianteiras/traseiras Para Moto Michelin City Extra Pneu Sem Câmara De 80-100-18+90-90-18 S 47 - 175 Kg X 2 Unidades",
+      "link": "https://meli.la/1osRnXo",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_982868-MLA99818421309_112025-F.jpg",
+      "preco": 510,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "USAESSAPROMO",
+      "enviadoEm": "2026-09-08T16:07:39.123Z"
+    },
+    {
+      "id": "15764",
+      "loja": "Shopee",
+      "titulo": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
+      "link": "https://s.shopee.com.br/1Lfbq8LuTd",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6_tn",
+      "preco": 408.99,
+      "precoDe": 596.09,
+      "desconto": 23,
+      "cupom": "TEMCUPOM50",
+      "enviadoEm": "2026-09-08T16:00:45.690Z"
+    },
+    {
+      "id": "15720",
+      "loja": "Amazon",
+      "titulo": "CHUPETA MAM ORIGINAL TRIO - EMBALAGEM BLISTER TRIPLA",
+      "link": "https://www.amazon.com.br/dp/B0D4F4VS9M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31uChMKfF2L._SL400_.jpg",
+      "preco": 61.65,
+      "precoDe": 96,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T15:57:19.904Z"
+    },
+    {
+      "id": "15731",
+      "loja": "Amazon",
+      "titulo": "Lansinoh Bolsas de Armazenamento de Leite Materno, 50 Contagem, 6 Onças, Resistente a Fugas, Zíper, Livre de Bisfenol-A",
+      "link": "https://www.amazon.com.br/dp/B075HPVKH1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41n9cUGs5pL._SL400_.jpg",
+      "preco": 72.8,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T15:56:24.724Z"
+    },
+    {
+      "id": "15744",
+      "loja": "Amazon",
+      "titulo": "Conjunto de Bowls Tigelas de Inox com Tampa Plástica Electrolux",
+      "link": "https://www.amazon.com.br/dp/B0C2ZNDWK6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412fqEaHBcL._SL400_.jpg",
+      "preco": 84.9,
+      "precoDe": 159.9,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T15:55:13.084Z"
+    },
     {
       "id": "15745",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-09-07T14:17:31.340Z"
-    },
-    {
-      "id": "15454",
-      "loja": "Mercado Livre",
-      "titulo": "Pijama Macacão Kigurumi Unisex De Dinossauro De Plush",
-      "link": "https://meli.la/1cUVjs1",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_668360-MLB111828801831_052026-O.webp",
-      "preco": 81.92,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFERTASEMPRE",
-      "enviadoEm": "2026-09-07T14:17:30.147Z"
-    },
-    {
-      "id": "15453",
-      "loja": "Amazon",
-      "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
-      "link": "https://www.amazon.com.br/dp/B08JQND4NB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41R2NzOIiVL._SL400_.jpg",
-      "preco": 14.99,
-      "precoDe": 25.55,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T14:06:56.661Z"
-    },
-    {
-      "id": "15452",
-      "loja": "Shopee",
-      "titulo": "Jaqueta Bobojaco Impermeável Becker Nylon Puffer Masculino com Bolsos e Capuz",
-      "link": "https://s.shopee.com.br/7VGBn1c0tv",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmb-lo8gotg960in6f_tn",
-      "preco": 52.989999999999995,
-      "precoDe": 99.99,
-      "desconto": 27,
-      "cupom": "OSEHPE",
-      "enviadoEm": "2026-09-07T14:05:35.337Z"
-    },
-    {
-      "id": "15451",
-      "loja": "Amazon",
-      "titulo": "Travel System Maxi-Cosi, Eva³, Select Grey",
-      "link": "https://www.amazon.com.br/dp/B0DB8XBBFR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/414lmQxB3bL._SL400_.jpg",
-      "preco": 2981.87,
-      "precoDe": 3499,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T14:01:53.844Z"
-    },
-    {
-      "id": "15450",
-      "loja": "Amazon",
-      "titulo": "Carrinho de Bebê Safety 1st, Tracer, 0 a 22kg, Taupe Royal",
-      "link": "https://www.amazon.com.br/dp/B0H7YY44ST?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41cOpmaYxNL._SL400_.jpg",
-      "preco": 1499,
-      "precoDe": 1779,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T14:01:52.234Z"
     }
   ]
 }
