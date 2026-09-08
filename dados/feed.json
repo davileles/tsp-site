@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-08T18:52:58.297Z",
+  "atualizadoEm": "2026-09-08T19:14:11.870Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15898",
+      "loja": "Mercado Livre",
+      "titulo": "Fraldas Pampers Pants Ajuste Total",
+      "link": "https://meli.la/1A1cddZ",
+      "imagem": null,
+      "preco": 104.9,
+      "precoDe": 154.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T19:11:44.724Z"
+    },
+    {
+      "id": "15899",
+      "loja": "Mercado Livre",
+      "titulo": "Pasta de Amendoim Proteica Dr. Peanut Avelã 600g Sem Açúcar Glúten",
+      "link": "https://meli.la/33q2a95",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_966214-MLA89213106284_082025-F.jpg",
+      "preco": 30.790000000000003,
+      "precoDe": 60,
+      "desconto": 27,
+      "cupom": "FULL0809",
+      "enviadoEm": "2026-09-08T19:10:38.872Z"
+    },
+    {
+      "id": "15902",
+      "loja": "Mercado Livre",
+      "titulo": "Sanduicheira Duo Time 800w Antiaderente Preta Elgin Preto",
+      "link": "https://meli.la/1qKRHUY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_822211-MLA108262470411_032026-F.jpg",
+      "preco": 55.900000000000006,
+      "precoDe": 119.99,
+      "desconto": 37,
+      "cupom": "FULL0809",
+      "enviadoEm": "2026-09-08T19:07:08.716Z"
+    },
     {
       "id": "15870",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-09-07T15:59:07.793Z"
-    },
-    {
-      "id": "15494",
-      "loja": "Mercado Livre",
-      "titulo": "Whey Protein 1kg Whey Pro Max Titanium Sabor Baunilha BCAA e Aminoácidos",
-      "link": "https://meli.la/1SE8Rbp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_960337-MLA111724818522_062026-F.jpg",
-      "preco": 80.99,
-      "precoDe": 149.86,
-      "desconto": 40,
-      "cupom": "BOLSOCHEIO",
-      "enviadoEm": "2026-09-07T15:56:51.815Z"
-    },
-    {
-      "id": "15492",
-      "loja": "Mercado Livre",
-      "titulo": "Extratora Remove & Clean 3 Em 1 Elgin 1.650w 110v Azul-escuro",
-      "link": "https://meli.la/2KZ1GdZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_916443-MLA114090078258_082026-F.jpg",
-      "preco": 351.91999999999996,
-      "precoDe": 679.99,
-      "desconto": 42,
-      "cupom": "SEUOFFMELI",
-      "enviadoEm": "2026-09-07T15:54:01.952Z"
-    },
-    {
-      "id": "15491",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 4 Bermuda Masculino Short Elastano Academia Bolso Casual",
-      "link": "https://meli.la/2ZXkFxH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_698303-MLB117052326983_092026-O.webp",
-      "preco": 64.99,
-      "precoDe": 151.13,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T15:51:42.918Z"
     }
   ]
 }
