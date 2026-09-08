@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-08T12:00:19.004Z",
+  "atualizadoEm": "2026-09-08T12:27:58.801Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15622",
+      "loja": "Mercado Livre",
+      "titulo": "Bicicleta Ergométrica Bike Spinning 6kg Sensação inércia Fitness Preto e Vermelho Sevenfit Para Cardio E Musculação",
+      "link": "https://meli.la/2ZrUucG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745785-MLA114987927277_072026-F.jpg",
+      "preco": 406.39,
+      "precoDe": 1094.99,
+      "desconto": 56,
+      "cupom": "MELI15MAIS",
+      "enviadoEm": "2026-09-08T12:17:58.799Z"
+    },
+    {
+      "id": "15621",
+      "loja": "Mercado Livre",
+      "titulo": "JBL BOOMBOX4 BLACK - PRETA",
+      "link": "https://meli.la/1jdSU2G",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_866062-MLA112624540350_062026-F.jpg",
+      "preco": 2049,
+      "precoDe": 2499,
+      "desconto": 8,
+      "cupom": "TUDODEBOM",
+      "enviadoEm": "2026-09-08T12:15:37.785Z"
+    },
+    {
+      "id": "15620",
+      "loja": "Amazon",
+      "titulo": "NAUTICA VOYAGE N83 EDT 100ML V2",
+      "link": "https://www.amazon.com.br/dp/B07GJ67M26?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31qRVT2lI8L._SL400_.jpg",
+      "preco": 68.23,
+      "precoDe": 199,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T12:15:37.239Z"
+    },
+    {
+      "id": "15617",
+      "loja": "Amazon",
+      "titulo": "GS MISS GABRIELA NIGHT EDT 30ML BO",
+      "link": "https://www.amazon.com.br/dp/B00DATT1SA?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JWC1SFh2L._SL400_.jpg",
+      "preco": 40.88,
+      "precoDe": 119,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T12:11:38.003Z"
+    },
+    {
+      "id": "15616",
+      "loja": "Shopee",
+      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
+      "link": "https://s.shopee.com.br/9AOROiEoN5",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
+      "preco": 74.99,
+      "precoDe": 199.97,
+      "desconto": 60,
+      "cupom": "F3R14D05",
+      "enviadoEm": "2026-09-08T12:11:19.117Z"
+    },
+    {
+      "id": "15614",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Pares Meia Lupo Original Masculina Cano Médio Algodão",
+      "link": "https://meli.la/1EcuMiV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_962304-MLB72535391487_102023-O.webp",
+      "preco": 67.21000000000001,
+      "precoDe": 179.22,
+      "desconto": 50,
+      "cupom": "SALVEIESSA",
+      "enviadoEm": "2026-09-08T12:11:18.073Z"
+    },
+    {
+      "id": "15612",
+      "loja": "Mercado Livre",
+      "titulo": "Panificadora Multipane 12 Programações Com Função Timer e Antiaderente Potência de 550 W Cor Preto Britânia",
+      "link": "https://meli.la/28YSb1Z",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_873422-MLA40301247641_012020-F.jpg",
+      "preco": 581.17,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SALVEIESSA",
+      "enviadoEm": "2026-09-08T12:07:22.182Z"
+    },
     {
       "id": "15596",
       "loja": "Amazon",
@@ -1011,18 +1095,6 @@
       "enviadoEm": "2026-09-07T13:42:42.251Z"
     },
     {
-      "id": "15441",
-      "loja": "Shopee",
-      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
-      "link": "https://s.shopee.com.br/9AOROiEoN5",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
-      "preco": 59.989999999999995,
-      "precoDe": 199.97,
-      "desconto": 60,
-      "cupom": "OSEHPE",
-      "enviadoEm": "2026-09-07T13:19:55.298Z"
-    },
-    {
       "id": "15439",
       "loja": "Shopee",
       "titulo": "HUAWEI WATCH FIT 5 Pro| Smartwatch Relogio | Tela FullView AMOLED de 1,92\"| Mini Treino | 64 GB ECG",
@@ -1369,78 +1441,6 @@
       "desconto": 19,
       "cupom": null,
       "enviadoEm": "2026-09-07T11:09:34.534Z"
-    },
-    {
-      "id": "15379",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Protect E Sec M Hiper, 70 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41VhQ4JSbGL._SL400_.jpg",
-      "preco": 52.33,
-      "precoDe": 64.64,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T11:09:34.186Z"
-    },
-    {
-      "id": "15376",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
-      "link": "https://s.shopee.com.br/40gJXvILoH",
-      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
-      "preco": 52.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T11:03:34.458Z"
-    },
-    {
-      "id": "15354",
-      "loja": "Mercado Livre",
-      "titulo": "Lava E Seca 11kg Branca Inverter Midea",
-      "link": "https://meli.la/1QKrb4K",
-      "imagem": null,
-      "preco": 2943.08,
-      "precoDe": 3367.38,
-      "desconto": 5,
-      "cupom": "LIBERAESSA",
-      "enviadoEm": "2026-09-06T22:32:56.715Z"
-    },
-    {
-      "id": "15353",
-      "loja": "Amazon",
-      "titulo": "Hemmer Ketchup Tradicional Bisnaga 1kg",
-      "link": "https://www.amazon.com.br/dp/B07XPCK5H5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/316ZnUTUHWL._SL400_.jpg",
-      "preco": 15.19,
-      "precoDe": 21.69,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T22:30:25.530Z"
-    },
-    {
-      "id": "15351",
-      "loja": "Amazon",
-      "titulo": "JBL, Caixa de Som, Grip, 16 W RMS, Com Playtime Boost, IP68, Portátil - Preto",
-      "link": "https://www.amazon.com.br/dp/B0FVBH3L33?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41a4E+txaWL._SL400_.jpg",
-      "preco": 402,
-      "precoDe": 559,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T22:17:03.517Z"
-    },
-    {
-      "id": "15350",
-      "loja": "Amazon",
-      "titulo": "Chocolate Twix Original Minis 180g",
-      "link": "https://www.amazon.com.br/dp/B0G94HCD1K?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51S4Zme1pRL._SL400_.jpg",
-      "preco": 13.99,
-      "precoDe": 19.99,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T22:12:22.402Z"
     }
   ]
 }
