@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-08T14:38:02.617Z",
+  "atualizadoEm": "2026-09-08T14:51:53.298Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15729",
+      "loja": "Shopee",
+      "titulo": "Kit Jogo 4 Tapete de Banheiro Antiderrapante 60x40cm Tapete Bolinha Macarrão Microfibra Absorvente",
+      "link": "https://s.shopee.com.br/80CVhjToaq",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1c8gqanz7q35_tn",
+      "preco": 23.97,
+      "precoDe": 47.49,
+      "desconto": 39,
+      "cupom": "F3R14D05",
+      "enviadoEm": "2026-09-08T14:50:31.592Z"
+    },
     {
       "id": "15702",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 62,
       "cupom": "VOLTOU50",
       "enviadoEm": "2026-09-07T12:56:42.267Z"
-    },
-    {
-      "id": "15435",
-      "loja": "Mercado Livre",
-      "titulo": "Principia Kit Essencial Gl-03 + Ch + Vc + Ps Sensível Dia/noite",
-      "link": "https://meli.la/1oaZzzH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_792011-MLA96077651979_102025-F.jpg",
-      "preco": 112.5,
-      "precoDe": 211,
-      "desconto": 41,
-      "cupom": "BOLSOCHEIO",
-      "enviadoEm": "2026-09-07T12:51:21.539Z"
     }
   ]
 }
