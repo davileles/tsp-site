@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-08T14:21:27.352Z",
+  "atualizadoEm": "2026-09-08T14:38:02.617Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15702",
+      "loja": "Shopee",
+      "titulo": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
+      "link": "https://s.shopee.com.br/2LY8vm1hN0",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcel-m65hf8tzwkwu8a_tn",
+      "preco": 23.9,
+      "precoDe": 79.67,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T14:28:02.615Z"
+    },
     {
       "id": "15696",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 41,
       "cupom": "BOLSOCHEIO",
       "enviadoEm": "2026-09-07T12:51:21.539Z"
-    },
-    {
-      "id": "15434",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Phillips 24 Evnia Ips 144hz 0.5ms Wide Fullhd Preto 127/220v",
-      "link": "https://meli.la/2CNfb2o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774386-MLA109634002575_032026-F.jpg",
-      "preco": 531,
-      "precoDe": 999.98,
-      "desconto": 41,
-      "cupom": "SEUOFFMELI",
-      "enviadoEm": "2026-09-07T12:47:34.165Z"
     }
   ]
 }
