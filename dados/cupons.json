@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-07T23:59:17.688Z",
+  "atualizadoEm": "2026-09-08T00:59:17.636Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1055,7 +1055,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-09-09T02:59:00.000Z",
+      "validadeAte": "2026-09-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1127,7 +1127,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-09-09T02:59:00.000Z",
+      "validadeAte": "2026-09-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1151,7 +1151,7 @@
       "maximo": null,
       "limite": 300,
       "observacao": "Válido em selecionados conforme lista fornecida",
-      "validadeAte": "2026-09-09T02:59:00.000Z",
+      "validadeAte": "2026-09-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1163,19 +1163,7 @@
       "maximo": null,
       "limite": 300,
       "observacao": "Válido em selecionados conforme lista fornecida",
-      "validadeAte": "2026-09-09T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SEUOFFMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-09-08T02:59:00.000Z",
+      "validadeAte": "2026-09-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
