@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-08T17:22:58.297Z",
+  "atualizadoEm": "2026-09-08T17:48:22.486Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15809",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
+      "link": "https://s.shopee.com.br/4qFPRmyFSo",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
+      "preco": 23.88,
+      "precoDe": 47.76,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T17:38:22.485Z"
+    },
+    {
+      "id": "15808",
+      "loja": "Amazon",
+      "titulo": "DM Toys Brinquedo Interativo Musical Mexe Danca Luz e Som Dancing Cachorro",
+      "link": "https://www.amazon.com.br/dp/B08Z899HWG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41EVQGlDipL._SL400_.jpg",
+      "preco": 47.58,
+      "precoDe": 66.9,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T17:29:20.244Z"
+    },
+    {
+      "id": "15806",
+      "loja": "Amazon",
+      "titulo": "Buba, Gel Para Aliviar a Febre",
+      "link": "https://www.amazon.com.br/dp/B0DHSHNWMX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41SDu+SUjLL._SL400_.jpg",
+      "preco": 19.44,
+      "precoDe": 26.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T17:28:12.717Z"
+    },
+    {
+      "id": "15804",
+      "loja": "Amazon",
+      "titulo": "365 Atividades Inglês",
+      "link": "https://www.amazon.com.br/dp/6556172391?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51dyEJVwEqL._SL400_.jpg",
+      "preco": 11.98,
+      "precoDe": 24.9,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T17:27:14.487Z"
+    },
+    {
+      "id": "15799",
+      "loja": "Amazon",
+      "titulo": "Fralda Huggies Tripla Proteção M - 42 fraldas",
+      "link": "https://www.amazon.com.br/dp/B08QG5H9RD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41u8miitEEL._SL400_.jpg",
+      "preco": 41,
+      "precoDe": 55.53,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T17:26:04.419Z"
+    },
     {
       "id": "15805",
       "loja": "Shopee",
@@ -1143,18 +1203,6 @@
       "enviadoEm": "2026-09-07T17:57:03.996Z"
     },
     {
-      "id": "15517",
-      "loja": "Shopee",
-      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
-      "link": "https://s.shopee.com.br/4qFPRmyFSo",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
-      "preco": 23.88,
-      "precoDe": 47.76,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T17:53:55.368Z"
-    },
-    {
       "id": "15514",
       "loja": "Shopee",
       "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
@@ -1393,54 +1441,6 @@
       "desconto": 42,
       "cupom": "FULL0709",
       "enviadoEm": "2026-09-07T15:17:39.207Z"
-    },
-    {
-      "id": "15474",
-      "loja": "Mercado Livre",
-      "titulo": "Sabão Líquido Omo Lavagem Perfeita 5L",
-      "link": "https://meli.la/1KbKG1r",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_674418-MLA99926390179_112025-F.jpg",
-      "preco": 35.34,
-      "precoDe": 67.05,
-      "desconto": 25,
-      "cupom": "FULL0709",
-      "enviadoEm": "2026-09-07T15:16:59.928Z"
-    },
-    {
-      "id": "15473",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Personal Protect & Sec XG com 66 Unidades",
-      "link": "https://meli.la/1DMn8tU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_858976-MLA99845645225_112025-F.jpg",
-      "preco": 45.64,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FULL0709",
-      "enviadoEm": "2026-09-07T15:15:55.019Z"
-    },
-    {
-      "id": "15472",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Com 10 Cuecas Boxer Microfibra Sem Costura Santara",
-      "link": "https://meli.la/1xUkNPc",
-      "imagem": null,
-      "preco": 129.99,
-      "precoDe": 199.99,
-      "desconto": 25,
-      "cupom": "FULL0709",
-      "enviadoEm": "2026-09-07T15:15:03.322Z"
-    },
-    {
-      "id": "15471",
-      "loja": "Shopee",
-      "titulo": "KIT 20/10 CANETAS MARCADORA PERMANENTE DE PONTA LONGA MARCAR FURAÇÃO PAREDE  PARA TRABALHO PEDREIRO!",
-      "link": "https://s.shopee.com.br/7fZdjr32pB",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj4gxg7e6adfc0_tn",
-      "preco": 28.9,
-      "precoDe": 47.08,
-      "desconto": 28,
-      "cupom": "F3R14D05",
-      "enviadoEm": "2026-09-07T15:14:34.438Z"
     }
   ]
 }
