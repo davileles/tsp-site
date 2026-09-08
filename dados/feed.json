@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-08T17:10:28.670Z",
+  "atualizadoEm": "2026-09-08T17:22:58.297Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15805",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
+      "link": "https://s.shopee.com.br/1gISK0ToVV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
+      "preco": 17.99,
+      "precoDe": 21.42,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T17:15:21.391Z"
+    },
     {
       "id": "15797",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 28,
       "cupom": "F3R14D05",
       "enviadoEm": "2026-09-07T15:14:34.438Z"
-    },
-    {
-      "id": "15470",
-      "loja": "Mercado Livre",
-      "titulo": "Kaiak Ultra Natura Colônia Perfume Masculino 100ml Relançamento 2025",
-      "link": "https://meli.la/1ERcNet",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_916194-MLA114865292471_072026-F.jpg",
-      "preco": 55.95,
-      "precoDe": 189.9,
-      "desconto": 60,
-      "cupom": "FULL0709",
-      "enviadoEm": "2026-09-07T15:14:07.978Z"
     }
   ]
 }
