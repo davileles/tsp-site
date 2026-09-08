@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-08T16:17:08.045Z",
+  "atualizadoEm": "2026-09-08T16:23:59.600Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -519,6 +519,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "TUDOAQUI",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 449.21,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto de R$ 449,21 (de R$ 779,00 para R$ 329,79). Cupom aplicado resultando em 50% de desconto total.",
+      "validadeAte": "2026-09-09T16:23:21.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TUDODEBOM",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -564,18 +576,6 @@
       "limite": 500,
       "observacao": "Cupons em selecionados do Mercado Livre",
       "validadeAte": "2026-09-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PEGAESSA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-19T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1054,7 +1054,7 @@
       "minimo": 79,
       "maximo": null,
       "limite": 50,
-      "observacao": null,
+      "observacao": "Desconto de R$ 113,02 (de R$ 220,00 para R$ 106,98). Percentual aproximado de 41% OFF com cupom aplicado.",
       "validadeAte": "2026-09-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1068,18 +1068,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TUDOAQUI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-09-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
