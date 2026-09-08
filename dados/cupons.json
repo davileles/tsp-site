@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-08T16:11:27.720Z",
+  "atualizadoEm": "2026-09-08T16:17:08.045Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -531,6 +531,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 60,
+      "minimo": 499,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-09-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SITETOD0809",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -660,18 +672,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-30T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 250,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-09-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1020,18 +1020,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MODAEBELEZA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-09-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
