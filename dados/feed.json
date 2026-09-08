@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-08T11:30:19.003Z",
+  "atualizadoEm": "2026-09-08T11:58:51.744Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15595",
+      "loja": "Shopee",
+      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
+      "link": "https://s.shopee.com.br/9zxZsu9Xk2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
+      "preco": 104,
+      "precoDe": 320.59,
+      "desconto": 66,
+      "cupom": "F3R14D05",
+      "enviadoEm": "2026-09-08T11:48:51.742Z"
+    },
+    {
+      "id": "15593",
+      "loja": "Amazon",
+      "titulo": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
+      "link": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Y8qLGnumL._SL400_.jpg",
+      "preco": 33.54,
+      "precoDe": 62.99,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T11:40:16.187Z"
+    },
+    {
+      "id": "15592",
+      "loja": "Amazon",
+      "titulo": "Huggies Fralda Supreme Care M 196 Un",
+      "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51+st-gYHFL._SL400_.jpg",
+      "preco": 159.9,
+      "precoDe": 229.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T11:40:15.210Z"
+    },
+    {
+      "id": "15590",
+      "loja": "Amazon",
+      "titulo": "Lenços Umedecidos Huggies Rosto e Corpo Limpeza 4 x 48 Un",
+      "link": "https://www.amazon.com.br/dp/B07MJ251Z8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41kdm-GOGJL._SL400_.jpg",
+      "preco": 28.79,
+      "precoDe": 32.6,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T11:33:03.121Z"
+    },
     {
       "id": "15588",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 64,
       "cupom": null,
       "enviadoEm": "2026-09-06T22:10:09.285Z"
-    },
-    {
-      "id": "15340",
-      "loja": "Mercado Livre",
-      "titulo": "Short Lupo Attack Para Esporte Fitness Compressão Original",
-      "link": "https://meli.la/1Cqe97i",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_673926-MLB87504377037_072025-O.webp",
-      "preco": 65.44,
-      "precoDe": 119.9,
-      "desconto": 33,
-      "cupom": "OFERTASEMPRE",
-      "enviadoEm": "2026-09-06T20:16:59.745Z"
-    },
-    {
-      "id": "15338",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Refletor Super Led 400w Ip67 Holofote Bivolt Prova D'água Branco Frio 6500k Preto",
-      "link": "https://meli.la/13hV5fe",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753073-MLA110946060098_052026-F.jpg",
-      "preco": 43.77,
-      "precoDe": 99.98,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T20:11:27.880Z"
-    },
-    {
-      "id": "15337",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo Toalhas Banho E Rosto Grossas Macias 100% Algodão 4pçs",
-      "link": "https://meli.la/15hUCPn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_625349-MLB114921553689_072026-O.webp",
-      "preco": 69.62,
-      "precoDe": 149.9,
-      "desconto": 45,
-      "cupom": "TUDOAQUI",
-      "enviadoEm": "2026-09-06T20:09:08.501Z"
-    },
-    {
-      "id": "15333",
-      "loja": "Shopee",
-      "titulo": "Regata feminina adulto kit 2 unidades cores variadas malha premium academia e dia a dia",
-      "link": "https://s.shopee.com.br/20vFh7yjXL",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mp9xiwp3c3k0c4_tn",
-      "preco": 22.48,
-      "precoDe": 54.83,
-      "desconto": 59,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T19:44:54.170Z"
     }
   ]
 }
