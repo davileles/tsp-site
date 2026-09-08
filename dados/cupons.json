@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-08T19:23:12.149Z",
+  "atualizadoEm": "2026-09-08T19:48:29.743Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -96,6 +96,18 @@
       "limite": null,
       "observacao": "Cupom para primeira compra",
       "validadeAte": "2026-09-09T17:36:15.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "TEMNO9DO9",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 12,
+      "minimo": 149,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom válido no app Amazon",
+      "validadeAte": "2026-09-09T19:30:48.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -573,7 +585,7 @@
       "valor": 250,
       "minimo": 2099,
       "maximo": null,
-      "limite": null,
+      "limite": 250,
       "observacao": null,
       "validadeAte": "2026-09-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -667,7 +679,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
@@ -679,7 +691,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -696,6 +708,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-30T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ENTREGASFULL",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-09-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -835,7 +859,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -883,7 +907,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
@@ -919,7 +943,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 22,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1051,7 +1075,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 18,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1139,6 +1163,18 @@
       "maximo": null,
       "limite": 300,
       "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-09T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "VALEMAIS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
       "validadeAte": "2026-09-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
