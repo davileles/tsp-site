@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-08T19:48:28.506Z",
+  "atualizadoEm": "2026-09-08T19:52:10.977Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15915",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pom Pom Protek G com 42 Unidades Para 12 Horas de Proteção",
+      "link": "https://meli.la/2KKQF9U",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_726573-MLA99451965756_112025-F.jpg",
+      "preco": 34.73,
+      "precoDe": 50.3,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T19:51:02.308Z"
+    },
     {
       "id": "15911",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 5,
       "cupom": "CUPOMOFF",
       "enviadoEm": "2026-09-07T16:15:12.145Z"
-    },
-    {
-      "id": "15497",
-      "loja": "Amazon",
-      "titulo": "Head & Shoulders Hidratação com Óleo de Amêndoas 400ml",
-      "link": "https://www.amazon.com.br/dp/B0101A2WJA?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/311ZkOuJUoL._SL400_.jpg",
-      "preco": 21.49,
-      "precoDe": 31.41,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T16:02:10.450Z"
     }
   ]
 }
