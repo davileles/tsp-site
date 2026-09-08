@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-08T20:56:37.611Z",
+  "atualizadoEm": "2026-09-08T21:09:35.505Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1321,6 +1321,18 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
+    },
+    {
+      "codigo": "LOVI0909",
+      "loja": "Shopee",
+      "tipo": "pct",
+      "valor": 100,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Ativa meia noite. Válido para a categoria Lovito.",
+      "validadeAte": "2026-09-09T21:02:26.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "TEMCUPOM50",
