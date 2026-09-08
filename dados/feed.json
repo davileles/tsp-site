@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-08T13:29:39.327Z",
+  "atualizadoEm": "2026-09-08T13:56:12.845Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15679",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira Infantil para Carro TurboBooster 2.0, Declan, Cinza Mescla",
+      "link": "https://meli.la/1SVxTF8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_616571-MLA112324386202_062026-F.jpg",
+      "preco": 449.99,
+      "precoDe": 559.9,
+      "desconto": 11,
+      "cupom": "VALEMAIS",
+      "enviadoEm": "2026-09-08T13:46:12.844Z"
+    },
+    {
+      "id": "15678",
+      "loja": "Amazon",
+      "titulo": "Baby Dove Sabonete Líquido Hidratação Glicerinada 400 ML",
+      "link": "https://www.amazon.com.br/dp/B07ZHGT9ZT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3132ZHC-SHL._SL400_.jpg",
+      "preco": 21.59,
+      "precoDe": 33.99,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T13:46:09.067Z"
+    },
+    {
+      "id": "15673",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Cafés Torrado E Moído Aromatizados - Todos os Aromas",
+      "link": "https://s.shopee.com.br/8plccZcb4w",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4zzbuhcb6pecf_tn",
+      "preco": 99.9,
+      "precoDe": 120.57,
+      "desconto": 13,
+      "cupom": "F3R14D05",
+      "enviadoEm": "2026-09-08T13:42:33.614Z"
+    },
     {
       "id": "15665",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-09-07T12:40:17.317Z"
-    },
-    {
-      "id": "15418",
-      "loja": "Mercado Livre",
-      "titulo": "Water Cooler Thermalright Frozen Prism 360 ARGB para CPU",
-      "link": "https://meli.la/2GL3pvv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_872033-MLA99418759508_112025-F.jpg",
-      "preco": 391,
-      "precoDe": 707.97,
-      "desconto": 39,
-      "cupom": "SEUOFFMELI",
-      "enviadoEm": "2026-09-07T12:39:28.627Z"
-    },
-    {
-      "id": "15417",
-      "loja": "Mercado Livre",
-      "titulo": "Micro-ondas Philco 20L Preto Painel Mecânico PMO23M",
-      "link": "https://meli.la/1QSFy1G",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_792279-MLA99822565951_112025-F.jpg",
-      "preco": 369,
-      "precoDe": 579,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T12:37:00.900Z"
-    },
-    {
-      "id": "15415",
-      "loja": "Mercado Livre",
-      "titulo": "Watercooler Kalkan 360mm Argb Aura Lcd 360 Preto",
-      "link": "https://meli.la/1Pm1Q7u",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_690195-MLA112485529178_062026-F.jpg",
-      "preco": 340.57000000000005,
-      "precoDe": 479,
-      "desconto": 21,
-      "cupom": "SEUOFFMELI",
-      "enviadoEm": "2026-09-07T12:34:19.882Z"
     }
   ]
 }
