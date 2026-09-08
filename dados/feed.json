@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-08T18:11:17.871Z",
+  "atualizadoEm": "2026-09-08T18:22:58.298Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15827",
+      "loja": "Amazon",
+      "titulo": "BIODERMA Creme Ultra-Reparador Calmante Cicabio Crème+ 20ml",
+      "link": "https://www.amazon.com.br/dp/B0CXSJNLDK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21zrC6bwPrL._SL400_.jpg",
+      "preco": 26.6,
+      "precoDe": 41.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T18:20:11.654Z"
+    },
     {
       "id": "15815",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 61,
       "cupom": "FULL0709",
       "enviadoEm": "2026-09-07T15:20:46.049Z"
-    },
-    {
-      "id": "15475",
-      "loja": "Mercado Livre",
-      "titulo": "Power Bank Basike 20000mAh Preto, Carga Rápida 22.5W para iPhone e Samsung, Com Cabos Embutidos e Display",
-      "link": "https://meli.la/1dmHfnH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_719636-MLA99381510294_112025-F.jpg",
-      "preco": 54.099999999999994,
-      "precoDe": 127.32,
-      "desconto": 42,
-      "cupom": "FULL0709",
-      "enviadoEm": "2026-09-07T15:17:39.207Z"
     }
   ]
 }
