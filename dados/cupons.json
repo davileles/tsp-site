@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-08T19:14:13.165Z",
+  "atualizadoEm": "2026-09-08T19:23:12.149Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -696,30 +696,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-30T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FULL0809",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 39,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Válido em entregas FULL. Selecionados.",
-      "validadeAte": "2026-09-08T22:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ENTREGASFULL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 39,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-09-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
