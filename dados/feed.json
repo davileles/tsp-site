@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-08T15:21:53.297Z",
+  "atualizadoEm": "2026-09-08T15:53:08.257Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15745",
+      "loja": "Mercado Livre",
+      "titulo": "Macaco Hidraulico Tipo Garrafa 8 Toneladas 450 Mm Altura Max",
+      "link": "https://meli.la/2ZKh5U4",
+      "imagem": "https://http2.mlstatic.com/D_821159-MLB114491509179_072026-F.jpg",
+      "preco": 94.08,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "USAESSAPROMO",
+      "enviadoEm": "2026-09-08T15:52:04.621Z"
+    },
+    {
+      "id": "15754",
+      "loja": "Mercado Livre",
+      "titulo": "Placa-mãe Asus P/amd Am4 B550m-plus Tuf Gaming 4xddr4 Matx",
+      "link": "https://meli.la/2x5cr2M",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_666926-MLA99989580013_112025-F.jpg",
+      "preco": 549.9,
+      "precoDe": 959,
+      "desconto": 36,
+      "cupom": "VALEMAIS",
+      "enviadoEm": "2026-09-08T15:48:34.434Z"
+    },
+    {
+      "id": "15758",
+      "loja": "Shopee",
+      "titulo": "Kit 12 Potes de Vidro 200ml com Tampa de Bambu Hermético Mantimentos Tempero Condimentos Empilhaveis",
+      "link": "https://s.shopee.com.br/1BMBcpyvTO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mq6r4vt0eqyqdd_tn",
+      "preco": 43.9,
+      "precoDe": 102.09,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T15:45:04.686Z"
+    },
+    {
+      "id": "15752",
+      "loja": "Shopee",
+      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
+      "link": "https://s.shopee.com.br/BTcvrlg19",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
+      "preco": 134.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "994M4NH4",
+      "enviadoEm": "2026-09-08T15:35:44.147Z"
+    },
     {
       "id": "15743",
       "loja": "Shopee",
@@ -963,18 +1011,6 @@
       "enviadoEm": "2026-09-07T17:25:43.994Z"
     },
     {
-      "id": "15510",
-      "loja": "Shopee",
-      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
-      "link": "https://s.shopee.com.br/BTcvrlg19",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
-      "preco": 124.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "INDEPENDENCIA25AF",
-      "enviadoEm": "2026-09-07T17:08:13.920Z"
-    },
-    {
       "id": "15507",
       "loja": "Mercado Livre",
       "titulo": "Water Cooler Kalkan Iota V2 360 Rgb 360mm Tdp 280w Preto",
@@ -1405,42 +1441,6 @@
       "desconto": 16,
       "cupom": null,
       "enviadoEm": "2026-09-07T14:01:52.234Z"
-    },
-    {
-      "id": "15448",
-      "loja": "Amazon",
-      "titulo": "Irmã do Cachorrinho Aprende Comigo Brinquedo Bebê Fisher-Price Mattel. Ensina com luzes, músicas e frases educativas. Ideal a partir dos 6 meses.",
-      "link": "https://www.amazon.com.br/dp/B0DR3N5BV6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41uhdBafGWL._SL400_.jpg",
-      "preco": 169.15,
-      "precoDe": 369.99,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T13:46:54.966Z"
-    },
-    {
-      "id": "15447",
-      "loja": "Amazon",
-      "titulo": "Cachorrinho Aprende Comigo Brinquedo Bebê Fisher-Price Mattel. Pelúcia com luzes, sons e que ensina letras, cores e partes do corpo. A partir dos 6 meses.",
-      "link": "https://www.amazon.com.br/dp/B0DR3PTGH3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Ti7piPW0L._SL400_.jpg",
-      "preco": 169,
-      "precoDe": 369.99,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T13:46:54.463Z"
-    },
-    {
-      "id": "15446",
-      "loja": "Shopee",
-      "titulo": "iPhone 17 5G 256GB Tela 6,3\" 120Hz 48MP iOS Original Novo Lacrado com Nota FIscal",
-      "link": "https://s.shopee.com.br/9AORQJELkp",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk46pndmbguab3_tn",
-      "preco": 5873,
-      "precoDe": 8974.24,
-      "desconto": 34,
-      "cupom": "VOLTOU50",
-      "enviadoEm": "2026-09-07T13:42:42.251Z"
     }
   ]
 }
