@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-08T13:14:14.303Z",
+  "atualizadoEm": "2026-09-08T13:29:39.327Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15665",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
+      "link": "https://s.shopee.com.br/9KhtBuaPP2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
+      "preco": 40,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "F3R14D05",
+      "enviadoEm": "2026-09-08T13:19:39.326Z"
+    },
+    {
+      "id": "15666",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pom Pom Protek XG Proteção de Mãe com 60 Unidades",
+      "link": "https://meli.la/1LEiK3a",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_939164-MLA99936529023_112025-F.jpg",
+      "preco": 56.41,
+      "precoDe": 77.37,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T13:17:36.896Z"
+    },
     {
       "id": "15662",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 21,
       "cupom": "SEUOFFMELI",
       "enviadoEm": "2026-09-07T12:34:19.882Z"
-    },
-    {
-      "id": "15414",
-      "loja": "Shopee",
-      "titulo": "forma pudim banho maria n 18 panela 2 em 1",
-      "link": "https://s.shopee.com.br/9fKhwWXk5y",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mox9kud7btadec_tn",
-      "preco": 40.9,
-      "precoDe": 53.82,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T12:33:53.802Z"
-    },
-    {
-      "id": "15413",
-      "loja": "Mercado Livre",
-      "titulo": "LG UltraGear Monitor Gamer 32\" VA 165Hz 1ms (MBR) QHD 2K (2560x1440) HDR10 AMD FreeSync, Preto - 32GN600",
-      "link": "https://meli.la/1kJWBYQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_756939-MLA99948448581_112025-F.jpg",
-      "preco": 1212.6,
-      "precoDe": 2180.95,
-      "desconto": 38,
-      "cupom": "SEUOFFMELI",
-      "enviadoEm": "2026-09-07T12:32:13.270Z"
     }
   ]
 }
