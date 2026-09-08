@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-08T12:28:00.049Z",
+  "atualizadoEm": "2026-09-08T13:00:20.488Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -231,18 +231,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
-      "codigo": "NINTENDIN",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 400,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-08T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "PEGAOSWITCH",
       "loja": "Kabum",
       "tipo": "reais",
@@ -453,9 +441,9 @@
       "valor": 250,
       "minimo": 2099,
       "maximo": null,
-      "limite": null,
+      "limite": 250,
       "observacao": null,
-      "validadeAte": "2026-09-09T12:01:04.000Z",
+      "validadeAte": "2026-09-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -467,7 +455,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-09-09T12:02:00.000Z",
+      "validadeAte": "2026-09-08T15:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1011,6 +999,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-09-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MELI15MAIS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1019,7 +1019,7 @@
       "maximo": null,
       "limite": 80,
       "observacao": "Cupom exclusivo MELI+",
-      "validadeAte": "2026-09-09T12:08:18.000Z",
+      "validadeAte": "2026-09-08T15:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1079,7 +1079,19 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-09-09T12:01:04.000Z",
+      "validadeAte": "2026-09-09T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LIBERAESSA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 150,
+      "maximo": null,
+      "limite": 300,
+      "observacao": null,
+      "validadeAte": "2026-09-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
