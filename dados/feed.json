@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-08T13:00:19.004Z",
+  "atualizadoEm": "2026-09-08T13:14:14.303Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15662",
+      "loja": "Mercado Livre",
+      "titulo": "Huggies Fralda Pants Roupinha Proteção Acolchoada XXG - 58 Un",
+      "link": "https://meli.la/1gboB7N",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_930531-MLA99442316930_112025-F.jpg",
+      "preco": 76.8,
+      "precoDe": 114.33,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T13:04:14.301Z"
+    },
     {
       "id": "15650",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 38,
       "cupom": "SEUOFFMELI",
       "enviadoEm": "2026-09-07T12:32:13.270Z"
-    },
-    {
-      "id": "15408",
-      "loja": "Mercado Livre",
-      "titulo": "Microfone de lapela Hollyland Lark M2 Lark M2 Combo Preto.",
-      "link": "https://meli.la/2KtLBuM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_974504-MLA99991742439_112025-F.jpg",
-      "preco": 571.48,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "BOLSOCHEIO",
-      "enviadoEm": "2026-09-07T12:26:08.326Z"
     }
   ]
 }
