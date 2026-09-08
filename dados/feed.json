@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-08T20:11:16.337Z",
+  "atualizadoEm": "2026-09-08T20:40:34.267Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15946",
+      "loja": "Mercado Livre",
+      "titulo": "L'oréal Professionnel Inforcer Kit Shampoo 300ml e Máscara 250ml",
+      "link": "https://meli.la/1Pxri83",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_890250-MLA99419188412_112025-F.jpg",
+      "preco": 179.1,
+      "precoDe": 360.8,
+      "desconto": 45,
+      "cupom": "VALEMAIS",
+      "enviadoEm": "2026-09-08T20:37:22.709Z"
+    },
+    {
+      "id": "15948",
+      "loja": "Mercado Livre",
+      "titulo": "Suplemento Proteína Bovina + Colágeno 900g Shark Pro Sabor Abacaxi Com Hortelã",
+      "link": "https://meli.la/1ddxQDV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_881621-MLA110246495108_052026-F.jpg",
+      "preco": 179.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "VALEMAIS",
+      "enviadoEm": "2026-09-08T20:34:02.464Z"
+    },
+    {
+      "id": "15938",
+      "loja": "Shopee",
+      "titulo": "Whey Ultra Protein Concentrado Pote 900g - FTW",
+      "link": "https://s.shopee.com.br/5AsKhPm1aF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9vukr0feo684_tn",
+      "preco": 69.99,
+      "precoDe": 109.36,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T20:24:03.879Z"
+    },
     {
       "id": "15926",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 50,
       "cupom": "CUPOMOFF",
       "enviadoEm": "2026-09-07T16:37:40.981Z"
-    },
-    {
-      "id": "15504",
-      "loja": "Amazon",
-      "titulo": "Simple Joys by Carter's Conjunto de 6 peças para bebês meninas (manga curta e comprida) e calça, Multicolorido/Coelho/Pontos/Impressão de texto, 0-3 Meses",
-      "link": "https://www.amazon.com.br/dp/B01MDUHO8I?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416ACvNJJhL._SL400_.jpg",
-      "preco": 149.73,
-      "precoDe": 169.54,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T16:32:46.084Z"
-    },
-    {
-      "id": "15502",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
-      "link": "https://s.shopee.com.br/2gAxrJoetv",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
-      "preco": 44.33,
-      "precoDe": 65.77,
-      "desconto": 25,
-      "cupom": "F3R14D05",
-      "enviadoEm": "2026-09-07T16:22:21.912Z"
-    },
-    {
-      "id": "15500",
-      "loja": "Amazon",
-      "titulo": "Verden Bicicleta Infantil Verden Paty Aro 12 com cestinha e rodinhas de apoio",
-      "link": "https://www.amazon.com.br/dp/B0B4YFBNJF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41gA0ZxOQGL._SL400_.jpg",
-      "preco": 169,
-      "precoDe": 249.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T16:15:18.225Z"
     }
   ]
 }
