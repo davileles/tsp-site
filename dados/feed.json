@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-08T16:46:04.810Z",
+  "atualizadoEm": "2026-09-08T16:52:58.297Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15795",
+      "loja": "Shopee",
+      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
+      "link": "https://s.shopee.com.br/7Kwp2bE5Hc",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
+      "preco": 182.9,
+      "precoDe": 599.7,
+      "desconto": 67,
+      "cupom": "994M4NH4",
+      "enviadoEm": "2026-09-08T16:52:18.248Z"
+    },
+    {
+      "id": "15794",
+      "loja": "Amazon",
+      "titulo": "Máscara Matizadora Specialist Blonde Amend 300g",
+      "link": "https://www.amazon.com.br/dp/B077BY915Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31HYyjJPLGL._SL400_.jpg",
+      "preco": 29.29,
+      "precoDe": 69.9,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T16:48:36.738Z"
+    },
     {
       "id": "15788",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 31,
       "cupom": "FULL0709",
       "enviadoEm": "2026-09-07T15:11:41.802Z"
-    },
-    {
-      "id": "15467",
-      "loja": "Mercado Livre",
-      "titulo": "Lava Roupas Líquido Omo Lavanderia Profissional Lavagem 7 L",
-      "link": "https://meli.la/1i9jYxn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685429-MLA116551180045_082026-F.jpg",
-      "preco": 51.900000000000006,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FULL0709",
-      "enviadoEm": "2026-09-07T15:11:15.009Z"
-    },
-    {
-      "id": "15466",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
-      "link": "https://meli.la/1U1Yvd6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_998463-MLA116907384785_082026-F.jpg",
-      "preco": 48.900000000000006,
-      "precoDe": 239.9,
-      "desconto": 71,
-      "cupom": "FULL0709",
-      "enviadoEm": "2026-09-07T15:09:49.279Z"
     }
   ]
 }
