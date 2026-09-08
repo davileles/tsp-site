@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-08T14:51:53.298Z",
+  "atualizadoEm": "2026-09-08T15:21:53.297Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15743",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
+      "link": "https://s.shopee.com.br/5VVAkgQx4p",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
+      "preco": 49.33,
+      "precoDe": 65.77,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T15:12:56.531Z"
+    },
     {
       "id": "15729",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 34,
       "cupom": "VOLTOU50",
       "enviadoEm": "2026-09-07T13:42:42.251Z"
-    },
-    {
-      "id": "15439",
-      "loja": "Shopee",
-      "titulo": "HUAWEI WATCH FIT 5 Pro| Smartwatch Relogio | Tela FullView AMOLED de 1,92\"| Mini Treino | 64 GB ECG",
-      "link": "https://s.shopee.com.br/8KpKNcQMvA",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mqeruyatf3eq58_tn",
-      "preco": 1279,
-      "precoDe": 3497.37,
-      "desconto": 62,
-      "cupom": "VOLTOU50",
-      "enviadoEm": "2026-09-07T12:56:42.267Z"
     }
   ]
 }
