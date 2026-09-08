@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-08T23:05:55.105Z",
+  "atualizadoEm": "2026-09-08T23:39:34.687Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -645,7 +645,7 @@
       "valor": 250,
       "minimo": 2099,
       "maximo": null,
-      "limite": 250,
+      "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -739,7 +739,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
@@ -751,7 +751,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -895,7 +895,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -943,7 +943,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
@@ -979,7 +979,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 22,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1111,7 +1111,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 18,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1211,7 +1211,7 @@
       "maximo": null,
       "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-09-09T22:49:13.000Z",
+      "validadeAte": "2026-09-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
