@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-08T11:58:51.744Z",
+  "atualizadoEm": "2026-09-08T12:00:19.004Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15596",
+      "loja": "Amazon",
+      "titulo": "Lenços Huggies Higiene Superior Limpam 2x Mais 6 x 48 Un",
+      "link": "https://www.amazon.com.br/dp/B07FN1XPNW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41AcS1LlGrL._SL400_.jpg",
+      "preco": 49.9,
+      "precoDe": 55.48,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T11:59:18.662Z"
+    },
     {
       "id": "15595",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-09-06T22:12:22.402Z"
-    },
-    {
-      "id": "15349",
-      "loja": "Amazon",
-      "titulo": "Tenis New Balance 550 Masculino, Branco, 39",
-      "link": "https://www.amazon.com.br/dp/B0G72LYNCW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31xUWLeeCVL._SL400_.jpg",
-      "preco": 319.9,
-      "precoDe": 899.99,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-09-06T22:10:09.285Z"
     }
   ]
 }
