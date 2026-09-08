@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-08T18:41:44.104Z",
+  "atualizadoEm": "2026-09-08T18:52:58.297Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15870",
+      "loja": "Shopee",
+      "titulo": "Playground Infantil Modular 100% Espuma Seguro Educativo Divertido",
+      "link": "https://s.shopee.com.br/3g3Wnxwijn",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mlld6tmgetc5c5_tn",
+      "preco": 299.99,
+      "precoDe": 699.98,
+      "desconto": 50,
+      "cupom": "TEMCUPOM50",
+      "enviadoEm": "2026-09-08T18:46:49.324Z"
+    },
     {
       "id": "15831",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 57,
       "cupom": null,
       "enviadoEm": "2026-09-07T15:51:42.918Z"
-    },
-    {
-      "id": "15481",
-      "loja": "Shopee",
-      "titulo": "Kit 4 Frascos Potes Viagem Silicone 90ml   Para Viagem Condicionador Shampoo Creme Cosméticos",
-      "link": "https://s.shopee.com.br/9051LstZye",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-miuylj3ciex269_tn",
-      "preco": 22.99,
-      "precoDe": 40.33,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T15:37:05.795Z"
     }
   ]
 }
