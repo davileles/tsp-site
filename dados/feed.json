@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-08T21:39:34.266Z",
+  "atualizadoEm": "2026-09-08T21:51:41.510Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15957",
+      "loja": "Amazon",
+      "titulo": "Caixa de Som, JBL, PartyBox On The Go Essential, Com Microfone, Bluetooth, Show de Luzes, À Prova de Respingos - 100W RMS",
+      "link": "https://www.amazon.com.br/dp/B0DK9Y1Y4D?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31prC4fJqgL._SL400_.jpg",
+      "preco": 1319.05,
+      "precoDe": 1499,
+      "desconto": 5,
+      "cupom": "VEMNAMAZON",
+      "enviadoEm": "2026-09-08T21:41:41.509Z"
+    },
     {
       "id": "15963",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "USAESSAPROMO",
       "enviadoEm": "2026-09-07T18:10:03.225Z"
-    },
-    {
-      "id": "15521",
-      "loja": "Mercado Livre",
-      "titulo": "Camisas Térmica Feminina Voker Proteção Uv Bike Academia",
-      "link": "https://meli.la/31ThZxc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603567-MLB105912204268_022026-O.webp",
-      "preco": 35.05,
-      "precoDe": 54.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T18:03:28.273Z"
     }
   ]
 }
