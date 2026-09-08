@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-08T21:51:41.510Z",
+  "atualizadoEm": "2026-09-08T22:38:01.595Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15969",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Com 2 Bebê Babador De Silicone Gumy Com Pega Migalhas",
+      "link": "https://meli.la/15cNjW2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_907563-MLB90667461123_082025-O.webp",
+      "preco": 26,
+      "precoDe": 38.89,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T22:28:01.594Z"
+    },
+    {
+      "id": "15971",
+      "loja": "Shopee",
+      "titulo": "Console PlayStation 5 Slim Digital 825GB",
+      "link": "https://s.shopee.com.br/60RRmroaqB",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfmltid9j6dj4f_tn",
+      "preco": 3873,
+      "precoDe": 5180.6,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T22:27:09.731Z"
+    },
+    {
+      "id": "15976",
+      "loja": "Mercado Livre",
+      "titulo": "Terno Italiano Slim Cinza/chumbo, Promoção Queima De Estoque",
+      "link": "https://meli.la/1NTNGJL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_941181-MLB110465334191_042026-O.webp",
+      "preco": 128.71,
+      "precoDe": 184.14,
+      "desconto": 15,
+      "cupom": "OFERTASEMPRE",
+      "enviadoEm": "2026-09-08T22:23:39.850Z"
+    },
+    {
+      "id": "15982",
+      "loja": "Amazon",
+      "titulo": "Elseve Collagen Lifter Máscara de Tratamento Condicionante Efeito Teia Para Resgate de Massa com Peptídeos de Colágeno Reconstrói a Fibra e Dá Volume por 72h 300g",
+      "link": "https://www.amazon.com.br/dp/B0G45KPX15?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41proX+EmhL._SL400_.jpg",
+      "preco": 26.9,
+      "precoDe": 40.99,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T22:20:34.310Z"
+    },
     {
       "id": "15957",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-09-07T18:17:32.102Z"
-    },
-    {
-      "id": "15526",
-      "loja": "Mercado Livre",
-      "titulo": "Huggies Tripla Proteção Fralda g 78 Unidades",
-      "link": "https://meli.la/2YKWGr9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_907479-MLA100242913347_122025-F.jpg",
-      "preco": 69.19,
-      "precoDe": 74.9,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T18:17:31.296Z"
-    },
-    {
-      "id": "15525",
-      "loja": "Shopee",
-      "titulo": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
-      "link": "https://s.shopee.com.br/112k07RChv",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902_tn",
-      "preco": 34.89,
-      "precoDe": 199.45,
-      "desconto": 80,
-      "cupom": "F3R14D05",
-      "enviadoEm": "2026-09-07T18:16:41.160Z"
-    },
-    {
-      "id": "15524",
-      "loja": "Mercado Livre",
-      "titulo": "Pistola de pulverização elétrica para pintura hvlp Tssaper TP550 do 800mL cor azul-turquesa 550W",
-      "link": "https://meli.la/271cs88",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_865507-MLA99367780510_112025-F.jpg",
-      "preco": 183.2,
-      "precoDe": 376.7,
-      "desconto": 39,
-      "cupom": "CUPOMOFF",
-      "enviadoEm": "2026-09-07T18:14:02.677Z"
-    },
-    {
-      "id": "15523",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 4 Falantes 6 Polegadas Jbl 6trms80 Triaxial 320w 4 Ohms Preto",
-      "link": "https://meli.la/2k9737n",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_913220-MLA106137604926_022026-F.jpg",
-      "preco": 636.74,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "USAESSAPROMO",
-      "enviadoEm": "2026-09-07T18:10:03.225Z"
     }
   ]
 }
