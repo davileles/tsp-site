@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-08T20:40:34.267Z",
+  "atualizadoEm": "2026-09-08T20:56:36.289Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15951",
+      "loja": "Shopee",
+      "titulo": "Whisky Chivas Regal 12 Anos 1000ml",
+      "link": "https://s.shopee.com.br/9V1JsvsTz8",
+      "imagem": "https://cf.shopee.com.br/file/5bb80b1f3a297106097fb825fb57c398_tn",
+      "preco": 217.89999999999998,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "TEMCUPOM50",
+      "enviadoEm": "2026-09-08T20:46:36.284Z"
+    },
     {
       "id": "15946",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": "F3R14D05",
       "enviadoEm": "2026-09-07T16:45:15.964Z"
-    },
-    {
-      "id": "15505",
-      "loja": "Mercado Livre",
-      "titulo": "Mondial LAP-04 GY Lavadora de Alta Pressão 1400W + Jato Ajustável",
-      "link": "https://meli.la/18EBb9H",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_811406-MLA113291070942_072026-F.jpg",
-      "preco": 239.2,
-      "precoDe": 600,
-      "desconto": 50,
-      "cupom": "CUPOMOFF",
-      "enviadoEm": "2026-09-07T16:37:40.981Z"
     }
   ]
 }
