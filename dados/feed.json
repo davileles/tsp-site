@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-08T18:22:58.298Z",
+  "atualizadoEm": "2026-09-08T18:41:44.104Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15831",
+      "loja": "Amazon",
+      "titulo": "Samsung Galaxy Watch8 Smartwatch 40mm LTE, Galaxy AI - Grafite",
+      "link": "https://www.amazon.com.br/dp/B0FDXB22BL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31tSZXCHPdL._SL400_.jpg",
+      "preco": 1159,
+      "precoDe": 3299,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T18:31:44.102Z"
+    },
+    {
+      "id": "15836",
+      "loja": "Amazon",
+      "titulo": "Cerveja Sem Álcool Budweiser, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0BWNN2482?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41NnWG7JmDL._SL400_.jpg",
+      "preco": 26.8,
+      "precoDe": 36.72,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T18:28:33.397Z"
+    },
+    {
+      "id": "15834",
+      "loja": "Shopee",
+      "titulo": "Pillow Top 400 Fios Super Macio Matelado – Solteiro, Casal, Queen e King | Ajuste Perfeito",
+      "link": "https://s.shopee.com.br/6fh8LvxXkl",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mmvop81nlama8e_tn",
+      "preco": 100,
+      "precoDe": 132.18,
+      "desconto": 13,
+      "cupom": "994M4NH4",
+      "enviadoEm": "2026-09-08T18:23:58.198Z"
+    },
     {
       "id": "15827",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-09-07T15:37:05.795Z"
-    },
-    {
-      "id": "15479",
-      "loja": "Mercado Livre",
-      "titulo": "Mochila jiesipote À Prova D'água Reforçada Expansível Cor Preto",
-      "link": "https://meli.la/2HpjQww",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_974980-MLA112776013576_062026-F.jpg",
-      "preco": 66,
-      "precoDe": 269,
-      "desconto": 68,
-      "cupom": "FULL0709",
-      "enviadoEm": "2026-09-07T15:33:04.181Z"
-    },
-    {
-      "id": "15477",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Natura Kaiak Aero EDT 100 ml Masculino",
-      "link": "https://meli.la/1N9sety",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_772620-MLA54969323660_042023-F.jpg",
-      "preco": 74.95,
-      "precoDe": 189.9,
-      "desconto": 50,
-      "cupom": "FULL0709",
-      "enviadoEm": "2026-09-07T15:24:04.797Z"
-    },
-    {
-      "id": "15476",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 10 Potes Herméticos Vidro 370ml Starhouse Marmita Forno Micro-ondas Airfryer com 4 travas de super vedação",
-      "link": "https://meli.la/1pw6tpV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_801828-MLA115739959462_092026-F.jpg",
-      "preco": 43.93,
-      "precoDe": 159.99,
-      "desconto": 61,
-      "cupom": "FULL0709",
-      "enviadoEm": "2026-09-07T15:20:46.049Z"
     }
   ]
 }
