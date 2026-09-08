@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-08T19:48:29.743Z",
+  "atualizadoEm": "2026-09-08T20:01:02.646Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -543,6 +543,30 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "300DESCONTO",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 3200,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Três cupons de desconto em reais com valor mínimo de compra progressivo",
+      "validadeAte": "2026-09-09T19:53:25.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "QUERO200",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 2200,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Três cupons de desconto em reais com valor mínimo de compra progressivo",
+      "validadeAte": "2026-09-09T19:53:25.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "ESQUENTA100",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -552,6 +576,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-09T12:06:09.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "GANHE100OFF",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 1200,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Três cupons de desconto em reais com valor mínimo de compra progressivo",
+      "validadeAte": "2026-09-09T19:53:25.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
