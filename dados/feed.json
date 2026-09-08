@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-08T22:38:01.595Z",
+  "atualizadoEm": "2026-09-08T23:05:53.979Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15991",
+      "loja": "Amazon",
+      "titulo": "Kit 2 Camisetas Bolso Cb Pica-pau Xadrez Reserva - Preto/branco - P",
+      "link": "https://www.amazon.com.br/dp/B0FWRZLPTX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31vh4VJqdJL._SL400_.jpg",
+      "preco": 92,
+      "precoDe": 338,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-09-08T22:55:53.977Z"
+    },
     {
       "id": "15969",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 16,
       "cupom": null,
       "enviadoEm": "2026-09-07T18:28:31.525Z"
-    },
-    {
-      "id": "15527",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Huggies Rápida Absorção XXG 66 Unidades",
-      "link": "https://meli.la/165nzCA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_792466-MLA110434988991_042026-F.jpg",
-      "preco": 67.69,
-      "precoDe": 88.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T18:17:32.102Z"
     }
   ]
 }
