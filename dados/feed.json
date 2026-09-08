@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-08T19:23:10.889Z",
+  "atualizadoEm": "2026-09-08T19:48:28.506Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "15911",
+      "loja": "Shopee",
+      "titulo": "Secadora de Roupa Mueller Sun 8kg Timer 6 Cabides 220v",
+      "link": "https://s.shopee.com.br/2BEj4nI4dY",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rceq-m6mpsl92q9e435_tn",
+      "preco": 419,
+      "precoDe": 651.39,
+      "desconto": 28,
+      "cupom": "TEMCUPOM50",
+      "enviadoEm": "2026-09-08T19:38:28.501Z"
+    },
     {
       "id": "15905",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-09-07T16:02:10.450Z"
-    },
-    {
-      "id": "15496",
-      "loja": "Shopee",
-      "titulo": "Kit 6/12/18/24 Panos De Limpeza  Premium Arear Panela Fogão Toalha Louça Tira Gordura Reutilizável",
-      "link": "https://s.shopee.com.br/7KwnOMnTV3",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mctxxpi1l4qad6_tn",
-      "preco": 10,
-      "precoDe": 25,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T15:59:29.826Z"
     }
   ]
 }
