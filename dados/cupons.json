@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T13:04:15.483Z",
+  "atualizadoEm": "2026-09-09T13:06:51.126Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -675,6 +675,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "LUNIVER50",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 350,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-10T13:03:48.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "INFLUDUPLA8H",
       "loja": "Magazine Luiza",
       "tipo": "pct",
@@ -719,7 +731,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-09-10T12:02:17.000Z",
+      "validadeAte": "2026-09-09T15:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
