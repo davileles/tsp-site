@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-09T16:36:38.735Z",
+  "atualizadoEm": "2026-09-09T17:05:38.795Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16374",
+      "loja": "Magazine Luiza",
+      "titulo": "🔥 Console PlayStation 5 Slim Digital 825GB com controle Dualsense - Sony",
+      "link": "https://www.magazinevoce.com.br/magazinetudosobremilhas/console-playstation-5-slim-digital-825gb-com-controle-dualsense-sony/p/hg9286bd4c/ga/gap5/",
+      "imagem": null,
+      "preco": 3323,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "INFLUANIVERSARIO",
+      "enviadoEm": "2026-09-09T17:03:50.364Z"
+    },
+    {
+      "id": "16376",
+      "loja": "Mercado Livre",
+      "titulo": "Lixeira Inteligente Sem Contato Sensor Infravermelho + USB Recarregável, Cinza Escuro 16L para Casa e Escritório.",
+      "link": "https://meli.la/1gJtd2g",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_867087-MLA110672170382_052026-F.jpg",
+      "preco": 46.9,
+      "precoDe": 249.99,
+      "desconto": 73,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-09T17:00:43.617Z"
+    },
+    {
+      "id": "16378",
+      "loja": "Shopee",
+      "titulo": "Tênis Feminino Casual Camurça Detalhe Lateral Listra Dupla Moderno Break GiGiL",
+      "link": "https://s.shopee.com.br/7VGGqLUx5R",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mru78teqjh8l4c_tn",
+      "preco": 75.75,
+      "precoDe": 135.27,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-09-09T16:57:06.477Z"
+    },
+    {
+      "id": "16371",
+      "loja": "Shopee",
+      "titulo": "Kit 6 Organizador De Mala Necessaire Bolsa De Viagem Travel Bag Premium",
+      "link": "https://s.shopee.com.br/1LfdUkd1x5",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repg-m2poj36o1kzt4b_tn",
+      "preco": null,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "LOVI0909",
+      "enviadoEm": "2026-09-09T16:52:46.985Z"
+    },
     {
       "id": "16338",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 39,
       "cupom": "F3R14D05",
       "enviadoEm": "2026-09-08T14:50:31.592Z"
-    },
-    {
-      "id": "15702",
-      "loja": "Shopee",
-      "titulo": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
-      "link": "https://s.shopee.com.br/2LY8vm1hN0",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcel-m65hf8tzwkwu8a_tn",
-      "preco": 23.9,
-      "precoDe": 79.67,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T14:28:02.615Z"
-    },
-    {
-      "id": "15696",
-      "loja": "Mercado Livre",
-      "titulo": "Carrinho De Bebê de Passeio Burigotto Zap Preto",
-      "link": "https://meli.la/1tBMhtS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_932696-MLA99975683117_112025-F.jpg",
-      "preco": 538.11,
-      "precoDe": 1213,
-      "desconto": 51,
-      "cupom": "VALEMAIS",
-      "enviadoEm": "2026-09-08T14:18:59.321Z"
-    },
-    {
-      "id": "15697",
-      "loja": "Amazon",
-      "titulo": "Banheira Para Bebê Dobrável 3 em 1 Com Suporte e Assento 45L Azul Pipdip",
-      "link": "https://www.amazon.com.br/dp/B0F4L73PQG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31hS7iF0vTL._SL400_.jpg",
-      "preco": 239,
-      "precoDe": 379.9,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T14:18:52.516Z"
-    },
-    {
-      "id": "15698",
-      "loja": "Amazon",
-      "titulo": "Mustela Stelatopia Óleo de Banho 500 ml - Limpeza e Hidratação suave para Peles Secas e extremamente Ressecadas - Seguro Para Bebês, Crianças e Adultos - Sem Fragrância - Stelatopi",
-      "link": "https://www.amazon.com.br/dp/B089Z8DV9N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31aA2QcZiZL._SL400_.jpg",
-      "preco": 129.51,
-      "precoDe": 136.49,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T14:17:47.458Z"
     }
   ]
 }
