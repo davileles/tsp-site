@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-09T14:21:22.311Z",
+  "atualizadoEm": "2026-09-09T14:38:07.226Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16224",
+      "loja": "Amazon",
+      "titulo": "Stanley Garrafa Térmica Aerolight Transit Cream, 591ml",
+      "link": "https://www.amazon.com.br/dp/B0CZPSD2SC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21nJLSR6+EL._SL400_.jpg",
+      "preco": 154.89,
+      "precoDe": 259,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-09-09T14:35:39.865Z"
+    },
+    {
+      "id": "16219",
+      "loja": "Shopee",
+      "titulo": "Dispositivo Elétrico De Enxágue Nasal 360 ° Limpador De Sinusite Portátil Giratório De Cabeça Dupla Para Recuperação Aut",
+      "link": "https://s.shopee.com.br/3g3Y7W05wb",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mjme2wakn8qt69_tn",
+      "preco": 260,
+      "precoDe": 533.33,
+      "desconto": 40,
+      "cupom": "LOVI0909",
+      "enviadoEm": "2026-09-09T14:34:10.873Z"
+    },
+    {
+      "id": "16214",
+      "loja": "Amazon",
+      "titulo": "Creme Hidratante Corporal para Pele Seca e Sensível Cetaphil 453g - Hidratação 48h",
+      "link": "https://www.amazon.com.br/dp/B079VXJK79?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41qWqjOR8IL._SL400_.jpg",
+      "preco": 71.92999999999999,
+      "precoDe": 104.9,
+      "desconto": 14,
+      "cupom": "CEPTAPHIL20",
+      "enviadoEm": "2026-09-09T14:27:29.353Z"
+    },
     {
       "id": "16209",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 27,
       "cupom": "OFERTASEMPRE",
       "enviadoEm": "2026-09-08T12:39:29.629Z"
-    },
-    {
-      "id": "15638",
-      "loja": "Mercado Livre",
-      "titulo": "Placa de Vídeo Palit RTX 5060 Ti 16GB GDDR7 Ray Tracing 8K",
-      "link": "https://meli.la/1FSkcuz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_932536-MLA99471212656_112025-F.jpg",
-      "preco": 3949,
-      "precoDe": 8999,
-      "desconto": 53,
-      "cupom": "TUDODEBOM",
-      "enviadoEm": "2026-09-08T12:38:58.735Z"
-    },
-    {
-      "id": "15637",
-      "loja": "Amazon",
-      "titulo": "Pilha Panasonic Comum AA c/04 unidades",
-      "link": "https://www.amazon.com.br/dp/B075XFDPL2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51B00c6bm4L._SL400_.jpg",
-      "preco": 5.97,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T12:37:15.420Z"
-    },
-    {
-      "id": "15636",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV TCL 55 Polegadas QLED 4K T6C WiFi Bluetooth Google TV Tela HVA e HDR10+ 55T6C",
-      "link": "https://meli.la/2x2A27S",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_657072-MLA114584519748_082026-F.jpg",
-      "preco": 2449,
-      "precoDe": 2899,
-      "desconto": 7,
-      "cupom": "TUDODEBOM",
-      "enviadoEm": "2026-09-08T12:36:44.266Z"
     }
   ]
 }
