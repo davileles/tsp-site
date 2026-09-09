@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-09T21:52:00.375Z",
+  "atualizadoEm": "2026-09-09T22:04:18.693Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16645",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Refletor Super Led 400w Ip67 Holofote Bivolt Prova D'água Branco Frio 6500k Preto",
+      "link": "https://meli.la/13hV5fe",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753073-MLA110946060098_052026-F.jpg",
+      "preco": 43.77,
+      "precoDe": 99.98,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-09-09T22:02:09.360Z"
+    },
     {
       "id": "16635",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "TEMCUPOM50",
       "enviadoEm": "2026-09-08T20:01:16.336Z"
-    },
-    {
-      "id": "15915",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pom Pom Protek G com 42 Unidades Para 12 Horas de Proteção",
-      "link": "https://meli.la/2KKQF9U",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_726573-MLA99451965756_112025-F.jpg",
-      "preco": 34.73,
-      "precoDe": 50.3,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T19:51:02.308Z"
     }
   ]
 }
