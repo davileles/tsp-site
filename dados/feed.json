@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-09T16:13:37.906Z",
+  "atualizadoEm": "2026-09-09T16:36:38.735Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16338",
+      "loja": "Amazon",
+      "titulo": "Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 512GB SSD, KeepOS, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
+      "link": "https://www.amazon.com.br/dp/B0CYW2N6TX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41QUmh0GRvL._SL400_.jpg",
+      "preco": 2899,
+      "precoDe": 4299,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-09T16:33:54.052Z"
+    },
+    {
+      "id": "16324",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
+      "link": "https://s.shopee.com.br/2gB12VMDe5",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
+      "preco": null,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "LOVI0909",
+      "enviadoEm": "2026-09-09T16:29:54.822Z"
+    },
+    {
+      "id": "16310",
+      "loja": "Shopee",
+      "titulo": "Smart TV AIWA 43” Android Full HD Borda Ultrafina HDR10 Dolby Áudio AWS-TV-43-BL-02-A",
+      "link": "https://s.shopee.com.br/8V8ny71LgF",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259y-msmm0pl9fy82a6_tn",
+      "preco": 1022,
+      "precoDe": 1901.39,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-09-09T16:22:49.476Z"
+    },
+    {
+      "id": "16265",
+      "loja": "Amazon",
+      "titulo": "Lava e Seca Midea 11kg Mfa01d110b/wk-01 Branca Ciclo Pets",
+      "link": "https://www.amazon.com.br/dp/B0H2BRDTXT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31rHQhPZAcL._SL400_.jpg",
+      "preco": 2483,
+      "precoDe": 2989,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-09-09T16:19:29.373Z"
+    },
+    {
+      "id": "16266",
+      "loja": "Mercado Livre",
+      "titulo": "Fritadeira Air Fryer Oven 11 Litros 1800w 8 Funções Philco PAF11B",
+      "link": "https://meli.la/2t4iDBM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_633098-MLA92276027266_092025-F.jpg",
+      "preco": 314,
+      "precoDe": 530.45,
+      "desconto": 41,
+      "cupom": "DESCONTAO",
+      "enviadoEm": "2026-09-09T16:16:04.007Z"
+    },
     {
       "id": "16267",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": 5,
       "cupom": null,
       "enviadoEm": "2026-09-08T14:17:47.458Z"
-    },
-    {
-      "id": "15700",
-      "loja": "Amazon",
-      "titulo": "Quadriciclo Elétrico Infantil Marcha Frente/Ré Dino MaxiToys (Rosa)",
-      "link": "https://www.amazon.com.br/dp/B0FTBBC9MK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31fbBohQ67L._SL400_.jpg",
-      "preco": 323.89,
-      "precoDe": 899.9,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T14:17:44.124Z"
-    },
-    {
-      "id": "15701",
-      "loja": "Amazon",
-      "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
-      "link": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41xmDfLLgRL._SL400_.jpg",
-      "preco": 73.89,
-      "precoDe": 101.58,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T14:17:40.268Z"
-    },
-    {
-      "id": "15684",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Organizador De Mala Necessaire Bolsa De Viagem Travel Bag Premium",
-      "link": "https://s.shopee.com.br/40gMtFmTVD",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repg-m2poj36o1kzt4b_tn",
-      "preco": 23.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T14:05:24.046Z"
-    },
-    {
-      "id": "15679",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira Infantil para Carro TurboBooster 2.0, Declan, Cinza Mescla",
-      "link": "https://meli.la/1SVxTF8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_616571-MLA112324386202_062026-F.jpg",
-      "preco": 449.99,
-      "precoDe": 559.9,
-      "desconto": 11,
-      "cupom": "VALEMAIS",
-      "enviadoEm": "2026-09-08T13:46:12.844Z"
-    },
-    {
-      "id": "15678",
-      "loja": "Amazon",
-      "titulo": "Baby Dove Sabonete Líquido Hidratação Glicerinada 400 ML",
-      "link": "https://www.amazon.com.br/dp/B07ZHGT9ZT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3132ZHC-SHL._SL400_.jpg",
-      "preco": 21.59,
-      "precoDe": 33.99,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T13:46:09.067Z"
     }
   ]
 }
