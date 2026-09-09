@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T21:36:17.999Z",
+  "atualizadoEm": "2026-09-09T21:52:01.508Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -831,6 +831,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "PRECINHO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 60,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom PRECINHO aplicado ao tênis Kappa Pulse Rx. Há também menção ao código LOJASOFICIAIS0909 na mensagem original, mas o desconto apresentado (60% OFF) refere-se ao cupom PRECINHO.",
+      "validadeAte": "2026-09-17T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MELICUPOM",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -864,18 +876,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PRECINHO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupom aplicado em trocador de fraldas, reduzindo o preço de R$ 38,96 para R$ 27,27",
-      "validadeAte": "2026-09-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1319,7 +1319,7 @@
       "maximo": null,
       "limite": 20,
       "observacao": null,
-      "validadeAte": "2026-09-10T21:00:12.000Z",
+      "validadeAte": "2026-09-10T21:45:49.309Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1368,6 +1368,18 @@
       "limite": 150,
       "observacao": null,
       "validadeAte": "2026-09-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DESCONTAO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-09-10T21:38:41.693Z",
       "url": "https://meli.la/2xystLt"
     },
     {
