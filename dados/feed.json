@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-09T18:34:25.452Z",
+  "atualizadoEm": "2026-09-09T18:36:17.250Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16466",
+      "loja": "Shopee",
+      "titulo": "Mala Pequena de Bordo 10kg TSA Polipropileno Giro 360º Munique Polo King",
+      "link": "https://s.shopee.com.br/6AktMfKZAb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfrbrzcgpqtj8e_tn",
+      "preco": 209.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "30% OFF FULL",
+      "enviadoEm": "2026-09-09T18:35:18.925Z"
+    },
     {
       "id": "16454",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 67,
       "cupom": "994M4NH4",
       "enviadoEm": "2026-09-08T16:52:18.248Z"
-    },
-    {
-      "id": "15794",
-      "loja": "Amazon",
-      "titulo": "Máscara Matizadora Specialist Blonde Amend 300g",
-      "link": "https://www.amazon.com.br/dp/B077BY915Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31HYyjJPLGL._SL400_.jpg",
-      "preco": 29.29,
-      "precoDe": 69.9,
-      "desconto": 58,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T16:48:36.738Z"
     }
   ]
 }
