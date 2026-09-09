@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-08T23:05:53.979Z",
+  "atualizadoEm": "2026-09-09T11:09:34.468Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16046",
+      "loja": "Shopee",
+      "titulo": "40 Peças / 46 Peças Jogo De Chave Catraca Caixa De Ferramentas para Reparo de Carros / Conjuntos de Chaves",
+      "link": "https://s.shopee.com.br/1qbthowCdQ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mqt86n8incape7_tn",
+      "preco": null,
+      "precoDe": 87.47,
+      "desconto": 68,
+      "cupom": "LOVI0909",
+      "enviadoEm": "2026-09-09T11:09:34.185Z"
+    },
+    {
+      "id": "16043",
+      "loja": "Amazon",
+      "titulo": "3 Corações TRES Cafeteira Espresso e Multibebida Passione Vermelha - 220V",
+      "link": "https://www.amazon.com.br/dp/B08S23W892?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31LsYg28vsS._SL400_.jpg",
+      "preco": 319.2,
+      "precoDe": 499.9,
+      "desconto": 20,
+      "cupom": "COZINHA20",
+      "enviadoEm": "2026-09-09T11:02:51.083Z"
+    },
     {
       "id": "15991",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 21,
       "cupom": "MODA0709",
       "enviadoEm": "2026-09-07T18:37:15.736Z"
-    },
-    {
-      "id": "15529",
-      "loja": "Mercado Livre",
-      "titulo": "Libre Intense Yves Saint Laurent Fem Edp 30ml - Original Volume da unidade 30 mL",
-      "link": "https://meli.la/2kkrc8R",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_605075-MLA84556674222_052025-F.jpg",
-      "preco": 433.67,
-      "precoDe": 768.85,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T18:30:49.719Z"
-    },
-    {
-      "id": "15528",
-      "loja": "Amazon",
-      "titulo": "PHILIPS, Fone de Ouvido Sem Fio TWS, TAT1109WT/00, Bluetooth, Com Microfone, Até 24 horas de bateria, Branco",
-      "link": "https://www.amazon.com.br/dp/B0DVMZVMYQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31OZmIoY7dL._SL400_.jpg",
-      "preco": 113,
-      "precoDe": 134,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T18:28:31.525Z"
     }
   ]
 }
