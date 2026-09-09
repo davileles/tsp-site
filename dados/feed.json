@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-09T12:02:59.574Z",
+  "atualizadoEm": "2026-09-09T12:31:59.574Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16103",
+      "loja": "Mercado Livre",
+      "titulo": "Smartphone Motorola Moto G06 - 128gb 12gb (4gb Ram + 8gb Ram Boost), e Camera 50mp Com Ai Bateria De 5.2 Ah Tela 6.9",
+      "link": "https://meli.la/1s9V85p",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_689704-MLA96194618638_102025-F.jpg",
+      "preco": 628,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "QUEROOFF",
+      "enviadoEm": "2026-09-09T12:25:42.863Z"
+    },
+    {
+      "id": "16106",
+      "loja": "Amazon",
+      "titulo": "Oster Moedor de Café Elétrico Inox, 150W, OMDR110, 127V",
+      "link": "https://www.amazon.com.br/dp/B0FLZPJYYR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41TVzY9quHL._SL400_.jpg",
+      "preco": 121.30999999999999,
+      "precoDe": 259.9,
+      "desconto": 42,
+      "cupom": "COZINHA20",
+      "enviadoEm": "2026-09-09T12:22:37.233Z"
+    },
+    {
+      "id": "16098",
+      "loja": "Mercado Livre",
+      "titulo": "Relógio Inteligente Gps Smartwatch Amoled 3atm Sport Gps Caixa Preto",
+      "link": "https://meli.la/15UEFTi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_984233-MLA105531058053_012026-F.jpg",
+      "preco": 231,
+      "precoDe": 599,
+      "desconto": 61,
+      "cupom": "QUEROOFF",
+      "enviadoEm": "2026-09-09T12:18:32.509Z"
+    },
+    {
+      "id": "16101",
+      "loja": "Amazon",
+      "titulo": "Midea Panela de Pressão Elétrica 6L Digital, Inox/Preto, 220v",
+      "link": "https://www.amazon.com.br/dp/B0778X4SKT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ldwHZNgXL._SL400_.jpg",
+      "preco": 351.88,
+      "precoDe": 529,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-09T12:15:17.705Z"
+    },
+    {
+      "id": "16102",
+      "loja": "Amazon",
+      "titulo": "Ouro Branco - Stick Wafer Recheado pacote com 15 unidades de 25g",
+      "link": "https://www.amazon.com.br/dp/B0BGCCY3XN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4198af2nb7L._SL400_.jpg",
+      "preco": 25.839999999999996,
+      "precoDe": 49.35,
+      "desconto": 35,
+      "cupom": "20% NA FINALIZAÇÃO DO PEDIDO",
+      "enviadoEm": "2026-09-09T12:08:28.003Z"
+    },
     {
       "id": "16090",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 44,
       "cupom": "TUDOAQUI",
       "enviadoEm": "2026-09-07T22:20:28.069Z"
-    },
-    {
-      "id": "15558",
-      "loja": "Mercado Livre",
-      "titulo": "Calça Legging Lupo Max Feminina Academia Cintura Alta",
-      "link": "https://meli.la/2eChLZR",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_751516-MLB87616956895_072025-O.webp",
-      "preco": 115.37,
-      "precoDe": 197,
-      "desconto": 29,
-      "cupom": "OFERTASEMPRE",
-      "enviadoEm": "2026-09-07T22:11:38.561Z"
-    },
-    {
-      "id": "15557",
-      "loja": "Mercado Livre",
-      "titulo": "Polo Calvin Klein Jeans Piquet Regular Light Re Issue Branca",
-      "link": "https://meli.la/2q2tn5X",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_645505-MLB89515846670_082025-O.webp",
-      "preco": 171.92,
-      "precoDe": 348.35,
-      "desconto": 48,
-      "cupom": "CARRINHOCERTO",
-      "enviadoEm": "2026-09-07T22:08:31.905Z"
-    },
-    {
-      "id": "15556",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Aparador de Pelos Super Groom 06, Preto/Verde, 6W, Bivolt - BG-04",
-      "link": "https://www.amazon.com.br/dp/B07G56XF47?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31QF7PYSI1L._SL400_.jpg",
-      "preco": 79,
-      "precoDe": 169.9,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T22:06:18.130Z"
-    },
-    {
-      "id": "15548",
-      "loja": "Shopee",
-      "titulo": "TOYADENT PRO Escova de Dental Com Cerdas Premium Alemãs da Pedex +Capa Protetora",
-      "link": "https://s.shopee.com.br/4VccILYDlx",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mo3mmcjo6bk26f_tn",
-      "preco": 17.9,
-      "precoDe": 29.83,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T20:10:22.753Z"
-    },
-    {
-      "id": "15547",
-      "loja": "Amazon",
-      "titulo": "Xô Inseto Spray Repelente 15% DEET 200mL",
-      "link": "https://www.amazon.com.br/dp/B099NCTCX8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31gQkXph35L._SL400_.jpg",
-      "preco": 13.32,
-      "precoDe": 22.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-07T20:03:09.492Z"
     }
   ]
 }
