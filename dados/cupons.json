@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T21:55:35.438Z",
+  "atualizadoEm": "2026-09-09T22:04:19.897Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -971,7 +971,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-09-10T12:12:59.000Z",
+      "validadeAte": "2026-10-05T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1299,19 +1299,19 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CLIENTEVIP",
+      "codigo": "OFERTACERTA",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
-      "minimo": 79,
+      "minimo": 0,
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-09-10T02:59:00.000Z",
+      "validadeAte": "2026-10-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LOJASOFICIAIS0909",
+      "codigo": "LOJASOFICIAIS",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
@@ -1319,7 +1319,7 @@
       "maximo": null,
       "limite": 20,
       "observacao": null,
-      "validadeAte": "2026-09-10T01:00:00.000Z",
+      "validadeAte": "2026-09-11T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1359,18 +1359,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "VOLTEMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-09-10T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DESCONTAO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1378,18 +1366,6 @@
       "minimo": 79,
       "maximo": null,
       "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-09-10T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ANACASTELA15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
       "observacao": null,
       "validadeAte": "2026-09-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -1419,18 +1395,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ANITTA10",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-09-10T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELIOFERTA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1450,6 +1414,18 @@
       "minimo": 99,
       "maximo": null,
       "limite": 300,
+      "observacao": null,
+      "validadeAte": "2026-09-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CORREHOJE10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
       "observacao": null,
       "validadeAte": "2026-09-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
