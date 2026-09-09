@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-09T22:33:18.745Z",
+  "atualizadoEm": "2026-09-09T23:00:26.185Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16660",
+      "loja": "Shopee",
+      "titulo": "Ugreen - Hub USB-C 7X1 Multifunctional  1*HDMI 4K 60@ -  2*USB-C 3.2 - 1*USB-A 3.2 - SD/TF - 100W PD",
+      "link": "https://s.shopee.com.br/2BEksqRwd2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdam700q9q8106_tn",
+      "preco": 216.3,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "30% OFF FULL",
+      "enviadoEm": "2026-09-09T22:50:26.183Z"
+    },
     {
       "id": "16657",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 45,
       "cupom": "VALEMAIS",
       "enviadoEm": "2026-09-08T20:37:22.709Z"
-    },
-    {
-      "id": "15948",
-      "loja": "Mercado Livre",
-      "titulo": "Suplemento Proteína Bovina + Colágeno 900g Shark Pro Sabor Abacaxi Com Hortelã",
-      "link": "https://meli.la/1ddxQDV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_881621-MLA110246495108_052026-F.jpg",
-      "preco": 179.1,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "VALEMAIS",
-      "enviadoEm": "2026-09-08T20:34:02.464Z"
     }
   ]
 }
