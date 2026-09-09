@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T14:38:08.494Z",
+  "atualizadoEm": "2026-09-09T14:44:38.119Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -699,6 +699,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PEGAESSA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-09-19T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PECHINCHA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -955,7 +967,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1191,18 +1203,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ACHEINOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-09-10T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DESCONTAO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1227,18 +1227,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ANITTA10",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-09-10T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELIOFERTA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1260,6 +1248,18 @@
       "limite": 300,
       "observacao": null,
       "validadeAte": "2026-09-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CORREHOJE10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-09-10T14:42:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1309,6 +1309,18 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
+    },
+    {
+      "codigo": "H3YT3RRY99T3MCUP0M",
+      "loja": "Outro: não especificada",
+      "tipo": "reais",
+      "valor": 0,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Código fornecido sem contexto de loja, tipo de desconto ou valor. Impossível determinar detalhes completos do cupom.",
+      "validadeAte": "2026-09-10T14:37:45.000Z",
+      "url": null
     },
     {
       "codigo": "BEMVINDA",
@@ -1380,6 +1392,18 @@
       "limite": 60,
       "observacao": "Ativa meia noite. Válido para a categoria Lovito.",
       "validadeAte": "2026-09-09T21:02:26.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "H3YT3RRY99T3MCUP0M",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-10T14:37:39.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
