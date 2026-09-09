@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T21:06:59.537Z",
+  "atualizadoEm": "2026-09-09T21:29:24.990Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1299,30 +1299,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MEUSDESCONTOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-09-10T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTACERTA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-09-10T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "LOJASOFICIAIS0909",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1383,18 +1359,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "DESCONTAO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-09-10T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "ANACASTELA15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1402,18 +1366,6 @@
       "minimo": 79,
       "maximo": null,
       "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-09-10T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TUDOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 150,
       "observacao": null,
       "validadeAte": "2026-09-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -1752,6 +1704,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-10T13:22:01.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "CUPOM15AF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 45,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-10T21:12:45.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
