@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-09T14:38:07.226Z",
+  "atualizadoEm": "2026-09-09T15:13:03.622Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16249",
+      "loja": "Shopee",
+      "titulo": "Envio Imediato - Creatina Dux n Monohidratada 300g - 100% ORIGINAL",
+      "link": "https://s.shopee.com.br/5VVCKSSj7m",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mikc8avmgfer12_tn",
+      "preco": 22,
+      "precoDe": 195.24,
+      "desconto": 58,
+      "cupom": "LOVI0909",
+      "enviadoEm": "2026-09-09T15:03:03.621Z"
+    },
+    {
+      "id": "16215",
+      "loja": "Amazon",
+      "titulo": "Buba Kit Cuidados Baby Cinza Tamanho Único",
+      "link": "https://www.amazon.com.br/dp/B086JCX68G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31L0EY8bhBL._SL400_.jpg",
+      "preco": 27,
+      "precoDe": 47.9,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-09-09T14:59:32.118Z"
+    },
+    {
+      "id": "16216",
+      "loja": "Mercado Livre",
+      "titulo": "Vitamina B12 Metilcobalamina 414% 60caps Nutrify",
+      "link": "https://meli.la/2RRVEnd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745981-MLA100089582957_122025-F.jpg",
+      "preco": 24.06,
+      "precoDe": 42,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-09T14:58:28.325Z"
+    },
+    {
+      "id": "16240",
+      "loja": "Mercado Livre",
+      "titulo": "Lava e Seca Philco 16 Programas Eco Inverter 10 kg Inox PLS11T - Inox",
+      "link": "https://meli.la/2oCPcHG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_615290-MLA99478496604_112025-F.jpg",
+      "preco": 2461.92,
+      "precoDe": 3199,
+      "desconto": 16,
+      "cupom": "OMELHORDOML",
+      "enviadoEm": "2026-09-09T14:55:07.652Z"
+    },
     {
       "id": "16224",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 27,
       "cupom": "FESTAMELI",
       "enviadoEm": "2026-09-08T12:46:12.620Z"
-    },
-    {
-      "id": "15643",
-      "loja": "Mercado Livre",
-      "titulo": "Smart Tv 50 Hisense 50q6qvv 4k Qled Com Dolby Vision Preta",
-      "link": "https://meli.la/1jUFvGX",
-      "imagem": null,
-      "preco": 1879,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TUDODEBOM",
-      "enviadoEm": "2026-09-08T12:44:29.078Z"
-    },
-    {
-      "id": "15642",
-      "loja": "Mercado Livre",
-      "titulo": "Watercooler Deepcool Le360 V2 Argb Preto 360mm Preto",
-      "link": "https://meli.la/269gfeR",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_962661-MLA88260755503_072025-F.jpg",
-      "preco": 337.45,
-      "precoDe": 469.9,
-      "desconto": 16,
-      "cupom": "MELI15MAIS",
-      "enviadoEm": "2026-09-08T12:43:53.608Z"
-    },
-    {
-      "id": "15641",
-      "loja": "Mercado Livre",
-      "titulo": "Gpu Powercolor Amd Radeon Rx 9060xt 16gb Gddr6 128bits 16g-a",
-      "link": "https://meli.la/2sCxPGL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_945424-MLA86954553079_062025-F.jpg",
-      "preco": 3209.9,
-      "precoDe": 3810.96,
-      "desconto": 9,
-      "cupom": "TUDODEBOM",
-      "enviadoEm": "2026-09-08T12:41:22.616Z"
-    },
-    {
-      "id": "15639",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Reserva Roma Masculino Casual Cano Baixo Elegante",
-      "link": "https://meli.la/33phYVy",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_876206-MLB85157928606_052025-O.webp",
-      "preco": 243.99,
-      "precoDe": 399.99,
-      "desconto": 27,
-      "cupom": "OFERTASEMPRE",
-      "enviadoEm": "2026-09-08T12:39:29.629Z"
     }
   ]
 }
