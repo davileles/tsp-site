@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-09T12:31:59.574Z",
+  "atualizadoEm": "2026-09-09T13:01:59.573Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16142",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Baby Premium Protection M, 62 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0C3FS2GXX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41MSdJEeHsL._SL400_.jpg",
+      "preco": 67.89,
+      "precoDe": 94.84,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-09T12:58:47.342Z"
+    },
+    {
+      "id": "16135",
+      "loja": "Amazon",
+      "titulo": "Pack YoBem Bebida Proteica Café Expresso 15g de Proteínas Whey - 24 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0DDLZPDTS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Z1736US6L._SL400_.jpg",
+      "preco": 137.22000000000003,
+      "precoDe": 199.9,
+      "desconto": 14,
+      "cupom": "20% NA FINALIZAÇÃO DO PEDIDO",
+      "enviadoEm": "2026-09-09T12:54:33.048Z"
+    },
+    {
+      "id": "16130",
+      "loja": "Amazon",
+      "titulo": "Safety 1st, Cadeirinha Multifix, 0 a 36kg, com Isofix, Black Urban",
+      "link": "https://www.amazon.com.br/dp/B09BDZZV23?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41IPbZwb3ML._SL400_.jpg",
+      "preco": 849,
+      "precoDe": 1449,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-09-09T12:51:21.944Z"
+    },
+    {
+      "id": "16113",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Básica Tech Daily Insider",
+      "link": "https://meli.la/1vR8WYG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_715589-MLB94366230245_102025-O.webp",
+      "preco": 51.66,
+      "precoDe": 139,
+      "desconto": 54,
+      "cupom": "MEUSDESCONTOS",
+      "enviadoEm": "2026-09-09T12:44:58.603Z"
+    },
+    {
+      "id": "16114",
+      "loja": "Mercado Livre",
+      "titulo": "Carregador Power Bank sem fio Samsung | Potência de 45 W | 20.000 mAh | Cor bege | Carregamento super rápido 2.0",
+      "link": "https://meli.la/2gD4zyv",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_639640-MLU77918948681_072024-F.jpg",
+      "preco": 215.43,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SITE0909",
+      "enviadoEm": "2026-09-09T12:41:48.699Z"
+    },
+    {
+      "id": "16116",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Lancôme: Perfume La Vie Est Belle Edp 30ml + Perfume Idôle Edp 25ml",
+      "link": "https://meli.la/2XXY2vP",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676517-MLB100385805838_122025-O.webp",
+      "preco": 448.88,
+      "precoDe": 646.55,
+      "desconto": 18,
+      "cupom": "VOLTEMELI",
+      "enviadoEm": "2026-09-09T12:38:36.159Z"
+    },
+    {
+      "id": "16117",
+      "loja": "Mercado Livre",
+      "titulo": "Cooktop Fogão Itatiaia Essencial 5 Bocas Bivolt Preto",
+      "link": "https://meli.la/2NCMRy4",
+      "imagem": null,
+      "preco": 244.99,
+      "precoDe": 678.9,
+      "desconto": 59,
+      "cupom": "SITE0909",
+      "enviadoEm": "2026-09-09T12:35:08.628Z"
+    },
+    {
+      "id": "16115",
+      "loja": "Shopee",
+      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
+      "link": "https://s.shopee.com.br/8ple8AdTFu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
+      "preco": 39.989999999999995,
+      "precoDe": 312.47,
+      "desconto": 68,
+      "cupom": "LOVI0909",
+      "enviadoEm": "2026-09-09T12:32:08.813Z"
+    },
     {
       "id": "16103",
       "loja": "Mercado Livre",
@@ -1345,102 +1441,6 @@
       "desconto": 12,
       "cupom": null,
       "enviadoEm": "2026-09-08T11:33:03.121Z"
-    },
-    {
-      "id": "15588",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
-      "link": "https://www.amazon.com.br/dp/B095R9CKYR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41srPqkVhsL._SL400_.jpg",
-      "preco": 29.9,
-      "precoDe": 43.59,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T11:27:51.305Z"
-    },
-    {
-      "id": "15584",
-      "loja": "Shopee",
-      "titulo": "Bota Feminina Dakota Preta Confortável Dia A Dia Trabalho D2432",
-      "link": "https://s.shopee.com.br/1gIRw1nW0V",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823px-mp13rwzdkmj078_tn",
-      "preco": 240.62,
-      "precoDe": 269.91,
-      "desconto": 9,
-      "cupom": "F3R14D05",
-      "enviadoEm": "2026-09-08T11:26:02.637Z"
-    },
-    {
-      "id": "15586",
-      "loja": "Amazon",
-      "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper XG 60 Unidades",
-      "link": "https://www.amazon.com.br/dp/B097S11KYF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41S23peQtaL._SL400_.jpg",
-      "preco": 56.41,
-      "precoDe": 77.37,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T11:23:22.609Z"
-    },
-    {
-      "id": "15585",
-      "loja": "Amazon",
-      "titulo": "Sabão Liquido Brilhante 5L",
-      "link": "https://www.amazon.com.br/dp/B07ZQMBFMX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41kPDQ8jc1L._SL400_.jpg",
-      "preco": 35.99,
-      "precoDe": 49.99,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T11:23:21.182Z"
-    },
-    {
-      "id": "15582",
-      "loja": "Amazon",
-      "titulo": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
-      "link": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51CFaK2-EOL._SL400_.jpg",
-      "preco": 26.9,
-      "precoDe": 42.8,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T11:15:06.929Z"
-    },
-    {
-      "id": "15581",
-      "loja": "Amazon",
-      "titulo": "Mustela Creme Preventivo de Assaduras Vitaminado 1-2-3 108g - Pomada Antiassaduras para Bebês com Tripla Ação - 98% de Ingredientes de Origem Natural - Proteção e Hidratação",
-      "link": "https://www.amazon.com.br/dp/B00TQCAAQW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31nP8EFUzHS._SL400_.jpg",
-      "preco": 55.28,
-      "precoDe": 100.24,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T11:10:12.642Z"
-    },
-    {
-      "id": "15578",
-      "loja": "Shopee",
-      "titulo": "bolsa transversal feminino bolsa femenina feminina Bolsa Popular deste ano portátil leve luxo balde saco",
-      "link": "https://s.shopee.com.br/2BEiVMqCzv",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820ni-mnbxfpzcc8w833_tn",
-      "preco": 206.8,
-      "precoDe": 321,
-      "desconto": 20,
-      "cupom": "TEMCUPOM50",
-      "enviadoEm": "2026-09-08T11:03:12.785Z"
-    },
-    {
-      "id": "15560",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira de Escritório Sweet Studio Ergonômica Preta, com Apoio de Cabeça e Suporte Lombar",
-      "link": "https://meli.la/1fobViG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_770973-MLA117146528499_092026-F.jpg",
-      "preco": 297.40999999999997,
-      "precoDe": 622,
-      "desconto": 44,
-      "cupom": "TUDOAQUI",
-      "enviadoEm": "2026-09-07T22:20:28.069Z"
     }
   ]
 }
