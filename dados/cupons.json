@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T18:34:27.035Z",
+  "atualizadoEm": "2026-09-09T18:54:08.414Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1704,6 +1704,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-10T15:48:42.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "T04LH4S10",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": "R$ 10,00 OFF em compras a partir de R$ 40,00 em produto selecionado",
+      "validadeAte": "2026-09-10T18:45:30.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
