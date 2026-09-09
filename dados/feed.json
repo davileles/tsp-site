@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-09T20:22:00.668Z",
+  "atualizadoEm": "2026-09-09T20:36:17.519Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16579",
+      "loja": "Shopee",
+      "titulo": "Organizador de Geladeira Multiuso Plasutil Para Armario Dispensa Cozinha",
+      "link": "https://s.shopee.com.br/80CXgF5tfM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkxr03l1t53609_tn",
+      "preco": null,
+      "precoDe": 27.9,
+      "desconto": 10,
+      "cupom": "LOVI0909",
+      "enviadoEm": "2026-09-09T20:34:31.763Z"
+    },
     {
       "id": "16568",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 27,
       "cupom": "FULL0809",
       "enviadoEm": "2026-09-08T19:10:38.872Z"
-    },
-    {
-      "id": "15902",
-      "loja": "Mercado Livre",
-      "titulo": "Sanduicheira Duo Time 800w Antiaderente Preta Elgin Preto",
-      "link": "https://meli.la/1qKRHUY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_822211-MLA108262470411_032026-F.jpg",
-      "preco": 55.900000000000006,
-      "precoDe": 119.99,
-      "desconto": 37,
-      "cupom": "FULL0809",
-      "enviadoEm": "2026-09-08T19:07:08.716Z"
     }
   ]
 }
