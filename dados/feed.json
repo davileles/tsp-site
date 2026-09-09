@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-09T22:04:18.693Z",
+  "atualizadoEm": "2026-09-09T22:15:07.488Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16650",
+      "loja": "Shopee",
+      "titulo": "Sutiã Santa Passion Tomara que Caia com Bojo e Aro Liso de Alta Sustentação Push Up Confortável",
+      "link": "https://s.shopee.com.br/6Aktb3Tkm6",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-822z4-mi3ba3rgqmfbee_tn",
+      "preco": 26.259999999999998,
+      "precoDe": 100.46,
+      "desconto": 44,
+      "cupom": "R$30 OFF",
+      "enviadoEm": "2026-09-09T22:05:07.486Z"
+    },
     {
       "id": "16645",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-09-08T20:24:03.879Z"
-    },
-    {
-      "id": "15926",
-      "loja": "Shopee",
-      "titulo": "Ventilador de Teto Ventisol Fênix Branco / Silver 3 Pás CV3 Premium - 127v",
-      "link": "https://s.shopee.com.br/2qUPtZ3MQq",
-      "imagem": "https://cf.shopee.com.br/file/581557b11de9b61bd3968356e79fae60_tn",
-      "preco": 229.89999999999998,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TEMCUPOM50",
-      "enviadoEm": "2026-09-08T20:01:16.336Z"
     }
   ]
 }
