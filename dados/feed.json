@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-09T21:29:23.355Z",
+  "atualizadoEm": "2026-09-09T21:52:00.375Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16635",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/2BEko9qp9r",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": null,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": "R$30 OFF",
+      "enviadoEm": "2026-09-09T21:42:00.373Z"
+    },
+    {
+      "id": "16630",
+      "loja": "Mercado Livre",
+      "titulo": "Principia Kit Protetor Solar Facial Ps-01 Fps60",
+      "link": "https://meli.la/217ux4C",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_986471-MLA99264193954_112025-F.jpg",
+      "preco": 51.03,
+      "precoDe": 99.9,
+      "desconto": 27,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-09T21:38:15.926Z"
+    },
     {
       "id": "16620",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-09-08T19:51:02.308Z"
-    },
-    {
-      "id": "15911",
-      "loja": "Shopee",
-      "titulo": "Secadora de Roupa Mueller Sun 8kg Timer 6 Cabides 220v",
-      "link": "https://s.shopee.com.br/2BEj4nI4dY",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rceq-m6mpsl92q9e435_tn",
-      "preco": 419,
-      "precoDe": 651.39,
-      "desconto": 28,
-      "cupom": "TEMCUPOM50",
-      "enviadoEm": "2026-09-08T19:38:28.501Z"
-    },
-    {
-      "id": "15905",
-      "loja": "Shopee",
-      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
-      "link": "https://s.shopee.com.br/qjLSKcRev",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
-      "preco": 14.99,
-      "precoDe": 19.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T19:16:04.524Z"
     }
   ]
 }
