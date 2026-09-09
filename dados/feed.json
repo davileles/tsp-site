@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-09T17:07:17.243Z",
+  "atualizadoEm": "2026-09-09T17:25:11.990Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16399",
+      "loja": "Shopee",
+      "titulo": "Kit Até 4 Sacos de Lixo Perfumados Lavanda | 160 Sacos | Pia e Banheiro | 34x38cm | Neutraliza Odores",
+      "link": "https://s.shopee.com.br/6L4JTUgsii",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mlpok0p0fg933f_tn",
+      "preco": null,
+      "precoDe": 24.29,
+      "desconto": 51,
+      "cupom": "LOVI0909",
+      "enviadoEm": "2026-09-09T17:15:11.987Z"
+    },
     {
       "id": "16369",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "994M4NH4",
       "enviadoEm": "2026-09-08T15:35:44.147Z"
-    },
-    {
-      "id": "15743",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
-      "link": "https://s.shopee.com.br/5VVAkgQx4p",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
-      "preco": 49.33,
-      "precoDe": 65.77,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T15:12:56.531Z"
     }
   ]
 }
