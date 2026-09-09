@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-09T19:17:25.557Z",
+  "atualizadoEm": "2026-09-09T19:36:17.518Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16530",
+      "loja": "Amazon",
+      "titulo": "Kit 2 Camisetas Hering Básicas Femininas, 1 Branca e 1 Preta, Tamanho G",
+      "link": "https://www.amazon.com.br/dp/B09KY8KN2Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21zy+JyIZbL._SL400_.jpg",
+      "preco": 45.480000000000004,
+      "precoDe": 99.99,
+      "desconto": 39,
+      "cupom": "25MODAPRIME",
+      "enviadoEm": "2026-09-09T19:30:10.893Z"
+    },
+    {
+      "id": "16523",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
+      "link": "https://s.shopee.com.br/2BEkeSRULN",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
+      "preco": null,
+      "precoDe": 21.42,
+      "desconto": 16,
+      "cupom": "LOVI0909",
+      "enviadoEm": "2026-09-09T19:20:47.363Z"
+    },
     {
       "id": "16507",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-09-08T17:27:14.487Z"
-    },
-    {
-      "id": "15799",
-      "loja": "Amazon",
-      "titulo": "Fralda Huggies Tripla Proteção M - 42 fraldas",
-      "link": "https://www.amazon.com.br/dp/B08QG5H9RD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41u8miitEEL._SL400_.jpg",
-      "preco": 41,
-      "precoDe": 55.53,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T17:26:04.419Z"
-    },
-    {
-      "id": "15805",
-      "loja": "Shopee",
-      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
-      "link": "https://s.shopee.com.br/1gISK0ToVV",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
-      "preco": 17.99,
-      "precoDe": 21.42,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T17:15:21.391Z"
     }
   ]
 }
