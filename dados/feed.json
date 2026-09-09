@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-09T21:06:17.519Z",
+  "atualizadoEm": "2026-09-09T21:29:23.355Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16620",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
+      "link": "https://s.shopee.com.br/gPwzr97ai",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
+      "preco": 2.289999999999999,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "R$30 OFF",
+      "enviadoEm": "2026-09-09T21:19:23.352Z"
+    },
     {
       "id": "16594",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-09-08T19:16:04.524Z"
-    },
-    {
-      "id": "15898",
-      "loja": "Mercado Livre",
-      "titulo": "Fraldas Pampers Pants Ajuste Total",
-      "link": "https://meli.la/1A1cddZ",
-      "imagem": null,
-      "preco": 104.9,
-      "precoDe": 154.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T19:11:44.724Z"
     }
   ]
 }
