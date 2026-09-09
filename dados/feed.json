@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-09T13:01:59.573Z",
+  "atualizadoEm": "2026-09-09T13:04:14.325Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16139",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Bitter Campari 748ml",
+      "link": "https://www.amazon.com.br/dp/B0CPFJMNZB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SL400_.jpg",
+      "preco": 46.9,
+      "precoDe": 59.9,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-09-09T13:02:28.727Z"
+    },
     {
       "id": "16142",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-09-08T11:40:15.210Z"
-    },
-    {
-      "id": "15590",
-      "loja": "Amazon",
-      "titulo": "Lenços Umedecidos Huggies Rosto e Corpo Limpeza 4 x 48 Un",
-      "link": "https://www.amazon.com.br/dp/B07MJ251Z8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41kdm-GOGJL._SL400_.jpg",
-      "preco": 28.79,
-      "precoDe": 32.6,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T11:33:03.121Z"
     }
   ]
 }
