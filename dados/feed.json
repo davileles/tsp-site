@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-09T17:05:38.795Z",
+  "atualizadoEm": "2026-09-09T17:07:17.243Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16369",
+      "loja": "Mercado Livre",
+      "titulo": "Carrinho de Bebê Passeio Maxi Baby Allday Cor Preto",
+      "link": "https://meli.la/1JgoSfy",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_686748-MLA95686819516_102025-F.jpg",
+      "preco": 347.51,
+      "precoDe": 545.32,
+      "desconto": 28,
+      "cupom": "ACHADOSMELI",
+      "enviadoEm": "2026-09-09T17:05:54.198Z"
+    },
     {
       "id": "16374",
       "loja": "Magazine Luiza",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-09-08T15:12:56.531Z"
-    },
-    {
-      "id": "15729",
-      "loja": "Shopee",
-      "titulo": "Kit Jogo 4 Tapete de Banheiro Antiderrapante 60x40cm Tapete Bolinha Macarrão Microfibra Absorvente",
-      "link": "https://s.shopee.com.br/80CVhjToaq",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1c8gqanz7q35_tn",
-      "preco": 23.97,
-      "precoDe": 47.49,
-      "desconto": 39,
-      "cupom": "F3R14D05",
-      "enviadoEm": "2026-09-08T14:50:31.592Z"
     }
   ]
 }
