@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T17:25:13.335Z",
+  "atualizadoEm": "2026-09-09T17:36:19.604Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -96,18 +96,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-09T23:01:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "COMPRANOAPP",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 30,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom para primeira compra",
-      "validadeAte": "2026-09-09T17:36:15.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -804,6 +792,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-10T11:05:20.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "INFLUMAGALU",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": 1000,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-10T17:33:11.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
