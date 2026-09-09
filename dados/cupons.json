@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T16:13:39.396Z",
+  "atualizadoEm": "2026-09-09T16:36:40.449Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -663,6 +663,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "FESTA400",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 400,
+      "minimo": 4000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-10T16:01:48.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "MAGALU350",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -859,7 +871,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
@@ -871,7 +883,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -1003,7 +1015,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1051,7 +1063,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1099,7 +1111,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
@@ -1183,7 +1195,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 22,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1267,11 +1279,11 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
-      "minimo": null,
+      "minimo": 249,
       "maximo": null,
       "limite": 80,
       "observacao": "Válido em produtos selecionados",
-      "validadeAte": "2026-09-10T15:44:38.000Z",
+      "validadeAte": "2026-09-09T22:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1331,7 +1343,19 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-09-10T16:00:32.000Z",
+      "validadeAte": "2026-09-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DENNISDJ12",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-09-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1527,6 +1551,18 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
+      "codigo": "DESCONTO89AF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 89,
+      "minimo": 599,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-10T16:01:33.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "H3YT3RRY99T3MCUP0M",
       "loja": "Shopee",
       "tipo": "reais",
@@ -1548,6 +1584,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-10T12:00:17.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "30% OFF FULL",
+      "loja": "Shopee",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom mencionado no post original. Nota: há discrepância entre o preço anunciado (R$106) e o preço calculado (R$136,74) com 50% de desconto no link da Shopee.",
+      "validadeAte": "2026-09-10T16:17:28.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "R$30 OFF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom de desconto fixo em R$ para a Shopee. A mensagem apresenta duas ofertas do mesmo produto, mas apenas uma contém código de cupom aplicável (R$30 OFF).",
+      "validadeAte": "2026-09-10T16:22:17.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
