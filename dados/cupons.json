@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T01:39:34.672Z",
+  "atualizadoEm": "2026-09-09T02:09:34.653Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -645,21 +645,9 @@
       "valor": 250,
       "minimo": 2099,
       "maximo": null,
-      "limite": null,
+      "limite": 250,
       "observacao": null,
       "validadeAte": "2026-09-09T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIMAISALLSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 250,
-      "minimo": 1799,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom exclusivo para membros MELI+",
-      "validadeAte": "2026-09-09T02:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -739,7 +727,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
@@ -751,7 +739,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -847,7 +835,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -895,7 +883,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -943,7 +931,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
@@ -979,7 +967,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 22,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1111,7 +1099,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 18,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1163,7 +1151,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": "Desconto de R$ 449,21 (de R$ 779,00 para R$ 329,79). Cupom aplicado resultando em 50% de desconto total.",
-      "validadeAte": "2026-09-09T02:59:00.000Z",
+      "validadeAte": "2026-09-09T02:58:59.529Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1187,7 +1175,7 @@
       "maximo": null,
       "limite": 300,
       "observacao": "Válido em selecionados conforme lista fornecida",
-      "validadeAte": "2026-09-09T02:59:00.000Z",
+      "validadeAte": "2026-09-09T02:58:59.529Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1199,19 +1187,7 @@
       "maximo": null,
       "limite": 300,
       "observacao": "Válido em selecionados conforme lista fornecida",
-      "validadeAte": "2026-09-09T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "GLORIA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-09-09T02:59:00.000Z",
+      "validadeAte": "2026-09-09T02:58:59.529Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1223,7 +1199,7 @@
       "maximo": null,
       "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-09-09T02:59:00.000Z",
+      "validadeAte": "2026-09-09T02:58:59.529Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1235,7 +1211,7 @@
       "maximo": null,
       "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-09-09T02:59:00.000Z",
+      "validadeAte": "2026-09-09T02:58:59.529Z",
       "url": "https://meli.la/2xystLt"
     },
     {
