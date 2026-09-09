@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T19:17:26.715Z",
+  "atualizadoEm": "2026-09-09T19:36:18.942Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -96,18 +96,6 @@
       "limite": 40,
       "observacao": null,
       "validadeAte": "2026-09-10T12:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "TEMNO9DO9",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 12,
-      "minimo": 149,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom válido no app Amazon",
-      "validadeAte": "2026-09-09T19:30:48.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -828,6 +816,18 @@
       "limite": null,
       "observacao": "Cupom anunciado como MELICUPOM. Post original anuncia R$ 811, mas cálculo da fonte indica desconto de R$ 60 (de R$ 2.499 para R$ 990 não é consistente com o cupom anunciado). Cupom pode estar desatualizado ou inválido conforme nota da fonte.",
       "validadeAte": "2026-09-10T11:27:40.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "HOJC3",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 46.85,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Dois cupons diferentes para o mesmo produto em postagens distintas",
+      "validadeAte": "2026-09-10T19:29:32.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
