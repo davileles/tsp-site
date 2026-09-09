@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T14:44:38.119Z",
+  "atualizadoEm": "2026-09-09T15:13:05.047Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -264,18 +264,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-22T17:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
-    },
-    {
-      "codigo": "INVERNO",
-      "loja": "C&A",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-09T15:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
@@ -579,6 +567,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "MAGALU350",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 350,
+      "minimo": 3500,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-10T15:01:40.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "300DESCONTO",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -687,6 +687,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "TECH0909",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 899,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-10T15:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MELICUPOM",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -775,7 +787,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
@@ -787,7 +799,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -907,7 +919,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -955,7 +967,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1003,7 +1015,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
@@ -1087,7 +1099,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 22,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1183,7 +1195,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 18,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1263,6 +1275,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 10,
+      "observacao": null,
+      "validadeAte": "2026-09-11T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OMELHORDOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1321,6 +1345,18 @@
       "observacao": "Código fornecido sem contexto de loja, tipo de desconto ou valor. Impossível determinar detalhes completos do cupom.",
       "validadeAte": "2026-09-10T14:37:45.000Z",
       "url": null
+    },
+    {
+      "codigo": "9POR9",
+      "loja": "Outro: Zé Delivery",
+      "tipo": "reais",
+      "valor": 9,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "9 Brahmas por R$9",
+      "validadeAte": "2026-09-10T15:08:13.000Z",
+      "url": "https://ze.onelink.me/qZhP/p8z09c1x"
     },
     {
       "codigo": "BEMVINDA",
@@ -1443,18 +1479,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "994M4NH4",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-09T15:02:21.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "SUP3R9N1N3",
       "loja": "Shopee",
       "tipo": "reais",
@@ -1500,6 +1524,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-10T13:18:34.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "D14D399",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 5,
+      "minimo": 25,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-10T15:00:41.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
