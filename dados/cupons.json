@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T11:39:37.225Z",
+  "atualizadoEm": "2026-09-09T12:03:01.040Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -123,6 +123,30 @@
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
+      "codigo": "CETAPHIL20",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom exclusivo para membros Prime. Desconto aplicado na tela de pagamento. Recomenda-se usar 'Programe e Poupe'.",
+      "validadeAte": "2026-09-10T11:51:44.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "PORTO15OFF",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-09-10T12:00:02.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
       "codigo": "TEMNO9DO9",
       "loja": "Amazon",
       "tipo": "reais",
@@ -192,6 +216,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
+    },
+    {
+      "codigo": "CLIENTE50",
+      "loja": "Brinox Shop",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 399.99,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-30T11:27:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
     },
     {
@@ -739,7 +775,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -784,18 +820,6 @@
     },
     {
       "codigo": "MELHORNOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CUPOMDOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
@@ -1071,6 +1095,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CLIENTEVIP",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-09-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEUSDESCONTOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1079,7 +1115,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": "Múltiplos cupons de desconto em porcentagem com limite de desconto máximo",
-      "validadeAte": "2026-09-10T11:01:16.000Z",
+      "validadeAte": "2026-09-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1139,7 +1175,7 @@
       "maximo": null,
       "limite": 300,
       "observacao": "Múltiplos cupons de desconto em porcentagem com limite de desconto máximo",
-      "validadeAte": "2026-09-10T11:01:16.000Z",
+      "validadeAte": "2026-09-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
