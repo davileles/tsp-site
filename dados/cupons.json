@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T14:21:23.543Z",
+  "atualizadoEm": "2026-09-09T14:38:08.494Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -99,18 +99,6 @@
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
-      "codigo": "20MATTEL",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom aplicado na tela de pagamento. Consulte disponibilidade para sua região.",
-      "validadeAte": "2026-09-09T14:31:22.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
       "codigo": "COMPRANOAPP",
       "loja": "Amazon",
       "tipo": "reais",
@@ -120,18 +108,6 @@
       "limite": null,
       "observacao": "Cupom para primeira compra",
       "validadeAte": "2026-09-09T17:36:15.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "CETAPHIL20",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom exclusivo para membros Prime. Desconto aplicado na tela de pagamento. Recomenda-se usar 'Programe e Poupe'.",
-      "validadeAte": "2026-09-10T11:51:44.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -787,7 +763,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
@@ -799,7 +775,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -840,6 +816,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-10T12:12:59.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MAYBELLINENOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 99.9,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Válido em selecionados",
+      "validadeAte": "2026-09-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -907,7 +895,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -955,7 +943,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -967,7 +955,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1003,7 +991,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
@@ -1087,7 +1075,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 22,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1183,7 +1171,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 18,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
