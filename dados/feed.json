@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-09T15:37:37.739Z",
+  "atualizadoEm": "2026-09-09T16:13:37.906Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16267",
+      "loja": "Mercado Livre",
+      "titulo": "Cama Elástica Pula Pula Infantil Trampolim 1,4 Metros Atentu",
+      "link": "https://meli.la/1yBicq7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_917104-MLA96155675715_102025-F.jpg",
+      "preco": 190,
+      "precoDe": 659,
+      "desconto": 71,
+      "cupom": "DESCONTAO",
+      "enviadoEm": "2026-09-09T16:12:56.134Z"
+    },
+    {
+      "id": "16281",
+      "loja": "Mercado Livre",
+      "titulo": "Aparelho De Jantar E Chá 20 Peças Oxford Mendi Malaquita Verde",
+      "link": "https://meli.la/1t1Fh4x",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_903859-MLA96667164917_102025-F.jpg",
+      "preco": 102,
+      "precoDe": 449.9,
+      "desconto": 77,
+      "cupom": "CORREHOJE10",
+      "enviadoEm": "2026-09-09T16:11:42.481Z"
+    },
+    {
+      "id": "16289",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV PRO LG 65'' 4K Ultra HD AI 65UN85C",
+      "link": "https://meli.la/1gYoASb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_695281-MLA115403895560_082026-F.jpg",
+      "preco": 3134.56,
+      "precoDe": 6599,
+      "desconto": 52,
+      "cupom": "OMELHORDOML",
+      "enviadoEm": "2026-09-09T16:08:16.203Z"
+    },
+    {
+      "id": "16290",
+      "loja": "Mercado Livre",
+      "titulo": "Secador De Cabelos Philco psc3500 4 Em 1 dobrável motor bldc Prateado",
+      "link": "https://meli.la/1ypc1jd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_723697-MLA115636981336_092026-F.jpg",
+      "preco": 341.27,
+      "precoDe": 599,
+      "desconto": 43,
+      "cupom": "CORREHOJE10",
+      "enviadoEm": "2026-09-09T16:04:53.728Z"
+    },
+    {
+      "id": "16295",
+      "loja": "Mercado Livre",
+      "titulo": "Impressora multifuncional cor Epson EcoTank L3250",
+      "link": "https://meli.la/1jo6o5a",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_827740-MLA99943629541_112025-F.jpg",
+      "preco": 849,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "TECH0909",
+      "enviadoEm": "2026-09-09T16:01:21.327Z"
+    },
+    {
+      "id": "16301",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Flyer Runner Mesh Feminino Puma",
+      "link": "https://meli.la/34nuTmK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_794099-MLB85938482985_062025-O.webp",
+      "preco": 140.75,
+      "precoDe": 349.99,
+      "desconto": 43,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-09T15:58:04.045Z"
+    },
+    {
+      "id": "16306",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
+      "link": "https://s.shopee.com.br/1LfdQSRgj0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnyps41y3uo4c6_tn",
+      "preco": 39.900000000000006,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "LOVI0909",
+      "enviadoEm": "2026-09-09T15:50:49.550Z"
+    },
     {
       "id": "16288",
       "loja": "Shopee",
@@ -1357,90 +1441,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-09-08T13:46:09.067Z"
-    },
-    {
-      "id": "15673",
-      "loja": "Shopee",
-      "titulo": "Kit 4 Cafés Torrado E Moído Aromatizados - Todos os Aromas",
-      "link": "https://s.shopee.com.br/8plccZcb4w",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4zzbuhcb6pecf_tn",
-      "preco": 99.9,
-      "precoDe": 120.57,
-      "desconto": 13,
-      "cupom": "F3R14D05",
-      "enviadoEm": "2026-09-08T13:42:33.614Z"
-    },
-    {
-      "id": "15665",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
-      "link": "https://s.shopee.com.br/9KhtBuaPP2",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
-      "preco": 40,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "F3R14D05",
-      "enviadoEm": "2026-09-08T13:19:39.326Z"
-    },
-    {
-      "id": "15666",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pom Pom Protek XG Proteção de Mãe com 60 Unidades",
-      "link": "https://meli.la/1LEiK3a",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_939164-MLA99936529023_112025-F.jpg",
-      "preco": 56.41,
-      "precoDe": 77.37,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T13:17:36.896Z"
-    },
-    {
-      "id": "15662",
-      "loja": "Mercado Livre",
-      "titulo": "Huggies Fralda Pants Roupinha Proteção Acolchoada XXG - 58 Un",
-      "link": "https://meli.la/1gboB7N",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_930531-MLA99442316930_112025-F.jpg",
-      "preco": 76.8,
-      "precoDe": 114.33,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T13:04:14.301Z"
-    },
-    {
-      "id": "15650",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
-      "link": "https://s.shopee.com.br/AUtqYTaYus",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6_tn",
-      "preco": 73.96,
-      "precoDe": 136.14,
-      "desconto": 42,
-      "cupom": "F3R14D05",
-      "enviadoEm": "2026-09-08T12:56:36.223Z"
-    },
-    {
-      "id": "15649",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira De Carro All Stages 2.0 Isofix 0-36kgs Cinza Litet",
-      "link": "https://meli.la/1re43pW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_995649-MLA109737919053_032026-F.jpg",
-      "preco": 719.01,
-      "precoDe": 1199,
-      "desconto": 33,
-      "cupom": "VALEMAIS",
-      "enviadoEm": "2026-09-08T12:48:26.391Z"
-    },
-    {
-      "id": "15648",
-      "loja": "Mercado Livre",
-      "titulo": "Blusa Moletom Umbro D. Essential Masculino",
-      "link": "https://meli.la/2DbY2kk",
-      "imagem": null,
-      "preco": 129.9,
-      "precoDe": 219.99,
-      "desconto": 27,
-      "cupom": "MODA0809",
-      "enviadoEm": "2026-09-08T12:47:21.683Z"
     }
   ]
 }
