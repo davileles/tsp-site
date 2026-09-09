@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T13:02:00.775Z",
+  "atualizadoEm": "2026-09-09T13:04:15.483Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -699,18 +699,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 999,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-09-11T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELICUPOM",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -851,7 +839,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-09-10T12:02:17.000Z",
+      "validadeAte": "2026-09-09T15:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1127,7 +1115,7 @@
       "maximo": null,
       "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-09-10T13:00:13.000Z",
+      "validadeAte": "2026-09-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1332,6 +1320,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-09T15:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 10,
+      "observacao": null,
+      "validadeAte": "2026-09-09T15:00:00.227Z",
       "url": "https://meli.la/2xystLt"
     },
     {
