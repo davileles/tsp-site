@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T21:29:24.990Z",
+  "atualizadoEm": "2026-09-09T21:36:17.999Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -984,6 +984,18 @@
       "limite": 40,
       "observacao": "Válido em selecionados",
       "validadeAte": "2026-09-16T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "30% OFF em Santher",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom deve ser selecionado na tela do produto ou no carrinho. Promoção por tempo limitado. Válido para itens vendidos por Personal Baby.",
+      "validadeAte": "2026-09-10T21:29:26.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
