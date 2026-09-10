@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-10T19:53:41.980Z",
+  "atualizadoEm": "2026-09-10T20:10:40.274Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17094",
+      "loja": "Amazon",
+      "titulo": "Granado Condicionador Bebê, Erva-Doce, 250ml",
+      "link": "https://www.amazon.com.br/dp/B00TAC044Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31y3DL3oftL._SL400_.jpg",
+      "preco": 13.9,
+      "precoDe": 18.91,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T20:00:40.272Z"
+    },
+    {
+      "id": "17093",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Toalhas Karsten 100% Algodão Floral Grossa 4 Peças",
+      "link": "https://meli.la/1ZadHuM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_628822-MLB110553974441_042026-O.webp",
+      "preco": 94.52000000000001,
+      "precoDe": 164.9,
+      "desconto": 18,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-10T19:59:41.141Z"
+    },
+    {
+      "id": "17092",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Camisetas Algodão Dia Dia Sandrini Básica Conforto",
+      "link": "https://meli.la/2mSuYUB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_683225-MLB100382923917_122025-O.webp",
+      "preco": 49.19,
+      "precoDe": 95.72,
+      "desconto": 37,
+      "cupom": "EXCLUSIVONOMELI",
+      "enviadoEm": "2026-09-10T19:55:46.453Z"
+    },
     {
       "id": "17089",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-09-09T13:59:36.189Z"
-    },
-    {
-      "id": "16202",
-      "loja": "Amazon",
-      "titulo": "Jogo da Memória Bluey, Elka, acima de 3 anos",
-      "link": "https://www.amazon.com.br/dp/B0D2DPPGL7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41A2LRRDzgL._SL400_.jpg",
-      "preco": 21.51,
-      "precoDe": 39.99,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-09-09T13:58:36.952Z"
-    },
-    {
-      "id": "16200",
-      "loja": "Amazon",
-      "titulo": "Stanley - Garrafa Térmica AeroLight Transit, garrafa isolada em vácuo para café, chá e bebidas, em aço inoxidável leve, 354ml, Cream",
-      "link": "https://www.amazon.com.br/dp/B0F62GR5MM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21wnFGqRgiL._SL400_.jpg",
-      "preco": 133.74,
-      "precoDe": 219,
-      "desconto": 24,
-      "cupom": "COZINHA20",
-      "enviadoEm": "2026-09-09T13:57:23.993Z"
-    },
-    {
-      "id": "16192",
-      "loja": "Mercado Livre",
-      "titulo": "Basike Power Bank 20.000mah Rápido Portátil 45w Rápido Com Display Cor Branco Power 3-saídas Com Cabo Embutido Usb-c Para Samsung iPhone Xiaomi Motorola Celular Tablet Macbook B203",
-      "link": "https://meli.la/2wMr8He",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_870471-MLA114234248918_082026-F.jpg",
-      "preco": 173,
-      "precoDe": 316.92,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-09T13:54:08.344Z"
     }
   ]
 }
