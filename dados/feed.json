@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-10T19:13:41.230Z",
+  "atualizadoEm": "2026-09-10T19:30:06.594Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17071",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 6 Pares De Meia Infantil Algodão Lupo Sport Sortida",
+      "link": "https://meli.la/2M6Pqap",
+      "imagem": null,
+      "preco": 51.83,
+      "precoDe": 65.16,
+      "desconto": 3,
+      "cupom": "EXCLUSIVONOMELI",
+      "enviadoEm": "2026-09-10T19:27:50.305Z"
+    },
+    {
+      "id": "17067",
+      "loja": "Shopee",
+      "titulo": "Mochila Moto LED Olhos 3D Casca Rígida Impermeável Grande Capacidade Mochila Moderna para Viagem Trabalho Dia a Dia",
+      "link": "https://s.shopee.com.br/Ln84MP8x1",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mlwrlh9oi1hi51_tn",
+      "preco": 319.99,
+      "precoDe": 1904.71,
+      "desconto": 79,
+      "cupom": "SHOPEE20AF",
+      "enviadoEm": "2026-09-10T19:26:42.255Z"
+    },
+    {
+      "id": "17066",
+      "loja": "Amazon",
+      "titulo": "Veículo Barbie Camper dos Sonhos Mattel. Trailer com 7 áreas de lazer, mais de 60 acessórios para aventuras de acampamento. Para crianças a partir dos 3 anos.",
+      "link": "https://www.amazon.com.br/dp/B0DLBPFZ2J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/414UQ-h+VeL._SL400_.jpg",
+      "preco": 578.54,
+      "precoDe": 1099.99,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T19:23:23.936Z"
+    },
     {
       "id": "17054",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": "COZINHA20",
       "enviadoEm": "2026-09-09T13:35:04.721Z"
-    },
-    {
-      "id": "16170",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Inox 2l Com Desligamento Automático Full",
-      "link": "https://s.shopee.com.br/4LJEplGqoN",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820nf-mnfpx6z1slc5e1_tn",
-      "preco": null,
-      "precoDe": 199.96,
-      "desconto": 72,
-      "cupom": "LOVI0909",
-      "enviadoEm": "2026-09-09T13:25:28.444Z"
-    },
-    {
-      "id": "16164",
-      "loja": "Amazon",
-      "titulo": "Cetaphil Loção Hidratante Corporal e Facial para Pele Sensível, Normal a Seca 473ml - Hidratação 48h",
-      "link": "https://www.amazon.com.br/dp/B079VPMXHF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41LGfAYigvL._SL400_.jpg",
-      "preco": 79.92,
-      "precoDe": 109.9,
-      "desconto": 9,
-      "cupom": "CEPTAPHIL20",
-      "enviadoEm": "2026-09-09T13:18:37.349Z"
-    },
-    {
-      "id": "16161",
-      "loja": "Amazon",
-      "titulo": "Philco Batedeira Planetária PBP90A Turbo 900W Aço inoxidável",
-      "link": "https://www.amazon.com.br/dp/B0DY8T1Q6Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41uPSr8YswL._SL400_.jpg",
-      "preco": 239.19,
-      "precoDe": 509,
-      "desconto": 41,
-      "cupom": "COZINHA20",
-      "enviadoEm": "2026-09-09T13:11:39.069Z"
     }
   ]
 }
