@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-10T11:50:04.629Z",
+  "atualizadoEm": "2026-09-10T12:20:04.630Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16742",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
+      "link": "https://s.shopee.com.br/AKaTUsZQL4",
+      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
+      "preco": 22.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "R$30 OFF",
+      "enviadoEm": "2026-09-10T12:13:23.706Z"
+    },
     {
       "id": "16728",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "TUDODEBOM",
       "enviadoEm": "2026-09-08T21:38:25.039Z"
-    },
-    {
-      "id": "15965",
-      "loja": "Mercado Livre",
-      "titulo": "Escova Secadora de Cabelos Soft Beauty Cherry Philco Pec13 1300w 4 em 1 seca, alisa, modela e dá volume",
-      "link": "https://meli.la/1F2h1Ho",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_653169-MLA99851166997_112025-F.jpg",
-      "preco": 97.44,
-      "precoDe": 124.32,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T21:34:49.827Z"
     }
   ]
 }
