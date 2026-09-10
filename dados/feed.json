@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-10T11:36:04.749Z",
+  "atualizadoEm": "2026-09-10T11:50:04.629Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16728",
+      "loja": "Shopee",
+      "titulo": "Assento Massageador Elétrico Controle Aliviar Dores Lombar Coluna Pescoço Veicular Escritório 8 Modos 3 Intensidade 3036",
+      "link": "https://s.shopee.com.br/4VcgWb4I6F",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m83r5tij7p5d46_tn",
+      "preco": 109.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "H3YT3RRY99T3MCUP0M",
+      "enviadoEm": "2026-09-10T11:48:57.963Z"
+    },
     {
       "id": "16715",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-09-08T21:34:49.827Z"
-    },
-    {
-      "id": "15961",
-      "loja": "Mercado Livre",
-      "titulo": "Huggies Fralda Pants Roupinha Proteção Acolchoada M - 72 Un",
-      "link": "https://meli.la/1eEDpbu",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_724166-MLA104126595686_012026-F.jpg",
-      "preco": 67.41,
-      "precoDe": 99.07,
-      "desconto": 32,
-      "cupom": "DESCONTEI",
-      "enviadoEm": "2026-09-08T21:31:32.421Z"
     }
   ]
 }
