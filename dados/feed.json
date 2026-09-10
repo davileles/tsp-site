@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-10T13:31:47.099Z",
+  "atualizadoEm": "2026-09-10T14:14:41.608Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16848",
+      "loja": "Shopee",
+      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
+      "link": "https://s.shopee.com.br/6fhBFtvg2s",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
+      "preco": 75.59,
+      "precoDe": 317.62,
+      "desconto": 66,
+      "cupom": "30% OFF FULL",
+      "enviadoEm": "2026-09-10T14:04:41.607Z"
+    },
     {
       "id": "16802",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-09-08T22:27:09.731Z"
-    },
-    {
-      "id": "15976",
-      "loja": "Mercado Livre",
-      "titulo": "Terno Italiano Slim Cinza/chumbo, Promoção Queima De Estoque",
-      "link": "https://meli.la/1NTNGJL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_941181-MLB110465334191_042026-O.webp",
-      "preco": 128.71,
-      "precoDe": 184.14,
-      "desconto": 15,
-      "cupom": "OFERTASEMPRE",
-      "enviadoEm": "2026-09-08T22:23:39.850Z"
     }
   ]
 }
