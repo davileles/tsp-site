@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-10T21:18:02.124Z",
+  "atualizadoEm": "2026-09-10T21:29:54.245Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17120",
+      "loja": "Shopee",
+      "titulo": "Seringa de Segurança Retrátil para Insulina (1ml) com Agulha Fixa 0,3x13mm (30G 1/2) c/10 | - SOL",
+      "link": "https://s.shopee.com.br/8KpPirxAI9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mnepe0233aptdf_tn",
+      "preco": 12,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SHOPEE20AF",
+      "enviadoEm": "2026-09-10T21:19:54.244Z"
+    },
     {
       "id": "17118",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-09-09T14:35:39.865Z"
-    },
-    {
-      "id": "16219",
-      "loja": "Shopee",
-      "titulo": "Dispositivo Elétrico De Enxágue Nasal 360 ° Limpador De Sinusite Portátil Giratório De Cabeça Dupla Para Recuperação Aut",
-      "link": "https://s.shopee.com.br/3g3Y7W05wb",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mjme2wakn8qt69_tn",
-      "preco": 260,
-      "precoDe": 533.33,
-      "desconto": 40,
-      "cupom": "LOVI0909",
-      "enviadoEm": "2026-09-09T14:34:10.873Z"
     }
   ]
 }
