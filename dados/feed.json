@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-10T14:14:41.608Z",
+  "atualizadoEm": "2026-09-10T14:37:26.959Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16870",
+      "loja": "Shopee",
+      "titulo": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
+      "link": "https://s.shopee.com.br/90563keLBs",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134207-825ai-mr9pynhmd43k22_tn",
+      "preco": 97,
+      "precoDe": 219.4,
+      "desconto": 33,
+      "cupom": "H3YT3RRY99T3MCUP0M",
+      "enviadoEm": "2026-09-10T14:27:26.959Z"
+    },
     {
       "id": "16848",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-09-08T22:28:01.594Z"
-    },
-    {
-      "id": "15971",
-      "loja": "Shopee",
-      "titulo": "Console PlayStation 5 Slim Digital 825GB",
-      "link": "https://s.shopee.com.br/60RRmroaqB",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfmltid9j6dj4f_tn",
-      "preco": 3873,
-      "precoDe": 5180.6,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T22:27:09.731Z"
     }
   ]
 }
