@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-10T20:44:17.438Z",
+  "atualizadoEm": "2026-09-10T21:18:02.124Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17118",
+      "loja": "Amazon",
+      "titulo": "Máquina de Costura Eletrônica SINGER C5605 127V | 80 Pontos com 180 Aplicações | LCD, Passador de Linha, Caseado Automático, Braço Livre | Portátil | Ideal para Uso Doméstico",
+      "link": "https://www.amazon.com.br/dp/B0CM4X54V3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ipbD8RGrL._SL400_.jpg",
+      "preco": 1399,
+      "precoDe": 1799,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T21:11:33.463Z"
+    },
+    {
+      "id": "17115",
+      "loja": "Mercado Livre",
+      "titulo": "Lava Louças 8 Serviços Branco Touch Plus Midea",
+      "link": "https://meli.la/1BZbFRH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_694759-MLA92893844852_092025-F.jpg",
+      "preco": 1516.16,
+      "precoDe": 2099,
+      "desconto": 21,
+      "cupom": "SOLTAODESCONTO",
+      "enviadoEm": "2026-09-10T21:05:01.764Z"
+    },
+    {
+      "id": "17113",
+      "loja": "Shopee",
+      "titulo": "Regata Masculina Americana Ribana Canelada Slim Justa ao Corpo Marrom",
+      "link": "https://s.shopee.com.br/8plgIDz2YY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcri0jg5g27mb2_tn",
+      "preco": 23.979999999999997,
+      "precoDe": 39.96,
+      "desconto": 25,
+      "cupom": "SHOPEE20AF",
+      "enviadoEm": "2026-09-10T20:57:18.343Z"
+    },
     {
       "id": "17108",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 40,
       "cupom": "LOVI0909",
       "enviadoEm": "2026-09-09T14:34:10.873Z"
-    },
-    {
-      "id": "16214",
-      "loja": "Amazon",
-      "titulo": "Creme Hidratante Corporal para Pele Seca e Sensível Cetaphil 453g - Hidratação 48h",
-      "link": "https://www.amazon.com.br/dp/B079VXJK79?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41qWqjOR8IL._SL400_.jpg",
-      "preco": 71.92999999999999,
-      "precoDe": 104.9,
-      "desconto": 14,
-      "cupom": "CEPTAPHIL20",
-      "enviadoEm": "2026-09-09T14:27:29.353Z"
-    },
-    {
-      "id": "16209",
-      "loja": "Shopee",
-      "titulo": "Cooktop a Gás Atlas 4 Bocas Agile Up Preto - Bivolt",
-      "link": "https://s.shopee.com.br/7VGGexlkxM",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ras9-ma4hfpfmk0x7c7_tn",
-      "preco": 378.89,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "LOVI0909",
-      "enviadoEm": "2026-09-09T14:11:22.305Z"
-    },
-    {
-      "id": "16205",
-      "loja": "Amazon",
-      "titulo": "Cetaphil Pro Ureia Creme Restaurador Para Os Pés 10% 50g",
-      "link": "https://www.amazon.com.br/dp/B09X5V3SL1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41b1KYR5pVL._SL400_.jpg",
-      "preco": 31.990000000000002,
-      "precoDe": 49.9,
-      "desconto": 20,
-      "cupom": "CEPTAPHIL20",
-      "enviadoEm": "2026-09-09T14:04:51.801Z"
     }
   ]
 }
