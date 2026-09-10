@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-10T11:21:04.621Z",
+  "atualizadoEm": "2026-09-10T11:36:04.749Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16715",
+      "loja": "Shopee",
+      "titulo": "1080° Torneira Giratória de Braço Robótico Chuveiro À Prova De Respingos Banheiro Cozinha Do Aerador Dois Modos",
+      "link": "https://s.shopee.com.br/6q0bHK3eg0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mev5hs72r2mac1_tn",
+      "preco": null,
+      "precoDe": 54.68,
+      "desconto": 47,
+      "cupom": "R$30 OFF",
+      "enviadoEm": "2026-09-10T11:26:04.747Z"
+    },
     {
       "id": "16708",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 32,
       "cupom": "DESCONTEI",
       "enviadoEm": "2026-09-08T21:31:32.421Z"
-    },
-    {
-      "id": "15959",
-      "loja": "Amazon",
-      "titulo": "CAMERA INSTAX MINI 12 AZUL CANDY",
-      "link": "https://www.amazon.com.br/dp/B0BX8W9SPW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/312EYb+Ty-L._SL400_.jpg",
-      "preco": 429.75,
-      "precoDe": 649,
-      "desconto": 34,
-      "cupom": "TEMNO9DO9",
-      "enviadoEm": "2026-09-08T21:30:31.727Z"
     }
   ]
 }
