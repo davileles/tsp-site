@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-10T15:00:15.900Z",
+  "atualizadoEm": "2026-09-10T15:20:04.727Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16897",
+      "loja": "Shopee",
+      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
+      "link": "https://s.shopee.com.br/5LBnk8bWwG",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
+      "preco": 49.989999999999995,
+      "precoDe": 199.97,
+      "desconto": 60,
+      "cupom": "R$30 OFF",
+      "enviadoEm": "2026-09-10T15:19:32.430Z"
+    },
+    {
+      "id": "16886",
+      "loja": "Amazon",
+      "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0979VS2JH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41VCySSGQsL._SL400_.jpg",
+      "preco": 56.66,
+      "precoDe": 77.37,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T15:12:38.254Z"
+    },
+    {
+      "id": "16884",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Com 10 Cuecas Boxer Algodão Cotton Masculina Adulto Mash",
+      "link": "https://meli.la/1Av7JHq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_607210-MLB75800789459_042024-O.webp",
+      "preco": 149.99,
+      "precoDe": 330.58,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T15:11:32.399Z"
+    },
     {
       "id": "16882",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": "20% NA FINALIZAÇÃO DO PEDIDO",
       "enviadoEm": "2026-09-09T11:22:38.258Z"
-    },
-    {
-      "id": "16046",
-      "loja": "Shopee",
-      "titulo": "40 Peças / 46 Peças Jogo De Chave Catraca Caixa De Ferramentas para Reparo de Carros / Conjuntos de Chaves",
-      "link": "https://s.shopee.com.br/1qbthowCdQ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mqt86n8incape7_tn",
-      "preco": null,
-      "precoDe": 87.47,
-      "desconto": 68,
-      "cupom": "LOVI0909",
-      "enviadoEm": "2026-09-09T11:09:34.185Z"
-    },
-    {
-      "id": "16043",
-      "loja": "Amazon",
-      "titulo": "3 Corações TRES Cafeteira Espresso e Multibebida Passione Vermelha - 220V",
-      "link": "https://www.amazon.com.br/dp/B08S23W892?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31LsYg28vsS._SL400_.jpg",
-      "preco": 319.2,
-      "precoDe": 499.9,
-      "desconto": 20,
-      "cupom": "COZINHA20",
-      "enviadoEm": "2026-09-09T11:02:51.083Z"
-    },
-    {
-      "id": "15991",
-      "loja": "Amazon",
-      "titulo": "Kit 2 Camisetas Bolso Cb Pica-pau Xadrez Reserva - Preto/branco - P",
-      "link": "https://www.amazon.com.br/dp/B0FWRZLPTX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vh4VJqdJL._SL400_.jpg",
-      "preco": 92,
-      "precoDe": 338,
-      "desconto": 73,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T22:55:53.977Z"
     }
   ]
 }
