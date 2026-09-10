@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-10T16:04:29.988Z",
+  "atualizadoEm": "2026-09-10T16:20:14.364Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16920",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis adidas Solado Boost Run Corrida Masculino",
+      "link": "https://meli.la/1vQTEMN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_835073-MLB95369880225_102025-O.webp",
+      "preco": 254.89999999999998,
+      "precoDe": 599.99,
+      "desconto": 49,
+      "cupom": "EXCLUSIVONOMELI",
+      "enviadoEm": "2026-09-10T16:10:14.363Z"
+    },
+    {
+      "id": "16828",
+      "loja": "Amazon",
+      "titulo": "Clingo Lixeira Mágica Antiodor, Lixo para Fraldas, Quarto do Bebê, Banheiro, Cozinha, Capacidade 10 Litros",
+      "link": "https://www.amazon.com.br/dp/B0CB9B84LT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31klGdKkI2L._SL400_.jpg",
+      "preco": 138,
+      "precoDe": 199.9,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T16:07:18.071Z"
+    },
+    {
+      "id": "16919",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
+      "link": "https://s.shopee.com.br/AKaTl0nRws",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mnyps41y3uo4c6_tn",
+      "preco": 69.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "R$30 OFF",
+      "enviadoEm": "2026-09-10T16:06:28.040Z"
+    },
     {
       "id": "16902",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 61,
       "cupom": null,
       "enviadoEm": "2026-09-09T11:40:48.943Z"
-    },
-    {
-      "id": "16071",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416kQ1MEMqL._SL400_.jpg",
-      "preco": 95.94,
-      "precoDe": 119.9,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-09-09T11:37:24.820Z"
-    },
-    {
-      "id": "16070",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho XXG, 82 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GW3YY6FY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51xMvKb-oFL._SL400_.jpg",
-      "preco": 93.09,
-      "precoDe": 109.99,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-09-09T11:36:13.817Z"
-    },
-    {
-      "id": "16053",
-      "loja": "Mercado Livre",
-      "titulo": "Churrasqueira Portatil Carvão Grelha Grill Camping Pesca Preto",
-      "link": "https://meli.la/1xhLYFG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_756411-MLB115311748058_082026-O.webp",
-      "preco": 41.35,
-      "precoDe": 78,
-      "desconto": 24,
-      "cupom": "VALEAGORA",
-      "enviadoEm": "2026-09-09T11:35:13.257Z"
     }
   ]
 }
