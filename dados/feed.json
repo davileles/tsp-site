@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-10T21:44:40.997Z",
+  "atualizadoEm": "2026-09-10T22:18:02.175Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17126",
+      "loja": "Amazon",
+      "titulo": "Granado Kit Pink Spa Relaxante Para os Pés",
+      "link": "https://www.amazon.com.br/dp/B00RIZHZEE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/513bNwNm9NL._SL400_.jpg",
+      "preco": 77.72,
+      "precoDe": 142,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T22:08:05.177Z"
+    },
     {
       "id": "17124",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-09-09T14:58:28.325Z"
-    },
-    {
-      "id": "16240",
-      "loja": "Mercado Livre",
-      "titulo": "Lava e Seca Philco 16 Programas Eco Inverter 10 kg Inox PLS11T - Inox",
-      "link": "https://meli.la/2oCPcHG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_615290-MLA99478496604_112025-F.jpg",
-      "preco": 2461.92,
-      "precoDe": 3199,
-      "desconto": 16,
-      "cupom": "OMELHORDOML",
-      "enviadoEm": "2026-09-09T14:55:07.652Z"
     }
   ]
 }
