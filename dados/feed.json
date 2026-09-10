@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-10T21:29:54.245Z",
+  "atualizadoEm": "2026-09-10T21:44:40.997Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17124",
+      "loja": "Amazon",
+      "titulo": "Head & Shoulders Shampoo Anticaspa Anticoceira 400 ml",
+      "link": "https://www.amazon.com.br/dp/B0101A62JG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31vRt2y2dML._SL400_.jpg",
+      "preco": 14.99,
+      "precoDe": 30.8,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T21:34:40.995Z"
+    },
     {
       "id": "17120",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 16,
       "cupom": "OMELHORDOML",
       "enviadoEm": "2026-09-09T14:55:07.652Z"
-    },
-    {
-      "id": "16224",
-      "loja": "Amazon",
-      "titulo": "Stanley Garrafa Térmica Aerolight Transit Cream, 591ml",
-      "link": "https://www.amazon.com.br/dp/B0CZPSD2SC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21nJLSR6+EL._SL400_.jpg",
-      "preco": 154.89,
-      "precoDe": 259,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-09T14:35:39.865Z"
     }
   ]
 }
