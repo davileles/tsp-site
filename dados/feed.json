@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-10T16:46:49.065Z",
+  "atualizadoEm": "2026-09-10T17:29:57.439Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16988",
+      "loja": "Shopee",
+      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
+      "link": "https://s.shopee.com.br/20vLuiPoUO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
+      "preco": 39.32,
+      "precoDe": 66.24,
+      "desconto": 18,
+      "cupom": "CUPOM15AF",
+      "enviadoEm": "2026-09-10T17:19:57.438Z"
+    },
     {
       "id": "16941",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 35,
       "cupom": "20% NA FINALIZAÇÃO DO PEDIDO",
       "enviadoEm": "2026-09-09T12:08:28.003Z"
-    },
-    {
-      "id": "16090",
-      "loja": "Shopee",
-      "titulo": "Cápsula Nespresso Chocolate Cappuccino Cacau Café Italle 30 Capsulas",
-      "link": "https://s.shopee.com.br/7KwqJJIIJK",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18gyik2bp7k43_tn",
-      "preco": null,
-      "precoDe": 80.45,
-      "desconto": 33,
-      "cupom": "LOVI0909",
-      "enviadoEm": "2026-09-09T11:57:56.538Z"
     }
   ]
 }
