@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-10T11:13:21.637Z",
+  "atualizadoEm": "2026-09-10T11:21:04.621Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16708",
+      "loja": "Amazon",
+      "titulo": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
+      "link": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lVmXe4CVL._SL400_.jpg",
+      "preco": 43,
+      "precoDe": 59.99,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T11:16:25.559Z"
+    },
+    {
+      "id": "16711",
+      "loja": "Shopee",
+      "titulo": "80x30cm Mouse Pad Gamer Mapa Razer Camuflado Grande",
+      "link": "https://s.shopee.com.br/Ln7WbYahW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lhheh4bnl2dqff_tn",
+      "preco": 19.9,
+      "precoDe": 58.53,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T11:15:33.019Z"
+    },
     {
       "id": "16706",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 34,
       "cupom": "TEMNO9DO9",
       "enviadoEm": "2026-09-08T21:30:31.727Z"
-    },
-    {
-      "id": "15953",
-      "loja": "Amazon",
-      "titulo": "Head & Shoulders Shampoo Anticaspa Limpeza Refrescante 400 ml",
-      "link": "https://www.amazon.com.br/dp/B0D2FKC4XK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41-V7M9CrVL._SL400_.jpg",
-      "preco": 21.49,
-      "precoDe": 29.91,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T21:08:32.053Z"
-    },
-    {
-      "id": "15951",
-      "loja": "Shopee",
-      "titulo": "Whisky Chivas Regal 12 Anos 1000ml",
-      "link": "https://s.shopee.com.br/9V1JsvsTz8",
-      "imagem": "https://cf.shopee.com.br/file/5bb80b1f3a297106097fb825fb57c398_tn",
-      "preco": 217.89999999999998,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TEMCUPOM50",
-      "enviadoEm": "2026-09-08T20:46:36.284Z"
     }
   ]
 }
