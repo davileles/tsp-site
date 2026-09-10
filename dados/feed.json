@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-10T17:29:57.439Z",
+  "atualizadoEm": "2026-09-10T17:53:01.826Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17000",
+      "loja": "Shopee",
+      "titulo": "Manta Casal Soft Antialérgica 2,00m X1,80m  Lisa Várias Cores",
+      "link": "https://s.shopee.com.br/1AHYcXMuL",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m858jxe787bl51_tn",
+      "preco": 19.91,
+      "precoDe": 40.15,
+      "desconto": 38,
+      "cupom": "SHOPEE20AF",
+      "enviadoEm": "2026-09-10T17:43:01.823Z"
+    },
     {
       "id": "16988",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-09-09T12:15:17.705Z"
-    },
-    {
-      "id": "16102",
-      "loja": "Amazon",
-      "titulo": "Ouro Branco - Stick Wafer Recheado pacote com 15 unidades de 25g",
-      "link": "https://www.amazon.com.br/dp/B0BGCCY3XN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/4198af2nb7L._SL400_.jpg",
-      "preco": 25.839999999999996,
-      "precoDe": 49.35,
-      "desconto": 35,
-      "cupom": "20% NA FINALIZAÇÃO DO PEDIDO",
-      "enviadoEm": "2026-09-09T12:08:28.003Z"
     }
   ]
 }
