@@ -1,9 +1,45 @@
 {
-  "atualizadoEm": "2026-09-10T19:30:06.594Z",
+  "atualizadoEm": "2026-09-10T19:53:41.980Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
     {
-      "id": "17071",
+      "id": "17089",
+      "loja": "Shopee",
+      "titulo": "Organizador de Geladeira Multiuso Plasutil Para Armario Dispensa Cozinha",
+      "link": "https://s.shopee.com.br/4qFXSD3chN",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkxr03l1t53609_tn",
+      "preco": 20.09,
+      "precoDe": 27.9,
+      "desconto": 10,
+      "cupom": "SHOPEE20AF",
+      "enviadoEm": "2026-09-10T19:49:11.764Z"
+    },
+    {
+      "id": "17080",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Cuecas Boxer Reebok Sem Costura Microfibra",
+      "link": "https://meli.la/2YBYN3B",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_609033-MLB111276616587_052026-O.webp",
+      "preco": 55.28999999999999,
+      "precoDe": 269.98,
+      "desconto": 71,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-10T19:45:43.130Z"
+    },
+    {
+      "id": "17077",
+      "loja": "Amazon",
+      "titulo": "Nathor Veloz Selim Pu, Nathor",
+      "link": "https://www.amazon.com.br/dp/B083KMLQCG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/418ep-2BoSL._SL400_.jpg",
+      "preco": 189.9,
+      "precoDe": 269.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T19:36:34.388Z"
+    },
+    {
+      "id": "17073",
       "loja": "Mercado Livre",
       "titulo": "Kit 6 Pares De Meia Infantil Algodão Lupo Sport Sortida",
       "link": "https://meli.la/2M6Pqap",
@@ -12,7 +48,19 @@
       "precoDe": 65.16,
       "desconto": 3,
       "cupom": "EXCLUSIVONOMELI",
-      "enviadoEm": "2026-09-10T19:27:50.305Z"
+      "enviadoEm": "2026-09-10T19:32:02.419Z"
+    },
+    {
+      "id": "17072",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Nike Uplift Sc Masculino",
+      "link": "https://meli.la/1hURhHP",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_929492-MLB98173813472_112025-O.webp",
+      "preco": 223.99,
+      "precoDe": 499.99,
+      "desconto": 36,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-10T19:30:49.056Z"
     },
     {
       "id": "17067",
@@ -1393,54 +1441,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-09-09T13:54:08.344Z"
-    },
-    {
-      "id": "16193",
-      "loja": "Mercado Livre",
-      "titulo": "Mochila Tática Militar Resistente Impermeável 30 Litros Bolsa Escola Faculdade Trabalho Super Reforçada Bandeira Brasil Brinde Preta Utilizzei",
-      "link": "https://meli.la/1YpfAqx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_913104-MLA109674576670_042026-F.jpg",
-      "preco": 61.589999999999996,
-      "precoDe": 121.99,
-      "desconto": 37,
-      "cupom": "MEUSDESCONTOS",
-      "enviadoEm": "2026-09-09T13:50:57.925Z"
-    },
-    {
-      "id": "16197",
-      "loja": "Shopee",
-      "titulo": "Conjunto Tal Mãe e Filha Baby Doll Preto Pijama Feminino Lua Cinza",
-      "link": "https://s.shopee.com.br/9zxbc0ocTH",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mso1k48pgqo716_tn",
-      "preco": null,
-      "precoDe": 65,
-      "desconto": 30,
-      "cupom": "LOVI0909",
-      "enviadoEm": "2026-09-09T13:48:03.539Z"
-    },
-    {
-      "id": "16190",
-      "loja": "Amazon",
-      "titulo": "Cetaphil Optimal Hydration Sérum Hidratante Facial 48h Com Ácido Hialurônico 30ml",
-      "link": "https://www.amazon.com.br/dp/B09S6NXN32?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Ht6780rOL._SL400_.jpg",
-      "preco": 87.59,
-      "precoDe": 119.9,
-      "desconto": 9,
-      "cupom": "CEPTAPHIL20",
-      "enviadoEm": "2026-09-09T13:41:10.128Z"
-    },
-    {
-      "id": "16180",
-      "loja": "Amazon",
-      "titulo": "Stanley - Copo de Café Térmico, Caneca de Viagem Café Go com Tampa de Duas Partes Para Beber e Alça de Transporte, Garrafa Térmica de Aço Inoxidável, 236 ml, Rose Quartz",
-      "link": "https://www.amazon.com.br/dp/B0F6148SYC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21--Un8jZ+L._SL400_.jpg",
-      "preco": 159.47,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COZINHA20",
-      "enviadoEm": "2026-09-09T13:35:04.721Z"
     }
   ]
 }
