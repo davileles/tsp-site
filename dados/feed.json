@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-10T14:37:26.959Z",
+  "atualizadoEm": "2026-09-10T15:00:15.900Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16882",
+      "loja": "Shopee",
+      "titulo": "HEROI Banco Dobrável Para Exercícios Em Casa, Multifuncional com Banco Pastor Removível + Até 150kg",
+      "link": "https://s.shopee.com.br/8plft0WevN",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgq65zdx3i84f2_tn",
+      "preco": 349.3,
+      "precoDe": 998,
+      "desconto": 50,
+      "cupom": "30% OFF FULL",
+      "enviadoEm": "2026-09-10T14:50:15.898Z"
+    },
     {
       "id": "16870",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 73,
       "cupom": null,
       "enviadoEm": "2026-09-08T22:55:53.977Z"
-    },
-    {
-      "id": "15969",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Com 2 Bebê Babador De Silicone Gumy Com Pega Migalhas",
-      "link": "https://meli.la/15cNjW2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_907563-MLB90667461123_082025-O.webp",
-      "preco": 26,
-      "precoDe": 38.89,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-08T22:28:01.594Z"
     }
   ]
 }
