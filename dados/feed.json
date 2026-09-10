@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-10T22:18:02.175Z",
+  "atualizadoEm": "2026-09-10T22:29:54.713Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17132",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/515Z7olnAoL._SL400_.jpg",
+      "preco": 100.99,
+      "precoDe": 109.9,
+      "desconto": 8,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T22:19:54.711Z"
+    },
+    {
+      "id": "17131",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/416kQ1MEMqL._SL400_.jpg",
+      "preco": 100.99,
+      "precoDe": 114.99,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T22:19:08.115Z"
+    },
     {
       "id": "17126",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 58,
       "cupom": "LOVI0909",
       "enviadoEm": "2026-09-09T15:03:03.621Z"
-    },
-    {
-      "id": "16215",
-      "loja": "Amazon",
-      "titulo": "Buba Kit Cuidados Baby Cinza Tamanho Único",
-      "link": "https://www.amazon.com.br/dp/B086JCX68G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31L0EY8bhBL._SL400_.jpg",
-      "preco": 27,
-      "precoDe": 47.9,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-09-09T14:59:32.118Z"
-    },
-    {
-      "id": "16216",
-      "loja": "Mercado Livre",
-      "titulo": "Vitamina B12 Metilcobalamina 414% 60caps Nutrify",
-      "link": "https://meli.la/2RRVEnd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745981-MLA100089582957_122025-F.jpg",
-      "preco": 24.06,
-      "precoDe": 42,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-09T14:58:28.325Z"
     }
   ]
 }
