@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-10T16:33:29.988Z",
+  "atualizadoEm": "2026-09-10T16:46:49.065Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "16941",
+      "loja": "Shopee",
+      "titulo": "JOGO DE CAMA Queen 500 Fios Percal Toque Algodão + 2 Fronhas 50x70 | Cobre Leito Luxo Sem Elástico",
+      "link": "https://s.shopee.com.br/W6Y4UCmLt",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mnmy209iybcya0_tn",
+      "preco": 32.57,
+      "precoDe": 72.15,
+      "desconto": 41,
+      "cupom": "T04LH4S10",
+      "enviadoEm": "2026-09-10T16:36:49.064Z"
+    },
     {
       "id": "16927",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 33,
       "cupom": "LOVI0909",
       "enviadoEm": "2026-09-09T11:57:56.538Z"
-    },
-    {
-      "id": "16086",
-      "loja": "Amazon",
-      "titulo": "OMO Lava-Roupas Líquido Ultra Power Frasco 1,8L",
-      "link": "https://www.amazon.com.br/dp/B0CBCRP3BS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416Ap+9jf6L._SL400_.jpg",
-      "preco": 23.9,
-      "precoDe": 32.99,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-09T11:55:00.671Z"
     }
   ]
 }
