@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-10T18:09:19.439Z",
+  "atualizadoEm": "2026-09-10T18:17:33.626Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17022",
+      "loja": "Amazon",
+      "titulo": "Copo Térmico Kids Unicórnio Inox 354ml Contigo Azul",
+      "link": "https://www.amazon.com.br/dp/B0979N4QGY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41FHRwkRAVL._SL400_.jpg",
+      "preco": 62.49,
+      "precoDe": 129.9,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T18:17:07.288Z"
+    },
+    {
+      "id": "17019",
+      "loja": "Amazon",
+      "titulo": "Wrap Sling Cinza Mescla",
+      "link": "https://www.amazon.com.br/dp/B07SSGJ8XW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41mzTuJKfiL._SL400_.jpg",
+      "preco": 32.19,
+      "precoDe": 54.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T18:15:26.831Z"
+    },
     {
       "id": "17006",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "QUEROOFF",
       "enviadoEm": "2026-09-09T12:25:42.863Z"
-    },
-    {
-      "id": "16106",
-      "loja": "Amazon",
-      "titulo": "Oster Moedor de Café Elétrico Inox, 150W, OMDR110, 127V",
-      "link": "https://www.amazon.com.br/dp/B0FLZPJYYR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41TVzY9quHL._SL400_.jpg",
-      "preco": 121.30999999999999,
-      "precoDe": 259.9,
-      "desconto": 42,
-      "cupom": "COZINHA20",
-      "enviadoEm": "2026-09-09T12:22:37.233Z"
-    },
-    {
-      "id": "16098",
-      "loja": "Mercado Livre",
-      "titulo": "Relógio Inteligente Gps Smartwatch Amoled 3atm Sport Gps Caixa Preto",
-      "link": "https://meli.la/15UEFTi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_984233-MLA105531058053_012026-F.jpg",
-      "preco": 231,
-      "precoDe": 599,
-      "desconto": 61,
-      "cupom": "QUEROOFF",
-      "enviadoEm": "2026-09-09T12:18:32.509Z"
     }
   ]
 }
