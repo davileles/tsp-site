@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-10T20:10:40.274Z",
+  "atualizadoEm": "2026-09-10T20:15:17.412Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17100",
+      "loja": "Shopee",
+      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
+      "link": "https://s.shopee.com.br/6VNlSo2pgM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
+      "preco": 71.2,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SHOPEE20AF",
+      "enviadoEm": "2026-09-10T20:11:35.145Z"
+    },
     {
       "id": "17094",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-09-09T14:00:35.306Z"
-    },
-    {
-      "id": "16201",
-      "loja": "Amazon",
-      "titulo": "Britânia Cupcake, Cupcake Maker 3, 7 Cupcakes, Preto, 220v, Classico Plastico e metal",
-      "link": "https://www.amazon.com.br/dp/B076HYFQJB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41yPpXvmKVL._SL400_.jpg",
-      "preco": 129.9,
-      "precoDe": 188.31,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-09T13:59:36.189Z"
     }
   ]
 }
