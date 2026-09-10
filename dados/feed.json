@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-10T18:17:33.626Z",
+  "atualizadoEm": "2026-09-10T18:46:33.658Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17030",
+      "loja": "Shopee",
+      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
+      "link": "https://s.shopee.com.br/7AdS918xWc",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
+      "preco": 59.989999999999995,
+      "precoDe": 199.97,
+      "desconto": 60,
+      "cupom": "SALE20AF",
+      "enviadoEm": "2026-09-10T18:37:56.619Z"
+    },
+    {
+      "id": "16964",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Olympikus Voa 3 Corrida Academia Esporte Original",
+      "link": "https://meli.la/1Nh7xCJ",
+      "imagem": null,
+      "preco": 229.99,
+      "precoDe": 379.99,
+      "desconto": 26,
+      "cupom": "EXCLUSIVONOMELI",
+      "enviadoEm": "2026-09-10T18:34:37.138Z"
+    },
+    {
+      "id": "16979",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto Moletom Masculino,incluir Casaco Com Capuz E Calças",
+      "link": "https://meli.la/1HJLrEU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_860235-MLB112830227486_072026-O.webp",
+      "preco": 59.2,
+      "precoDe": 198,
+      "desconto": 64,
+      "cupom": "EXCLUSIVONOMELI",
+      "enviadoEm": "2026-09-10T18:31:21.724Z"
+    },
+    {
+      "id": "16985",
+      "loja": "Amazon",
+      "titulo": "Patinete Infantil Dobrável 3 Rodas Led Luppy Maxi Toys (Rosa)",
+      "link": "https://www.amazon.com.br/dp/B0G44S7RN1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21DLmuiNDnL._SL400_.jpg",
+      "preco": 54.9,
+      "precoDe": 159.9,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T18:27:52.587Z"
+    },
+    {
+      "id": "16989",
+      "loja": "Mercado Livre",
+      "titulo": "TESTO ESSENCIAL - Fórmula Exclusiva com Feno Grego + Boro + Arginina + ZMA + Vitamina B6 - 60 cápsulas - Precursor da Testosterona",
+      "link": "https://meli.la/24ffcqN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_949131-MLA114764498645_072026-F.jpg",
+      "preco": 39.74,
+      "precoDe": 91.77,
+      "desconto": 38,
+      "cupom": "PECHINCHA",
+      "enviadoEm": "2026-09-10T18:25:53.783Z"
+    },
+    {
+      "id": "17002",
+      "loja": "Amazon",
+      "titulo": "A fantástica história de Deus para você: Você é parte da fantástica história de Deus",
+      "link": "https://www.amazon.com.br/dp/1680436309?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/517lc79uuWL._SL400_.jpg",
+      "preco": 18.46,
+      "precoDe": 29.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T18:22:55.379Z"
+    },
+    {
+      "id": "17004",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
+      "link": "https://meli.la/2qdpomP",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_897466-MLA114005600181_072026-F.jpg",
+      "preco": 1398.39,
+      "precoDe": 1999,
+      "desconto": 30,
+      "cupom": "SOLTAODESCONTO",
+      "enviadoEm": "2026-09-10T18:21:42.671Z"
+    },
+    {
+      "id": "17021",
+      "loja": "Amazon",
+      "titulo": "Brinquedo Musical Cante e Aprenda Bebês Fisher-Price. Ensina letras, formas, cores e números com músicas, luzes e alça. Ideal a partir dos 6 meses.",
+      "link": "https://www.amazon.com.br/dp/B07DD52QJH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41TOR4vqFdL._SL400_.jpg",
+      "preco": 85.9,
+      "precoDe": 183.6,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-09-10T18:18:18.866Z"
+    },
     {
       "id": "17022",
       "loja": "Amazon",
@@ -1345,102 +1441,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-09-09T12:58:47.342Z"
-    },
-    {
-      "id": "16135",
-      "loja": "Amazon",
-      "titulo": "Pack YoBem Bebida Proteica Café Expresso 15g de Proteínas Whey - 24 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0DDLZPDTS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Z1736US6L._SL400_.jpg",
-      "preco": 137.22000000000003,
-      "precoDe": 199.9,
-      "desconto": 14,
-      "cupom": "20% NA FINALIZAÇÃO DO PEDIDO",
-      "enviadoEm": "2026-09-09T12:54:33.048Z"
-    },
-    {
-      "id": "16130",
-      "loja": "Amazon",
-      "titulo": "Safety 1st, Cadeirinha Multifix, 0 a 36kg, com Isofix, Black Urban",
-      "link": "https://www.amazon.com.br/dp/B09BDZZV23?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41IPbZwb3ML._SL400_.jpg",
-      "preco": 849,
-      "precoDe": 1449,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-09-09T12:51:21.944Z"
-    },
-    {
-      "id": "16113",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Básica Tech Daily Insider",
-      "link": "https://meli.la/1vR8WYG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_715589-MLB94366230245_102025-O.webp",
-      "preco": 51.66,
-      "precoDe": 139,
-      "desconto": 54,
-      "cupom": "MEUSDESCONTOS",
-      "enviadoEm": "2026-09-09T12:44:58.603Z"
-    },
-    {
-      "id": "16114",
-      "loja": "Mercado Livre",
-      "titulo": "Carregador Power Bank sem fio Samsung | Potência de 45 W | 20.000 mAh | Cor bege | Carregamento super rápido 2.0",
-      "link": "https://meli.la/2gD4zyv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_639640-MLU77918948681_072024-F.jpg",
-      "preco": 215.43,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SITE0909",
-      "enviadoEm": "2026-09-09T12:41:48.699Z"
-    },
-    {
-      "id": "16116",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Lancôme: Perfume La Vie Est Belle Edp 30ml + Perfume Idôle Edp 25ml",
-      "link": "https://meli.la/2XXY2vP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676517-MLB100385805838_122025-O.webp",
-      "preco": 448.88,
-      "precoDe": 646.55,
-      "desconto": 18,
-      "cupom": "VOLTEMELI",
-      "enviadoEm": "2026-09-09T12:38:36.159Z"
-    },
-    {
-      "id": "16117",
-      "loja": "Mercado Livre",
-      "titulo": "Cooktop Fogão Itatiaia Essencial 5 Bocas Bivolt Preto",
-      "link": "https://meli.la/2NCMRy4",
-      "imagem": null,
-      "preco": 244.99,
-      "precoDe": 678.9,
-      "desconto": 59,
-      "cupom": "SITE0909",
-      "enviadoEm": "2026-09-09T12:35:08.628Z"
-    },
-    {
-      "id": "16115",
-      "loja": "Shopee",
-      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
-      "link": "https://s.shopee.com.br/8ple8AdTFu",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
-      "preco": 39.989999999999995,
-      "precoDe": 312.47,
-      "desconto": 68,
-      "cupom": "LOVI0909",
-      "enviadoEm": "2026-09-09T12:32:08.813Z"
-    },
-    {
-      "id": "16103",
-      "loja": "Mercado Livre",
-      "titulo": "Smartphone Motorola Moto G06 - 128gb 12gb (4gb Ram + 8gb Ram Boost), e Camera 50mp Com Ai Bateria De 5.2 Ah Tela 6.9",
-      "link": "https://meli.la/1s9V85p",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_689704-MLA96194618638_102025-F.jpg",
-      "preco": 628,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "QUEROOFF",
-      "enviadoEm": "2026-09-09T12:25:42.863Z"
     }
   ]
 }
