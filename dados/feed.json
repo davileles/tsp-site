@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-11T21:24:45.914Z",
+  "atualizadoEm": "2026-09-11T21:35:50.810Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17517",
+      "loja": "Mercado Livre",
+      "titulo": "Short Academia Feminino Poliamida Selene Zero Transparência",
+      "link": "https://meli.la/1MX5p96",
+      "imagem": null,
+      "preco": 48.99,
+      "precoDe": 78.99,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T21:25:50.806Z"
+    },
     {
       "id": "17514",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 30,
       "cupom": "SOLTAODESCONTO",
       "enviadoEm": "2026-09-10T18:21:42.671Z"
-    },
-    {
-      "id": "17021",
-      "loja": "Amazon",
-      "titulo": "Brinquedo Musical Cante e Aprenda Bebês Fisher-Price. Ensina letras, formas, cores e números com músicas, luzes e alça. Ideal a partir dos 6 meses.",
-      "link": "https://www.amazon.com.br/dp/B07DD52QJH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41TOR4vqFdL._SL400_.jpg",
-      "preco": 85.9,
-      "precoDe": 183.6,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-09-10T18:18:18.866Z"
     }
   ]
 }
