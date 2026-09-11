@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-11T18:54:45.507Z",
+  "atualizadoEm": "2026-09-11T19:16:52.009Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17444",
+      "loja": "Amazon",
+      "titulo": "Banana Boat Kids Sport Broad Spectrum Protetor Solar Stick com SPF 50",
+      "link": "https://www.amazon.com.br/dp/B077D3MXK9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41SValeC6GL._SL400_.jpg",
+      "preco": 78.26,
+      "precoDe": 159.84,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T19:06:52.008Z"
+    },
+    {
+      "id": "17437",
+      "loja": "Shopee",
+      "titulo": "Massageador Elétrico 6 em 1 Corporal Potente Ergonômico Multifuncional Terapia 10 Velocidades",
+      "link": "https://s.shopee.com.br/7AdTluglYJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mr6qsdj7sydi4b_tn",
+      "preco": 145.98,
+      "precoDe": 244.42,
+      "desconto": 28,
+      "cupom": "SALE30AF",
+      "enviadoEm": "2026-09-11T18:58:47.932Z"
+    },
     {
       "id": "17433",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-09-10T15:59:53.710Z"
-    },
-    {
-      "id": "16904",
-      "loja": "Mercado Livre",
-      "titulo": "Forno Elétrico Hamilton Beach de 20L Com Air Fryer e Grill Preto",
-      "link": "https://meli.la/27SVDon",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_730503-MLA99934029073_112025-F.jpg",
-      "preco": 359.90999999999997,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "ECONOMIZO",
-      "enviadoEm": "2026-09-10T15:56:42.996Z"
-    },
-    {
-      "id": "16908",
-      "loja": "Shopee",
-      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
-      "link": "https://s.shopee.com.br/9zxdKirKzr",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
-      "preco": 49,
-      "precoDe": 158,
-      "desconto": 50,
-      "cupom": "R$30 OFF",
-      "enviadoEm": "2026-09-10T15:43:44.942Z"
     }
   ]
 }
