@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-10T22:29:54.713Z",
+  "atualizadoEm": "2026-09-11T11:18:55.371Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17158",
+      "loja": "Amazon",
+      "titulo": "Hidratante Mustela Stelatopia+ Relipidante Antiprurido, 300ml, para Peles Secas e Atópicas, Sem Fragrância, Uso Familiar",
+      "link": "https://www.amazon.com.br/dp/B0BZBPXLBG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31OTkDRaOxL._SL400_.jpg",
+      "preco": 168.99,
+      "precoDe": 239.64,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T11:08:55.370Z"
+    },
+    {
+      "id": "17153",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
+      "link": "https://s.shopee.com.br/4LJHs2QwFu",
+      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
+      "preco": 52.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T11:03:26.718Z"
+    },
     {
       "id": "17132",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "LOVI0909",
       "enviadoEm": "2026-09-09T15:50:49.550Z"
-    },
-    {
-      "id": "16288",
-      "loja": "Shopee",
-      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
-      "link": "https://s.shopee.com.br/9peBWObskF",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
-      "preco": 19,
-      "precoDe": 158,
-      "desconto": 50,
-      "cupom": "LOVI0909",
-      "enviadoEm": "2026-09-09T15:27:37.737Z"
-    },
-    {
-      "id": "16249",
-      "loja": "Shopee",
-      "titulo": "Envio Imediato - Creatina Dux n Monohidratada 300g - 100% ORIGINAL",
-      "link": "https://s.shopee.com.br/5VVCKSSj7m",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mikc8avmgfer12_tn",
-      "preco": 22,
-      "precoDe": 195.24,
-      "desconto": 58,
-      "cupom": "LOVI0909",
-      "enviadoEm": "2026-09-09T15:03:03.621Z"
     }
   ]
 }
