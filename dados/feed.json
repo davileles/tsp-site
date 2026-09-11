@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-11T12:28:40.920Z",
+  "atualizadoEm": "2026-09-11T12:31:28.075Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17194",
+      "loja": "Mercado Livre",
+      "titulo": "WAP Air Heat FW009371 Aquecedor Elétrico Portátil 3 em 1 220V Potência 2000W Triplo Sistema Segurança",
+      "link": "https://meli.la/2vpPVsv",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_891709-MLA115068451649_072026-F.jpg",
+      "preco": 67.68,
+      "precoDe": 228.43,
+      "desconto": 65,
+      "cupom": "DESCONTASSO",
+      "enviadoEm": "2026-09-11T12:30:04.812Z"
+    },
     {
       "id": "17190",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 41,
       "cupom": "DESCONTAO",
       "enviadoEm": "2026-09-09T16:16:04.007Z"
-    },
-    {
-      "id": "16267",
-      "loja": "Mercado Livre",
-      "titulo": "Cama Elástica Pula Pula Infantil Trampolim 1,4 Metros Atentu",
-      "link": "https://meli.la/1yBicq7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_917104-MLA96155675715_102025-F.jpg",
-      "preco": 190,
-      "precoDe": 659,
-      "desconto": 71,
-      "cupom": "DESCONTAO",
-      "enviadoEm": "2026-09-09T16:12:56.134Z"
     }
   ]
 }
