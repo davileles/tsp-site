@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-11T17:50:37.737Z",
+  "atualizadoEm": "2026-09-11T17:54:45.279Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17387",
+      "loja": "Amazon",
+      "titulo": "Toyster - Jogo Educativo: Países e suas Bandeiras, 6+ Anos",
+      "link": "https://www.amazon.com.br/dp/B0BKLS67XG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51IDlqu6GZL._SL400_.jpg",
+      "preco": 37.99,
+      "precoDe": 54.9,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T17:52:01.559Z"
+    },
+    {
+      "id": "17386",
+      "loja": "Shopee",
+      "titulo": "Lorenzetti Aquecedor de Agua Versátil 3 Temperaturas Branco 127",
+      "link": "https://s.shopee.com.br/6L4MhjCkoO",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdys-mbptsew8hqq572_tn",
+      "preco": 359.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SALE30AF",
+      "enviadoEm": "2026-09-11T17:51:07.057Z"
+    },
     {
       "id": "17376",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 47,
       "cupom": "R$30 OFF",
       "enviadoEm": "2026-09-10T11:26:04.747Z"
-    },
-    {
-      "id": "16708",
-      "loja": "Amazon",
-      "titulo": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
-      "link": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lVmXe4CVL._SL400_.jpg",
-      "preco": 43,
-      "precoDe": 59.99,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-10T11:16:25.559Z"
-    },
-    {
-      "id": "16711",
-      "loja": "Shopee",
-      "titulo": "80x30cm Mouse Pad Gamer Mapa Razer Camuflado Grande",
-      "link": "https://s.shopee.com.br/Ln7WbYahW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lhheh4bnl2dqff_tn",
-      "preco": 19.9,
-      "precoDe": 58.53,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-09-10T11:15:33.019Z"
     }
   ]
 }
