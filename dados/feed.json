@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-11T13:13:26.454Z",
+  "atualizadoEm": "2026-09-11T13:26:21.529Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17221",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 9 Pares Meias Puma Sapatilha Cano Baixo Algodão Original",
+      "link": "https://meli.la/342gNcB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_845132-MLB92894166069_092025-O.webp",
+      "preco": 56.77,
+      "precoDe": 109.9,
+      "desconto": 37,
+      "cupom": "EXCLUSIVONOMELI",
+      "enviadoEm": "2026-09-11T13:16:21.528Z"
+    },
     {
       "id": "17217",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "LOVI0909",
       "enviadoEm": "2026-09-09T16:52:46.985Z"
-    },
-    {
-      "id": "16338",
-      "loja": "Amazon",
-      "titulo": "Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 512GB SSD, KeepOS, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
-      "link": "https://www.amazon.com.br/dp/B0CYW2N6TX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41QUmh0GRvL._SL400_.jpg",
-      "preco": 2899,
-      "precoDe": 4299,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-09T16:33:54.052Z"
     }
   ]
 }
