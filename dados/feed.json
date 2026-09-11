@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-11T14:40:12.647Z",
+  "atualizadoEm": "2026-09-11T15:21:44.615Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17291",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
+      "link": "https://s.shopee.com.br/2LYDm4iBl4",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
+      "preco": 49.32,
+      "precoDe": 72.43,
+      "desconto": 25,
+      "cupom": "S3XT0U50FF",
+      "enviadoEm": "2026-09-11T15:20:48.679Z"
+    },
+    {
+      "id": "17290",
+      "loja": "Amazon",
+      "titulo": "Notebook Gamer Acer Nitro V15 ANV15-41-R6J0 AMD Ryzen™ 7 7735HS 8GB RAM 512GB SSD RTX 4050 Linux 15.6”",
+      "link": "https://www.amazon.com.br/dp/B0894J8SLQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ExWpqXYiL._SL400_.jpg",
+      "preco": 5299,
+      "precoDe": 5599,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T15:17:13.460Z"
+    },
+    {
+      "id": "17286",
+      "loja": "Mercado Livre",
+      "titulo": "Notebook Positivo Vision R15M AMD Ryzen 3-7330U Linux 8GB RAM 256GB SSD Wi-Fi 6 Tela 15” Full HD IPS Antirreflexo - Minitela - Permite upgrade de memória RAM e SSD - Preto",
+      "link": "https://meli.la/2NPjCHp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_609933-MLA109236762422_042026-F.jpg",
+      "preco": 2499,
+      "precoDe": 4299,
+      "desconto": 37,
+      "cupom": "SUPERDESCONTOS",
+      "enviadoEm": "2026-09-11T15:10:38.544Z"
+    },
+    {
+      "id": "17284",
+      "loja": "Mercado Livre",
+      "titulo": "Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI/Libras 1400W 300L/h com Aplicador de Detergente e Lança Regulável 220v",
+      "link": "https://meli.la/1d2cMZj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_681126-MLA115545993062_082026-F.jpg",
+      "preco": 260,
+      "precoDe": 399,
+      "desconto": 19,
+      "cupom": "MELIOFF",
+      "enviadoEm": "2026-09-11T15:03:57.819Z"
+    },
+    {
+      "id": "17281",
+      "loja": "Mercado Livre",
+      "titulo": "Pelucia Bluey 33 Cm Infantil Brinquedo Presente Criança",
+      "link": "https://meli.la/1bQpXDa",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_769701-MLA99606446838_122025-F.jpg",
+      "preco": 45.65,
+      "precoDe": 71.64,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T14:59:07.352Z"
+    },
+    {
+      "id": "17279",
+      "loja": "Shopee",
+      "titulo": "KIT 2 Camisa Gola Polo Alta Qualidade 100% Algodão Camiseta Básica Masculina  Diversas Cores",
+      "link": "https://s.shopee.com.br/9AOXt3MZ07",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zty-mkjyqctdl34035_tn",
+      "preco": 49.8,
+      "precoDe": 99.67,
+      "desconto": 40,
+      "cupom": "P0S99N4SH0",
+      "enviadoEm": "2026-09-11T14:58:20.231Z"
+    },
     {
       "id": "17277",
       "loja": "Shopee",
@@ -1369,78 +1441,6 @@
       "desconto": null,
       "cupom": "25MODAPRIME",
       "enviadoEm": "2026-09-09T18:21:21.551Z"
-    },
-    {
-      "id": "16446",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário para Cozinha Multiuso Taças Pratos Prateleiras Aramado Aço Dicarlo 5 Peças",
-      "link": "https://s.shopee.com.br/40gOl8anRO",
-      "imagem": "https://cf.shopee.com.br/file/0913c6b2091f5d1f1b53d3b9e5624b4e_tn",
-      "preco": 53.5,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "LOVI0909",
-      "enviadoEm": "2026-09-09T18:12:18.893Z"
-    },
-    {
-      "id": "16430",
-      "loja": "Amazon",
-      "titulo": "Carrinho de Bebê Safety 1st, Tracer, 0 a 22kg, Taupe Royal",
-      "link": "https://www.amazon.com.br/dp/B0H7YY44ST?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41cOpmaYxNL._SL400_.jpg",
-      "preco": 1099,
-      "precoDe": 1779,
-      "desconto": 16,
-      "cupom": "400 REAIS OFF NA FINALIZAÇÃO DO PEDIDO",
-      "enviadoEm": "2026-09-09T18:01:53.142Z"
-    },
-    {
-      "id": "16418",
-      "loja": "Mercado Livre",
-      "titulo": "Panela de Pressão Elétrica Digital 5L, Mondial, 900W - PE-38",
-      "link": "https://meli.la/1UUYMqb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_631493-MLA99943855595_112025-F.jpg",
-      "preco": 299.25,
-      "precoDe": 508.92,
-      "desconto": 22,
-      "cupom": "MELHORNOML",
-      "enviadoEm": "2026-09-09T17:56:23.418Z"
-    },
-    {
-      "id": "16421",
-      "loja": "Mercado Livre",
-      "titulo": "Grill Essencial Itatiaia 1000w Inox Antiaderente Grelha Chapa Elétrica Econômico Com 3 Aberturas Cor Preto",
-      "link": "https://meli.la/2HT7huX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_700517-MLA96149848599_102025-F.jpg",
-      "preco": 74.92,
-      "precoDe": 139.93,
-      "desconto": 29,
-      "cupom": "CORREQUEACABA",
-      "enviadoEm": "2026-09-09T17:53:18.609Z"
-    },
-    {
-      "id": "16420",
-      "loja": "Shopee",
-      "titulo": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
-      "link": "https://s.shopee.com.br/Ln6MIxGpG",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mq3nf4vg8k5f75_tn",
-      "preco": null,
-      "precoDe": 55.57,
-      "desconto": 30,
-      "cupom": "LOVI0909",
-      "enviadoEm": "2026-09-09T17:49:55.809Z"
-    },
-    {
-      "id": "16352",
-      "loja": "Shopee",
-      "titulo": "Odorizador de Ambiente Glade Automatic + 2 Refis Lavanda e Vanilla 260ml",
-      "link": "https://s.shopee.com.br/1qbu4BqMNE",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rava-max0qx327fxf44_tn",
-      "preco": 65.38,
-      "precoDe": 123.83,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-09-09T17:46:53.456Z"
     }
   ]
 }
