@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-11T16:51:44.616Z",
+  "atualizadoEm": "2026-09-11T17:21:44.621Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17363",
+      "loja": "Amazon",
+      "titulo": "Play-Doh, Massinha de Modelar Infantil, Minibalde de Biscoitos - Conjunto com 2 Potes e Acessórios - A partir de 3 Anos",
+      "link": "https://www.amazon.com.br/dp/B0FJ32K6QF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/315mYakFBiL._SL400_.jpg",
+      "preco": 40.99,
+      "precoDe": 49.83,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T17:12:27.547Z"
+    },
+    {
+      "id": "17362",
+      "loja": "Amazon",
+      "titulo": "MONDIAL Ventilador de mesa 30cm, 110V, Branco/Azul - V-30-6P",
+      "link": "https://www.amazon.com.br/dp/B08LBQWQV4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41S-TyLxgxL._SL400_.jpg",
+      "preco": 89,
+      "precoDe": 117.7,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T17:11:23.455Z"
+    },
+    {
+      "id": "17354",
+      "loja": "Shopee",
+      "titulo": "Lente de Contato Uso Diário Clariti - Coopervision + Estojo De Lentes",
+      "link": "https://s.shopee.com.br/3qN1fb4w5e",
+      "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-lui6b2ll3hph86_tn",
+      "preco": 116.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SALE30AF",
+      "enviadoEm": "2026-09-11T17:08:07.194Z"
+    },
+    {
+      "id": "17353",
+      "loja": "Amazon",
+      "titulo": "Patrulha Canina - Boneco de 6cm e Veículo - Everest",
+      "link": "https://www.amazon.com.br/dp/B099QTC4SF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/319FT-LYD-L._SL400_.jpg",
+      "preco": 71.9,
+      "precoDe": 146.63,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T17:04:55.790Z"
+    },
+    {
+      "id": "17351",
+      "loja": "Amazon",
+      "titulo": "Cadeira Gamer Xtreme Supra Preta e Vermelha (NA)",
+      "link": "https://www.amazon.com.br/dp/B0876BCRJ3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41IvfeI6VXL._SL400_.jpg",
+      "preco": 468.97,
+      "precoDe": 599,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T17:03:49.979Z"
+    },
+    {
+      "id": "17349",
+      "loja": "Shopee",
+      "titulo": "Notebook VAIO FE16 AMD® Ryzen 5-5625U Linux 8GB RAM 256GB SSD 16\" IPS WUXGA Antirreflexo - Cinza",
+      "link": "https://s.shopee.com.br/9peEnuZkEq",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mddnfm1jsj5t93_tn",
+      "preco": 3285.87,
+      "precoDe": 4501.19,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T17:00:35.114Z"
+    },
+    {
+      "id": "17344",
+      "loja": "Amazon",
+      "titulo": "Samsung Combo Galaxy A57 5G (128GB) - Cinza + Galaxy Watch8 BT 40mm - Grafite",
+      "link": "https://www.amazon.com.br/dp/B0H34YS1ZZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31eepa6pqXL._SL400_.jpg",
+      "preco": 1998.99,
+      "precoDe": 2399,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T16:57:03.336Z"
+    },
     {
       "id": "17340",
       "loja": "Mercado Livre",
@@ -1357,90 +1441,6 @@
       "desconto": 60,
       "cupom": "R$30 OFF",
       "enviadoEm": "2026-09-09T22:27:37.873Z"
-    },
-    {
-      "id": "16650",
-      "loja": "Shopee",
-      "titulo": "Sutiã Santa Passion Tomara que Caia com Bojo e Aro Liso de Alta Sustentação Push Up Confortável",
-      "link": "https://s.shopee.com.br/6Aktb3Tkm6",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-822z4-mi3ba3rgqmfbee_tn",
-      "preco": 26.259999999999998,
-      "precoDe": 100.46,
-      "desconto": 44,
-      "cupom": "R$30 OFF",
-      "enviadoEm": "2026-09-09T22:05:07.486Z"
-    },
-    {
-      "id": "16645",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Refletor Super Led 400w Ip67 Holofote Bivolt Prova D'água Branco Frio 6500k Preto",
-      "link": "https://meli.la/13hV5fe",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753073-MLA110946060098_052026-F.jpg",
-      "preco": 43.77,
-      "precoDe": 99.98,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-09-09T22:02:09.360Z"
-    },
-    {
-      "id": "16635",
-      "loja": "Shopee",
-      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
-      "link": "https://s.shopee.com.br/2BEko9qp9r",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
-      "preco": null,
-      "precoDe": 19.99,
-      "desconto": 25,
-      "cupom": "R$30 OFF",
-      "enviadoEm": "2026-09-09T21:42:00.373Z"
-    },
-    {
-      "id": "16630",
-      "loja": "Mercado Livre",
-      "titulo": "Principia Kit Protetor Solar Facial Ps-01 Fps60",
-      "link": "https://meli.la/217ux4C",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_986471-MLA99264193954_112025-F.jpg",
-      "preco": 51.03,
-      "precoDe": 99.9,
-      "desconto": 27,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-09T21:38:15.926Z"
-    },
-    {
-      "id": "16620",
-      "loja": "Shopee",
-      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
-      "link": "https://s.shopee.com.br/gPwzr97ai",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
-      "preco": 2.289999999999999,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "R$30 OFF",
-      "enviadoEm": "2026-09-09T21:19:23.352Z"
-    },
-    {
-      "id": "16594",
-      "loja": "Shopee",
-      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
-      "link": "https://s.shopee.com.br/7KwquYw3Oq",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
-      "preco": 29,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "LOVI0909",
-      "enviadoEm": "2026-09-09T20:56:59.237Z"
-    },
-    {
-      "id": "16579",
-      "loja": "Shopee",
-      "titulo": "Organizador de Geladeira Multiuso Plasutil Para Armario Dispensa Cozinha",
-      "link": "https://s.shopee.com.br/80CXgF5tfM",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkxr03l1t53609_tn",
-      "preco": null,
-      "precoDe": 27.9,
-      "desconto": 10,
-      "cupom": "LOVI0909",
-      "enviadoEm": "2026-09-09T20:34:31.763Z"
     }
   ]
 }
