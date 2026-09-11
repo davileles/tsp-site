@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-11T21:35:50.810Z",
+  "atualizadoEm": "2026-09-11T21:48:11.624Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17519",
+      "loja": "Shopee",
+      "titulo": "Tarraxa Mágica de Sustentação p/ Sutiã Orelha Rasgada Banhado a Ouro 18k Acessório Anti Alérgico",
+      "link": "https://s.shopee.com.br/5AsPZBvkZY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcc7rjg9zdgrb2_tn",
+      "preco": 12.89,
+      "precoDe": 15.91,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T21:38:11.622Z"
+    },
     {
       "id": "17517",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-09-10T18:22:55.379Z"
-    },
-    {
-      "id": "17004",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
-      "link": "https://meli.la/2qdpomP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_897466-MLA114005600181_072026-F.jpg",
-      "preco": 1398.39,
-      "precoDe": 1999,
-      "desconto": 30,
-      "cupom": "SOLTAODESCONTO",
-      "enviadoEm": "2026-09-10T18:21:42.671Z"
     }
   ]
 }
