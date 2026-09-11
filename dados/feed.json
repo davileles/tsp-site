@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-11T13:57:23.114Z",
+  "atualizadoEm": "2026-09-11T14:21:58.640Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17275",
+      "loja": "Shopee",
+      "titulo": "JAQUETA DE COURO MASCULINA COM CAPUZ REMOVIVEL FORRADA E PELUCIDA POR DENTRO INVERNO/FRIO",
+      "link": "https://s.shopee.com.br/9Khy2D8Eid",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmtaw18rywhs2d_tn",
+      "preco": 154,
+      "precoDe": 230,
+      "desconto": 20,
+      "cupom": "SALE30AF",
+      "enviadoEm": "2026-09-11T14:11:58.636Z"
+    },
+    {
+      "id": "17274",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira de Descanso e Balanço Bebê Elétrica Snug - Maxi Baby",
+      "link": "https://meli.la/22M7kTR",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_904717-MLA99983919075_112025-F.jpg",
+      "preco": 483,
+      "precoDe": 799,
+      "desconto": 36,
+      "cupom": "COMPRITTASALLSITE",
+      "enviadoEm": "2026-09-11T14:08:23.342Z"
+    },
+    {
+      "id": "17273",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Fila Vector Masculino Confortável Estilo Esportivo",
+      "link": "https://meli.la/2D134i4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_890716-MLB108412872577_032026-O.webp",
+      "preco": 144.24,
+      "precoDe": 299.99,
+      "desconto": 41,
+      "cupom": "EXCLUSIVONOMELI",
+      "enviadoEm": "2026-09-11T14:05:06.073Z"
+    },
     {
       "id": "17239",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": "OFFMELI",
       "enviadoEm": "2026-09-09T17:43:40.190Z"
-    },
-    {
-      "id": "16414",
-      "loja": "Mercado Livre",
-      "titulo": "iPhone 17 Pro Max 256GB - Azul-profundo - Distribuidor Autorizado",
-      "link": "https://meli.la/1SfytwM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_880782-MLA95236583537_102025-F.jpg",
-      "preco": 8953,
-      "precoDe": 12499,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-09T17:42:40.110Z"
-    },
-    {
-      "id": "16413",
-      "loja": "Amazon",
-      "titulo": "Carrinho de Bebê Maxi-Cosi, Eva³, Essential Black",
-      "link": "https://www.amazon.com.br/dp/B0DB8VPR8H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Hrvhe3mwL._SL400_.jpg",
-      "preco": 1668.42,
-      "precoDe": 2299,
-      "desconto": 10,
-      "cupom": "400 REAIS OFF NA FINALIZAÇÃO DO PEDIDO",
-      "enviadoEm": "2026-09-09T17:39:20.468Z"
-    },
-    {
-      "id": "16408",
-      "loja": "Mercado Livre",
-      "titulo": "Espelho 100x50 Orgânico Corpo Inteiro Grande Moldura Caramelo",
-      "link": "https://meli.la/1JqikxM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_936790-MLA96100703939_102025-F.jpg",
-      "preco": 82.49,
-      "precoDe": 399.99,
-      "desconto": 73,
-      "cupom": "CORREQUEACABA",
-      "enviadoEm": "2026-09-09T17:36:06.788Z"
     }
   ]
 }
