@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-11T19:24:45.852Z",
+  "atualizadoEm": "2026-09-11T19:34:59.315Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17463",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Light T-shirt Insider Masculino",
+      "link": "https://meli.la/2nKY1UA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_779849-MLB89746747076_082025-O.webp",
+      "preco": 29.31,
+      "precoDe": 189,
+      "desconto": 69,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-11T19:24:59.314Z"
+    },
     {
       "id": "17460",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "R$30 OFF",
       "enviadoEm": "2026-09-10T16:06:28.040Z"
-    },
-    {
-      "id": "16902",
-      "loja": "Amazon",
-      "titulo": "ISDIN Protetor Solar Facial Fusion Water 5 Stars FPS 60-30ml",
-      "link": "https://www.amazon.com.br/dp/B09SMBB1KN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31iJlNztleL._SL400_.jpg",
-      "preco": 57.63,
-      "precoDe": 69.9,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-09-10T15:59:53.710Z"
     }
   ]
 }
