@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-11T15:21:44.615Z",
+  "atualizadoEm": "2026-09-11T15:36:11.322Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17294",
+      "loja": "Mercado Livre",
+      "titulo": "Vestido Formatura Natal Ano Novo Festa Infantil Luxo E Tiara",
+      "link": "https://meli.la/1tvFSfy",
+      "imagem": null,
+      "preco": 100,
+      "precoDe": 130.51,
+      "desconto": 7,
+      "cupom": "EXCLUSIVONOMELI",
+      "enviadoEm": "2026-09-11T15:26:11.321Z"
+    },
     {
       "id": "17291",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "400 REAIS OFF NA FINALIZAÇÃO DO PEDIDO",
       "enviadoEm": "2026-09-09T18:24:25.451Z"
-    },
-    {
-      "id": "16452",
-      "loja": "Amazon",
-      "titulo": "Calca Masculina New Balance Jogging, Preto, M",
-      "link": "https://www.amazon.com.br/dp/B0H6PHM75M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31IyGR-rAOL._SL400_.jpg",
-      "preco": 142.09,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "25MODAPRIME",
-      "enviadoEm": "2026-09-09T18:21:21.551Z"
     }
   ]
 }
