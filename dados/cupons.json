@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-11T17:50:38.915Z",
+  "atualizadoEm": "2026-09-11T18:02:01.825Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -603,18 +603,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "15FOREVER",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-11T18:01:50.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "GARIMPEI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1215,6 +1203,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CASACOMPRITTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupom válido para categoria Eletros e Casa, em itens selecionados",
+      "validadeAte": "2026-09-12T18:01:24.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MANTECORP14",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1239,18 +1239,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ENTREGASFULL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 39,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-09-11T17:59:59.627Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "APROVEITANOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1272,18 +1260,6 @@
       "limite": 300,
       "observacao": "Múltiplos cupons Mercado Livre com categorias específicas e limites de desconto variados",
       "validadeAte": "2026-09-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FULLCOMPRAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 39,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Válido para entregas Full. Desconto de 10% em selecionados com compra acima de R$ 39, limitado a R$ 20 de desconto.",
-      "validadeAte": "2026-09-11T18:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
