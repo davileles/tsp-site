@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-11T15:51:44.615Z",
+  "atualizadoEm": "2026-09-11T16:21:22.684Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17311",
+      "loja": "Shopee",
+      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
+      "link": "https://s.shopee.com.br/20vLuiPoUO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
+      "preco": 49.32,
+      "precoDe": 66.24,
+      "desconto": 18,
+      "cupom": "S3XT0U50FF",
+      "enviadoEm": "2026-09-11T16:11:22.682Z"
+    },
+    {
+      "id": "17310",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Potes Herméticos Vidro 370ml Starhouse Marmita Forno Micro-ondas Airfryer com 4 travas de super vedação",
+      "link": "https://meli.la/1pw6tpV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_801828-MLA115739959462_092026-F.jpg",
+      "preco": 43.93,
+      "precoDe": 159.99,
+      "desconto": 61,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-11T16:07:37.134Z"
+    },
+    {
+      "id": "17309",
+      "loja": "Mercado Livre",
+      "titulo": "COMPLEXO B - 60 Cápsulas Softgel - Fórmula com Máxima Concentração e Biodisponibilidade",
+      "link": "https://meli.la/2X9DTSo",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_712426-MLA114761517915_072026-F.jpg",
+      "preco": 29.940000000000005,
+      "precoDe": 84.77,
+      "desconto": 50,
+      "cupom": "PECHINCHA",
+      "enviadoEm": "2026-09-11T16:04:15.438Z"
+    },
+    {
+      "id": "17308",
+      "loja": "Amazon",
+      "titulo": "MONDIAL, Liquidificador Turbo Branco/Inox 1100W, 110V - L-1100-WI",
+      "link": "https://www.amazon.com.br/dp/B08PN826VS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41J8tDPyspL._SL400_.jpg",
+      "preco": 112,
+      "precoDe": 229.9,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T16:00:52.781Z"
+    },
+    {
+      "id": "17307",
+      "loja": "Mercado Livre",
+      "titulo": "Tinta Acrílico Parede Qualyvinil Sua Cor!! Acabamento Fosco Cor Açaí",
+      "link": "https://meli.la/16MQWRG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_792502-MLA112547991346_062026-F.jpg",
+      "preco": 105.46,
+      "precoDe": 214.14,
+      "desconto": 38,
+      "cupom": "MELIOFF",
+      "enviadoEm": "2026-09-11T15:57:50.129Z"
+    },
+    {
+      "id": "17301",
+      "loja": "Amazon",
+      "titulo": "Vonder, Óculos De Segurança Boxer Verde.",
+      "link": "https://www.amazon.com.br/dp/B08K9BMLWB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JQMe+HuSL._SL400_.jpg",
+      "preco": 9.9,
+      "precoDe": 12.11,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T15:54:47.822Z"
+    },
     {
       "id": "17300",
       "loja": "Mercado Livre",
@@ -843,18 +915,6 @@
       "enviadoEm": "2026-09-10T17:43:01.823Z"
     },
     {
-      "id": "16988",
-      "loja": "Shopee",
-      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
-      "link": "https://s.shopee.com.br/20vLuiPoUO",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
-      "preco": 39.32,
-      "precoDe": 66.24,
-      "desconto": 18,
-      "cupom": "CUPOM15AF",
-      "enviadoEm": "2026-09-10T17:19:57.438Z"
-    },
-    {
       "id": "16941",
       "loja": "Shopee",
       "titulo": "JOGO DE CAMA Queen 500 Fios Percal Toque Algodão + 2 Fronhas 50x70 | Cobre Leito Luxo Sem Elástico",
@@ -1381,66 +1441,6 @@
       "desconto": 17,
       "cupom": null,
       "enviadoEm": "2026-09-09T19:41:57.373Z"
-    },
-    {
-      "id": "16531",
-      "loja": "Mercado Livre",
-      "titulo": "Supercoffee Doce De Leite - Economic Size (380g) - Caffeine Army",
-      "link": "https://meli.la/2UeVm4j",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_831746-MLA113890063188_072026-F.jpg",
-      "preco": 135.73000000000002,
-      "precoDe": 199.9,
-      "desconto": 3,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-09T19:38:48.325Z"
-    },
-    {
-      "id": "16530",
-      "loja": "Amazon",
-      "titulo": "Kit 2 Camisetas Hering Básicas Femininas, 1 Branca e 1 Preta, Tamanho G",
-      "link": "https://www.amazon.com.br/dp/B09KY8KN2Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21zy+JyIZbL._SL400_.jpg",
-      "preco": 45.480000000000004,
-      "precoDe": 99.99,
-      "desconto": 39,
-      "cupom": "25MODAPRIME",
-      "enviadoEm": "2026-09-09T19:30:10.893Z"
-    },
-    {
-      "id": "16523",
-      "loja": "Shopee",
-      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
-      "link": "https://s.shopee.com.br/2BEkeSRULN",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
-      "preco": null,
-      "precoDe": 21.42,
-      "desconto": 16,
-      "cupom": "LOVI0909",
-      "enviadoEm": "2026-09-09T19:20:47.363Z"
-    },
-    {
-      "id": "16507",
-      "loja": "Amazon",
-      "titulo": "Daily T-shirt Masculino Grape M",
-      "link": "https://www.amazon.com.br/dp/B0DZ3MTN3N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vcDOng6+L._SL400_.jpg",
-      "preco": 51.75,
-      "precoDe": 139,
-      "desconto": 50,
-      "cupom": "25MODAPRIME",
-      "enviadoEm": "2026-09-09T19:07:25.553Z"
-    },
-    {
-      "id": "16493",
-      "loja": "Shopee",
-      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
-      "link": "https://s.shopee.com.br/4VcfPBMahl",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
-      "preco": 137.9,
-      "precoDe": 599.7,
-      "desconto": 67,
-      "cupom": "LOVI0909",
-      "enviadoEm": "2026-09-09T18:58:09.317Z"
     }
   ]
 }
