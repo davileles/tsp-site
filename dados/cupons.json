@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-11T19:35:00.558Z",
+  "atualizadoEm": "2026-09-11T20:00:12.628Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1356,42 +1356,6 @@
       "limite": null,
       "observacao": "Válido em Farmácia e Mercado",
       "validadeAte": "2026-09-12T18:56:54.000Z",
-      "url": null
-    },
-    {
-      "codigo": "BRINDEOFF",
-      "loja": "Outro: iFood",
-      "tipo": "pct",
-      "valor": 0,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Códigos de cupom fornecidos, mas sem informação de percentual/valor de desconto ou condições de uso (mínimo, máximo, limite)",
-      "validadeAte": "2026-09-11T20:00:06.000Z",
-      "url": null
-    },
-    {
-      "codigo": "MIMUAUAU",
-      "loja": "Outro: iFood",
-      "tipo": "pct",
-      "valor": 0,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Códigos de cupom fornecidos, mas sem informação de percentual/valor de desconto ou condições de uso (mínimo, máximo, limite)",
-      "validadeAte": "2026-09-11T20:00:06.000Z",
-      "url": null
-    },
-    {
-      "codigo": "PRESENTE",
-      "loja": "Outro: iFood",
-      "tipo": "pct",
-      "valor": 0,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Códigos de cupom fornecidos, mas sem informação de percentual/valor de desconto ou condições de uso (mínimo, máximo, limite)",
-      "validadeAte": "2026-09-11T20:00:06.000Z",
       "url": null
     },
     {
