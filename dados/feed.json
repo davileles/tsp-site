@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-11T11:31:28.075Z",
+  "atualizadoEm": "2026-09-11T12:01:28.076Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17177",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 7 Bermudas Tactel Infantil E Juvenil Promoção ",
+      "link": "https://meli.la/1UVFK4B",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685884-MLB98398301459_112025-O.webp",
+      "preco": 84.74000000000001,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "EXCLUSIVONOMELI",
+      "enviadoEm": "2026-09-11T11:56:57.533Z"
+    },
+    {
+      "id": "17175",
+      "loja": "Shopee",
+      "titulo": "Carrinho De Passeio Infantil Quadriciclo Lady Star Maral Cor Rosa",
+      "link": "https://s.shopee.com.br/7AdTIMhe3i",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rep4-m8wfeh8k5b2x22_tn",
+      "preco": 370,
+      "precoDe": 586.67,
+      "desconto": 25,
+      "cupom": "D3SC0NT099",
+      "enviadoEm": "2026-09-11T11:48:30.790Z"
+    },
     {
       "id": "17163",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 43,
       "cupom": "CORREHOJE10",
       "enviadoEm": "2026-09-09T16:04:53.728Z"
-    },
-    {
-      "id": "16295",
-      "loja": "Mercado Livre",
-      "titulo": "Impressora multifuncional cor Epson EcoTank L3250",
-      "link": "https://meli.la/1jo6o5a",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_827740-MLA99943629541_112025-F.jpg",
-      "preco": 849,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TECH0909",
-      "enviadoEm": "2026-09-09T16:01:21.327Z"
-    },
-    {
-      "id": "16301",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Flyer Runner Mesh Feminino Puma",
-      "link": "https://meli.la/34nuTmK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_794099-MLB85938482985_062025-O.webp",
-      "preco": 140.75,
-      "precoDe": 349.99,
-      "desconto": 43,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-09T15:58:04.045Z"
     }
   ]
 }
