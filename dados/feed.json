@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-11T15:36:11.322Z",
+  "atualizadoEm": "2026-09-11T15:51:44.615Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17300",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
+      "link": "https://meli.la/1JVBYQL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603981-MLA115262802698_082026-F.jpg",
+      "preco": 59.17,
+      "precoDe": 159.9,
+      "desconto": 51,
+      "cupom": "LEVEAGORA",
+      "enviadoEm": "2026-09-11T15:51:16.300Z"
+    },
+    {
+      "id": "17297",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário para Cozinha Multiuso Taças Pratos Prateleiras Aramado Aço Dicarlo 5 Peças",
+      "link": "https://s.shopee.com.br/3qN1aNUDnq",
+      "imagem": "https://cf.shopee.com.br/file/0913c6b2091f5d1f1b53d3b9e5624b4e_tn",
+      "preco": 93.5,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "QVRT38LKXM",
+      "enviadoEm": "2026-09-11T15:44:37.423Z"
+    },
+    {
+      "id": "17295",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Cuecas Boxer Algodão Polo Wear Sortido",
+      "link": "https://meli.la/195u9fa",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_680138-MLB116382829103_082026-O.webp",
+      "preco": 118.9,
+      "precoDe": 259.99,
+      "desconto": 44,
+      "cupom": "EXCLUSIVONOMELI",
+      "enviadoEm": "2026-09-11T15:41:17.438Z"
+    },
     {
       "id": "17294",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 67,
       "cupom": "LOVI0909",
       "enviadoEm": "2026-09-09T18:58:09.317Z"
-    },
-    {
-      "id": "16475",
-      "loja": "Amazon",
-      "titulo": "Camiseta New Era Manga Curta New York Yankees Logo Frontal Branco Preto Kaki Mescla Cinza",
-      "link": "https://www.amazon.com.br/dp/B0BJL1XPYT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/4173UFJd0HL._SL400_.jpg",
-      "preco": 59.92,
-      "precoDe": 129.9,
-      "desconto": 38,
-      "cupom": "25MODAPRIME",
-      "enviadoEm": "2026-09-09T18:44:07.135Z"
-    },
-    {
-      "id": "16466",
-      "loja": "Shopee",
-      "titulo": "Mala Pequena de Bordo 10kg TSA Polipropileno Giro 360º Munique Polo King",
-      "link": "https://s.shopee.com.br/6AktMfKZAb",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfrbrzcgpqtj8e_tn",
-      "preco": 209.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "30% OFF FULL",
-      "enviadoEm": "2026-09-09T18:35:18.925Z"
-    },
-    {
-      "id": "16454",
-      "loja": "Amazon",
-      "titulo": "Travel System Safety 1st, Tracer Duo, 0 a 22kg, Taupe Royal",
-      "link": "https://www.amazon.com.br/dp/B0H7YZSF35?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/412Ioros5XL._SL400_.jpg",
-      "preco": 1599,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "400 REAIS OFF NA FINALIZAÇÃO DO PEDIDO",
-      "enviadoEm": "2026-09-09T18:24:25.451Z"
     }
   ]
 }
