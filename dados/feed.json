@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-11T17:54:45.279Z",
+  "atualizadoEm": "2026-09-11T18:24:45.319Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17408",
+      "loja": "Mercado Livre",
+      "titulo": "Camisa Básica Masculina Manga Longa Slim Hering",
+      "link": "https://meli.la/1ybzG99",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652555-MLB115382118177_072026-O.webp",
+      "preco": 81.99,
+      "precoDe": 199.99,
+      "desconto": 50,
+      "cupom": "EXCLUSIVONOMELI",
+      "enviadoEm": "2026-09-11T18:21:48.541Z"
+    },
+    {
+      "id": "17401",
+      "loja": "Shopee",
+      "titulo": "Macacão Feminino Longo Pantalona Elegante Premium Assimétrico Duna Tomara Que Caia Solto Alfaiataria Social Moda Casual",
+      "link": "https://s.shopee.com.br/6VNmvb3fRY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-moy6w5u9jf2e9a_tn",
+      "preco": 54.99,
+      "precoDe": 99.98,
+      "desconto": 40,
+      "cupom": "S3XT0U50FF",
+      "enviadoEm": "2026-09-11T18:13:43.733Z"
+    },
     {
       "id": "17387",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "R$30 OFF",
       "enviadoEm": "2026-09-10T12:13:23.706Z"
-    },
-    {
-      "id": "16728",
-      "loja": "Shopee",
-      "titulo": "Assento Massageador Elétrico Controle Aliviar Dores Lombar Coluna Pescoço Veicular Escritório 8 Modos 3 Intensidade 3036",
-      "link": "https://s.shopee.com.br/4VcgWb4I6F",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m83r5tij7p5d46_tn",
-      "preco": 109.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "H3YT3RRY99T3MCUP0M",
-      "enviadoEm": "2026-09-10T11:48:57.963Z"
-    },
-    {
-      "id": "16715",
-      "loja": "Shopee",
-      "titulo": "1080° Torneira Giratória de Braço Robótico Chuveiro À Prova De Respingos Banheiro Cozinha Do Aerador Dois Modos",
-      "link": "https://s.shopee.com.br/6q0bHK3eg0",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mev5hs72r2mac1_tn",
-      "preco": null,
-      "precoDe": 54.68,
-      "desconto": 47,
-      "cupom": "R$30 OFF",
-      "enviadoEm": "2026-09-10T11:26:04.747Z"
     }
   ]
 }
