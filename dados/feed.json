@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-11T13:42:26.511Z",
+  "atualizadoEm": "2026-09-11T13:57:23.114Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17239",
+      "loja": "Shopee",
+      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
+      "link": "https://s.shopee.com.br/2LYDfo2vrP",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
+      "preco": 59,
+      "precoDe": 158,
+      "desconto": 50,
+      "cupom": "QVRT38LKXM",
+      "enviadoEm": "2026-09-11T13:49:33.407Z"
+    },
+    {
+      "id": "17233",
+      "loja": "Amazon",
+      "titulo": "Kit 3 Frascos para Armazenar Leite 150 ml Mom's Essentials Frisher Price - BB1077",
+      "link": "https://www.amazon.com.br/dp/B08R6MNY8J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/311RLp3s+cL._SL400_.jpg",
+      "preco": 42,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T13:44:38.439Z"
+    },
+    {
+      "id": "17232",
+      "loja": "Amazon",
+      "titulo": "Burigotto Carrinho de Bebê Zap Metal, Prata",
+      "link": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/413GF5ySzQL._SL400_.jpg",
+      "preco": 617.5,
+      "precoDe": 929,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T13:43:40.230Z"
+    },
     {
       "id": "17228",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 73,
       "cupom": "CORREQUEACABA",
       "enviadoEm": "2026-09-09T17:36:06.788Z"
-    },
-    {
-      "id": "16409",
-      "loja": "Shopee",
-      "titulo": "Mesa de Jantar 100x100 cm Isis sem Vidro Ype – New Ceval",
-      "link": "https://s.shopee.com.br/1Vz3jiXTge",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra2i-m4yur822cy3b84_tn",
-      "preco": 235,
-      "precoDe": 343.54,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-09-09T17:32:59.730Z"
-    },
-    {
-      "id": "16399",
-      "loja": "Shopee",
-      "titulo": "Kit Até 4 Sacos de Lixo Perfumados Lavanda | 160 Sacos | Pia e Banheiro | 34x38cm | Neutraliza Odores",
-      "link": "https://s.shopee.com.br/6L4JTUgsii",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mlpok0p0fg933f_tn",
-      "preco": null,
-      "precoDe": 24.29,
-      "desconto": 51,
-      "cupom": "LOVI0909",
-      "enviadoEm": "2026-09-09T17:15:11.987Z"
-    },
-    {
-      "id": "16369",
-      "loja": "Mercado Livre",
-      "titulo": "Carrinho de Bebê Passeio Maxi Baby Allday Cor Preto",
-      "link": "https://meli.la/1JgoSfy",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_686748-MLA95686819516_102025-F.jpg",
-      "preco": 347.51,
-      "precoDe": 545.32,
-      "desconto": 28,
-      "cupom": "ACHADOSMELI",
-      "enviadoEm": "2026-09-09T17:05:54.198Z"
     }
   ]
 }
