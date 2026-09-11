@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-11T18:53:24.036Z",
+  "atualizadoEm": "2026-09-11T19:16:53.210Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1335,6 +1335,18 @@
       "url": null
     },
     {
+      "codigo": "CUIDADOON",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em Farmácia e Mercado",
+      "validadeAte": "2026-09-12T18:56:54.000Z",
+      "url": null
+    },
+    {
       "codigo": "BRINDEOFF",
       "loja": "Outro: iFood",
       "tipo": "pct",
@@ -1371,7 +1383,7 @@
       "url": null
     },
     {
-      "codigo": "FARMACINHA",
+      "codigo": "CUIDADOON",
       "loja": "Outro: iFood Farmácias",
       "tipo": "reais",
       "valor": 15,
@@ -1379,7 +1391,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-09-11T19:02:52.000Z",
+      "validadeAte": "2026-09-12T18:56:57.000Z",
       "url": null
     },
     {
