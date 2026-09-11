@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-11T12:06:57.827Z",
+  "atualizadoEm": "2026-09-11T12:28:41.946Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1164,6 +1164,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-12T12:00:31.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "20LIMPEZAOFF",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Desconto de 20% OFF em compras acima de R$ 99, com limite máximo de desconto de R$ 30",
+      "validadeAte": "2026-09-12T12:25:39.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
