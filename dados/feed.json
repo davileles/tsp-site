@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-11T12:58:07.565Z",
+  "atualizadoEm": "2026-09-11T13:13:26.454Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17217",
+      "loja": "Shopee",
+      "titulo": "Creme Desodorante Antitranspirante Herbíssimo Care Rosa Mosqueta E Niacinamida Bisnaga 55g",
+      "link": "https://s.shopee.com.br/112q2D37Es",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmrumknuvu2s97_tn",
+      "preco": 13.52,
+      "precoDe": 15.91,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T13:04:20.273Z"
+    },
     {
       "id": "17208",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-09-09T16:33:54.052Z"
-    },
-    {
-      "id": "16324",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
-      "link": "https://s.shopee.com.br/2gB12VMDe5",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
-      "preco": null,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "LOVI0909",
-      "enviadoEm": "2026-09-09T16:29:54.822Z"
     }
   ]
 }
