@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-11T12:01:28.076Z",
+  "atualizadoEm": "2026-09-11T12:28:40.920Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17190",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 15 Pares Meias Sport Algodão Cano Médio Sandrini",
+      "link": "https://meli.la/23q2Yi7",
+      "imagem": null,
+      "preco": 40.99,
+      "precoDe": 109.99,
+      "desconto": 55,
+      "cupom": "EXCLUSIVONOMELI",
+      "enviadoEm": "2026-09-11T12:18:40.920Z"
+    },
+    {
+      "id": "17188",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Inox 2l Com Desligamento Automático Full",
+      "link": "https://s.shopee.com.br/BTiz3zuPU",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820nf-mnfpx6z1slc5e1_tn",
+      "preco": 55.99,
+      "precoDe": 199.96,
+      "desconto": 72,
+      "cupom": null,
+      "enviadoEm": "2026-09-11T12:13:50.457Z"
+    },
+    {
+      "id": "17185",
+      "loja": "Mercado Livre",
+      "titulo": "Sunga Cont Novo Fit Reserva",
+      "link": "https://meli.la/29oTe4g",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_918684-MLA115774748314_092026-O.webp",
+      "preco": 62.24000000000001,
+      "precoDe": 189,
+      "desconto": 60,
+      "cupom": "EXCLUSIVONOMELI",
+      "enviadoEm": "2026-09-11T12:10:36.759Z"
+    },
     {
       "id": "17177",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 71,
       "cupom": "DESCONTAO",
       "enviadoEm": "2026-09-09T16:12:56.134Z"
-    },
-    {
-      "id": "16281",
-      "loja": "Mercado Livre",
-      "titulo": "Aparelho De Jantar E Chá 20 Peças Oxford Mendi Malaquita Verde",
-      "link": "https://meli.la/1t1Fh4x",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_903859-MLA96667164917_102025-F.jpg",
-      "preco": 102,
-      "precoDe": 449.9,
-      "desconto": 77,
-      "cupom": "CORREHOJE10",
-      "enviadoEm": "2026-09-09T16:11:42.481Z"
-    },
-    {
-      "id": "16289",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV PRO LG 65'' 4K Ultra HD AI 65UN85C",
-      "link": "https://meli.la/1gYoASb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_695281-MLA115403895560_082026-F.jpg",
-      "preco": 3134.56,
-      "precoDe": 6599,
-      "desconto": 52,
-      "cupom": "OMELHORDOML",
-      "enviadoEm": "2026-09-09T16:08:16.203Z"
-    },
-    {
-      "id": "16290",
-      "loja": "Mercado Livre",
-      "titulo": "Secador De Cabelos Philco psc3500 4 Em 1 dobrável motor bldc Prateado",
-      "link": "https://meli.la/1ypc1jd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_723697-MLA115636981336_092026-F.jpg",
-      "preco": 341.27,
-      "precoDe": 599,
-      "desconto": 43,
-      "cupom": "CORREHOJE10",
-      "enviadoEm": "2026-09-09T16:04:53.728Z"
     }
   ]
 }
