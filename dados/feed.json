@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-12T13:08:51.306Z",
+  "atualizadoEm": "2026-09-12T13:31:21.320Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17597",
+      "loja": "Shopee",
+      "titulo": "Colchão Inflável Queen Casal KAYOOSI Elétrico 203x152x40cm com Bomba Embutida  Cama De Campanha",
+      "link": "https://s.shopee.com.br/5LBqoH0pN2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mpm0ksn1gpvn4b_tn",
+      "preco": 318,
+      "precoDe": 600,
+      "desconto": 42,
+      "cupom": "SALE30AF",
+      "enviadoEm": "2026-09-12T13:21:21.320Z"
+    },
     {
       "id": "17594",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 41,
       "cupom": "EXCLUSIVONOMELI",
       "enviadoEm": "2026-09-10T20:43:03.404Z"
-    },
-    {
-      "id": "17107",
-      "loja": "Shopee",
-      "titulo": "Processador Processadores 3 Laminas De Alimentos Manual 500ml Multiuso Universal",
-      "link": "https://s.shopee.com.br/70K25HEoCL",
-      "imagem": "https://cf.shopee.com.br/file/ec94a44236e11acb0440dc5bd1a79843_tn",
-      "preco": 11.99,
-      "precoDe": 22.04,
-      "desconto": 32,
-      "cupom": "SHOPEE20AF",
-      "enviadoEm": "2026-09-10T20:34:39.494Z"
     }
   ]
 }
