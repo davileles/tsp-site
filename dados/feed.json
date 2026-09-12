@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-12T11:35:01.592Z",
+  "atualizadoEm": "2026-09-12T11:57:36.497Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17540",
+      "loja": "Shopee",
+      "titulo": "10M tecido para decoração  chita, chitão,euroleen 100% poliéster  (10,00m x 1,50m )",
+      "link": "https://s.shopee.com.br/50Z0JDrXpS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcl0o31l70g10f_tn",
+      "preco": 70.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "S3XT0U50FF",
+      "enviadoEm": "2026-09-12T11:47:36.495Z"
+    },
     {
       "id": "17536",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 26,
       "cupom": "EXCLUSIVONOMELI",
       "enviadoEm": "2026-09-10T18:34:37.138Z"
-    },
-    {
-      "id": "16979",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto Moletom Masculino,incluir Casaco Com Capuz E Calças",
-      "link": "https://meli.la/1HJLrEU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_860235-MLB112830227486_072026-O.webp",
-      "preco": 59.2,
-      "precoDe": 198,
-      "desconto": 64,
-      "cupom": "EXCLUSIVONOMELI",
-      "enviadoEm": "2026-09-10T18:31:21.724Z"
     }
   ]
 }
