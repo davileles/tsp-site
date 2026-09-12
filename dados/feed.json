@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-12T16:10:14.929Z",
+  "atualizadoEm": "2026-09-12T16:33:29.251Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17639",
+      "loja": "Shopee",
+      "titulo": "Kit 3 Calças Jeans Feminina Skinny Lycra Cintura Alta Modelo Empina Bumbum Lançamento Promoção",
+      "link": "https://s.shopee.com.br/5LBr0n3rta",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9keeu5abgopdd_tn",
+      "preco": 154.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T16:23:29.249Z"
+    },
     {
       "id": "17637",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 27,
       "cupom": "QVRT38LKXM",
       "enviadoEm": "2026-09-11T13:27:04.618Z"
-    },
-    {
-      "id": "17221",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 9 Pares Meias Puma Sapatilha Cano Baixo Algodão Original",
-      "link": "https://meli.la/342gNcB",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_845132-MLB92894166069_092025-O.webp",
-      "preco": 56.77,
-      "precoDe": 109.9,
-      "desconto": 37,
-      "cupom": "EXCLUSIVONOMELI",
-      "enviadoEm": "2026-09-11T13:16:21.528Z"
     }
   ]
 }
