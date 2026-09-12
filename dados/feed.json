@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-12T12:54:22.645Z",
+  "atualizadoEm": "2026-09-12T13:08:51.306Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17594",
+      "loja": "Shopee",
+      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
+      "link": "https://s.shopee.com.br/6fhBFtvg2s",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
+      "preco": 104,
+      "precoDe": 320.59,
+      "desconto": 66,
+      "cupom": "S3XT0U50FF",
+      "enviadoEm": "2026-09-12T12:58:51.304Z"
+    },
     {
       "id": "17590",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 32,
       "cupom": "SHOPEE20AF",
       "enviadoEm": "2026-09-10T20:34:39.494Z"
-    },
-    {
-      "id": "17100",
-      "loja": "Shopee",
-      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
-      "link": "https://s.shopee.com.br/6VNlSo2pgM",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
-      "preco": 71.2,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SHOPEE20AF",
-      "enviadoEm": "2026-09-10T20:11:35.145Z"
     }
   ]
 }
