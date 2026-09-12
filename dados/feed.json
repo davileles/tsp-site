@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-12T14:10:14.927Z",
+  "atualizadoEm": "2026-09-12T14:40:14.928Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17614",
+      "loja": "Amazon",
+      "titulo": "Oikos - Lixeira Antiodor Bebê para Fraldas 10L",
+      "link": "https://www.amazon.com.br/dp/B0GHP6DWBN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21UOYad+nWL._SL400_.jpg",
+      "preco": 129.9,
+      "precoDe": 148.5,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T14:40:07.096Z"
+    },
+    {
+      "id": "17613",
+      "loja": "Amazon",
+      "titulo": "Cercadinho Para Bebê Chiqueirinho Portátil 127x127x65cm Verde Pipdip",
+      "link": "https://www.amazon.com.br/dp/B0DQQYGZ31?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31jN1Zhu7hL._SL400_.jpg",
+      "preco": 179.9,
+      "precoDe": 249.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T14:39:03.159Z"
+    },
+    {
+      "id": "17611",
+      "loja": "Shopee",
+      "titulo": "jaqueta masculina de sarja toda forrada por dentro com capus removível",
+      "link": "https://s.shopee.com.br/4qFaI0VW28",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lunnr64z39et7a_tn",
+      "preco": 134.99,
+      "precoDe": 179.34,
+      "desconto": 8,
+      "cupom": "SALE30AF",
+      "enviadoEm": "2026-09-12T14:29:22.497Z"
+    },
     {
       "id": "17608",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-09-11T11:08:55.370Z"
-    },
-    {
-      "id": "17153",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
-      "link": "https://s.shopee.com.br/4LJHs2QwFu",
-      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
-      "preco": 52.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T11:03:26.718Z"
-    },
-    {
-      "id": "17132",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/515Z7olnAoL._SL400_.jpg",
-      "preco": 100.99,
-      "precoDe": 109.9,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-09-10T22:19:54.711Z"
-    },
-    {
-      "id": "17131",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416kQ1MEMqL._SL400_.jpg",
-      "preco": 100.99,
-      "precoDe": 114.99,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-09-10T22:19:08.115Z"
     }
   ]
 }
