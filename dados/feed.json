@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-12T21:10:14.931Z",
+  "atualizadoEm": "2026-09-12T21:40:14.930Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17719",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 24 Potes Herméticos Mantimentos Quadrado Cozinha Tampa Transparente",
+      "link": "https://meli.la/2g2YEd1",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_698638-MLA114353783441_072026-F.jpg",
+      "preco": 154.59,
+      "precoDe": 311.25,
+      "desconto": 39,
+      "cupom": "COMPRAFACIL",
+      "enviadoEm": "2026-09-12T21:32:28.029Z"
+    },
+    {
+      "id": "17718",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/AAH75hyfbb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": 14.99,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T21:29:15.203Z"
+    },
+    {
+      "id": "17702",
+      "loja": "Mercado Livre",
+      "titulo": "Gel De Limpeza Anti-marcas Glycolic-bright Loréal Paris 150g",
+      "link": "https://meli.la/1L5CL3r",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_803330-MLU76082339769_042024-F.jpg",
+      "preco": 21.44,
+      "precoDe": 60.39,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T21:26:16.356Z"
+    },
+    {
+      "id": "17704",
+      "loja": "Mercado Livre",
+      "titulo": "Marinex Conjunto De Assadeiras Opaline 6 Peças Branco",
+      "link": "https://meli.la/1f5RHHT",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_617809-MLA113389258506_072026-F.jpg",
+      "preco": 87.42,
+      "precoDe": 149,
+      "desconto": 41,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-12T21:22:44.950Z"
+    },
+    {
+      "id": "17706",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Sérum Facial + Creme Anti-idade Revitalift L'oréal Paris",
+      "link": "https://meli.la/21QB6YC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_801429-MLU75812441276_042024-F.jpg",
+      "preco": 127.1,
+      "precoDe": 241.86,
+      "desconto": 47,
+      "cupom": "LOREALNOMELI",
+      "enviadoEm": "2026-09-12T21:19:35.164Z"
+    },
+    {
+      "id": "17710",
+      "loja": "Mercado Livre",
+      "titulo": "Passadeira De Sisal 4.00 X 0.66 Antiderrapante",
+      "link": "https://meli.la/1Dr9dHA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_845401-MLB110294409096_052026-O.webp",
+      "preco": 242.85,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-12T21:16:03.031Z"
+    },
+    {
+      "id": "17713",
+      "loja": "Mercado Livre",
+      "titulo": "Panela De Pressão Brinox Vanilla 5,4l Indução Ceramic Life C Creme",
+      "link": "https://meli.la/1uLbRjD",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_872472-MLA99980491655_112025-F.jpg",
+      "preco": 190.11,
+      "precoDe": 252,
+      "desconto": 25,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-12T21:12:31.359Z"
+    },
     {
       "id": "17715",
       "loja": "Mercado Livre",
@@ -1357,90 +1441,6 @@
       "desconto": 34,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-09-11T16:50:12.472Z"
-    },
-    {
-      "id": "17339",
-      "loja": "Amazon",
-      "titulo": "Skafe Ampola Tratamento Vitamina A 10Ml",
-      "link": "https://www.amazon.com.br/dp/B088J74FLG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31zYc--o5EL._SL400_.jpg",
-      "preco": 4.89,
-      "precoDe": 8.7,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T16:46:37.009Z"
-    },
-    {
-      "id": "17331",
-      "loja": "Amazon",
-      "titulo": "Calvin Klein Euphoria Feminino Eau De Parfum 100Ml,",
-      "link": "https://www.amazon.com.br/dp/B00N54IQ5E?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21na2AKJJFL._SL400_.jpg",
-      "preco": 317,
-      "precoDe": 399.99,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T16:43:34.643Z"
-    },
-    {
-      "id": "17329",
-      "loja": "Shopee",
-      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
-      "link": "https://s.shopee.com.br/W6ZfiiKfu",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
-      "preco": 119.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SALE30AF",
-      "enviadoEm": "2026-09-11T16:36:58.526Z"
-    },
-    {
-      "id": "17327",
-      "loja": "Amazon",
-      "titulo": "LEGO Set City Fire 60411 Helicóptero de Resgate dos Bombeiros 85 peças",
-      "link": "https://www.amazon.com.br/dp/B0CGY54WQF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51-tTPMD7FL._SL400_.jpg",
-      "preco": 66.99,
-      "precoDe": 88.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T16:33:32.469Z"
-    },
-    {
-      "id": "17326",
-      "loja": "Mercado Livre",
-      "titulo": "Teclado Infantil 32 Teclas Com Microfone Karaokê Brinquedo Presente Crianças Musical Educativo Kizumba Cor Preto",
-      "link": "https://meli.la/1wCMsbv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_886635-MLA110242396878_052026-F.jpg",
-      "preco": 44,
-      "precoDe": 69.99,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T16:29:45.991Z"
-    },
-    {
-      "id": "17325",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 4 Camiseta Dry-fit Sandrini Masculina Academia Caminhada",
-      "link": "https://meli.la/2SAT5Vz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_626928-MLB82004918446_022025-O.webp",
-      "preco": 48.59,
-      "precoDe": 135.41,
-      "desconto": 60,
-      "cupom": "FULLCOMPRAS",
-      "enviadoEm": "2026-09-11T16:28:55.430Z"
-    },
-    {
-      "id": "17324",
-      "loja": "Amazon",
-      "titulo": "Copo de transição Philips Avent com bico de silicone rosa 6m+",
-      "link": "https://www.amazon.com.br/dp/B00WJNITLS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41vaGeemriL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 59.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T16:25:20.151Z"
     }
   ]
 }
