@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T17:10:15.250Z",
+  "atualizadoEm": "2026-09-12T17:38:38.583Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -948,18 +948,6 @@
       "limite": 60,
       "observacao": "Desconto de R$ 42,41 (de R$ 125,00 para R$ 82,59). Cupom PROMOCERTAML aplicável. Desconto adicional para pagamento no Pix já incluído no preço final anunciado.",
       "validadeAte": "2026-09-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "20% OFF em Kenvue",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom aplicável a produtos da marca Kenvue no Mercado Livre",
-      "validadeAte": "2026-09-12T17:37:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
