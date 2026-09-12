@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T19:53:12.073Z",
+  "atualizadoEm": "2026-09-12T20:10:16.033Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1203,18 +1203,6 @@
       "url": null
     },
     {
-      "codigo": "CORRESHOPE",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-12T20:00:00.000Z",
-      "url": null
-    },
-    {
       "codigo": "FARMAJA",
       "loja": "Outro: iFood",
       "tipo": "reais",
@@ -1227,27 +1215,27 @@
       "url": null
     },
     {
-      "codigo": "BEBIDINHA",
+      "codigo": "GELADAO",
       "loja": "Outro: iFood",
       "tipo": "reais",
       "valor": 10,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-12T20:00:00.000Z",
+      "observacao": "Três cupons de desconto em reais para categorias diferentes do iFood",
+      "validadeAte": "2026-09-13T20:00:00.000Z",
       "url": null
     },
     {
-      "codigo": "MIAUMIAU",
+      "codigo": "CORREPET",
       "loja": "Outro: iFood",
       "tipo": "reais",
       "valor": 10,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-12T20:00:00.000Z",
+      "observacao": "Três cupons de desconto em reais para categorias diferentes do iFood",
+      "validadeAte": "2026-09-13T20:00:00.000Z",
       "url": null
     },
     {
