@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T11:57:38.071Z",
+  "atualizadoEm": "2026-09-12T12:10:16.138Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -483,6 +483,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "ALLSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-13T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PECHINCHA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -831,18 +843,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "APROVEITAMUITO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-12T12:00:48.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "RESGATEFULL",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -912,18 +912,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PEGAMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 22,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-12T12:00:48.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1047,18 +1035,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MEUMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-12T12:00:48.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DESCONTASSO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1107,6 +1083,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TVSCOMPRITTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 899,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-09-13T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MANTECORP14",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1152,6 +1140,18 @@
       "limite": 300,
       "observacao": "Múltiplos cupons Mercado Livre com categorias específicas e limites de desconto variados",
       "validadeAte": "2026-09-14T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-09-13T12:01:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
