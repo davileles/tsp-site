@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-12T14:40:14.928Z",
+  "atualizadoEm": "2026-09-12T15:10:14.929Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17623",
+      "loja": "Amazon",
+      "titulo": "Eu e minha mamãe",
+      "link": "https://www.amazon.com.br/dp/8538017470?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Ipz7kfHQL._SL400_.jpg",
+      "preco": 19.32,
+      "precoDe": 39.9,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T15:01:51.453Z"
+    },
+    {
+      "id": "17622",
+      "loja": "Amazon",
+      "titulo": "A Casa dos Bichos",
+      "link": "https://www.amazon.com.br/dp/8538097717?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51MosTIexzL._SL400_.jpg",
+      "preco": 19.31,
+      "precoDe": 39.9,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T15:00:44.769Z"
+    },
+    {
+      "id": "17621",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
+      "link": "https://s.shopee.com.br/7KwvIADgLz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-msykg0bri8skfd_tn",
+      "preco": 94.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "S3XT0U50FF",
+      "enviadoEm": "2026-09-12T14:52:03.265Z"
+    },
+    {
+      "id": "17618",
+      "loja": "Amazon",
+      "titulo": "Lillo Caneca Aprendizado C/ Alça Evolution Bebedor SIL 150 ml - Menina, Lillo, Rosa/Verde",
+      "link": "https://www.amazon.com.br/dp/B08V2FY633?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/418xVvi3VVL._SL400_.jpg",
+      "preco": 29.9,
+      "precoDe": 45.78,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T14:42:50.299Z"
+    },
+    {
+      "id": "17617",
+      "loja": "Amazon",
+      "titulo": "Mustela Kit Minis Travel Size - Gel Lavante + Hydra Bebê + Água de Limpeza + Creme Vitaminado Preventivo de Assaduras 54g - Nova Embalagem - Edição Limitada - Mustela Bebê e Crianç",
+      "link": "https://www.amazon.com.br/dp/B0GTN3CDWG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51wd3vPgAqL._SL400_.jpg",
+      "preco": 141.03,
+      "precoDe": 169.9,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T14:42:04.441Z"
+    },
+    {
+      "id": "17615",
+      "loja": "Amazon",
+      "titulo": "Jogo Lince Alfabeto",
+      "link": "https://www.amazon.com.br/dp/B077P8148D?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/61VpVWf2iSL._SL400_.jpg",
+      "preco": 37.99,
+      "precoDe": 69.85,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T14:41:17.665Z"
+    },
     {
       "id": "17614",
       "loja": "Amazon",
@@ -1369,78 +1441,6 @@
       "desconto": 55,
       "cupom": "EXCLUSIVONOMELI",
       "enviadoEm": "2026-09-11T12:18:40.920Z"
-    },
-    {
-      "id": "17188",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Inox 2l Com Desligamento Automático Full",
-      "link": "https://s.shopee.com.br/BTiz3zuPU",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820nf-mnfpx6z1slc5e1_tn",
-      "preco": 55.99,
-      "precoDe": 199.96,
-      "desconto": 72,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T12:13:50.457Z"
-    },
-    {
-      "id": "17185",
-      "loja": "Mercado Livre",
-      "titulo": "Sunga Cont Novo Fit Reserva",
-      "link": "https://meli.la/29oTe4g",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_918684-MLA115774748314_092026-O.webp",
-      "preco": 62.24000000000001,
-      "precoDe": 189,
-      "desconto": 60,
-      "cupom": "EXCLUSIVONOMELI",
-      "enviadoEm": "2026-09-11T12:10:36.759Z"
-    },
-    {
-      "id": "17177",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 7 Bermudas Tactel Infantil E Juvenil Promoção ",
-      "link": "https://meli.la/1UVFK4B",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685884-MLB98398301459_112025-O.webp",
-      "preco": 84.74000000000001,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "EXCLUSIVONOMELI",
-      "enviadoEm": "2026-09-11T11:56:57.533Z"
-    },
-    {
-      "id": "17175",
-      "loja": "Shopee",
-      "titulo": "Carrinho De Passeio Infantil Quadriciclo Lady Star Maral Cor Rosa",
-      "link": "https://s.shopee.com.br/7AdTIMhe3i",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rep4-m8wfeh8k5b2x22_tn",
-      "preco": 370,
-      "precoDe": 586.67,
-      "desconto": 25,
-      "cupom": "D3SC0NT099",
-      "enviadoEm": "2026-09-11T11:48:30.790Z"
-    },
-    {
-      "id": "17163",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
-      "link": "https://s.shopee.com.br/W6ZKZJGgj",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-k1jd7z81yzkv2f_tn",
-      "preco": 25,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T11:25:56.735Z"
-    },
-    {
-      "id": "17158",
-      "loja": "Amazon",
-      "titulo": "Hidratante Mustela Stelatopia+ Relipidante Antiprurido, 300ml, para Peles Secas e Atópicas, Sem Fragrância, Uso Familiar",
-      "link": "https://www.amazon.com.br/dp/B0BZBPXLBG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31OTkDRaOxL._SL400_.jpg",
-      "preco": 168.99,
-      "precoDe": 239.64,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T11:08:55.370Z"
     }
   ]
 }
