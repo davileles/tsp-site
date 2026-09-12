@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-12T13:31:21.320Z",
+  "atualizadoEm": "2026-09-12T13:40:14.927Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17600",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Berço L2m Completo Nuvens 130x70 Americano",
+      "link": "https://meli.la/1JkBDzE",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_758142-MLB93616271148_102025-O.webp",
+      "preco": 73,
+      "precoDe": 150.75,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T13:31:41.266Z"
+    },
     {
       "id": "17597",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": "SHOPEE20AF",
       "enviadoEm": "2026-09-10T20:57:18.343Z"
-    },
-    {
-      "id": "17108",
-      "loja": "Mercado Livre",
-      "titulo": "Sapato Loafer Masculino Mocassim Couro Casual Comfort Luxo",
-      "link": "https://meli.la/1eQM7BQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_669776-MLB97527210302_112025-O.webp",
-      "preco": 86.92,
-      "precoDe": 179.9,
-      "desconto": 41,
-      "cupom": "EXCLUSIVONOMELI",
-      "enviadoEm": "2026-09-10T20:43:03.404Z"
     }
   ]
 }
