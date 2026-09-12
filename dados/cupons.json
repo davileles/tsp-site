@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T19:08:05.870Z",
+  "atualizadoEm": "2026-09-12T19:30:40.902Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -495,6 +495,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "EXCLUSIVONOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 128,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto de R$128,99 (de R$229,99 para R$101,00). Válido apenas com pagamento via Pix.",
+      "validadeAte": "2026-09-14T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PECHINCHA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -984,18 +996,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "EXCLUSIVONOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupom aplicável em calça jeans bebê menino. Preço final com cupom: R$ 56,09",
-      "validadeAte": "2026-09-14T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
