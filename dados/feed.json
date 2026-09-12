@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-12T15:10:14.929Z",
+  "atualizadoEm": "2026-09-12T15:36:54.044Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17630",
+      "loja": "Mercado Livre",
+      "titulo": "Espelho Orgânico Capela Led 44x64 Para Sala Quarto Banheiro Moldura Capela Led Frio",
+      "link": "https://meli.la/1PGh9Ad",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_778921-MLA97739070759_112025-F.jpg",
+      "preco": 70.5,
+      "precoDe": 98,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T15:26:54.043Z"
+    },
+    {
+      "id": "17629",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Com 3 Camisetas Masculinas Básicas Slim Cor Preto Hering",
+      "link": "https://meli.la/2Lg78BL",
+      "imagem": null,
+      "preco": 60.68,
+      "precoDe": 99.99,
+      "desconto": 26,
+      "cupom": "EXCLUSIVONOMELI",
+      "enviadoEm": "2026-09-12T15:21:48.029Z"
+    },
+    {
+      "id": "17628",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Marmitas 900ml com Travas Potes Herméticos - Livres de BPA para Alimentos organiza congelador",
+      "link": "https://s.shopee.com.br/2BEpAEOy0U",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-ms4svnxflfd31d_tn",
+      "preco": 36.9,
+      "precoDe": 80.22,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T15:16:27.859Z"
+    },
+    {
+      "id": "17626",
+      "loja": "Mercado Livre",
+      "titulo": "Mesa Para Escritório Diretor 1,80m Dynamica Cor Preto Ônix / Est.Preta",
+      "link": "https://meli.la/2c3Xaxu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_957476-MLA95686193164_102025-F.jpg",
+      "preco": 256.2,
+      "precoDe": 677.03,
+      "desconto": 54,
+      "cupom": "COMPRAFACIL",
+      "enviadoEm": "2026-09-12T15:12:55.389Z"
+    },
     {
       "id": "17623",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 3,
       "cupom": "SOLTAODESCONTO",
       "enviadoEm": "2026-09-11T12:47:11.293Z"
-    },
-    {
-      "id": "17206",
-      "loja": "Amazon",
-      "titulo": "Buba Kit Escovas Mamadeira E Bico Com Esponja Cinza",
-      "link": "https://www.amazon.com.br/dp/B0BBHDMP5Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/218Ge-2mOFL._SL400_.jpg",
-      "preco": 16.58,
-      "precoDe": 19.9,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T12:38:16.051Z"
-    },
-    {
-      "id": "17201",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Inox Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
-      "link": "https://s.shopee.com.br/2LYDamNEW9",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms49lbchdmh1a1_tn",
-      "preco": 42.9,
-      "precoDe": 99.77,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T12:37:12.396Z"
-    },
-    {
-      "id": "17194",
-      "loja": "Mercado Livre",
-      "titulo": "WAP Air Heat FW009371 Aquecedor Elétrico Portátil 3 em 1 220V Potência 2000W Triplo Sistema Segurança",
-      "link": "https://meli.la/2vpPVsv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_891709-MLA115068451649_072026-F.jpg",
-      "preco": 67.68,
-      "precoDe": 228.43,
-      "desconto": 65,
-      "cupom": "DESCONTASSO",
-      "enviadoEm": "2026-09-11T12:30:04.812Z"
-    },
-    {
-      "id": "17190",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 15 Pares Meias Sport Algodão Cano Médio Sandrini",
-      "link": "https://meli.la/23q2Yi7",
-      "imagem": null,
-      "preco": 40.99,
-      "precoDe": 109.99,
-      "desconto": 55,
-      "cupom": "EXCLUSIVONOMELI",
-      "enviadoEm": "2026-09-11T12:18:40.920Z"
     }
   ]
 }
