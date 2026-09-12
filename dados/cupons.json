@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T11:10:16.100Z",
+  "atualizadoEm": "2026-09-12T11:57:38.071Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -948,18 +948,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIOFF",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Desconto de R$ 539 (de R$ 998,47 para R$ 459,91). Preço final com cupom MELIOFF.",
-      "validadeAte": "2026-09-14T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
