@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-12T20:10:14.930Z",
+  "atualizadoEm": "2026-09-12T20:40:14.930Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17688",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Jean Paul Gaultier Scandal Eau de Parfum 30 ml Feminino",
+      "link": "https://meli.la/1RLMQn6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_750894-MLA99264544148_112025-F.jpg",
+      "preco": 431.72,
+      "precoDe": 519,
+      "desconto": 17,
+      "cupom": "BELEZACOMPRITTAS",
+      "enviadoEm": "2026-09-12T20:39:23.461Z"
+    },
+    {
+      "id": "17691",
+      "loja": "Mercado Livre",
+      "titulo": "Esmerilhadeira Angular Corte E Desbaste 115mm 850w Makita",
+      "link": "https://meli.la/1EeK9Uj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_617378-MLB76596867094_062024-O.webp",
+      "preco": 272.84,
+      "precoDe": 479.9,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T20:36:04.848Z"
+    },
+    {
+      "id": "17693",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Wella Professionals Fusion Shampoo Condicionador",
+      "link": "https://meli.la/1uty9F2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_712119-MLA99415103216_112025-F.jpg",
+      "preco": 294.92,
+      "precoDe": 599.9,
+      "desconto": 51,
+      "cupom": "BELEZACOMPRITTAS",
+      "enviadoEm": "2026-09-12T20:32:31.564Z"
+    },
+    {
+      "id": "17692",
+      "loja": "Shopee",
+      "titulo": "Organizador de Mala Viagem, Nécessaire Feminina, Kit para viagem com 3 unidades",
+      "link": "https://s.shopee.com.br/112s7cMEEe",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3j5nb4hr5fcb4_tn",
+      "preco": 32,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T20:28:06.397Z"
+    },
+    {
+      "id": "17690",
+      "loja": "Mercado Livre",
+      "titulo": "Lava Roupas Líquido Puro Cuidado 3L Omo",
+      "link": "https://meli.la/1GzCFav",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_891560-MLA110797741601_042026-F.jpg",
+      "preco": 29.99,
+      "precoDe": 42.55,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T20:22:55.815Z"
+    },
+    {
+      "id": "17684",
+      "loja": "Mercado Livre",
+      "titulo": "Pipoqueira Brinox Ceramic Life Nevada Ø20 Cm 4,2 L Champagne",
+      "link": "https://meli.la/1W54iW3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_841347-MLA112854710064_072026-F.jpg",
+      "preco": 80.80000000000001,
+      "precoDe": 199.99,
+      "desconto": 51,
+      "cupom": "COMPRAFACIL",
+      "enviadoEm": "2026-09-12T20:13:56.828Z"
+    },
     {
       "id": "17682",
       "loja": "Shopee",
@@ -1369,78 +1441,6 @@
       "desconto": null,
       "cupom": "QVRT38LKXM",
       "enviadoEm": "2026-09-11T15:44:37.423Z"
-    },
-    {
-      "id": "17295",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 10 Cuecas Boxer Algodão Polo Wear Sortido",
-      "link": "https://meli.la/195u9fa",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_680138-MLB116382829103_082026-O.webp",
-      "preco": 118.9,
-      "precoDe": 259.99,
-      "desconto": 44,
-      "cupom": "EXCLUSIVONOMELI",
-      "enviadoEm": "2026-09-11T15:41:17.438Z"
-    },
-    {
-      "id": "17294",
-      "loja": "Mercado Livre",
-      "titulo": "Vestido Formatura Natal Ano Novo Festa Infantil Luxo E Tiara",
-      "link": "https://meli.la/1tvFSfy",
-      "imagem": null,
-      "preco": 100,
-      "precoDe": 130.51,
-      "desconto": 7,
-      "cupom": "EXCLUSIVONOMELI",
-      "enviadoEm": "2026-09-11T15:26:11.321Z"
-    },
-    {
-      "id": "17291",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
-      "link": "https://s.shopee.com.br/2LYDm4iBl4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
-      "preco": 49.32,
-      "precoDe": 72.43,
-      "desconto": 25,
-      "cupom": "S3XT0U50FF",
-      "enviadoEm": "2026-09-11T15:20:48.679Z"
-    },
-    {
-      "id": "17290",
-      "loja": "Amazon",
-      "titulo": "Notebook Gamer Acer Nitro V15 ANV15-41-R6J0 AMD Ryzen™ 7 7735HS 8GB RAM 512GB SSD RTX 4050 Linux 15.6”",
-      "link": "https://www.amazon.com.br/dp/B0894J8SLQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ExWpqXYiL._SL400_.jpg",
-      "preco": 5299,
-      "precoDe": 5599,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T15:17:13.460Z"
-    },
-    {
-      "id": "17286",
-      "loja": "Mercado Livre",
-      "titulo": "Notebook Positivo Vision R15M AMD Ryzen 3-7330U Linux 8GB RAM 256GB SSD Wi-Fi 6 Tela 15” Full HD IPS Antirreflexo - Minitela - Permite upgrade de memória RAM e SSD - Preto",
-      "link": "https://meli.la/2NPjCHp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_609933-MLA109236762422_042026-F.jpg",
-      "preco": 2499,
-      "precoDe": 4299,
-      "desconto": 37,
-      "cupom": "SUPERDESCONTOS",
-      "enviadoEm": "2026-09-11T15:10:38.544Z"
-    },
-    {
-      "id": "17284",
-      "loja": "Mercado Livre",
-      "titulo": "Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI/Libras 1400W 300L/h com Aplicador de Detergente e Lança Regulável 220v",
-      "link": "https://meli.la/1d2cMZj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_681126-MLA115545993062_082026-F.jpg",
-      "preco": 260,
-      "precoDe": 399,
-      "desconto": 19,
-      "cupom": "MELIOFF",
-      "enviadoEm": "2026-09-11T15:03:57.819Z"
     }
   ]
 }
