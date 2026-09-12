@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T18:45:44.410Z",
+  "atualizadoEm": "2026-09-12T19:08:05.870Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1203,15 +1203,15 @@
       "url": null
     },
     {
-      "codigo": "CUIDADOON",
+      "codigo": "FARMAJA",
       "loja": "Outro: iFood",
       "tipo": "reais",
       "valor": 15,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Válido em Farmácia e Mercado",
-      "validadeAte": "2026-09-12T18:56:54.000Z",
+      "observacao": "Cupom válido para Farmácias no iFood",
+      "validadeAte": "2026-09-13T18:58:21.000Z",
       "url": null
     },
     {
@@ -1239,7 +1239,7 @@
       "url": null
     },
     {
-      "codigo": "CUIDADOON",
+      "codigo": "FARMAJA",
       "loja": "Outro: iFood Farmácias",
       "tipo": "reais",
       "valor": 15,
@@ -1247,7 +1247,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-09-12T18:56:57.000Z",
+      "validadeAte": "2026-09-13T18:59:40.000Z",
       "url": null
     },
     {
