@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-12T19:53:10.910Z",
+  "atualizadoEm": "2026-09-12T20:10:14.930Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17682",
+      "loja": "Shopee",
+      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
+      "link": "https://s.shopee.com.br/9V1QDh2SNG",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
+      "preco": 89,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T20:05:33.746Z"
+    },
+    {
+      "id": "17678",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Calças Jogger Tactel Com Elastano Impulse",
+      "link": "https://meli.la/1ep5uRz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_664658-MLB96932532195_112025-O.webp",
+      "preco": 52.959999999999994,
+      "precoDe": 112.71,
+      "desconto": 33,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-12T20:00:50.754Z"
+    },
     {
       "id": "17677",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 19,
       "cupom": "MELIOFF",
       "enviadoEm": "2026-09-11T15:03:57.819Z"
-    },
-    {
-      "id": "17281",
-      "loja": "Mercado Livre",
-      "titulo": "Pelucia Bluey 33 Cm Infantil Brinquedo Presente Criança",
-      "link": "https://meli.la/1bQpXDa",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_769701-MLA99606446838_122025-F.jpg",
-      "preco": 45.65,
-      "precoDe": 71.64,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T14:59:07.352Z"
-    },
-    {
-      "id": "17279",
-      "loja": "Shopee",
-      "titulo": "KIT 2 Camisa Gola Polo Alta Qualidade 100% Algodão Camiseta Básica Masculina  Diversas Cores",
-      "link": "https://s.shopee.com.br/9AOXt3MZ07",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zty-mkjyqctdl34035_tn",
-      "preco": 49.8,
-      "precoDe": 99.67,
-      "desconto": 40,
-      "cupom": "P0S99N4SH0",
-      "enviadoEm": "2026-09-11T14:58:20.231Z"
     }
   ]
 }
