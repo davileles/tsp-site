@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T17:38:38.583Z",
+  "atualizadoEm": "2026-09-12T18:01:06.002Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -927,18 +927,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIOFF",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-09-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PROMOCERTAML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1011,18 +999,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OBRASEFERRAMENTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-09-12T18:00:00.238Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DESCONTASSO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1071,18 +1047,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OBRASCOMPRITTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-09-12T18:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MANTECORP14",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1104,18 +1068,6 @@
       "limite": 200,
       "observacao": "Cupom aplicado no produto Samsung Galaxy A57 5G; preço final R$ 1.619,19",
       "validadeAte": "2026-10-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ENTREGASFULL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-09-12T18:00:00.238Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1164,18 +1116,6 @@
       "limite": 100,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-09-13T14:34:58.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FULL1209",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-09-12T18:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
