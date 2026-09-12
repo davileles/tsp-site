@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-12T11:57:36.497Z",
+  "atualizadoEm": "2026-09-12T12:10:14.927Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17545",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Curvo TCL 34 Polegadas QLED Mini LED WQHD R83Q 180Hz 1ms (GtG) HDR 1400 nits 34R83Q",
+      "link": "https://meli.la/2bVQEnj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_949367-MLA115998715922_092026-F.jpg",
+      "preco": 2991,
+      "precoDe": 4499,
+      "desconto": 29,
+      "cupom": "PROMOMELI",
+      "enviadoEm": "2026-09-12T12:09:30.234Z"
+    },
     {
       "id": "17540",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-09-10T18:57:27.800Z"
-    },
-    {
-      "id": "16964",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Olympikus Voa 3 Corrida Academia Esporte Original",
-      "link": "https://meli.la/1Nh7xCJ",
-      "imagem": null,
-      "preco": 229.99,
-      "precoDe": 379.99,
-      "desconto": 26,
-      "cupom": "EXCLUSIVONOMELI",
-      "enviadoEm": "2026-09-10T18:34:37.138Z"
     }
   ]
 }
