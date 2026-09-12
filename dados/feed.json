@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-12T11:10:14.881Z",
+  "atualizadoEm": "2026-09-12T11:35:01.592Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17536",
+      "loja": "Shopee",
+      "titulo": "1/2/3/4  Peças Mini Máquina Seladora Recarregável Para Embalagens Plásticas - Selagem Rápida/ Alta Qualidade/ Promoção",
+      "link": "https://s.shopee.com.br/gQ17iKYl3",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mmr759zcedj476_tn",
+      "preco": 12.69,
+      "precoDe": 42.3,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T11:25:01.591Z"
+    },
+    {
+      "id": "17535",
+      "loja": "Mercado Livre",
+      "titulo": "Percarbonato De Sódio 100% Tira Manchas Calisul - Roupas Brancas e Coloridas",
+      "link": "https://meli.la/2Msgc9a",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_763936-MLA114771541572_082026-F.jpg",
+      "preco": 21.53,
+      "precoDe": 50,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T11:15:10.932Z"
+    },
     {
       "id": "17533",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 64,
       "cupom": "EXCLUSIVONOMELI",
       "enviadoEm": "2026-09-10T18:31:21.724Z"
-    },
-    {
-      "id": "16985",
-      "loja": "Amazon",
-      "titulo": "Patinete Infantil Dobrável 3 Rodas Led Luppy Maxi Toys (Rosa)",
-      "link": "https://www.amazon.com.br/dp/B0G44S7RN1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21DLmuiNDnL._SL400_.jpg",
-      "preco": 54.9,
-      "precoDe": 159.9,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-09-10T18:27:52.587Z"
-    },
-    {
-      "id": "16989",
-      "loja": "Mercado Livre",
-      "titulo": "TESTO ESSENCIAL - Fórmula Exclusiva com Feno Grego + Boro + Arginina + ZMA + Vitamina B6 - 60 cápsulas - Precursor da Testosterona",
-      "link": "https://meli.la/24ffcqN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_949131-MLA114764498645_072026-F.jpg",
-      "preco": 39.74,
-      "precoDe": 91.77,
-      "desconto": 38,
-      "cupom": "PECHINCHA",
-      "enviadoEm": "2026-09-10T18:25:53.783Z"
     }
   ]
 }
