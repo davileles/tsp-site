@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T13:41:41.453Z",
+  "atualizadoEm": "2026-09-12T13:53:48.473Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -975,18 +975,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIOFF",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-09-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PROMOCERTAML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1071,18 +1059,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TVSECELULARES",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 899,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-09-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DESCONTASSO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1128,18 +1104,6 @@
       "limite": 40,
       "observacao": "Cupom válido em selecionados conforme lista do link",
       "validadeAte": "2026-09-12T20:39:15.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TVSCOMPRITTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 899,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-09-12T15:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
