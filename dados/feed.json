@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-12T21:40:14.930Z",
+  "atualizadoEm": "2026-09-12T22:01:31.624Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17720",
+      "loja": "Shopee",
+      "titulo": "Processador Processadores 3 Laminas De Alimentos Manual 500ml Multiuso Universal",
+      "link": "https://s.shopee.com.br/4VckNmflc6",
+      "imagem": "https://cf.shopee.com.br/file/ec94a44236e11acb0440dc5bd1a79843_tn",
+      "preco": 14.99,
+      "precoDe": 22.04,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T21:51:31.622Z"
+    },
     {
       "id": "17719",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 17,
       "cupom": null,
       "enviadoEm": "2026-09-11T16:57:03.336Z"
-    },
-    {
-      "id": "17340",
-      "loja": "Mercado Livre",
-      "titulo": "Fone de Ouvido Sem Fio Basike Bluetooth 5.3",
-      "link": "https://meli.la/2dZZAWa",
-      "imagem": null,
-      "preco": 46.06,
-      "precoDe": 99.7,
-      "desconto": 34,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-11T16:50:12.472Z"
     }
   ]
 }
