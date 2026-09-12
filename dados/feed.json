@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-12T17:38:37.497Z",
+  "atualizadoEm": "2026-09-12T18:01:04.772Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17649",
+      "loja": "Shopee",
+      "titulo": "Kit Tapete Banheiro 38x58cm |50x100m |50x70cm Antiderrapante Pipoca Popcorn Várias Cores Macio",
+      "link": "https://s.shopee.com.br/AUtxGIIzgM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mqqbq5jvx1c3e8_tn",
+      "preco": 19.99,
+      "precoDe": 25.96,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-09-12T17:51:04.771Z"
+    },
     {
       "id": "17647",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 16,
       "cupom": null,
       "enviadoEm": "2026-09-11T13:37:02.551Z"
-    },
-    {
-      "id": "17226",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Camisetas Térmicas Masculina Segunda Pele Camisa Uv50-",
-      "link": "https://meli.la/2wowv3T",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_992466-MLB116831200087_082026-O.webp",
-      "preco": 62.24000000000001,
-      "precoDe": 122.9,
-      "desconto": 38,
-      "cupom": "EXCLUSIVONOMELI",
-      "enviadoEm": "2026-09-11T13:35:10.772Z"
     }
   ]
 }
