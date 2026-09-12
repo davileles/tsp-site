@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T18:01:06.002Z",
+  "atualizadoEm": "2026-09-12T18:10:15.218Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1047,6 +1047,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BELEZACOMPRITTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 69,
+      "maximo": null,
+      "limite": 25,
+      "observacao": null,
+      "validadeAte": "2026-09-13T18:01:22.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MANTECORP14",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1116,6 +1128,18 @@
       "limite": 100,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-09-13T14:34:58.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MOVEISCOMPRITTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-09-13T18:01:22.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
