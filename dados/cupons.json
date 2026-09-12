@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T22:01:32.688Z",
+  "atualizadoEm": "2026-09-12T23:10:15.333Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -495,18 +495,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "PECHINCHA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PRECINHO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -939,14 +927,14 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PROMOCERTAML",
+      "codigo": "MELIOFF",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
-      "minimo": 79,
+      "minimo": 19,
       "maximo": null,
-      "limite": 60,
-      "observacao": "Desconto de R$ 42,41 (de R$ 125,00 para R$ 82,59). Cupom PROMOCERTAML aplicável. Desconto adicional para pagamento no Pix já incluído no preço final anunciado.",
+      "limite": 100,
+      "observacao": null,
       "validadeAte": "2026-09-14T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
