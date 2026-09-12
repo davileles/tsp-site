@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-12T19:08:04.384Z",
+  "atualizadoEm": "2026-09-12T19:10:14.930Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17666",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto De Banheiro Prisma 80cm Gabinete - Tampo Vidro",
+      "link": "https://meli.la/2s6n1pG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_971432-MLB100750970487_122025-O.webp",
+      "preco": 441.27,
+      "precoDe": 904.5,
+      "desconto": 30,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-12T19:09:06.965Z"
+    },
     {
       "id": "17657",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 41,
       "cupom": "EXCLUSIVONOMELI",
       "enviadoEm": "2026-09-11T14:05:06.073Z"
-    },
-    {
-      "id": "17239",
-      "loja": "Shopee",
-      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
-      "link": "https://s.shopee.com.br/2LYDfo2vrP",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
-      "preco": 59,
-      "precoDe": 158,
-      "desconto": 50,
-      "cupom": "QVRT38LKXM",
-      "enviadoEm": "2026-09-11T13:49:33.407Z"
     }
   ]
 }
