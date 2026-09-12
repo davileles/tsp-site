@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-12T19:30:39.940Z",
+  "atualizadoEm": "2026-09-12T19:40:14.930Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17673",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Pares Meias Mash Invisível Soquete Sapatilha Algodão",
+      "link": "https://meli.la/33xxRrQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_610097-MLB83101538254_032025-O.webp",
+      "preco": null,
+      "precoDe": 99.99,
+      "desconto": 40,
+      "cupom": "EXCLUSIVONOMELI",
+      "enviadoEm": "2026-09-12T19:39:27.780Z"
+    },
+    {
+      "id": "17672",
+      "loja": "Mercado Livre",
+      "titulo": "Kit3 Short Futebol Bermuda Masculina Academia Treino Esporte",
+      "link": "https://meli.la/2zAcZAg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_824417-MLB111941488549_052026-O.webp",
+      "preco": null,
+      "precoDe": 139.9,
+      "desconto": 52,
+      "cupom": "EXCLUSIVONOMELI",
+      "enviadoEm": "2026-09-12T19:33:09.664Z"
+    },
     {
       "id": "17669",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 20,
       "cupom": "SALE30AF",
       "enviadoEm": "2026-09-11T14:35:24.643Z"
-    },
-    {
-      "id": "17275",
-      "loja": "Shopee",
-      "titulo": "JAQUETA DE COURO MASCULINA COM CAPUZ REMOVIVEL FORRADA E PELUCIDA POR DENTRO INVERNO/FRIO",
-      "link": "https://s.shopee.com.br/9Khy2D8Eid",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmtaw18rywhs2d_tn",
-      "preco": 154,
-      "precoDe": 230,
-      "desconto": 20,
-      "cupom": "SALE30AF",
-      "enviadoEm": "2026-09-11T14:11:58.636Z"
-    },
-    {
-      "id": "17274",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira de Descanso e Balanço Bebê Elétrica Snug - Maxi Baby",
-      "link": "https://meli.la/22M7kTR",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_904717-MLA99983919075_112025-F.jpg",
-      "preco": 483,
-      "precoDe": 799,
-      "desconto": 36,
-      "cupom": "COMPRITTASALLSITE",
-      "enviadoEm": "2026-09-11T14:08:23.342Z"
     }
   ]
 }
