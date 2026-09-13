@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T22:28:12.164Z",
+  "atualizadoEm": "2026-09-13T23:28:11.293Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1011,6 +1011,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "EXCLUSIVONOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-09-14T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "COMPRAFACIL",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1109,13 +1121,13 @@
     {
       "codigo": "SOLTAODESCONTO",
       "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 0,
-      "minimo": null,
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 150,
       "maximo": null,
-      "limite": null,
+      "limite": 300,
       "observacao": "Cupom aplicado ao produto específico (Geladeira LG). Valor do desconto não informado na mensagem; preço final já inclui o cupom.",
-      "validadeAte": "2026-09-14T22:25:17.000Z",
+      "validadeAte": "2026-09-14T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1261,6 +1273,18 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
+    },
+    {
+      "codigo": "BZCP71NWRF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 69.9,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-14T23:11:51.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "extra50 ",
