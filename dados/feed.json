@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-13T16:47:59.791Z",
+  "atualizadoEm": "2026-09-13T17:15:06.185Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17795",
+      "loja": "Shopee",
+      "titulo": "Massageador Elétrico 6 em 1 Corporal Potente Ergonômico Multifuncional Terapia 10 Velocidades",
+      "link": "https://s.shopee.com.br/905B1GgeYu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mr6qsdj7sydi4b_tn",
+      "preco": 175.98,
+      "precoDe": 244.42,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T17:05:06.184Z"
+    },
     {
       "id": "17791",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 28,
       "cupom": "SALE30AF",
       "enviadoEm": "2026-09-11T18:58:47.932Z"
-    },
-    {
-      "id": "17433",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo De Lençol Queen 3 Peças 400 Fios C/ Elástico Hotel",
-      "link": "https://meli.la/1HmxfWE",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_610704-MLB111988947215_052026-O.webp",
-      "preco": 29.5,
-      "precoDe": 41.99,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T18:54:10.201Z"
     }
   ]
 }
