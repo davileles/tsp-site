@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-13T13:03:31.086Z",
+  "atualizadoEm": "2026-09-13T13:17:59.743Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17739",
+      "loja": "Shopee",
+      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
+      "link": "https://s.shopee.com.br/W6cdvAsy8",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
+      "preco": 79,
+      "precoDe": 158,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T13:16:11.545Z"
+    },
     {
       "id": "17738",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-09-11T17:12:27.547Z"
-    },
-    {
-      "id": "17362",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Ventilador de mesa 30cm, 110V, Branco/Azul - V-30-6P",
-      "link": "https://www.amazon.com.br/dp/B08LBQWQV4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41S-TyLxgxL._SL400_.jpg",
-      "preco": 89,
-      "precoDe": 117.7,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T17:11:23.455Z"
     }
   ]
 }
