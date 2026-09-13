@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T23:10:15.333Z",
+  "atualizadoEm": "2026-09-13T01:10:15.198Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -983,7 +983,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": "Desconto já aplicado no preço final (R$ 132,35). Mensagem menciona 'desconto extra' ao usar código COMPRAFACIL no carrinho, mas não especifica o valor adicional do desconto do cupom. O desconto de 45% (R$ 107,55) já está refletido no preço de R$ 132,35.",
-      "validadeAte": "2026-09-14T02:59:00.000Z",
+      "validadeAte": "2026-09-15T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -995,7 +995,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-09-14T02:59:00.000Z",
+      "validadeAte": "2026-09-15T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1055,7 +1055,19 @@
       "maximo": null,
       "limite": 300,
       "observacao": "Múltiplos cupons Mercado Livre com categorias específicas e limites de desconto variados",
-      "validadeAte": "2026-09-14T02:59:00.000Z",
+      "validadeAte": "2026-09-15T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-09-13T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
