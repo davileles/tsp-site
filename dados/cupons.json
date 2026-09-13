@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T21:28:11.315Z",
+  "atualizadoEm": "2026-09-13T22:28:12.164Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1071,18 +1071,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ENTREGASFULL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-09-13T21:59:59.406Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELIACHAPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1107,18 +1095,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULL1309",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-09-13T22:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "APROVEITA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1133,13 +1109,13 @@
     {
       "codigo": "SOLTAODESCONTO",
       "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 8,
-      "minimo": 150,
+      "tipo": "reais",
+      "valor": 0,
+      "minimo": null,
       "maximo": null,
-      "limite": 300,
-      "observacao": "Desconto calculado pela diferença entre preço original (R$ 3.899,00) e preço final com cupom (R$ 2.093,92). Representa aproximadamente 46% de desconto.",
-      "validadeAte": "2026-09-14T02:59:00.000Z",
+      "limite": null,
+      "observacao": "Cupom aplicado ao produto específico (Geladeira LG). Valor do desconto não informado na mensagem; preço final já inclui o cupom.",
+      "validadeAte": "2026-09-14T22:25:17.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
