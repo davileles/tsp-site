@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T11:55:52.563Z",
+  "atualizadoEm": "2026-09-13T12:09:18.169Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -481,6 +481,18 @@
       "observacao": "10% OFF válido em categoria Utilidades Domésticas",
       "validadeAte": "2026-09-13T13:06:35.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "CASA1309",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 899,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-14T12:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "PRECINHO",
@@ -975,6 +987,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "1309TIENDASOFICIALES",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-09-14T12:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PAGUEMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1297,18 +1321,6 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
-    },
-    {
-      "codigo": "SHOPEE VIP",
-      "loja": "Shopee",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom exclusivo para Shopee VIP. Promoção de compra de livro sonoro com brinde (outro livro + kit canetinha).",
-      "validadeAte": "2026-09-14T02:49:47.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "extra50 ",
