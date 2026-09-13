@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T18:47:52.807Z",
+  "atualizadoEm": "2026-09-13T19:10:19.734Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1179,15 +1179,15 @@
       "url": null
     },
     {
-      "codigo": "FARMAJA",
+      "codigo": "FARMAAURA",
       "loja": "Outro: iFood",
       "tipo": "reais",
       "valor": 15,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Cupom válido para Farmácias no iFood",
-      "validadeAte": "2026-09-13T18:58:21.000Z",
+      "observacao": "Válido em Farmácia e Mercado no iFood. Sugestão de testar às 16h se não aplicar imediatamente.",
+      "validadeAte": "2026-09-14T18:57:33.000Z",
       "url": null
     },
     {
@@ -1215,7 +1215,7 @@
       "url": null
     },
     {
-      "codigo": "FARMAJA",
+      "codigo": "FARMAAURA",
       "loja": "Outro: iFood Farmácias",
       "tipo": "reais",
       "valor": 15,
@@ -1223,7 +1223,7 @@
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-09-13T18:59:40.000Z",
+      "validadeAte": "2026-09-14T18:57:32.000Z",
       "url": null
     },
     {
