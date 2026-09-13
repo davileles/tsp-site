@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-13T14:11:10.835Z",
+  "atualizadoEm": "2026-09-13T14:33:42.201Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17745",
+      "loja": "Shopee",
+      "titulo": "Kit com 2 - Máscara Capilar Skala 3 em 1 | Creme Sem Enxágue | Protetor Térmico | Vegano - The Gardener Pepper Force",
+      "link": "https://s.shopee.com.br/gQ2urYu3z",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mq2ggvxkzmde83_tn",
+      "preco": 12.04,
+      "precoDe": 44.59,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T14:23:42.199Z"
+    },
     {
       "id": "17743",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 34,
       "cupom": null,
       "enviadoEm": "2026-09-11T17:40:37.736Z"
-    },
-    {
-      "id": "17373",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Refletor Super Led 400w Ip67 Holofote Bivolt Prova D'água Branco Frio 6500k Preto",
-      "link": "https://meli.la/13hV5fe",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753073-MLA110946060098_052026-F.jpg",
-      "preco": 43.77,
-      "precoDe": 99.98,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T17:37:30.197Z"
     }
   ]
 }
