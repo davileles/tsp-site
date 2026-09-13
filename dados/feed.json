@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-13T20:28:47.789Z",
+  "atualizadoEm": "2026-09-13T22:28:11.002Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17840",
+      "loja": "Mercado Livre",
+      "titulo": "Mop Esfregão Giratório Condor Balde Inox 13 Litros + Refil Microfibra + Cabo Longo 1,4 Metros",
+      "link": "https://meli.la/2C6LZDc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_810904-MLA93779476451_092025-F.jpg",
+      "preco": 81.92,
+      "precoDe": 130,
+      "desconto": 23,
+      "cupom": "COMPRAFACIL",
+      "enviadoEm": "2026-09-13T22:22:05.924Z"
+    },
     {
       "id": "17829",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 19,
       "cupom": null,
       "enviadoEm": "2026-09-11T21:38:11.622Z"
-    },
-    {
-      "id": "17517",
-      "loja": "Mercado Livre",
-      "titulo": "Short Academia Feminino Poliamida Selene Zero Transparência",
-      "link": "https://meli.la/1MX5p96",
-      "imagem": null,
-      "preco": 48.99,
-      "precoDe": 78.99,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T21:25:50.806Z"
     }
   ]
 }
