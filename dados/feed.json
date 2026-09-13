@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-13T12:40:58.707Z",
+  "atualizadoEm": "2026-09-13T13:03:31.086Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17738",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Bobojaco Impermeável Becker Nylon Puffer Masculino com Bolsos e Capuz",
+      "link": "https://s.shopee.com.br/9zxhvoitlT",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmb-lo8gotg960in6f_tn",
+      "preco": 72.99,
+      "precoDe": 99.99,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T12:53:31.085Z"
+    },
     {
       "id": "17736",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-09-11T17:11:23.455Z"
-    },
-    {
-      "id": "17354",
-      "loja": "Shopee",
-      "titulo": "Lente de Contato Uso Diário Clariti - Coopervision + Estojo De Lentes",
-      "link": "https://s.shopee.com.br/3qN1fb4w5e",
-      "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-lui6b2ll3hph86_tn",
-      "preco": 116.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SALE30AF",
-      "enviadoEm": "2026-09-11T17:08:07.194Z"
     }
   ]
 }
