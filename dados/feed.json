@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-13T12:09:17.073Z",
+  "atualizadoEm": "2026-09-13T12:40:58.707Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17736",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Inox Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
+      "link": "https://s.shopee.com.br/905AiQzIB7",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms49lbchdmh1a1_tn",
+      "preco": 48.99,
+      "precoDe": 99.98,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T12:30:58.705Z"
+    },
     {
       "id": "17733",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "SALE30AF",
       "enviadoEm": "2026-09-11T17:08:07.194Z"
-    },
-    {
-      "id": "17353",
-      "loja": "Amazon",
-      "titulo": "Patrulha Canina - Boneco de 6cm e Veículo - Everest",
-      "link": "https://www.amazon.com.br/dp/B099QTC4SF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/319FT-LYD-L._SL400_.jpg",
-      "preco": 71.9,
-      "precoDe": 146.63,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T17:04:55.790Z"
     }
   ]
 }
