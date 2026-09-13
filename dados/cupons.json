@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T16:30:04.306Z",
+  "atualizadoEm": "2026-09-13T17:15:07.416Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1179,15 +1179,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
     },
     {
-      "codigo": "CESTACHEIA",
+      "codigo": "MERCADINHO",
       "loja": "Outro: iFood",
       "tipo": "reais",
       "valor": 25,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Cupom válido para iFood Mercados",
-      "validadeAte": "2026-09-13T16:58:30.000Z",
+      "observacao": "Cupom para iFood Mercados",
+      "validadeAte": "2026-09-14T16:57:25.000Z",
       "url": null
     },
     {
@@ -1236,18 +1236,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-13T18:59:40.000Z",
-      "url": null
-    },
-    {
-      "codigo": "CESTACHEIA",
-      "loja": "Outro: iFood Mercados",
-      "tipo": "reais",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-13T16:58:01.000Z",
       "url": null
     },
     {
