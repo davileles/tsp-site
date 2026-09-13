@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T17:15:07.416Z",
+  "atualizadoEm": "2026-09-13T17:37:37.510Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -483,30 +483,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 499,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-09-13T17:59:59.503Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SITETODO1309",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 499,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-13T18:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PRECINHO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -987,13 +963,13 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIOFF",
+      "codigo": "PROMOCERTAML",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
-      "minimo": 19,
+      "minimo": 79,
       "maximo": null,
-      "limite": 100,
+      "limite": 60,
       "observacao": null,
       "validadeAte": "2026-09-14T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
