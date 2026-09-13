@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-13T18:00:14.339Z",
+  "atualizadoEm": "2026-09-13T18:17:59.960Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17806",
+      "loja": "Amazon",
+      "titulo": "Refrigerante Zero Pepsi, Black, Lata 350ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0954R6FNH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/61xHGkdDlLL._SL400_.jpg",
+      "preco": 33.48,
+      "precoDe": 47.88,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T18:17:39.083Z"
+    },
+    {
+      "id": "17805",
+      "loja": "Shopee",
+      "titulo": "mini processador de alimentos elétrico picador de alho triturador de pimenta 350ml",
+      "link": "https://s.shopee.com.br/6q0gVvDlC6",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262a-mjeyzg7g2e4na3_tn",
+      "preco": 25.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T18:14:29.452Z"
+    },
+    {
+      "id": "17804",
+      "loja": "Amazon",
+      "titulo": "MONDIAL Liquidificador Pratic Power, Branco, 550W, 110V - L-97-W",
+      "link": "https://www.amazon.com.br/dp/B0CXTZ8TH1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41eRuQVnfbL._SL400_.jpg",
+      "preco": 93.68,
+      "precoDe": 139.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T18:10:54.823Z"
+    },
+    {
+      "id": "17803",
+      "loja": "Amazon",
+      "titulo": "Britânia Secador de Cabelo Motor BLDC 1450W BSD15A 127V Metal e plástico Rosa com rosê",
+      "link": "https://www.amazon.com.br/dp/B0GHZ9WLHB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41E6GUXzG2L._SL400_.jpg",
+      "preco": 329.9,
+      "precoDe": 769,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T18:07:41.919Z"
+    },
     {
       "id": "17799",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 30,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-09-11T19:49:02.846Z"
-    },
-    {
-      "id": "17470",
-      "loja": "Shopee",
-      "titulo": "Percarbonato 100% Puro Tira Manchas Roupas Brancas e Coloridas",
-      "link": "https://s.shopee.com.br/1BMGfziypE",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqdb9tob0xdu3d_tn",
-      "preco": 16.79,
-      "precoDe": 32.29,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T19:45:37.764Z"
-    },
-    {
-      "id": "17469",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Under Armour Charged Wing 2 disponível em 6 cores.",
-      "link": "https://meli.la/2fsC3En",
-      "imagem": null,
-      "preco": 207.38,
-      "precoDe": 409.9,
-      "desconto": 38,
-      "cupom": "EXCLUSIVONOMELI",
-      "enviadoEm": "2026-09-11T19:42:18.227Z"
-    },
-    {
-      "id": "17463",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Light T-shirt Insider Masculino",
-      "link": "https://meli.la/2nKY1UA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_779849-MLB89746747076_082025-O.webp",
-      "preco": 29.31,
-      "precoDe": 189,
-      "desconto": 69,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-11T19:24:59.314Z"
-    },
-    {
-      "id": "17460",
-      "loja": "Shopee",
-      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
-      "link": "https://s.shopee.com.br/7AdS918xWc",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
-      "preco": 59.989999999999995,
-      "precoDe": 199.97,
-      "desconto": 60,
-      "cupom": "QVRT38LKXM",
-      "enviadoEm": "2026-09-11T19:21:29.483Z"
     }
   ]
 }
