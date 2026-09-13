@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T23:28:11.293Z",
+  "atualizadoEm": "2026-09-13T23:58:11.318Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1165,6 +1165,102 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
+    },
+    {
+      "codigo": "BRFSAFF08",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 440,
+      "minimo": 3600,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento começa à meia-noite",
+      "validadeAte": "2026-09-14T23:39:26.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRFSAFF07",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 305,
+      "minimo": 2500,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento começa à meia-noite",
+      "validadeAte": "2026-09-14T23:39:26.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRFSAFF06",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 220,
+      "minimo": 1800,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento começa à meia-noite",
+      "validadeAte": "2026-09-14T23:39:26.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRFSAFF05",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 140,
+      "minimo": 1200,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento começa à meia-noite",
+      "validadeAte": "2026-09-14T23:39:26.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRFSAFF04",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 85,
+      "minimo": 660,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento começa à meia-noite",
+      "validadeAte": "2026-09-14T23:39:26.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRFSAFF03",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 360,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento começa à meia-noite",
+      "validadeAte": "2026-09-14T23:39:26.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRFSAFF02",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 25,
+      "minimo": 180,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento começa à meia-noite",
+      "validadeAte": "2026-09-14T23:39:26.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRFSAFF01",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 80,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento começa à meia-noite",
+      "validadeAte": "2026-09-14T23:39:26.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
       "codigo": "MERCADINHO",
