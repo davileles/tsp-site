@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T15:21:02.795Z",
+  "atualizadoEm": "2026-09-13T15:48:00.959Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -516,6 +516,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-13T18:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DESCONTASSO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 31,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto de 31% já aplicado no preço final (R$ 230,53 → R$ 158,33). Cupom DESCONTASSO.",
+      "validadeAte": "2026-09-14T15:23:44.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1071,18 +1083,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "DESCONTASSO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-09-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "ISDIN15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1104,18 +1104,6 @@
       "limite": 200,
       "observacao": "Cupom aplicado no produto Samsung Galaxy A57 5G; preço final R$ 1.619,19",
       "validadeAte": "2026-10-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "APROVEITANOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 300,
-      "observacao": "Múltiplos cupons Mercado Livre com categorias específicas e limites de desconto variados",
-      "validadeAte": "2026-09-14T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1152,6 +1140,18 @@
       "limite": 300,
       "observacao": "Desconto calculado pela diferença entre preço original (R$ 3.899,00) e preço final com cupom (R$ 2.093,92). Representa aproximadamente 46% de desconto.",
       "validadeAte": "2026-09-14T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "APROVEITANOML",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 0,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom com desconto já aplicado no preço final (R$ 1.325,37). Desconto efetivo é mínimo (diferença entre preço da loja R$ 1.324,80 e preço do post R$ 1.325,37 resulta em acréscimo, não desconto). Válido para parcelamento em até 10x sem juros.",
+      "validadeAte": "2026-09-14T15:28:22.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
