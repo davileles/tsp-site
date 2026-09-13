@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-13T15:17:59.743Z",
+  "atualizadoEm": "2026-09-13T15:47:59.744Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17781",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
+      "link": "https://meli.la/1JVBYQL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603981-MLA115262802698_082026-F.jpg",
+      "preco": 59.17,
+      "precoDe": 159.9,
+      "desconto": 51,
+      "cupom": "LEVEAGORA",
+      "enviadoEm": "2026-09-13T15:47:20.328Z"
+    },
+    {
+      "id": "17777",
+      "loja": "Amazon",
+      "titulo": "PDRN PINK PEPTIDE SERUM 30ml",
+      "link": "https://www.amazon.com.br/dp/B0DBF65JYY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31+NfU92POL._SL400_.jpg",
+      "preco": 154.27,
+      "precoDe": 278.74,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T15:44:02.472Z"
+    },
+    {
+      "id": "17773",
+      "loja": "Shopee",
+      "titulo": "Conjunto Masculino infantil verão silk Speed 2 a 14 anos",
+      "link": "https://s.shopee.com.br/6VNpwrPnOg",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824id-megbskm87y115e_tn",
+      "preco": 28.9,
+      "precoDe": 37.05,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T15:40:39.529Z"
+    },
+    {
+      "id": "17772",
+      "loja": "Amazon",
+      "titulo": "Philco Secador de Cabelos Titanium Travel Portátil",
+      "link": "https://www.amazon.com.br/dp/B076J12M27?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31TpfjprWZL._SL400_.jpg",
+      "preco": 71.9,
+      "precoDe": 104.54,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T15:36:47.600Z"
+    },
+    {
+      "id": "17771",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
+      "link": "https://s.shopee.com.br/6q0gL0EF9D",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
+      "preco": 49.33,
+      "precoDe": 65.77,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T15:33:42.197Z"
+    },
     {
       "id": "17750",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-09-11T18:30:06.265Z"
-    },
-    {
-      "id": "17412",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Descartável Baby M Pacote 50 Unidades Turma da Mônica",
-      "link": "https://meli.la/17caSXp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_738296-MLA110297780960_052026-F.jpg",
-      "preco": 31.38,
-      "precoDe": 50.05,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T18:29:20.316Z"
-    },
-    {
-      "id": "17411",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Camiseta Dry Masculina Fit Lupo Básica Academia",
-      "link": "https://meli.la/1ShDfYq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_762959-MLB86479696657_062025-O.webp",
-      "preco": 110.69000000000001,
-      "precoDe": 187.88,
-      "desconto": 28,
-      "cupom": "EXCLUSIVONOMELI",
-      "enviadoEm": "2026-09-11T18:28:17.546Z"
-    },
-    {
-      "id": "17409",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo de Facas Tramontina Plenus 7 peças Preto 23498/066",
-      "link": "https://meli.la/1u1MXxQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_715638-MLA115630807360_092026-F.jpg",
-      "preco": 43.02,
-      "precoDe": 58.2,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T18:25:09.535Z"
-    },
-    {
-      "id": "17408",
-      "loja": "Mercado Livre",
-      "titulo": "Camisa Básica Masculina Manga Longa Slim Hering",
-      "link": "https://meli.la/1ybzG99",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652555-MLB115382118177_072026-O.webp",
-      "preco": 81.99,
-      "precoDe": 199.99,
-      "desconto": 50,
-      "cupom": "EXCLUSIVONOMELI",
-      "enviadoEm": "2026-09-11T18:21:48.541Z"
-    },
-    {
-      "id": "17401",
-      "loja": "Shopee",
-      "titulo": "Macacão Feminino Longo Pantalona Elegante Premium Assimétrico Duna Tomara Que Caia Solto Alfaiataria Social Moda Casual",
-      "link": "https://s.shopee.com.br/6VNmvb3fRY",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-moy6w5u9jf2e9a_tn",
-      "preco": 54.99,
-      "precoDe": 99.98,
-      "desconto": 40,
-      "cupom": "S3XT0U50FF",
-      "enviadoEm": "2026-09-11T18:13:43.733Z"
     }
   ]
 }
