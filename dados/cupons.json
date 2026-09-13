@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T19:10:19.734Z",
+  "atualizadoEm": "2026-09-13T19:32:48.772Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -639,6 +639,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CASALAVANDERIA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 40,
+      "maximo": null,
+      "limite": 25,
+      "observacao": null,
+      "validadeAte": "2026-09-15T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "DESCOTOSMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -975,18 +987,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODAEBEMESTAR",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-09-13T22:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PAGUEMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1020,6 +1020,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-09-22T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "EXCLUSIVONOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-09-14T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1083,6 +1095,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ENTREGASFULL",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-09-15T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MELIACHAPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1115,7 +1139,19 @@
       "maximo": null,
       "limite": 20,
       "observacao": null,
-      "validadeAte": "2026-09-14T18:00:18.000Z",
+      "validadeAte": "2026-09-13T22:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "APROVEITA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupom válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-14T19:28:15.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
