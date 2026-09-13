@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-13T17:37:36.269Z",
+  "atualizadoEm": "2026-09-13T18:00:14.339Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17799",
+      "loja": "Shopee",
+      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
+      "link": "https://s.shopee.com.br/1gIaKsjsV2",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
+      "preco": 79.99,
+      "precoDe": 199.97,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T17:50:14.337Z"
+    },
     {
       "id": "17798",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 60,
       "cupom": "QVRT38LKXM",
       "enviadoEm": "2026-09-11T19:21:29.483Z"
-    },
-    {
-      "id": "17444",
-      "loja": "Amazon",
-      "titulo": "Banana Boat Kids Sport Broad Spectrum Protetor Solar Stick com SPF 50",
-      "link": "https://www.amazon.com.br/dp/B077D3MXK9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41SValeC6GL._SL400_.jpg",
-      "preco": 78.26,
-      "precoDe": 159.84,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T19:06:52.008Z"
     }
   ]
 }
