@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-13T15:47:59.744Z",
+  "atualizadoEm": "2026-09-13T16:10:42.334Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17788",
+      "loja": "Amazon",
+      "titulo": "PHILIPS, Fone de Ouvido Sem Fio TWS, TAT1109BK/00, Bluetooth, Com Microfone, Até 24 horas de bateria, Preto",
+      "link": "https://www.amazon.com.br/dp/B0DVMQVVDY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31eeSqQHCvL._SL400_.jpg",
+      "preco": 99.9,
+      "precoDe": 144,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T16:00:42.333Z"
+    },
+    {
+      "id": "17785",
+      "loja": "Shopee",
+      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
+      "link": "https://s.shopee.com.br/3B7NzoFxSb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
+      "preco": 49.33,
+      "precoDe": 65.77,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T15:57:33.085Z"
+    },
+    {
+      "id": "17784",
+      "loja": "Mercado Livre",
+      "titulo": "Relógio Casio Masculino Digital Preto de Resina W-59-1VQ",
+      "link": "https://meli.la/2oyhbMT",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_684326-MLA115755090874_092026-F.jpg",
+      "preco": 88.64,
+      "precoDe": 239.11,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T15:54:01.143Z"
+    },
+    {
+      "id": "17782",
+      "loja": "Mercado Livre",
+      "titulo": "Kaiak Ultra Natura Colônia Perfume Masculino 100ml Relançamento 2025",
+      "link": "https://meli.la/1ERcNet",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_916194-MLA114865292471_072026-F.jpg",
+      "preco": 75.95,
+      "precoDe": 189.9,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T15:50:29.905Z"
+    },
     {
       "id": "17781",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": 5,
       "cupom": null,
       "enviadoEm": "2026-09-11T18:39:43.200Z"
-    },
-    {
-      "id": "17420",
-      "loja": "Shopee",
-      "titulo": "Mala De Viagem/Bordo 10KG,Nova Estilo Zíper Dupla Camada Anti-Roubo,Rodas Duplas 360Grau lançamento",
-      "link": "https://s.shopee.com.br/50YzAO1Snw",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6kfam0o02sw54_tn",
-      "preco": 118.5,
-      "precoDe": 270,
-      "desconto": 45,
-      "cupom": "SALE30AF",
-      "enviadoEm": "2026-09-11T18:36:02.618Z"
-    },
-    {
-      "id": "17417",
-      "loja": "Mercado Livre",
-      "titulo": "Lixeira Antiodor 10l Fraldas Bebe Lixo Mágico Branco",
-      "link": "https://meli.la/27HByWA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_635175-MLA110987236719_042026-F.jpg",
-      "preco": 110.52,
-      "precoDe": 174.06,
-      "desconto": 23,
-      "cupom": "COMPRAFACIL",
-      "enviadoEm": "2026-09-11T18:31:54.812Z"
-    },
-    {
-      "id": "17414",
-      "loja": "Amazon",
-      "titulo": "Toyster - Jogo de Ação: Investigato - Game Office",
-      "link": "https://www.amazon.com.br/dp/B0CBSTSHHH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51JnV0QQ6xL._SL400_.jpg",
-      "preco": 37.99,
-      "precoDe": 69.9,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T18:30:58.156Z"
-    },
-    {
-      "id": "17413",
-      "loja": "Amazon",
-      "titulo": "MAPA DO BRASIL 3D em PLÁSTICO",
-      "link": "https://www.amazon.com.br/dp/B07VLJ9F6C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41lzwzlVl8L._SL400_.jpg",
-      "preco": 54.9,
-      "precoDe": 72.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T18:30:06.265Z"
     }
   ]
 }
