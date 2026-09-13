@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-13T19:32:47.745Z",
+  "atualizadoEm": "2026-09-13T19:47:59.966Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17823",
+      "loja": "Shopee",
+      "titulo": "Regata feminina adulto kit 2 unidades cores variadas malha premium academia e dia a dia",
+      "link": "https://s.shopee.com.br/8AW4Ck3BRK",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mp9xiwp3c3k0c4_tn",
+      "preco": 22.48,
+      "precoDe": 54.83,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T19:45:19.616Z"
+    },
     {
       "id": "17821",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 55,
       "cupom": null,
       "enviadoEm": "2026-09-11T20:53:04.757Z"
-    },
-    {
-      "id": "17501",
-      "loja": "Mercado Livre",
-      "titulo": "CAFEÍNA 100% PURA 200mg por Cápsula - 60 Cápsulas - Termogênico com Fórmula Concentrada para a Máxima Absorção",
-      "link": "https://meli.la/1w4VXqY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_795899-MLA113497552966_072026-O.webp",
-      "preco": 28.93,
-      "precoDe": 71.77,
-      "desconto": 42,
-      "cupom": "PECHINCHA",
-      "enviadoEm": "2026-09-11T20:46:23.758Z"
     }
   ]
 }
