@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-13T11:33:28.106Z",
+  "atualizadoEm": "2026-09-13T11:55:51.420Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17730",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
+      "link": "https://s.shopee.com.br/8fSKGjXupu",
+      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
+      "preco": 37.03,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SHOPEE VIP",
+      "enviadoEm": "2026-09-13T11:45:51.418Z"
+    },
     {
       "id": "17730",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-09-11T17:03:49.979Z"
-    },
-    {
-      "id": "17349",
-      "loja": "Shopee",
-      "titulo": "Notebook VAIO FE16 AMD® Ryzen 5-5625U Linux 8GB RAM 256GB SSD 16\" IPS WUXGA Antirreflexo - Cinza",
-      "link": "https://s.shopee.com.br/9peEnuZkEq",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mddnfm1jsj5t93_tn",
-      "preco": 3285.87,
-      "precoDe": 4501.19,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T17:00:35.114Z"
     }
   ]
 }
