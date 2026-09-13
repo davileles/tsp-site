@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-13T19:47:59.966Z",
+  "atualizadoEm": "2026-09-13T20:17:59.966Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17828",
+      "loja": "Mercado Livre",
+      "titulo": "Kit C/ 2 Limpa Ar Condicionado Carro Higienizador Ar Spray",
+      "link": "https://meli.la/2p8tF1y",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_795364-MLB116774360295_082026-O.webp",
+      "preco": 29.9,
+      "precoDe": 46.5,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-13T20:09:14.060Z"
+    },
     {
       "id": "17823",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 10,
       "cupom": "SALE30AF",
       "enviadoEm": "2026-09-11T21:15:34.382Z"
-    },
-    {
-      "id": "17509",
-      "loja": "Shopee",
-      "titulo": "Saco de Lixo resistente 20/40/60/100 Litros direto da fábrica",
-      "link": "https://s.shopee.com.br/4LJIWZNgTO",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-luz0raa04k0w98_tn",
-      "preco": 8.99,
-      "precoDe": 19.98,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-09-11T20:53:04.757Z"
     }
   ]
 }
