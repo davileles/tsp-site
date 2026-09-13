@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T13:26:11.788Z",
+  "atualizadoEm": "2026-09-13T14:33:43.372Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -469,30 +469,6 @@
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "CASA1309",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 899,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-13T15:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TUDOPRACASA",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 899,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-09-15T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "PRECINHO",
@@ -987,15 +963,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PROMOCERTAML",
+      "codigo": "MELHORDADESPENSA",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
-      "minimo": 79,
+      "minimo": 99,
       "maximo": null,
-      "limite": 60,
+      "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-09-14T02:59:00.000Z",
+      "validadeAte": "2026-09-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1091,18 +1067,6 @@
       "maximo": null,
       "limite": 150,
       "observacao": "Válido em produtos selecionados",
-      "validadeAte": "2026-09-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MANTECORP14",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 14,
-      "minimo": 5,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
       "validadeAte": "2026-09-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
