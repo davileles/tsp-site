@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-14T19:14:13.262Z",
+  "atualizadoEm": "2026-09-14T19:44:13.277Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18179",
+      "loja": "Shopee",
+      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
+      "link": "https://s.shopee.com.br/6fhI0Cm1Nh",
+      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
+      "preco": 54.989999999999995,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BZCP71NWRF",
+      "enviadoEm": "2026-09-14T19:35:33.310Z"
+    },
+    {
+      "id": "18176",
+      "loja": "Mercado Livre",
+      "titulo": "Caminhão de carro modelo LEGO® Technic Ford Bronco® 42213",
+      "link": "https://meli.la/2YEhFzV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_792415-MLA99505013792_112025-F.jpg",
+      "preco": 384.99,
+      "precoDe": 559.99,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T19:31:03.136Z"
+    },
+    {
+      "id": "18167",
+      "loja": "Amazon",
+      "titulo": "Amstel Cerveja Lager Puro Malte, Lata 350ml, Pack 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CMXV5WLB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41HMYUaJgHL._SL400_.jpg",
+      "preco": null,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "GAMER300",
+      "enviadoEm": "2026-09-14T19:24:29.137Z"
+    },
     {
       "id": "18159",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-13T13:38:34.897Z"
-    },
-    {
-      "id": "17739",
-      "loja": "Shopee",
-      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
-      "link": "https://s.shopee.com.br/W6cdvAsy8",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
-      "preco": 79,
-      "precoDe": 158,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T13:16:11.545Z"
-    },
-    {
-      "id": "17736",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Inox Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
-      "link": "https://s.shopee.com.br/905AiQzIB7",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms49lbchdmh1a1_tn",
-      "preco": 48.99,
-      "precoDe": 99.98,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T12:30:58.705Z"
-    },
-    {
-      "id": "17733",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
-      "link": "https://s.shopee.com.br/W6ZKZJGgj",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-k1jd7z81yzkv2f_tn",
-      "preco": 25,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T12:08:20.408Z"
     }
   ]
 }
