@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-14T13:31:51.657Z",
+  "atualizadoEm": "2026-09-14T14:01:51.672Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17958",
+      "loja": "Shopee",
+      "titulo": "iPhone 17 5G 256GB Tela 6,3\" 120Hz 48MP iOS Original Novo Lacrado com Nota FIscal",
+      "link": "https://s.shopee.com.br/905COzyOxY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk46pndmbguab3_tn",
+      "preco": 5953,
+      "precoDe": 9050,
+      "desconto": 34,
+      "cupom": "BZCP71NWRF",
+      "enviadoEm": "2026-09-14T13:53:53.943Z"
+    },
+    {
+      "id": "17956",
+      "loja": "Amazon",
+      "titulo": "Philips OneBlade Barbeador e Aparador Elétrico: Raspa, Apara e Contorna",
+      "link": "https://www.amazon.com.br/dp/B0C2J8DQC1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41V2VqCfoEL._SL400_.jpg",
+      "preco": 138.97,
+      "precoDe": 244.74,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T13:44:49.779Z"
+    },
     {
       "id": "17950",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-09-12T14:07:26.550Z"
-    },
-    {
-      "id": "17607",
-      "loja": "Shopee",
-      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
-      "link": "https://s.shopee.com.br/3LQmTgjP9p",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
-      "preco": 74.99,
-      "precoDe": 199.97,
-      "desconto": 60,
-      "cupom": "S3XT0U50FF",
-      "enviadoEm": "2026-09-12T14:06:34.718Z"
-    },
-    {
-      "id": "17605",
-      "loja": "Amazon",
-      "titulo": "Replay Kids Troninho Penico Infantil Musical Sapinho Verde",
-      "link": "https://www.amazon.com.br/dp/B0DJ3M8JDJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41i6zPQ5ubL._SL400_.jpg",
-      "preco": 58.26,
-      "precoDe": 76.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T14:03:18.476Z"
     }
   ]
 }
