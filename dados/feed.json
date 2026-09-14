@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-14T17:45:13.212Z",
+  "atualizadoEm": "2026-09-14T18:08:42.585Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18108",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/416kQ1MEMqL._SL400_.jpg",
+      "preco": 104.4,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T17:58:42.584Z"
+    },
+    {
+      "id": "18110",
+      "loja": "Shopee",
+      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
+      "link": "https://s.shopee.com.br/6Al1IGNFsD",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
+      "preco": 177.9,
+      "precoDe": 599.7,
+      "desconto": 67,
+      "cupom": "BZCP71NWRF",
+      "enviadoEm": "2026-09-14T17:57:40.442Z"
+    },
+    {
+      "id": "18109",
+      "loja": "Mercado Livre",
+      "titulo": "Eps-6905 Balança Epsilon Inteligente Bluetooth Com App, Lcd, Vidro Temperado, 180kg",
+      "link": "https://meli.la/1LikcoN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_941738-MLA106814881195_022026-F.jpg",
+      "preco": 26.99,
+      "precoDe": 59.99,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T17:54:27.626Z"
+    },
+    {
+      "id": "18106",
+      "loja": "Amazon",
+      "titulo": "Absolut Vodka Citron Sueca 750ml Absolut Sabor vodka 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B003WIG5J2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/312-DYHnNAL._SL400_.jpg",
+      "preco": null,
+      "precoDe": 117.9,
+      "desconto": 42,
+      "cupom": "GAMER300",
+      "enviadoEm": "2026-09-14T17:50:48.790Z"
+    },
+    {
+      "id": "18105",
+      "loja": "Amazon",
+      "titulo": "Carrinho de Passeio C/Bebê Conforto TS NIVI Maxi Baby (Preto)",
+      "link": "https://www.amazon.com.br/dp/B0FMFWWD8H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41gD6xEMGsL._SL400_.jpg",
+      "preco": 722,
+      "precoDe": 1399.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T17:47:06.379Z"
+    },
+    {
+      "id": "18104",
+      "loja": "Amazon",
+      "titulo": "Maxi Baby Carrinho de Bebê Guarda Chuva LINK Até 15kgs (Preto)",
+      "link": "https://www.amazon.com.br/dp/B0CPN7TJ4F?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314a3iZJRzL._SL400_.jpg",
+      "preco": 329.9,
+      "precoDe": 469.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T17:46:00.677Z"
+    },
     {
       "id": "18103",
       "loja": "Amazon",
@@ -25,18 +97,6 @@
       "desconto": null,
       "cupom": "BZCP71NWRF",
       "enviadoEm": "2026-09-14T17:30:19.899Z"
-    },
-    {
-      "id": "18093",
-      "loja": "Amazon",
-      "titulo": "Absolut Vodka Citron Sueca 750ml Absolut Sabor vodka 750 Ml",
-      "link": "https://www.amazon.com.br/dp/B003WIG5J2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/312-DYHnNAL._SL400_.jpg",
-      "preco": null,
-      "precoDe": 117.9,
-      "desconto": 42,
-      "cupom": "GAMER300",
-      "enviadoEm": "2026-09-14T17:15:41.316Z"
     },
     {
       "id": "18086",
@@ -1381,66 +1441,6 @@
       "desconto": 47,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-09-12T20:45:55.902Z"
-    },
-    {
-      "id": "17686",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 20 Potes Porta Mantimento Herméticos 2,3litros 1,1litro 500ml Acrílico Empilhável Transparência Cristal Livre de BPA",
-      "link": "https://meli.la/1Ukd7St",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_955120-MLA115342253907_072026-F.jpg",
-      "preco": 132.35,
-      "precoDe": 239.9,
-      "desconto": 45,
-      "cupom": "COMPRAFACIL",
-      "enviadoEm": "2026-09-12T20:42:32.588Z"
-    },
-    {
-      "id": "17688",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Jean Paul Gaultier Scandal Eau de Parfum 30 ml Feminino",
-      "link": "https://meli.la/1RLMQn6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_750894-MLA99264544148_112025-F.jpg",
-      "preco": 431.72,
-      "precoDe": 519,
-      "desconto": 17,
-      "cupom": "BELEZACOMPRITTAS",
-      "enviadoEm": "2026-09-12T20:39:23.461Z"
-    },
-    {
-      "id": "17691",
-      "loja": "Mercado Livre",
-      "titulo": "Esmerilhadeira Angular Corte E Desbaste 115mm 850w Makita",
-      "link": "https://meli.la/1EeK9Uj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_617378-MLB76596867094_062024-O.webp",
-      "preco": 272.84,
-      "precoDe": 479.9,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T20:36:04.848Z"
-    },
-    {
-      "id": "17693",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Wella Professionals Fusion Shampoo Condicionador",
-      "link": "https://meli.la/1uty9F2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_712119-MLA99415103216_112025-F.jpg",
-      "preco": 294.92,
-      "precoDe": 599.9,
-      "desconto": 51,
-      "cupom": "BELEZACOMPRITTAS",
-      "enviadoEm": "2026-09-12T20:32:31.564Z"
-    },
-    {
-      "id": "17692",
-      "loja": "Shopee",
-      "titulo": "Organizador de Mala Viagem, Nécessaire Feminina, Kit para viagem com 3 unidades",
-      "link": "https://s.shopee.com.br/112s7cMEEe",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3j5nb4hr5fcb4_tn",
-      "preco": 32,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T20:28:06.397Z"
     }
   ]
 }
