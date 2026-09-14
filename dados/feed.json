@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-14T15:31:07.556Z",
+  "atualizadoEm": "2026-09-14T15:50:36.574Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18031",
+      "loja": "Amazon",
+      "titulo": "Britânia Secador de Cabelo Motor BLDC 1450W BSD15A 127V Metal e plástico Rosa com rosê",
+      "link": "https://www.amazon.com.br/dp/B0GHZ9WLHB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41E6GUXzG2L._SL400_.jpg",
+      "preco": 329.9,
+      "precoDe": 769,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T15:40:36.573Z"
+    },
+    {
+      "id": "18030",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 4 Camiseta Dry-fit Sandrini Masculina Academia Caminhada",
+      "link": "https://meli.la/2SAT5Vz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_626928-MLB82004918446_022025-O.webp",
+      "preco": 44.27,
+      "precoDe": 135.41,
+      "desconto": 60,
+      "cupom": "PAGUEMENOS",
+      "enviadoEm": "2026-09-14T15:37:34.244Z"
+    },
     {
       "id": "18026",
       "loja": "Shopee",
@@ -625,18 +649,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-09-13T18:10:54.823Z"
-    },
-    {
-      "id": "17803",
-      "loja": "Amazon",
-      "titulo": "Britânia Secador de Cabelo Motor BLDC 1450W BSD15A 127V Metal e plástico Rosa com rosê",
-      "link": "https://www.amazon.com.br/dp/B0GHZ9WLHB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41E6GUXzG2L._SL400_.jpg",
-      "preco": 329.9,
-      "precoDe": 769,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T18:07:41.919Z"
     },
     {
       "id": "17799",
@@ -1429,18 +1441,6 @@
       "desconto": 54,
       "cupom": "COMPRAFACIL",
       "enviadoEm": "2026-09-12T15:12:55.389Z"
-    },
-    {
-      "id": "17623",
-      "loja": "Amazon",
-      "titulo": "Eu e minha mamãe",
-      "link": "https://www.amazon.com.br/dp/8538017470?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Ipz7kfHQL._SL400_.jpg",
-      "preco": 19.32,
-      "precoDe": 39.9,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T15:01:51.453Z"
     }
   ]
 }
