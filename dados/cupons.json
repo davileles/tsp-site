@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-14T09:41:17.319Z",
+  "atualizadoEm": "2026-09-14T10:41:18.324Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -612,18 +612,6 @@
       "limite": 40,
       "observacao": "Cupom de 30% OFF em Gel de Limpeza Anti-marcas Glycolic-bright Loréal Paris 150g",
       "validadeAte": "2026-09-16T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CASALAVANDERIA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 40,
-      "maximo": null,
-      "limite": 25,
-      "observacao": null,
-      "validadeAte": "2026-09-15T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
