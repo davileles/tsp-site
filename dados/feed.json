@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-14T15:50:36.574Z",
+  "atualizadoEm": "2026-09-14T16:01:07.561Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18040",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 5 Camisetas Dry All Black Alpha",
+      "link": "https://meli.la/1BJn5Z2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_800634-MLB104003692977_012026-O.webp",
+      "preco": 101.25999999999999,
+      "precoDe": 249.5,
+      "desconto": 51,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-14T15:59:38.359Z"
+    },
+    {
+      "id": "18039",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira The Black Tools TB12A 3/8 a Bateria Cor Amarelo Frequência 60Hz",
+      "link": "https://meli.la/21A88QW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_648315-MLA113252989356_072026-F.jpg",
+      "preco": 51.230000000000004,
+      "precoDe": 119.9,
+      "desconto": 47,
+      "cupom": "MELITUDOBOM",
+      "enviadoEm": "2026-09-14T15:56:29.244Z"
+    },
+    {
+      "id": "18038",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Frascos Potes Viagem Silicone 90ml   Para Viagem Condicionador Shampoo Creme Cosméticos",
+      "link": "https://s.shopee.com.br/5fokZ67BqS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-miuylj3ciex269_tn",
+      "preco": 22.99,
+      "precoDe": 40.33,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T15:53:15.446Z"
+    },
     {
       "id": "18031",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-09-12T15:26:54.043Z"
-    },
-    {
-      "id": "17629",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Com 3 Camisetas Masculinas Básicas Slim Cor Preto Hering",
-      "link": "https://meli.la/2Lg78BL",
-      "imagem": null,
-      "preco": 60.68,
-      "precoDe": 99.99,
-      "desconto": 26,
-      "cupom": "EXCLUSIVONOMELI",
-      "enviadoEm": "2026-09-12T15:21:48.029Z"
-    },
-    {
-      "id": "17628",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Marmitas 900ml com Travas Potes Herméticos - Livres de BPA para Alimentos organiza congelador",
-      "link": "https://s.shopee.com.br/2BEpAEOy0U",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-ms4svnxflfd31d_tn",
-      "preco": 36.9,
-      "precoDe": 80.22,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T15:16:27.859Z"
-    },
-    {
-      "id": "17626",
-      "loja": "Mercado Livre",
-      "titulo": "Mesa Para Escritório Diretor 1,80m Dynamica Cor Preto Ônix / Est.Preta",
-      "link": "https://meli.la/2c3Xaxu",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_957476-MLA95686193164_102025-F.jpg",
-      "preco": 256.2,
-      "precoDe": 677.03,
-      "desconto": 54,
-      "cupom": "COMPRAFACIL",
-      "enviadoEm": "2026-09-12T15:12:55.389Z"
     }
   ]
 }
