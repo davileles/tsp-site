@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-14T21:56:10.674Z",
+  "atualizadoEm": "2026-09-14T22:12:42.659Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18270",
+      "loja": "Amazon",
+      "titulo": "Bourbon Whiskey Jim Beam White 1L",
+      "link": "https://www.amazon.com.br/dp/B005HQNCLG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SL400_.jpg",
+      "preco": 79.59,
+      "precoDe": 109,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T22:02:42.657Z"
+    },
+    {
+      "id": "18267",
+      "loja": "Amazon",
+      "titulo": "NIVEA MEN Desodorante Antitranspirante Aerossol Derma Control Defende 200ml, Proteção 72h, Previne Irritações, Ácido Hialurônico, Conforto Extra",
+      "link": "https://www.amazon.com.br/dp/B0FDDMNSPD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31g2PkK1uPL._SL400_.jpg",
+      "preco": 10.39,
+      "precoDe": 19.9,
+      "desconto": 35,
+      "cupom": "20NIVEA",
+      "enviadoEm": "2026-09-14T21:57:52.143Z"
+    },
     {
       "id": "18262",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 7,
       "cupom": null,
       "enviadoEm": "2026-09-13T18:30:51.736Z"
-    },
-    {
-      "id": "17809",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo 6 Copos Vidro Diamante Grosso Resistente Agua 300ml Branco Ms Variedades",
-      "link": "https://meli.la/18mBxV5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_787808-MLA109215385620_042026-F.jpg",
-      "preco": 24.68,
-      "precoDe": 39.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T18:27:45.669Z"
-    },
-    {
-      "id": "17808",
-      "loja": "Mercado Livre",
-      "titulo": "ISDIN Acniben Gel Secativo para Espinhas On the Spot - 13,8g",
-      "link": "https://meli.la/1iFyW4v",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_668230-MLU72578566892_112023-F.jpg",
-      "preco": 68.67,
-      "precoDe": 99.9,
-      "desconto": 19,
-      "cupom": "ISDIN15",
-      "enviadoEm": "2026-09-13T18:24:24.019Z"
     }
   ]
 }
