@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-14T11:35:06.327Z",
+  "atualizadoEm": "2026-09-14T11:57:36.962Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17893",
+      "loja": "Shopee",
+      "titulo": "Calça Legging Feminina Grossa Flanelada Suplex Térmica Peluciada –Leg Inverno",
+      "link": "https://s.shopee.com.br/50Z3V0RccI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mnxayzevqhvo24_tn",
+      "preco": 31.89,
+      "precoDe": 49.83,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T11:47:36.960Z"
+    },
     {
       "id": "17883",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "S3XT0U50FF",
       "enviadoEm": "2026-09-12T12:12:49.043Z"
-    },
-    {
-      "id": "17545",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Curvo TCL 34 Polegadas QLED Mini LED WQHD R83Q 180Hz 1ms (GtG) HDR 1400 nits 34R83Q",
-      "link": "https://meli.la/2bVQEnj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_949367-MLA115998715922_092026-F.jpg",
-      "preco": 2991,
-      "precoDe": 4499,
-      "desconto": 29,
-      "cupom": "PROMOMELI",
-      "enviadoEm": "2026-09-12T12:09:30.234Z"
     }
   ]
 }
