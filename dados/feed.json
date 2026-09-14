@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-14T20:56:10.662Z",
+  "atualizadoEm": "2026-09-14T21:26:10.663Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18255",
+      "loja": "Amazon",
+      "titulo": "Vodka Skyy 980ml",
+      "link": "https://www.amazon.com.br/dp/B07XS8JM94?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31HFs6AMv8L._SL400_.jpg",
+      "preco": 27.39,
+      "precoDe": 46.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T21:19:34.729Z"
+    },
+    {
+      "id": "18254",
+      "loja": "Mercado Livre",
+      "titulo": "LEGO City Transportador de Motocicletas 60491; Brinquedo de caminhão, 2 motocicletas e 2 Minifiguras",
+      "link": "https://meli.la/11CHiwd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_673214-MLA100951947233_122025-F.jpg",
+      "preco": 119.7,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "LEVOUBARATO",
+      "enviadoEm": "2026-09-14T21:18:31.067Z"
+    },
+    {
+      "id": "18253",
+      "loja": "Amazon",
+      "titulo": "NIVEA Hidratante para Banho Milk 250ml, Cuidado Nutritivo 24h, Uso no Banho, Óleo de Amêndoas, Sensação de Maciez, Pele Seca",
+      "link": "https://www.amazon.com.br/dp/B079VTMGTH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313SDo+H-WL._SL400_.jpg",
+      "preco": 17.4,
+      "precoDe": 22.9,
+      "desconto": 5,
+      "cupom": "20NIVEA",
+      "enviadoEm": "2026-09-14T21:14:59.507Z"
+    },
+    {
+      "id": "18252",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Panelas Indução Mimo Cerâmica 12 Peças Mármol Cor Marmol",
+      "link": "https://meli.la/1BMUmZB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_924342-MLA100076756669_122025-F.jpg",
+      "preco": 248.5,
+      "precoDe": 731,
+      "desconto": 51,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-14T21:11:47.191Z"
+    },
+    {
+      "id": "18247",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Camisetas Gola V Masculinas Polo Wear Sortido",
+      "link": "https://meli.la/2oqnAp9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_848736-MLB115641065684_092026-O.webp",
+      "preco": 81.99,
+      "precoDe": 189.99,
+      "desconto": 47,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-14T21:07:11.272Z"
+    },
+    {
+      "id": "18246",
+      "loja": "Amazon",
+      "titulo": "Sabão Liquido Brilhante 5L",
+      "link": "https://www.amazon.com.br/dp/B07ZQMBFMX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41kPDQ8jc1L._SL400_.jpg",
+      "preco": 37.99,
+      "precoDe": 49.99,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T21:03:53.644Z"
+    },
     {
       "id": "18244",
       "loja": "Amazon",
@@ -1369,78 +1441,6 @@
       "desconto": 60,
       "cupom": null,
       "enviadoEm": "2026-09-13T17:50:14.337Z"
-    },
-    {
-      "id": "17798",
-      "loja": "Shopee",
-      "titulo": "Mini Blocos de Montar Cachorro Fofo Kawaii Presente Pinscher Poodle Shiba Ibu Schnauzer Infantil",
-      "link": "https://s.shopee.com.br/7VGNG3ZyxV",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mrr89ftyrwnad8_tn",
-      "preco": 17.99,
-      "precoDe": 29.98,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T17:27:36.268Z"
-    },
-    {
-      "id": "17795",
-      "loja": "Shopee",
-      "titulo": "Massageador Elétrico 6 em 1 Corporal Potente Ergonômico Multifuncional Terapia 10 Velocidades",
-      "link": "https://s.shopee.com.br/905B1GgeYu",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mr6qsdj7sydi4b_tn",
-      "preco": 175.98,
-      "precoDe": 244.42,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T17:05:06.184Z"
-    },
-    {
-      "id": "17791",
-      "loja": "Shopee",
-      "titulo": "Kit Zípers de Reparo Universal Conserto Instantâneo Sem costura Prático",
-      "link": "https://s.shopee.com.br/6fhGDR1qb4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1u55wybuzze95_tn",
-      "preco": 10.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T16:42:30.911Z"
-    },
-    {
-      "id": "17789",
-      "loja": "Shopee",
-      "titulo": "Kit Pampers Glicerina Shampoo 350ml + Condicionador 200ml + Loção Hidratante 350ml + Sabonete Líquido 200ml",
-      "link": "https://s.shopee.com.br/W6cqYbZBb",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g3-mptqk2z79y4v6b_tn",
-      "preco": 135.7,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T16:20:03.221Z"
-    },
-    {
-      "id": "17785",
-      "loja": "Shopee",
-      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
-      "link": "https://s.shopee.com.br/3B7NzoFxSb",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
-      "preco": 49.33,
-      "precoDe": 65.77,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T15:57:33.085Z"
-    },
-    {
-      "id": "17784",
-      "loja": "Mercado Livre",
-      "titulo": "Relógio Casio Masculino Digital Preto de Resina W-59-1VQ",
-      "link": "https://meli.la/2oyhbMT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_684326-MLA115755090874_092026-F.jpg",
-      "preco": 88.64,
-      "precoDe": 239.11,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T15:54:01.143Z"
     }
   ]
 }
