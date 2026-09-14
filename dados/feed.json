@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-14T16:05:03.862Z",
+  "atualizadoEm": "2026-09-14T16:34:03.889Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18065",
+      "loja": "Mercado Livre",
+      "titulo": "Tinta Coralar Anti Mofo Acrilica Coral Escolha Sua Cor!!",
+      "link": "https://meli.la/2rx7jzt",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_755722-MLB95342178093_102025-O.webp",
+      "preco": 185.54,
+      "precoDe": 325.5,
+      "desconto": 29,
+      "cupom": "MELITUDOBOM",
+      "enviadoEm": "2026-09-14T16:32:44.218Z"
+    },
+    {
+      "id": "18063",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Shorts 2 Em 1 Masculino De Compressão Corrida Academia",
+      "link": "https://meli.la/2U7gNKA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_949957-MLB115601154336_092026-O.webp",
+      "preco": 45.49000000000001,
+      "precoDe": 154.9,
+      "desconto": 58,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-14T16:26:20.697Z"
+    },
+    {
+      "id": "18056",
+      "loja": "Amazon",
+      "titulo": "Oikos - Lixeira Antiodor Bebê para Fraldas 10L",
+      "link": "https://www.amazon.com.br/dp/B0GHP6DWBN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21UOYad+nWL._SL400_.jpg",
+      "preco": 129.9,
+      "precoDe": 148.5,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T16:17:57.755Z"
+    },
+    {
+      "id": "18054",
+      "loja": "Shopee",
+      "titulo": "Kit 6/12/18/24 Panos De Limpeza  Premium Arear Panela Fogão Toalha Louça Tira Gordura Reutilizável",
+      "link": "https://s.shopee.com.br/qjUpkvkSR",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mctxxpi1l4qad6_tn",
+      "preco": 10,
+      "precoDe": 25,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T16:15:37.388Z"
+    },
+    {
+      "id": "18047",
+      "loja": "Amazon",
+      "titulo": "soundcore Sport X20 da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, TWS",
+      "link": "https://www.amazon.com.br/dp/B0CRT6HQ82?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/316jxqwjBTL._SL400_.jpg",
+      "preco": 482,
+      "precoDe": 769,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T16:10:59.405Z"
+    },
+    {
+      "id": "18046",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Legging Flare Zero Transparência Cintura Alta Academia",
+      "link": "https://meli.la/18gejv2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603958-MLB116498100035_082026-O.webp",
+      "preco": 18.89,
+      "precoDe": 73.9,
+      "desconto": 63,
+      "cupom": "SAINDOBARRATO",
+      "enviadoEm": "2026-09-14T16:07:40.759Z"
+    },
     {
       "id": "18041",
       "loja": "Mercado Livre",
@@ -1369,78 +1441,6 @@
       "desconto": 35,
       "cupom": null,
       "enviadoEm": "2026-09-12T18:13:30.342Z"
-    },
-    {
-      "id": "17649",
-      "loja": "Shopee",
-      "titulo": "Kit Tapete Banheiro 38x58cm |50x100m |50x70cm Antiderrapante Pipoca Popcorn Várias Cores Macio",
-      "link": "https://s.shopee.com.br/AUtxGIIzgM",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mqqbq5jvx1c3e8_tn",
-      "preco": 19.99,
-      "precoDe": 25.96,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T17:51:04.771Z"
-    },
-    {
-      "id": "17647",
-      "loja": "Shopee",
-      "titulo": "Kit com 3 Cetrilan Creme Infantil Protetor para Prevenção de Assaduras 120g - Theraskin",
-      "link": "https://s.shopee.com.br/1BMI7b4uE9",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mnojxdtx53408d_tn",
-      "preco": 175.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T17:28:37.494Z"
-    },
-    {
-      "id": "17641",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Organizador De Mala Necessaire Bolsa De Viagem Travel Bag Premium",
-      "link": "https://s.shopee.com.br/5AsQq0jrfw",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repg-m2poj36o1kzt4b_tn",
-      "preco": 23.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T16:45:53.296Z"
-    },
-    {
-      "id": "17639",
-      "loja": "Shopee",
-      "titulo": "Kit 3 Calças Jeans Feminina Skinny Lycra Cintura Alta Modelo Empina Bumbum Lançamento Promoção",
-      "link": "https://s.shopee.com.br/5LBr0n3rta",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9keeu5abgopdd_tn",
-      "preco": 154.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T16:23:29.249Z"
-    },
-    {
-      "id": "17637",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
-      "link": "https://s.shopee.com.br/7VGLZE3bNF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
-      "preco": 35.99,
-      "precoDe": 44.99,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T16:01:06.633Z"
-    },
-    {
-      "id": "17631",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Óleo Reparador de Pontas Amend Gold Black Nutritivo 30ml",
-      "link": "https://s.shopee.com.br/AAH6ibEMYC",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b3-mqz2djzzbf2e8a_tn",
-      "preco": 24.7,
-      "precoDe": 39.84,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T15:38:41.996Z"
     }
   ]
 }
