@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-14T14:27:57.724Z",
+  "atualizadoEm": "2026-09-14T15:02:08.819Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -36,6 +36,18 @@
       "limite": null,
       "observacao": "Desconto de 25% em SKIN1004 - POREMIZING FRESH AMPOULE 50ML. Preço reduzido de R$184,90 para R$139,18.",
       "validadeAte": "2026-09-14T15:18:59.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "20LIVROS",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom aplicável no anúncio do produto Fisher-Price - Kit Coleção Como é Bom",
+      "validadeAte": "2026-09-15T14:55:33.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -996,6 +1008,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-09-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "QUEIMADEESTOQUE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
