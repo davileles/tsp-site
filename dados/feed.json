@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-14T21:26:10.663Z",
+  "atualizadoEm": "2026-09-14T21:56:10.674Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18262",
+      "loja": "Mercado Livre",
+      "titulo": "Chinelo Qix Full Casual Adulto Masculino Feminino Liso Eva",
+      "link": "https://meli.la/1D7z9Jv",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_813888-MLB99738572955_112025-O.webp",
+      "preco": 62.25,
+      "precoDe": 99.9,
+      "desconto": 24,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-14T21:46:13.906Z"
+    },
+    {
+      "id": "18261",
+      "loja": "Amazon",
+      "titulo": "Vodka Grey Goose Original 750ml",
+      "link": "https://www.amazon.com.br/dp/B006ILMIGE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lBOTNpNRL._SL400_.jpg",
+      "preco": 122.47,
+      "precoDe": 174.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T21:42:36.856Z"
+    },
+    {
+      "id": "18260",
+      "loja": "Amazon",
+      "titulo": "As obras revolucionárias de George Orwell - Box com 3 livros",
+      "link": "https://www.amazon.com.br/dp/B08ZK6N3XZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51YPnt1fTuL._SL400_.jpg",
+      "preco": 29.220000000000002,
+      "precoDe": 74.9,
+      "desconto": 51,
+      "cupom": "20LIVROS",
+      "enviadoEm": "2026-09-14T21:41:43.062Z"
+    },
+    {
+      "id": "18259",
+      "loja": "Amazon",
+      "titulo": "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 530BT, Sem Fio, Até 76 Horas de Bateria - Preto",
+      "link": "https://www.amazon.com.br/dp/B0GM1LSHQF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31d5C88mNtL._SL400_.jpg",
+      "preco": 189.9,
+      "precoDe": 299,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T21:38:21.220Z"
+    },
+    {
+      "id": "18258",
+      "loja": "Mercado Livre",
+      "titulo": "Chinelo Nuvem Original Slide Retro 100% Eva Confortável Lanç",
+      "link": "https://meli.la/1g65u93",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_777839-MLB104798835484_012026-O.webp",
+      "preco": 46.66,
+      "precoDe": 89.9,
+      "desconto": 37,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-14T21:34:12.512Z"
+    },
     {
       "id": "18255",
       "loja": "Amazon",
@@ -1381,66 +1441,6 @@
       "desconto": 19,
       "cupom": "ISDIN15",
       "enviadoEm": "2026-09-13T18:24:24.019Z"
-    },
-    {
-      "id": "17807",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pants Ajuste Total Tamanho G 90 Unidades Pampers",
-      "link": "https://meli.la/1GJXjb1",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_645177-MLA110685776176_052026-F.jpg",
-      "preco": 98.97,
-      "precoDe": 135.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T18:21:01.430Z"
-    },
-    {
-      "id": "17806",
-      "loja": "Amazon",
-      "titulo": "Refrigerante Zero Pepsi, Black, Lata 350ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0954R6FNH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/61xHGkdDlLL._SL400_.jpg",
-      "preco": 33.48,
-      "precoDe": 47.88,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T18:17:39.083Z"
-    },
-    {
-      "id": "17805",
-      "loja": "Shopee",
-      "titulo": "mini processador de alimentos elétrico picador de alho triturador de pimenta 350ml",
-      "link": "https://s.shopee.com.br/6q0gVvDlC6",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262a-mjeyzg7g2e4na3_tn",
-      "preco": 25.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T18:14:29.452Z"
-    },
-    {
-      "id": "17804",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Liquidificador Pratic Power, Branco, 550W, 110V - L-97-W",
-      "link": "https://www.amazon.com.br/dp/B0CXTZ8TH1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41eRuQVnfbL._SL400_.jpg",
-      "preco": 93.68,
-      "precoDe": 139.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T18:10:54.823Z"
-    },
-    {
-      "id": "17799",
-      "loja": "Shopee",
-      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
-      "link": "https://s.shopee.com.br/1gIaKsjsV2",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
-      "preco": 79.99,
-      "precoDe": 199.97,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T17:50:14.337Z"
     }
   ]
 }
