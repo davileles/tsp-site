@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-14T12:32:51.658Z",
+  "atualizadoEm": "2026-09-14T13:01:51.657Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17940",
+      "loja": "Amazon",
+      "titulo": "Rexona Antitranspirante Masculino Aerossol V8 250 ML, Leve Mais Pague Menos, Embalagem Pode Variar",
+      "link": "https://www.amazon.com.br/dp/B09K2CMLXM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31SRSvBLI6L._SL400_.jpg",
+      "preco": 16.66,
+      "precoDe": 24.99,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T12:59:05.988Z"
+    },
+    {
+      "id": "17939",
+      "loja": "Amazon",
+      "titulo": "Absolut Vodka Citron Sueca 750ml Absolut Sabor vodka 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B003WIG5J2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/312-DYHnNAL._SL400_.jpg",
+      "preco": null,
+      "precoDe": 117.9,
+      "desconto": 42,
+      "cupom": "GAMER300",
+      "enviadoEm": "2026-09-14T12:55:42.520Z"
+    },
+    {
+      "id": "17938",
+      "loja": "Mercado Livre",
+      "titulo": "Máquina de barbear Philips OneBlade QP1424/10 preta",
+      "link": "https://meli.la/1UhsYTU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_980959-MLA111545261869_052026-F.jpg",
+      "preco": 103.96000000000001,
+      "precoDe": 120.95,
+      "desconto": 4,
+      "cupom": "LEVOUBARATO",
+      "enviadoEm": "2026-09-14T12:52:31.949Z"
+    },
+    {
+      "id": "17933",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina Monohidratada Pura 500g Dark Lab Unidade",
+      "link": "https://meli.la/1z7kAM7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_734286-MLA115263082370_082026-F.jpg",
+      "preco": 37.42,
+      "precoDe": 99.8,
+      "desconto": 50,
+      "cupom": "DESCONTOSML",
+      "enviadoEm": "2026-09-14T12:49:00.411Z"
+    },
+    {
+      "id": "17931",
+      "loja": "Shopee",
+      "titulo": "forma pudim banho maria n 18 panela 2 em 1",
+      "link": "https://s.shopee.com.br/40gWMckAzP",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mox9kud7btadec_tn",
+      "preco": 40.9,
+      "precoDe": 53.82,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T12:45:38.863Z"
+    },
+    {
+      "id": "17930",
+      "loja": "Shopee",
+      "titulo": "Kit Grampeador Metal + 5.000 Grampos 26/6 Galvanizados Escolar Escritório MASTERPRINT",
+      "link": "https://s.shopee.com.br/W6eCBK2aO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwpz1fulr9of89_tn",
+      "preco": 14.77,
+      "precoDe": 27.87,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T12:42:26.817Z"
+    },
+    {
+      "id": "17929",
+      "loja": "Mercado Livre",
+      "titulo": "Frigobar 47 Litros Consul Branco - Crc04ab",
+      "link": "https://meli.la/2Tsuk5g",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_734473-MLA99454489430_112025-F.jpg",
+      "preco": 549,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "LEVOUBARATO",
+      "enviadoEm": "2026-09-14T12:39:00.015Z"
+    },
+    {
+      "id": "17928",
+      "loja": "Mercado Livre",
+      "titulo": "Celular Samsung Galaxy S25 Ultra 5g, 256gb, 12gb, Câm. Quád. Titanium Black",
+      "link": "https://meli.la/1YLs8fW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_866201-MLA107519248919_022026-F.jpg",
+      "preco": 4859,
+      "precoDe": 10499,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T12:35:25.544Z"
+    },
     {
       "id": "17923",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 47,
       "cupom": "S3XT0U50FF",
       "enviadoEm": "2026-09-12T13:43:47.432Z"
-    },
-    {
-      "id": "17600",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Berço L2m Completo Nuvens 130x70 Americano",
-      "link": "https://meli.la/1JkBDzE",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_758142-MLB93616271148_102025-O.webp",
-      "preco": 73,
-      "precoDe": 150.75,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T13:31:41.266Z"
-    },
-    {
-      "id": "17597",
-      "loja": "Shopee",
-      "titulo": "Colchão Inflável Queen Casal KAYOOSI Elétrico 203x152x40cm com Bomba Embutida  Cama De Campanha",
-      "link": "https://s.shopee.com.br/5LBqoH0pN2",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mpm0ksn1gpvn4b_tn",
-      "preco": 318,
-      "precoDe": 600,
-      "desconto": 42,
-      "cupom": "SALE30AF",
-      "enviadoEm": "2026-09-12T13:21:21.320Z"
-    },
-    {
-      "id": "17594",
-      "loja": "Shopee",
-      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
-      "link": "https://s.shopee.com.br/6fhBFtvg2s",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
-      "preco": 104,
-      "precoDe": 320.59,
-      "desconto": 66,
-      "cupom": "S3XT0U50FF",
-      "enviadoEm": "2026-09-12T12:58:51.304Z"
-    },
-    {
-      "id": "17590",
-      "loja": "Amazon",
-      "titulo": "Cadeirinha Cosco Kids, Progress, 0 a 36kg, Preto Gelo",
-      "link": "https://www.amazon.com.br/dp/B0FXHPZBVB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41C8WERL2EL._SL400_.jpg",
-      "preco": 533.63,
-      "precoDe": 599,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T12:44:22.644Z"
-    },
-    {
-      "id": "17586",
-      "loja": "Mercado Livre",
-      "titulo": "Celular Samsung Galaxy S25 Edge 5g, 512gb, 12gb Ram, Câmera Dupla De Até 200mp, Tela Grande De 6.7 - Titânio Prata",
-      "link": "https://meli.la/1tUGbWW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_971050-MLA99954586309_112025-F.jpg",
-      "preco": 3499,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "APROVEITANOML",
-      "enviadoEm": "2026-09-12T12:43:07.365Z"
-    },
-    {
-      "id": "17585",
-      "loja": "Mercado Livre",
-      "titulo": "SSD Externo Portátil 1TB Interface USB 3.2 SanDisk SDSSDE30-1T00 Velocidade de Leitura Até 800MB/s Preto",
-      "link": "https://meli.la/2muCT5F",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_845091-MLA101661887490_122025-F.jpg",
-      "preco": 835.05,
-      "precoDe": 1029,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T12:39:36.441Z"
-    },
-    {
-      "id": "17579",
-      "loja": "Shopee",
-      "titulo": "Bateria selada 12v 4.5ah Planet Selada Recarregavel",
-      "link": "https://s.shopee.com.br/1gIYONNZ39",
-      "imagem": "https://cf.shopee.com.br/file/5a3c47c37f809c852f6ab2e1f1b42c39_tn",
-      "preco": 74.5,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "S3XT0U50FF",
-      "enviadoEm": "2026-09-12T12:36:22.084Z"
-    },
-    {
-      "id": "17578",
-      "loja": "Mercado Livre",
-      "titulo": "Placa-mãe Asus P/amd Am4 B550m-plus Tuf Gaming 4xddr4 Matx Preto",
-      "link": "https://meli.la/2RQ3cuU",
-      "imagem": null,
-      "preco": 640.54,
-      "precoDe": 919,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T12:33:09.656Z"
     }
   ]
 }
