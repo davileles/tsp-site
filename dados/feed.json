@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-14T22:40:59.193Z",
+  "atualizadoEm": "2026-09-14T22:56:10.673Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18285",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label 750ml",
+      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
+      "preco": 68.98,
+      "precoDe": 92.9,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T22:49:14.760Z"
+    },
+    {
+      "id": "18284",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Calças Legging Empina Bumbum",
+      "link": "https://meli.la/1iumatU",
+      "imagem": null,
+      "preco": 44.79,
+      "precoDe": 64.99,
+      "desconto": 16,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-14T22:48:00.280Z"
+    },
+    {
+      "id": "18283",
+      "loja": "Amazon",
+      "titulo": "NIVEA SUN Protetor Solar Kids Brincando na Água FPS 60 150ml - Infantil, especialmente formulado para a pele delicada das crianças, muito resistente à água, alta proteção UVA/UVB",
+      "link": "https://www.amazon.com.br/dp/B07LF7C7YL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Tf5G7g+6L._SL400_.jpg",
+      "preco": 36.46,
+      "precoDe": 87.9,
+      "desconto": 48,
+      "cupom": "20NIVEA",
+      "enviadoEm": "2026-09-14T22:44:39.809Z"
+    },
+    {
+      "id": "18282",
+      "loja": "Amazon",
+      "titulo": "Animale Seduction For men Eau de Toilette 100ml",
+      "link": "https://www.amazon.com.br/dp/B07SP3H5FL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21NmaK443OL._SL400_.jpg",
+      "preco": 218.16,
+      "precoDe": 579.75,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T22:41:09.562Z"
+    },
     {
       "id": "18280",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": 23,
       "cupom": "COMPRAFACIL",
       "enviadoEm": "2026-09-13T22:22:05.924Z"
-    },
-    {
-      "id": "17829",
-      "loja": "Mercado Livre",
-      "titulo": "Whey Protein Fresh Whey Dux 900g Pistache Chocolate Branco",
-      "link": "https://meli.la/1astrHS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_601852-MLA114538447489_072026-F.jpg",
-      "preco": 199,
-      "precoDe": 299,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T20:18:47.785Z"
-    },
-    {
-      "id": "17828",
-      "loja": "Mercado Livre",
-      "titulo": "Kit C/ 2 Limpa Ar Condicionado Carro Higienizador Ar Spray",
-      "link": "https://meli.la/2p8tF1y",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_795364-MLB116774360295_082026-O.webp",
-      "preco": 29.9,
-      "precoDe": 46.5,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T20:09:14.060Z"
-    },
-    {
-      "id": "17823",
-      "loja": "Shopee",
-      "titulo": "Regata feminina adulto kit 2 unidades cores variadas malha premium academia e dia a dia",
-      "link": "https://s.shopee.com.br/8AW4Ck3BRK",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mp9xiwp3c3k0c4_tn",
-      "preco": 22.48,
-      "precoDe": 54.83,
-      "desconto": 59,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T19:45:19.616Z"
-    },
-    {
-      "id": "17821",
-      "loja": "Shopee",
-      "titulo": "Pistola de Massagem Muscular Portátil Elétrica Profissional Recarregável USB com Múltiplas Ponteiras para Relaxamento",
-      "link": "https://s.shopee.com.br/5q89OuOAh2",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225c-mhjox6ltdn9ef0_tn",
-      "preco": 28.46,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T19:22:47.743Z"
     }
   ]
 }
