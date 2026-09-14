@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-14T11:11:17.094Z",
+  "atualizadoEm": "2026-09-14T11:35:06.327Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17883",
+      "loja": "Shopee",
+      "titulo": "Bolsa de Viagem Mala Dobrável Capacidade Impermeável",
+      "link": "https://s.shopee.com.br/9AOcR7OCy6",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmx-lp6czwvd0b9k6f_tn",
+      "preco": 14.5,
+      "precoDe": 39.19,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T11:25:06.323Z"
+    },
     {
       "id": "17876",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 29,
       "cupom": "PROMOMELI",
       "enviadoEm": "2026-09-12T12:09:30.234Z"
-    },
-    {
-      "id": "17540",
-      "loja": "Shopee",
-      "titulo": "10M tecido para decoração  chita, chitão,euroleen 100% poliéster  (10,00m x 1,50m )",
-      "link": "https://s.shopee.com.br/50Z0JDrXpS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcl0o31l70g10f_tn",
-      "preco": 70.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "S3XT0U50FF",
-      "enviadoEm": "2026-09-12T11:47:36.495Z"
     }
   ]
 }
