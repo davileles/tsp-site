@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-14T02:28:11.274Z",
+  "atualizadoEm": "2026-09-14T03:28:11.298Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -384,18 +384,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-30T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "KABUMOURO",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 12,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-14T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -963,6 +951,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "COMPRASESTOQUE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido em selecionados",
+      "validadeAte": "2026-09-15T03:03:20.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PAGUEMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -999,18 +999,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "COMPRAFACIL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Desconto já aplicado no preço final (R$ 132,35). Mensagem menciona 'desconto extra' ao usar código COMPRAFACIL no carrinho, mas não especifica o valor adicional do desconto do cupom. O desconto de 45% (R$ 107,55) já está refletido no preço de R$ 132,35.",
-      "validadeAte": "2026-09-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MEUMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1020,18 +1008,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-07T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DESCONTASSO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Desconto de 31% já aplicado no preço final (R$ 230,53 → R$ 158,33). Cupom DESCONTASSO.",
-      "validadeAte": "2026-09-14T02:58:59.505Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1059,18 +1035,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIACHAPROMO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 300,
-      "observacao": "Múltiplos cupons Mercado Livre com categorias específicas e limites de desconto variados",
-      "validadeAte": "2026-09-14T02:58:59.505Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "LUXOFESTIVAL",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1080,30 +1044,6 @@
       "limite": 100,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-10-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "APROVEITA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupom válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-09-14T19:28:15.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SOLTAODESCONTO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 8,
-      "minimo": 150,
-      "maximo": null,
-      "limite": 300,
-      "observacao": "Cupom aplicado ao produto específico (Geladeira LG). Valor do desconto não informado na mensagem; preço final já inclui o cupom.",
-      "validadeAte": "2026-09-14T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
