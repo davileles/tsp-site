@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-14T16:34:03.889Z",
+  "atualizadoEm": "2026-09-14T16:41:36.309Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18069",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
+      "link": "https://s.shopee.com.br/2gB92fcO7i",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
+      "preco": 49.33,
+      "precoDe": 65.77,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T16:38:13.517Z"
+    },
     {
       "id": "18065",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 74,
       "cupom": null,
       "enviadoEm": "2026-09-12T18:35:44.169Z"
-    },
-    {
-      "id": "17654",
-      "loja": "Shopee",
-      "titulo": "Mala De Bordo N18 Duplo Zíper ANAC 10 kilos Expansível Mala De Viagem 10Kg ABS Roda Dupla Com Senha",
-      "link": "https://s.shopee.com.br/AAH6tE7kEv",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mpnaywrpaj2a01_tn",
-      "preco": 169,
-      "precoDe": 260,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T18:13:30.342Z"
     }
   ]
 }
