@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-14T22:26:10.673Z",
+  "atualizadoEm": "2026-09-14T22:40:59.193Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18280",
+      "loja": "Mercado Livre",
+      "titulo": "Capa Protetora Colchão Box Casal Padrão Matelado Impermeável",
+      "link": "https://meli.la/1bagukn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_639258-MLB82839590542_032025-O.webp",
+      "preco": 27.54,
+      "precoDe": 78.9,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T22:30:59.192Z"
+    },
     {
       "id": "18278",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-13T19:22:47.743Z"
-    },
-    {
-      "id": "17817",
-      "loja": "Shopee",
-      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
-      "link": "https://s.shopee.com.br/20vQoJpLqV",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
-      "preco": 32.29,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T19:00:18.655Z"
     }
   ]
 }
