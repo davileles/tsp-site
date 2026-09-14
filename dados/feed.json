@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-14T17:23:57.907Z",
+  "atualizadoEm": "2026-09-14T17:40:19.901Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18100",
+      "loja": "Shopee",
+      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
+      "link": "https://s.shopee.com.br/5VVKTRQORG",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
+      "preco": 129.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BZCP71NWRF",
+      "enviadoEm": "2026-09-14T17:30:19.899Z"
+    },
     {
       "id": "18093",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-09-12T20:22:55.815Z"
-    },
-    {
-      "id": "17684",
-      "loja": "Mercado Livre",
-      "titulo": "Pipoqueira Brinox Ceramic Life Nevada Ø20 Cm 4,2 L Champagne",
-      "link": "https://meli.la/1W54iW3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_841347-MLA112854710064_072026-F.jpg",
-      "preco": 80.80000000000001,
-      "precoDe": 199.99,
-      "desconto": 51,
-      "cupom": "COMPRAFACIL",
-      "enviadoEm": "2026-09-12T20:13:56.828Z"
     }
   ]
 }
