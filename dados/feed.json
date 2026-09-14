@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-14T19:57:10.423Z",
+  "atualizadoEm": "2026-09-14T20:08:49.446Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18198",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
+      "link": "https://s.shopee.com.br/7fZpDaRZWs",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
+      "preco": 32.29,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T19:58:49.443Z"
+    },
     {
       "id": "18190",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-13T14:46:07.075Z"
-    },
-    {
-      "id": "17745",
-      "loja": "Shopee",
-      "titulo": "Kit com 2 - Máscara Capilar Skala 3 em 1 | Creme Sem Enxágue | Protetor Térmico | Vegano - The Gardener Pepper Force",
-      "link": "https://s.shopee.com.br/gQ2urYu3z",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mq2ggvxkzmde83_tn",
-      "preco": 12.04,
-      "precoDe": 44.59,
-      "desconto": 73,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T14:23:42.199Z"
     }
   ]
 }
