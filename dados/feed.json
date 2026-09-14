@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-14T12:11:17.096Z",
+  "atualizadoEm": "2026-09-14T12:32:51.658Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17923",
+      "loja": "Shopee",
+      "titulo": "Placa de Video PowerColor Radeon RX 9060 XT Reaper, 8GB, GDDR6, 128-bit, RX9060XT-8G-A",
+      "link": "https://s.shopee.com.br/2LYIMipOGE",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82603-mmc3o1v79f6763_tn",
+      "preco": 2834.77,
+      "precoDe": 4429.33,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T12:31:36.181Z"
+    },
+    {
+      "id": "17920",
+      "loja": "Amazon",
+      "titulo": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
+      "link": "https://www.amazon.com.br/dp/B08LK15F8N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xUuhoGYgL._SL400_.jpg",
+      "preco": 29.99,
+      "precoDe": 47.89,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T12:27:57.998Z"
+    },
+    {
+      "id": "17918",
+      "loja": "Amazon",
+      "titulo": "Downy Amaciante Concentrado Brisa de Verão 3L Rende 12L",
+      "link": "https://www.amazon.com.br/dp/B07MBXDB51?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41RDtdL4RuL._SL400_.jpg",
+      "preco": 45.88,
+      "precoDe": 73.75,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T12:26:56.293Z"
+    },
+    {
+      "id": "17917",
+      "loja": "Mercado Livre",
+      "titulo": "Basike Fone De Ouvido Sem Fio Bluetooth Com Gancho Gamer Esportivo Baixa Latência 100h, Design Aberto",
+      "link": "https://meli.la/1ujY2XY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_795376-MLA109618625490_042026-F.jpg",
+      "preco": 78.57000000000001,
+      "precoDe": 184.14,
+      "desconto": 43,
+      "cupom": "MELIBAIXOU",
+      "enviadoEm": "2026-09-14T12:23:21.935Z"
+    },
+    {
+      "id": "17907",
+      "loja": "Mercado Livre",
+      "titulo": "Kit C/2 Travesseiros Luxo Matelado Fibra Antialérgica 50x70 Branco",
+      "link": "https://meli.la/2f71bEZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_670844-MLA107444351607_022026-F.jpg",
+      "preco": 44.99,
+      "precoDe": 109.99,
+      "desconto": 45,
+      "cupom": "MELIBAIXOU",
+      "enviadoEm": "2026-09-14T12:16:35.232Z"
+    },
+    {
+      "id": "17905",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Inox Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
+      "link": "https://s.shopee.com.br/AKaZsLv0Nm",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms49lbchdmh1a1_tn",
+      "preco": 48.99,
+      "precoDe": 99.98,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T12:15:33.401Z"
+    },
     {
       "id": "17896",
       "loja": "Mercado Livre",
@@ -1369,78 +1441,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-09-12T12:33:09.656Z"
-    },
-    {
-      "id": "17569",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor LG Ultragear - 27g523 - Ips De 27, 200hz, 1ms Preto 127/220v",
-      "link": "https://meli.la/1oAyhQS",
-      "imagem": null,
-      "preco": 764.15,
-      "precoDe": 949,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T12:30:09.730Z"
-    },
-    {
-      "id": "17556",
-      "loja": "Mercado Livre",
-      "titulo": "Water Cooler Thermalright Frozen Prism 360 ARGB para CPU",
-      "link": "https://meli.la/2GL3pvv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_872033-MLA99418759508_112025-F.jpg",
-      "preco": 391,
-      "precoDe": 707.97,
-      "desconto": 39,
-      "cupom": "PROMOMELI",
-      "enviadoEm": "2026-09-12T12:26:46.682Z"
-    },
-    {
-      "id": "17555",
-      "loja": "Mercado Livre",
-      "titulo": "Natura Essencial Elixir Deo Parfum Deo parfum 100ml para masculino",
-      "link": "https://meli.la/1em24PQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_935515-MLU73212385831_122023-F.jpg",
-      "preco": 83.97,
-      "precoDe": 279.9,
-      "desconto": 60,
-      "cupom": "RESGATEFULL",
-      "enviadoEm": "2026-09-12T12:23:46.171Z"
-    },
-    {
-      "id": "17554",
-      "loja": "Amazon",
-      "titulo": "Mustela Gel Lavante Suave 500ml Sabonete Líquido Corpo e Cabelo Infantil",
-      "link": "https://www.amazon.com.br/dp/B08NQNXMPL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31wypFt67SL._SL400_.jpg",
-      "preco": 54.99,
-      "precoDe": 93.6,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T12:20:33.782Z"
-    },
-    {
-      "id": "17551",
-      "loja": "Mercado Livre",
-      "titulo": "Water Cooler Obsid Pro 360 Digital Argb Amd E Intel Preto",
-      "link": "https://meli.la/2p7KqwG",
-      "imagem": null,
-      "preco": 328.5,
-      "precoDe": 499,
-      "desconto": 27,
-      "cupom": "PROMOMELI",
-      "enviadoEm": "2026-09-12T12:19:35.287Z"
-    },
-    {
-      "id": "17548",
-      "loja": "Mercado Livre",
-      "titulo": "Placa De Video Powercolor Radeonrx9060xtreaper,8gb,128-bit",
-      "link": "https://meli.la/1Ymebvk",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_832708-MLA109303774041_032026-F.jpg",
-      "preco": 2545,
-      "precoDe": 3494,
-      "desconto": 21,
-      "cupom": "PROMOMELI",
-      "enviadoEm": "2026-09-12T12:16:18.935Z"
     }
   ]
 }
