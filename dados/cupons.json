@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-14T15:27:20.801Z",
+  "atualizadoEm": "2026-09-14T15:50:37.868Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -999,18 +999,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PAGUEMENOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PROMONOMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1055,6 +1043,18 @@
       "maximo": null,
       "limite": 60,
       "observacao": "Cupom válido em produtos selecionados conforme lista informada",
+      "validadeAte": "2026-09-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PAGUEMENOSJA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
       "validadeAte": "2026-09-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1152,6 +1152,18 @@
       "limite": 10,
       "observacao": null,
       "validadeAte": "2026-09-15T15:01:26.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PAGUEMENOS",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 9.72,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom PAGUEMENOS aplicado ao produto. Desconto de R$9,72 no preço final (de R$54,00 para R$44,27). Também mencionado código adicional SITELANDING no post original.",
+      "validadeAte": "2026-09-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
