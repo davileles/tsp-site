@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-14T17:40:19.901Z",
+  "atualizadoEm": "2026-09-14T17:45:13.212Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18103",
+      "loja": "Amazon",
+      "titulo": "Banheira Dobrável Com Suporte Termômetro e Redutor Assento Ergonômico 20kg Melon Maxi Baby",
+      "link": "https://www.amazon.com.br/dp/B0H4WPWNGL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31cu1gE6yaL._SL400_.jpg",
+      "preco": 399.9,
+      "precoDe": 549.9,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T17:45:10.536Z"
+    },
     {
       "id": "18100",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-12T20:28:06.397Z"
-    },
-    {
-      "id": "17690",
-      "loja": "Mercado Livre",
-      "titulo": "Lava Roupas Líquido Puro Cuidado 3L Omo",
-      "link": "https://meli.la/1GzCFav",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_891560-MLA110797741601_042026-F.jpg",
-      "preco": 29.99,
-      "precoDe": 42.55,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T20:22:55.815Z"
     }
   ]
 }
