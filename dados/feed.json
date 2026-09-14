@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-14T16:01:07.561Z",
+  "atualizadoEm": "2026-09-14T16:05:03.862Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18041",
+      "loja": "Mercado Livre",
+      "titulo": "Escrivaninha Industrial Mesa Estudo Aparador Office Aço Mdf",
+      "link": "https://meli.la/17vHMMK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_670873-MLB116710912833_082026-O.webp",
+      "preco": 101.19,
+      "precoDe": 197.88,
+      "desconto": 38,
+      "cupom": "DESCONTONAREDA",
+      "enviadoEm": "2026-09-14T16:03:20.698Z"
+    },
     {
       "id": "18040",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-09-12T15:38:41.996Z"
-    },
-    {
-      "id": "17630",
-      "loja": "Mercado Livre",
-      "titulo": "Espelho Orgânico Capela Led 44x64 Para Sala Quarto Banheiro Moldura Capela Led Frio",
-      "link": "https://meli.la/1PGh9Ad",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_778921-MLA97739070759_112025-F.jpg",
-      "preco": 70.5,
-      "precoDe": 98,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T15:26:54.043Z"
     }
   ]
 }
