@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-14T20:26:10.645Z",
+  "atualizadoEm": "2026-09-14T20:44:11.981Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18235",
+      "loja": "Amazon",
+      "titulo": "Jameson - Whiskey Irlandês, 750 ml",
+      "link": "https://www.amazon.com.br/dp/B07FPW95CM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31j37Uzmg+L._SL400_.jpg",
+      "preco": 69.08,
+      "precoDe": 130,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-09-14T20:34:11.980Z"
+    },
     {
       "id": "18227",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-09-13T15:40:39.529Z"
-    },
-    {
-      "id": "17772",
-      "loja": "Amazon",
-      "titulo": "Philco Secador de Cabelos Titanium Travel Portátil",
-      "link": "https://www.amazon.com.br/dp/B076J12M27?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31TpfjprWZL._SL400_.jpg",
-      "preco": 71.9,
-      "precoDe": 104.54,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T15:36:47.600Z"
     }
   ]
 }
