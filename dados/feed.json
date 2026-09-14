@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-14T18:08:42.585Z",
+  "atualizadoEm": "2026-09-14T18:14:13.256Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18119",
+      "loja": "Amazon",
+      "titulo": "Gin Bombay Sapphire 750ml",
+      "link": "https://www.amazon.com.br/dp/B001TP3GCE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41329NGXz2L._SL400_.jpg",
+      "preco": null,
+      "precoDe": 126.9,
+      "desconto": 38,
+      "cupom": "GAMER300",
+      "enviadoEm": "2026-09-14T18:14:11.030Z"
+    },
+    {
+      "id": "18118",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Fila Racer Speedzone Masculino Alta Performance",
+      "link": "https://meli.la/2GUM1Yh",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_781130-MLB113619349534_072026-O.webp",
+      "preco": 288.41,
+      "precoDe": 749.88,
+      "desconto": 55,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-14T18:10:32.875Z"
+    },
     {
       "id": "18108",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 44,
       "cupom": "DESCONTASSO",
       "enviadoEm": "2026-09-12T20:55:55.025Z"
-    },
-    {
-      "id": "17699",
-      "loja": "Mercado Livre",
-      "titulo": "O Boticario Coffee Man Duo Fougere Ambarado Colonia Masc 100ml",
-      "link": "https://meli.la/2SXQsb9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_654615-MLA112394236472_062026-F.jpg",
-      "preco": 154.9,
-      "precoDe": 229.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-12T20:49:27.798Z"
-    },
-    {
-      "id": "17695",
-      "loja": "Mercado Livre",
-      "titulo": "Fritadeira Elétrica Air Fryer Quad Fry 4,2 L,1400w Preto Elgin",
-      "link": "https://meli.la/2uYSgKX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_813389-MLA99520090726_112025-F.jpg",
-      "preco": 111.93,
-      "precoDe": 299,
-      "desconto": 47,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-12T20:45:55.902Z"
     }
   ]
 }
