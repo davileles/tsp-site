@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-14T11:57:36.962Z",
+  "atualizadoEm": "2026-09-14T12:11:17.096Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "17896",
+      "loja": "Mercado Livre",
+      "titulo": "Freezer Horizontal 198l Inverter Bivolt Branco Midea Branco",
+      "link": "https://meli.la/1MXvYvk",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_881733-MLA106723078720_022026-F.jpg",
+      "preco": 1241,
+      "precoDe": 2249,
+      "desconto": 23,
+      "cupom": "CUPOMAQUI",
+      "enviadoEm": "2026-09-14T12:04:34.129Z"
+    },
     {
       "id": "17893",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 21,
       "cupom": "PROMOMELI",
       "enviadoEm": "2026-09-12T12:16:18.935Z"
-    },
-    {
-      "id": "17546",
-      "loja": "Shopee",
-      "titulo": "3 Pacotes  Lenços Panos Umedecidos Cuidado Para as Mãos Álcool Coperalcool ( 3 x 50 Unidades )",
-      "link": "https://s.shopee.com.br/3LQmLhlN6P",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbqpy6uh5yl547_tn",
-      "preco": 74.98,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "S3XT0U50FF",
-      "enviadoEm": "2026-09-12T12:12:49.043Z"
     }
   ]
 }
