@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-15T13:52:20.086Z",
+  "atualizadoEm": "2026-09-15T14:07:42.208Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18471",
+      "loja": "Amazon",
+      "titulo": "Pasta de Amendoim Integral Crocante Zero Açúcar 1kg - Natural Proteica",
+      "link": "https://www.amazon.com.br/dp/B09TTR6V5J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41qM5IwWT3L._SL400_.jpg",
+      "preco": 22.4,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "20% DE DESCONCO AO COLOCAR NO CARRINHO",
+      "enviadoEm": "2026-09-15T13:57:42.206Z"
+    },
+    {
+      "id": "18468",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Cafés Torrado E Moído Aromatizados - Todos os Aromas",
+      "link": "https://s.shopee.com.br/5q8CE7R0ZE",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-msw5940yzax327_tn",
+      "preco": 84.9,
+      "precoDe": 120.57,
+      "desconto": 13,
+      "cupom": "S1NT0CH31R0D3CUP0M",
+      "enviadoEm": "2026-09-15T13:54:14.011Z"
+    },
     {
       "id": "18465",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-09-14T15:53:15.446Z"
-    },
-    {
-      "id": "18031",
-      "loja": "Amazon",
-      "titulo": "Britânia Secador de Cabelo Motor BLDC 1450W BSD15A 127V Metal e plástico Rosa com rosê",
-      "link": "https://www.amazon.com.br/dp/B0GHZ9WLHB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41E6GUXzG2L._SL400_.jpg",
-      "preco": 329.9,
-      "precoDe": 769,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T15:40:36.573Z"
-    },
-    {
-      "id": "18030",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 4 Camiseta Dry-fit Sandrini Masculina Academia Caminhada",
-      "link": "https://meli.la/2SAT5Vz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_626928-MLB82004918446_022025-O.webp",
-      "preco": 44.27,
-      "precoDe": 135.41,
-      "desconto": 60,
-      "cupom": "PAGUEMENOS",
-      "enviadoEm": "2026-09-14T15:37:34.244Z"
     }
   ]
 }
