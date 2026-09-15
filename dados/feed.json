@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-15T12:33:24.177Z",
+  "atualizadoEm": "2026-09-15T13:03:24.179Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18425",
+      "loja": "Mercado Livre",
+      "titulo": "Aspirador de Pó e Água WAP GTW INOX 12 1400W com Bocal de Sopro",
+      "link": "https://meli.la/23hjSgA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_608043-MLA99867297737_112025-F.jpg",
+      "preco": 454.33,
+      "precoDe": 593.9,
+      "desconto": 10,
+      "cupom": "DESCONTOJA",
+      "enviadoEm": "2026-09-15T13:02:32.424Z"
+    },
+    {
+      "id": "18424",
+      "loja": "Mercado Livre",
+      "titulo": "Tablet HUAWEI MatePad SE 11 Wifi 6+128GB Tela HUAWEI FullView de 11\" para Conforto Visual, Superbateria de 7700 mAh 225W Câmera Traseira 8 MP, Câmera Frontal 5 MP Cinza Nebula",
+      "link": "https://meli.la/1UNTket",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_778430-MLA99478653530_112025-F.jpg",
+      "preco": 859,
+      "precoDe": 2499,
+      "desconto": 62,
+      "cupom": "TVSESPECIAL",
+      "enviadoEm": "2026-09-15T12:59:22.126Z"
+    },
+    {
+      "id": "18411",
+      "loja": "Mercado Livre",
+      "titulo": "Furadeira Parafusadeira De Impacto 21v Com 2 Baterias Velocidade Ajustável 3/8 10mm Maleta E Acessorios Profissional The Black Tools",
+      "link": "https://meli.la/1SqX4X3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_882249-MLA99478945626_112025-F.jpg",
+      "preco": 127.12,
+      "precoDe": 295.54,
+      "desconto": 46,
+      "cupom": "MELITUDOBOM",
+      "enviadoEm": "2026-09-15T12:55:42.900Z"
+    },
+    {
+      "id": "18408",
+      "loja": "Mercado Livre",
+      "titulo": "Smart Tv Philco 40 P40vik Led Roku Dolby Audio Wi-fi Hdmi Hdr Full Hd 110/220v",
+      "link": "https://meli.la/1sTJZaF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_797485-MLA109558284021_032026-F.jpg",
+      "preco": 1409.44,
+      "precoDe": 2099,
+      "desconto": 27,
+      "cupom": "BAIXOUTUDO",
+      "enviadoEm": "2026-09-15T12:52:02.119Z"
+    },
+    {
+      "id": "18403",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Treino Academia Anti Impacto Original Nb Respirável",
+      "link": "https://meli.la/19mNipy",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774734-MLB92699089452_092025-O.webp",
+      "preco": 213.19,
+      "precoDe": 399.99,
+      "desconto": 35,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-15T12:48:31.780Z"
+    },
+    {
+      "id": "18400",
+      "loja": "Shopee",
+      "titulo": "Daily T-shirt Insider",
+      "link": "https://s.shopee.com.br/112wNm1pSx",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82600-mlbw7dkwakudc3_tn",
+      "preco": 59,
+      "precoDe": 140.48,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T12:41:41.086Z"
+    },
+    {
+      "id": "18398",
+      "loja": "Mercado Livre",
+      "titulo": "Watercooler Kalkan 360mm Argb Aura Lcd 360 Preto",
+      "link": "https://meli.la/1Pm1Q7u",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_690195-MLA112485529178_062026-F.jpg",
+      "preco": 333.4,
+      "precoDe": 389.95,
+      "desconto": 5,
+      "cupom": "OFFNOML",
+      "enviadoEm": "2026-09-15T12:38:36.161Z"
+    },
+    {
+      "id": "18397",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto Sandrini com 8 Peças Dry Fit: 4 Camisetas + 4 Bermudas",
+      "link": "https://meli.la/12yu7k8",
+      "imagem": null,
+      "preco": 106.6,
+      "precoDe": 310.38,
+      "desconto": 58,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-15T12:35:29.921Z"
+    },
     {
       "id": "18396",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-09-14T14:09:49.307Z"
-    },
-    {
-      "id": "17994",
-      "loja": "Amazon",
-      "titulo": "Mochila Lenovo Casual B210 Preta para Notebook 15,6\" - GX40Q17225",
-      "link": "https://www.amazon.com.br/dp/B075Y72PHZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Awrq0OHLL._SL400_.jpg",
-      "preco": 74.9,
-      "precoDe": 162.27,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T14:08:58.697Z"
-    },
-    {
-      "id": "17987",
-      "loja": "Amazon",
-      "titulo": "Kit Starlink Mini Internet via satélite, Dual Band 3 x 3 Mu-mimo, Wifi 5, Wpa2, Ethernet Lan, Plugue Starlink, Branco - 2535008br",
-      "link": "https://www.amazon.com.br/dp/B0DH3PLZ6N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21TpiYSwTrL._SL400_.jpg",
-      "preco": 499,
-      "precoDe": 789,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T14:05:24.061Z"
-    },
-    {
-      "id": "17958",
-      "loja": "Shopee",
-      "titulo": "iPhone 17 5G 256GB Tela 6,3\" 120Hz 48MP iOS Original Novo Lacrado com Nota FIscal",
-      "link": "https://s.shopee.com.br/905COzyOxY",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk46pndmbguab3_tn",
-      "preco": 5953,
-      "precoDe": 9050,
-      "desconto": 34,
-      "cupom": "BZCP71NWRF",
-      "enviadoEm": "2026-09-14T13:53:53.943Z"
-    },
-    {
-      "id": "17956",
-      "loja": "Amazon",
-      "titulo": "Philips OneBlade Barbeador e Aparador Elétrico: Raspa, Apara e Contorna",
-      "link": "https://www.amazon.com.br/dp/B0C2J8DQC1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41V2VqCfoEL._SL400_.jpg",
-      "preco": 138.97,
-      "precoDe": 244.74,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T13:44:49.779Z"
-    },
-    {
-      "id": "17950",
-      "loja": "Shopee",
-      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
-      "link": "https://s.shopee.com.br/2gB8poYksJ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
-      "preco": 59.989999999999995,
-      "precoDe": 199.97,
-      "desconto": 60,
-      "cupom": "BZCP71NWRF",
-      "enviadoEm": "2026-09-14T13:31:06.145Z"
-    },
-    {
-      "id": "17949",
-      "loja": "Amazon",
-      "titulo": "Philips OneBlade Intimate Aparador de Pelos Íntimos para Mulheres",
-      "link": "https://www.amazon.com.br/dp/B0FDBJZ8DF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vGxOS6-CL._SL400_.jpg",
-      "preco": 139.89,
-      "precoDe": 209.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T13:21:43.301Z"
-    },
-    {
-      "id": "17945",
-      "loja": "Shopee",
-      "titulo": "HUAWEI WATCH FIT 5 Pro| Smartwatch Relogio | Tela FullView AMOLED de 1,92\"| Mini Treino | 64 GB ECG",
-      "link": "https://s.shopee.com.br/6L4RAzTJpE",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mqeruyatf3eq58_tn",
-      "preco": 1309,
-      "precoDe": 3497.37,
-      "desconto": 62,
-      "cupom": "BZCP71NWRF",
-      "enviadoEm": "2026-09-14T13:08:34.647Z"
-    },
-    {
-      "id": "17940",
-      "loja": "Amazon",
-      "titulo": "Rexona Antitranspirante Masculino Aerossol V8 250 ML, Leve Mais Pague Menos, Embalagem Pode Variar",
-      "link": "https://www.amazon.com.br/dp/B09K2CMLXM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31SRSvBLI6L._SL400_.jpg",
-      "preco": 16.66,
-      "precoDe": 24.99,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T12:59:05.988Z"
     }
   ]
 }
