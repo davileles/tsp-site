@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-15T15:09:58.884Z",
+  "atualizadoEm": "2026-09-15T15:21:21.444Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1296,6 +1296,18 @@
       "limite": null,
       "observacao": "Cupons mencionados no post original (CLIENTETOP e SITELANDING) para promoção de Black Friday em kit de roupa de cama. Desconto final resultante: de R$52,00 para R$19,80. Valores específicos de desconto por cupom não informados.",
       "validadeAte": "2026-09-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "KAPPAPROMO",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 0,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Dois cupons: PAGUEMENOSJA + KAPPAPROMO. Desconto total observado: R$ 187,99 (de R$ 289,99 para R$ 102,00), mas valores individuais de cada cupom não são informados separadamente",
+      "validadeAte": "2026-09-16T15:12:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
