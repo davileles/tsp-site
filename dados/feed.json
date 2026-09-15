@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-14T22:56:10.673Z",
+  "atualizadoEm": "2026-09-15T11:09:51.782Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18324",
+      "loja": "Amazon",
+      "titulo": "Absolut Vodka Citron Sueca 750ml Absolut Sabor vodka 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B003WIG5J2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/312-DYHnNAL._SL400_.jpg",
+      "preco": 68.9,
+      "precoDe": 117.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T11:07:27.889Z"
+    },
+    {
+      "id": "18323",
+      "loja": "Amazon",
+      "titulo": "NIVEA SUN Protetor Solar Protect & Hidrata FPS 50 400ml - Com toque seco, rápida absorção e resistente à água, esse protetor solar oferece altíssima proteção ao sol e promove hidra",
+      "link": "https://www.amazon.com.br/dp/B07C56GRM1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41JQFC9MpTL._SL400_.jpg",
+      "preco": 53.89,
+      "precoDe": 110.9,
+      "desconto": 39,
+      "cupom": "20NIVEA",
+      "enviadoEm": "2026-09-15T11:04:08.540Z"
+    },
+    {
+      "id": "18322",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label 1L",
+      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
+      "preco": 88.97,
+      "precoDe": 115.9,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T11:00:37.575Z"
+    },
     {
       "id": "18285",
       "loja": "Amazon",
@@ -673,18 +709,6 @@
       "desconto": 55,
       "cupom": null,
       "enviadoEm": "2026-09-14T17:54:27.626Z"
-    },
-    {
-      "id": "18106",
-      "loja": "Amazon",
-      "titulo": "Absolut Vodka Citron Sueca 750ml Absolut Sabor vodka 750 Ml",
-      "link": "https://www.amazon.com.br/dp/B003WIG5J2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/312-DYHnNAL._SL400_.jpg",
-      "preco": null,
-      "precoDe": 117.9,
-      "desconto": 42,
-      "cupom": "GAMER300",
-      "enviadoEm": "2026-09-14T17:50:48.790Z"
     },
     {
       "id": "18105",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "DESCONTASSO",
       "enviadoEm": "2026-09-13T22:33:27.488Z"
-    },
-    {
-      "id": "17843",
-      "loja": "Amazon",
-      "titulo": "Philco Escova Secadora PES19SG 3 acessórios 1300W",
-      "link": "https://www.amazon.com.br/dp/B0CFMB9TB3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41XUEnW9MfL._SL400_.jpg",
-      "preco": 166.99,
-      "precoDe": 255.26,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-09-13T22:30:01.139Z"
-    },
-    {
-      "id": "17840",
-      "loja": "Mercado Livre",
-      "titulo": "Mop Esfregão Giratório Condor Balde Inox 13 Litros + Refil Microfibra + Cabo Longo 1,4 Metros",
-      "link": "https://meli.la/2C6LZDc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_810904-MLA93779476451_092025-F.jpg",
-      "preco": 81.92,
-      "precoDe": 130,
-      "desconto": 23,
-      "cupom": "COMPRAFACIL",
-      "enviadoEm": "2026-09-13T22:22:05.924Z"
     }
   ]
 }
