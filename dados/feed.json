@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-15T21:29:23.272Z",
+  "atualizadoEm": "2026-09-15T21:42:28.787Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18864",
+      "loja": "Amazon",
+      "titulo": "Cerveja Sem Glúten Stella Artois, Pure Gold, Lata 473ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0DTLJJPR3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41kAh4LGKvL._SL400_.jpg",
+      "preco": 121.46000000000001,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PROVAR",
+      "enviadoEm": "2026-09-15T21:41:20.902Z"
+    },
     {
       "id": "18849",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 9,
       "cupom": "MODABELE20BAF",
       "enviadoEm": "2026-09-15T11:28:34.039Z"
-    },
-    {
-      "id": "18336",
-      "loja": "Amazon",
-      "titulo": "ALGODÃO DISCO RICCA 100 UND",
-      "link": "https://www.amazon.com.br/dp/B0GMKC7Y25?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31dTmPXjPhL._SL400_.jpg",
-      "preco": 11.61,
-      "precoDe": 12.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T11:24:47.435Z"
     }
   ]
 }
