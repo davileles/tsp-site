@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-15T21:13:28.701Z",
+  "atualizadoEm": "2026-09-15T21:29:23.272Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18849",
+      "loja": "Amazon",
+      "titulo": "Kit com 2 Seringas de Sucção Nasal 10ml para Lavagem e Higiene Nasal, Limpeza Suave, Reutilizável e Fácil de Usar (2)",
+      "link": "https://www.amazon.com.br/dp/B0G84FWHV2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31VT-ldXRWL._SL400_.jpg",
+      "preco": 15.21,
+      "precoDe": 17.9,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T21:19:23.271Z"
+    },
+    {
+      "id": "18848",
+      "loja": "Amazon",
+      "titulo": "Cerveja Michelob Ultra, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0BWNNZLR5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31oJqajX3QL._SL400_.jpg",
+      "preco": 35.290000000000006,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PROVAR",
+      "enviadoEm": "2026-09-15T21:18:34.769Z"
+    },
+    {
+      "id": "18846",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label 1L",
+      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
+      "preco": 88.97,
+      "precoDe": 115.9,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T21:15:08.928Z"
+    },
     {
       "id": "18815",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-09-15T11:24:47.435Z"
-    },
-    {
-      "id": "18335",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Básica Ogochi Masculina Lisa Tecido Premium Oficial",
-      "link": "https://meli.la/1h9VppP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_728474-MLB115033468265_072026-O.webp",
-      "preco": 46.58,
-      "precoDe": 78.9,
-      "desconto": 28,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-15T11:21:26.648Z"
-    },
-    {
-      "id": "18333",
-      "loja": "Amazon",
-      "titulo": "Omo Sabão em Pó Lavagem Perfeita 4Kg",
-      "link": "https://www.amazon.com.br/dp/B09Z68GWC7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41tcBPdVtxL._SL400_.jpg",
-      "preco": 42.98,
-      "precoDe": 60.99,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T11:15:56.408Z"
-    },
-    {
-      "id": "18331",
-      "loja": "Amazon",
-      "titulo": "Mustela Hydra Bebê 500ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
-      "link": "https://www.amazon.com.br/dp/B08YK3CVLY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41fV6m3ESES._SL400_.jpg",
-      "preco": 109.99,
-      "precoDe": 136.99,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T11:10:11.835Z"
     }
   ]
 }
