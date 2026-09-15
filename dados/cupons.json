@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-15T13:03:25.587Z",
+  "atualizadoEm": "2026-09-15T13:17:03.373Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1188,18 +1188,6 @@
       "limite": 150,
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-09-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "15% OFF em Pampers",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom específico para produtos Pampers",
-      "validadeAte": "2026-09-15T13:09:16.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
