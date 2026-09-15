@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-15T19:59:29.821Z",
+  "atualizadoEm": "2026-09-15T20:02:56.051Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18797",
+      "loja": "Amazon",
+      "titulo": "Brinquedo Musical Cante e Aprenda Bebês Fisher-Price. Ensina letras, formas, cores e números com músicas, luzes e alça. Ideal a partir dos 6 meses.",
+      "link": "https://www.amazon.com.br/dp/B07DD52QJH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41TOR4vqFdL._SL400_.jpg",
+      "preco": 79.9,
+      "precoDe": 183.6,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T20:01:17.225Z"
+    },
+    {
+      "id": "18793",
+      "loja": "Amazon",
+      "titulo": "Red Bull Energético, Energy Drink, 250ml, 4 latas",
+      "link": "https://www.amazon.com.br/dp/B004HOEU4M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51X+QfSrVQL._SL400_.jpg",
+      "preco": 31.16,
+      "precoDe": 41.96,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T20:00:13.481Z"
+    },
     {
       "id": "18788",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 40,
       "cupom": "20NIVEA",
       "enviadoEm": "2026-09-14T22:20:15.624Z"
-    },
-    {
-      "id": "18276",
-      "loja": "Amazon",
-      "titulo": "Creatina Monohidratada Sem Sabor - Pote 300g - Suplementação Treino Academia, Ganho Muscular Hipertrofia, Força Energia Resistência, Suplementos Naturais - DUX HUMAN HEALTH",
-      "link": "https://www.amazon.com.br/dp/B0BHL6FKYY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21sUsxb6MoL._SL400_.jpg",
-      "preco": 57.9,
-      "precoDe": 159,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T22:14:53.114Z"
-    },
-    {
-      "id": "18270",
-      "loja": "Amazon",
-      "titulo": "Bourbon Whiskey Jim Beam White 1L",
-      "link": "https://www.amazon.com.br/dp/B005HQNCLG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SL400_.jpg",
-      "preco": 79.59,
-      "precoDe": 109,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T22:02:42.657Z"
     }
   ]
 }
