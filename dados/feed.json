@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-15T15:21:20.203Z",
+  "atualizadoEm": "2026-09-15T15:51:20.203Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18579",
+      "loja": "Shopee",
+      "titulo": "Kit Dolce Gusto + KOPENHAGEN - 40 cápsulas - Língua de Gato, Lajotinha, Cappuccino e Espresso",
+      "link": "https://s.shopee.com.br/gQ6CIQGIY",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260w-mjhg1q2me3np33_tn",
+      "preco": 75.6,
+      "precoDe": 111.18,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T15:49:02.985Z"
+    },
+    {
+      "id": "18578",
+      "loja": "Mercado Livre",
+      "titulo": "Tablet Samsung Galaxy Tab A11+, 128gb, 6gb Ram, Tela De 11 , Câmera Traseira 8mp, Wifi, Android 16",
+      "link": "https://meli.la/2E7DDFw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_940271-MLA114610203683_072026-F.jpg",
+      "preco": 1015.7,
+      "precoDe": 2149,
+      "desconto": 32,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-15T15:45:47.893Z"
+    },
+    {
+      "id": "18575",
+      "loja": "Mercado Livre",
+      "titulo": "Jaqueta Corta Vento Liso Unissex Esportivo Capuz E Bolsos",
+      "link": "https://meli.la/19pMX6f",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_776336-MLB91138981166_092025-O.webp",
+      "preco": 47.88,
+      "precoDe": 99,
+      "desconto": 41,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-15T15:42:29.301Z"
+    },
+    {
+      "id": "18572",
+      "loja": "Shopee",
+      "titulo": "Kit 6 unid - Desodorante Creme Antitranspirante Tabu Segredos 55G",
+      "link": "https://s.shopee.com.br/7Kx081VkE7",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwd-m006e3ff8tp11c_tn",
+      "preco": 28.9,
+      "precoDe": 52.55,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T15:39:14.240Z"
+    },
+    {
+      "id": "18568",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
+      "link": "https://s.shopee.com.br/2gB92fcO7i",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
+      "preco": 49.33,
+      "precoDe": 65.77,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T15:35:45.156Z"
+    },
+    {
+      "id": "18567",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
+      "link": "https://meli.la/2DcuUX3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_749739-MLB116040608078_092026-O.webp",
+      "preco": 60.19,
+      "precoDe": 229.99,
+      "desconto": 63,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-15T15:32:25.137Z"
+    },
+    {
+      "id": "18566",
+      "loja": "Mercado Livre",
+      "titulo": "Os Tênis Aramis Flow Knit estão com um precinho pra lá de especial.",
+      "link": "https://meli.la/1bSUfj8",
+      "imagem": null,
+      "preco": 149.1,
+      "precoDe": 399.99,
+      "desconto": 47,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-15T15:29:01.274Z"
+    },
+    {
+      "id": "18563",
+      "loja": "Amazon",
+      "titulo": "Dr. Peanut Pasta de Amendoim Bueníssimo 250g - Com Whey Protein",
+      "link": "https://www.amazon.com.br/dp/B0BKH7R8Y2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31BXOd5WiiL._SL400_.jpg",
+      "preco": 17.39,
+      "precoDe": 24.6,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T15:23:46.163Z"
+    },
     {
       "id": "18557",
       "loja": "Mercado Livre",
@@ -1345,102 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-14T17:58:42.584Z"
-    },
-    {
-      "id": "18110",
-      "loja": "Shopee",
-      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
-      "link": "https://s.shopee.com.br/6Al1IGNFsD",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
-      "preco": 177.9,
-      "precoDe": 599.7,
-      "desconto": 67,
-      "cupom": "BZCP71NWRF",
-      "enviadoEm": "2026-09-14T17:57:40.442Z"
-    },
-    {
-      "id": "18109",
-      "loja": "Mercado Livre",
-      "titulo": "Eps-6905 Balança Epsilon Inteligente Bluetooth Com App, Lcd, Vidro Temperado, 180kg",
-      "link": "https://meli.la/1LikcoN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_941738-MLA106814881195_022026-F.jpg",
-      "preco": 26.99,
-      "precoDe": 59.99,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T17:54:27.626Z"
-    },
-    {
-      "id": "18105",
-      "loja": "Amazon",
-      "titulo": "Carrinho de Passeio C/Bebê Conforto TS NIVI Maxi Baby (Preto)",
-      "link": "https://www.amazon.com.br/dp/B0FMFWWD8H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41gD6xEMGsL._SL400_.jpg",
-      "preco": 722,
-      "precoDe": 1399.9,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T17:47:06.379Z"
-    },
-    {
-      "id": "18104",
-      "loja": "Amazon",
-      "titulo": "Maxi Baby Carrinho de Bebê Guarda Chuva LINK Até 15kgs (Preto)",
-      "link": "https://www.amazon.com.br/dp/B0CPN7TJ4F?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314a3iZJRzL._SL400_.jpg",
-      "preco": 329.9,
-      "precoDe": 469.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T17:46:00.677Z"
-    },
-    {
-      "id": "18103",
-      "loja": "Amazon",
-      "titulo": "Banheira Dobrável Com Suporte Termômetro e Redutor Assento Ergonômico 20kg Melon Maxi Baby",
-      "link": "https://www.amazon.com.br/dp/B0H4WPWNGL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31cu1gE6yaL._SL400_.jpg",
-      "preco": 399.9,
-      "precoDe": 549.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T17:45:10.536Z"
-    },
-    {
-      "id": "18100",
-      "loja": "Shopee",
-      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
-      "link": "https://s.shopee.com.br/5VVKTRQORG",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
-      "preco": 129.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "BZCP71NWRF",
-      "enviadoEm": "2026-09-14T17:30:19.899Z"
-    },
-    {
-      "id": "18086",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 6 Cuecas Lupo Boxer Box Sem Costura Basic Microfibra",
-      "link": "https://meli.la/125ywtB",
-      "imagem": null,
-      "preco": 99.87,
-      "precoDe": 299.99,
-      "desconto": 59,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-14T17:10:57.538Z"
-    },
-    {
-      "id": "18081",
-      "loja": "Shopee",
-      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
-      "link": "https://s.shopee.com.br/3g3gG3V4Lh",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
-      "preco": 49.33,
-      "precoDe": 65.77,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T17:07:28.814Z"
     }
   ]
 }
