@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-15T12:04:24.139Z",
+  "atualizadoEm": "2026-09-15T12:33:24.177Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18396",
+      "loja": "Shopee",
+      "titulo": "Jogo Completo de Utensílios de Cozinha de Silicone Itens Essenciais para sua Casa KITC/12",
+      "link": "https://s.shopee.com.br/3LQr9Y1P7A",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261g-mk1iwuywbjlz8d_tn",
+      "preco": 28.98,
+      "precoDe": 69,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T12:32:15.445Z"
+    },
+    {
+      "id": "18393",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Aoc Agon 24 144hz Ips Hdr10 G-sync 24g50f Preto 127/220v",
+      "link": "https://meli.la/1YC4qZu",
+      "imagem": null,
+      "preco": 534.8900000000001,
+      "precoDe": 1070,
+      "desconto": 44,
+      "cupom": "OFFNOML",
+      "enviadoEm": "2026-09-15T12:28:43.503Z"
+    },
+    {
+      "id": "18388",
+      "loja": "Amazon",
+      "titulo": "Head & Shoulders Shampoo Anticaspa Anticoceira 400 ml",
+      "link": "https://www.amazon.com.br/dp/B0101A62JG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31vRt2y2dML._SL400_.jpg",
+      "preco": 22.59,
+      "precoDe": 30.8,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T12:25:03.416Z"
+    },
+    {
+      "id": "18383",
+      "loja": "Mercado Livre",
+      "titulo": "Antena Starlink Mini Internet Movel Via Satélite",
+      "link": "https://meli.la/2wEKnpt",
+      "imagem": "https://http2.mlstatic.com/D_878190-MLB95976009138_102025-F.jpg",
+      "preco": 449.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFFNOML",
+      "enviadoEm": "2026-09-15T12:21:36.564Z"
+    },
+    {
+      "id": "18380",
+      "loja": "Shopee",
+      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
+      "link": "https://s.shopee.com.br/5foluupDV7",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
+      "preco": 64.99,
+      "precoDe": 199.97,
+      "desconto": 60,
+      "cupom": "B3L3Z415",
+      "enviadoEm": "2026-09-15T12:17:44.745Z"
+    },
+    {
+      "id": "18377",
+      "loja": "Mercado Livre",
+      "titulo": "Lavadora de Alta Pressão Aqua Power I, Mondial, 400W - LAP-01-GY",
+      "link": "https://meli.la/2gyCVFw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_951186-MLA99477863760_112025-F.jpg",
+      "preco": 230.24,
+      "precoDe": 847.99,
+      "desconto": 61,
+      "cupom": "OFERTASMELI",
+      "enviadoEm": "2026-09-15T12:14:13.637Z"
+    },
+    {
+      "id": "18367",
+      "loja": "Mercado Livre",
+      "titulo": "Pulverizador Manual 2 L Snow Foam Profissional Com 3 Bicos para Espuma Ativa",
+      "link": "https://meli.la/1GsNUaA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_946648-MLA114615738815_072026-F.jpg",
+      "preco": 23.86,
+      "precoDe": 69.98,
+      "desconto": 57,
+      "cupom": "MELITUDOBOM",
+      "enviadoEm": "2026-09-15T12:09:42.367Z"
+    },
     {
       "id": "18364",
       "loja": "Amazon",
@@ -1357,90 +1441,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-09-14T12:59:05.988Z"
-    },
-    {
-      "id": "17938",
-      "loja": "Mercado Livre",
-      "titulo": "Máquina de barbear Philips OneBlade QP1424/10 preta",
-      "link": "https://meli.la/1UhsYTU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_980959-MLA111545261869_052026-F.jpg",
-      "preco": 103.96000000000001,
-      "precoDe": 120.95,
-      "desconto": 4,
-      "cupom": "LEVOUBARATO",
-      "enviadoEm": "2026-09-14T12:52:31.949Z"
-    },
-    {
-      "id": "17933",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina Monohidratada Pura 500g Dark Lab Unidade",
-      "link": "https://meli.la/1z7kAM7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_734286-MLA115263082370_082026-F.jpg",
-      "preco": 37.42,
-      "precoDe": 99.8,
-      "desconto": 50,
-      "cupom": "DESCONTOSML",
-      "enviadoEm": "2026-09-14T12:49:00.411Z"
-    },
-    {
-      "id": "17931",
-      "loja": "Shopee",
-      "titulo": "forma pudim banho maria n 18 panela 2 em 1",
-      "link": "https://s.shopee.com.br/40gWMckAzP",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mox9kud7btadec_tn",
-      "preco": 40.9,
-      "precoDe": 53.82,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T12:45:38.863Z"
-    },
-    {
-      "id": "17930",
-      "loja": "Shopee",
-      "titulo": "Kit Grampeador Metal + 5.000 Grampos 26/6 Galvanizados Escolar Escritório MASTERPRINT",
-      "link": "https://s.shopee.com.br/W6eCBK2aO",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwpz1fulr9of89_tn",
-      "preco": 14.77,
-      "precoDe": 27.87,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T12:42:26.817Z"
-    },
-    {
-      "id": "17929",
-      "loja": "Mercado Livre",
-      "titulo": "Frigobar 47 Litros Consul Branco - Crc04ab",
-      "link": "https://meli.la/2Tsuk5g",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_734473-MLA99454489430_112025-F.jpg",
-      "preco": 549,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "LEVOUBARATO",
-      "enviadoEm": "2026-09-14T12:39:00.015Z"
-    },
-    {
-      "id": "17928",
-      "loja": "Mercado Livre",
-      "titulo": "Celular Samsung Galaxy S25 Ultra 5g, 256gb, 12gb, Câm. Quád. Titanium Black",
-      "link": "https://meli.la/1YLs8fW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_866201-MLA107519248919_022026-F.jpg",
-      "preco": 4859,
-      "precoDe": 10499,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T12:35:25.544Z"
-    },
-    {
-      "id": "17923",
-      "loja": "Shopee",
-      "titulo": "Placa de Video PowerColor Radeon RX 9060 XT Reaper, 8GB, GDDR6, 128-bit, RX9060XT-8G-A",
-      "link": "https://s.shopee.com.br/2LYIMipOGE",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82603-mmc3o1v79f6763_tn",
-      "preco": 2834.77,
-      "precoDe": 4429.33,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T12:31:36.181Z"
     }
   ]
 }
