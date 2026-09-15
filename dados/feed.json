@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-15T18:16:16.461Z",
+  "atualizadoEm": "2026-09-15T18:33:55.984Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18726",
+      "loja": "Mercado Livre",
+      "titulo": "Soprador Folhas Turbo Portátil Sem Fio C/ Bateria 21v Recarregável",
+      "link": "https://meli.la/2PonfLB",
+      "imagem": null,
+      "preco": 95.92,
+      "precoDe": 189.9,
+      "desconto": 37,
+      "cupom": "MELITUDOBOM",
+      "enviadoEm": "2026-09-15T18:29:48.687Z"
+    },
+    {
+      "id": "18725",
+      "loja": "Mercado Livre",
+      "titulo": "Chave De Impacto 800n.m 48v Brushless Com 2 Baterias Sem Fio",
+      "link": "https://meli.la/1GmnuGN",
+      "imagem": null,
+      "preco": 172.79000000000002,
+      "precoDe": 359.99,
+      "desconto": 40,
+      "cupom": "MELITUDOBOM",
+      "enviadoEm": "2026-09-15T18:26:29.847Z"
+    },
+    {
+      "id": "18718",
+      "loja": "Amazon",
+      "titulo": "Whisky Ballantine's Finest Blended Escocês - 1 Litro",
+      "link": "https://www.amazon.com.br/dp/B01ERTTV5O?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31i7hauZqVL._SL400_.jpg",
+      "preco": 74.24,
+      "precoDe": 105.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T18:22:45.040Z"
+    },
+    {
+      "id": "18717",
+      "loja": "Shopee",
+      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
+      "link": "https://s.shopee.com.br/6fhI0Cm1Nh",
+      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
+      "preco": 54.989999999999995,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "S1NT0CH31R0D3CUP0M",
+      "enviadoEm": "2026-09-15T18:19:07.441Z"
+    },
     {
       "id": "18706",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": null,
       "cupom": "LEVOUBARATO",
       "enviadoEm": "2026-09-14T21:18:31.067Z"
-    },
-    {
-      "id": "18253",
-      "loja": "Amazon",
-      "titulo": "NIVEA Hidratante para Banho Milk 250ml, Cuidado Nutritivo 24h, Uso no Banho, Óleo de Amêndoas, Sensação de Maciez, Pele Seca",
-      "link": "https://www.amazon.com.br/dp/B079VTMGTH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313SDo+H-WL._SL400_.jpg",
-      "preco": 17.4,
-      "precoDe": 22.9,
-      "desconto": 5,
-      "cupom": "20NIVEA",
-      "enviadoEm": "2026-09-14T21:14:59.507Z"
-    },
-    {
-      "id": "18252",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo De Panelas Indução Mimo Cerâmica 12 Peças Mármol Cor Marmol",
-      "link": "https://meli.la/1BMUmZB",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_924342-MLA100076756669_122025-F.jpg",
-      "preco": 248.5,
-      "precoDe": 731,
-      "desconto": 51,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-14T21:11:47.191Z"
-    },
-    {
-      "id": "18247",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Camisetas Gola V Masculinas Polo Wear Sortido",
-      "link": "https://meli.la/2oqnAp9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_848736-MLB115641065684_092026-O.webp",
-      "preco": 81.99,
-      "precoDe": 189.99,
-      "desconto": 47,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-14T21:07:11.272Z"
-    },
-    {
-      "id": "18246",
-      "loja": "Amazon",
-      "titulo": "Sabão Liquido Brilhante 5L",
-      "link": "https://www.amazon.com.br/dp/B07ZQMBFMX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41kPDQ8jc1L._SL400_.jpg",
-      "preco": 37.99,
-      "precoDe": 49.99,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T21:03:53.644Z"
     }
   ]
 }
