@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-15T21:02:56.080Z",
+  "atualizadoEm": "2026-09-15T21:13:28.701Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18815",
+      "loja": "Amazon",
+      "titulo": "Capsula de Cappuccino Doce De Leite TRES 3 Corações 10 unid",
+      "link": "https://www.amazon.com.br/dp/B08JR724Y1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41JlHTukYEL._SL400_.jpg",
+      "preco": 15.1,
+      "precoDe": 26.95,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T21:10:46.277Z"
+    },
+    {
+      "id": "18821",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Lavagem Shampoo Cera Tok Final Intense Sintra Fast Vonix",
+      "link": "https://meli.la/11b6A4u",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_659633-MLA117032776949_092026-F.jpg",
+      "preco": 71,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MLDEBOA",
+      "enviadoEm": "2026-09-15T21:07:17.885Z"
+    },
+    {
+      "id": "18832",
+      "loja": "Mercado Livre",
+      "titulo": "Máquina De Solda Inversora MMA 250A Sem Gás",
+      "link": "https://meli.la/28ASgd4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_690563-MLA117629333003_092026-F.jpg",
+      "preco": 159.6,
+      "precoDe": 498,
+      "desconto": 68,
+      "cupom": "MELITUDOBOM",
+      "enviadoEm": "2026-09-15T21:03:55.449Z"
+    },
     {
       "id": "18835",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 20,
       "cupom": null,
       "enviadoEm": "2026-09-15T11:10:11.835Z"
-    },
-    {
-      "id": "18324",
-      "loja": "Amazon",
-      "titulo": "Absolut Vodka Citron Sueca 750ml Absolut Sabor vodka 750 Ml",
-      "link": "https://www.amazon.com.br/dp/B003WIG5J2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/312-DYHnNAL._SL400_.jpg",
-      "preco": 68.9,
-      "precoDe": 117.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T11:07:27.889Z"
-    },
-    {
-      "id": "18323",
-      "loja": "Amazon",
-      "titulo": "NIVEA SUN Protetor Solar Protect & Hidrata FPS 50 400ml - Com toque seco, rápida absorção e resistente à água, esse protetor solar oferece altíssima proteção ao sol e promove hidra",
-      "link": "https://www.amazon.com.br/dp/B07C56GRM1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41JQFC9MpTL._SL400_.jpg",
-      "preco": 53.89,
-      "precoDe": 110.9,
-      "desconto": 39,
-      "cupom": "20NIVEA",
-      "enviadoEm": "2026-09-15T11:04:08.540Z"
-    },
-    {
-      "id": "18322",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label 1L",
-      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
-      "preco": 88.97,
-      "precoDe": 115.9,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T11:00:37.575Z"
     }
   ]
 }
