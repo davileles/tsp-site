@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-15T19:02:57.494Z",
+  "atualizadoEm": "2026-09-15T19:21:49.515Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -612,6 +612,18 @@
       "limite": null,
       "observacao": "Desconto de R$ 63,90 (de R$ 119,90 para R$ 56,00). Cupom mencionado na base, mas com aviso de possível inconsistência de preço entre plataforma e loja.",
       "validadeAte": "2026-09-16T18:38:47.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LEVOUBARATO",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 54,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto de R$ 54 (de R$ 531 para R$ 477). Cupom LEVOUBARATO aplicável na Loja Oficial Magalu no Mercado Livre.",
+      "validadeAte": "2026-09-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1320,18 +1332,6 @@
       "limite": 100,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-10-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LEVOUBARATO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 300,
-      "observacao": null,
-      "validadeAte": "2026-09-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
