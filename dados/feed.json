@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-15T17:35:16.464Z",
+  "atualizadoEm": "2026-09-15T18:05:16.674Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18703",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
+      "link": "https://s.shopee.com.br/qjWXXut4P",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
+      "preco": 23.88,
+      "precoDe": 47.76,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T17:56:09.080Z"
+    },
     {
       "id": "18691",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-09-14T20:54:28.050Z"
-    },
-    {
-      "id": "18241",
-      "loja": "Amazon",
-      "titulo": "NIVEA Hidratante Corporal Cuida & Repara 400ml, Hidratação Profunda 72h, Acalma Pele Ressecada, Cuidado Intensivo, Pele Seca e Extrasseca",
-      "link": "https://www.amazon.com.br/dp/B0DPJJTFP6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31FUgxQR42L._SL400_.jpg",
-      "preco": 31.919999999999998,
-      "precoDe": 49.31,
-      "desconto": 19,
-      "cupom": "20NIVEA",
-      "enviadoEm": "2026-09-14T20:50:29.571Z"
     }
   ]
 }
