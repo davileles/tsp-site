@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-15T21:57:28.786Z",
+  "atualizadoEm": "2026-09-15T22:12:28.854Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18878",
+      "loja": "Amazon",
+      "titulo": "Cerveja Spaten, Puro Malte, Lata 350ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CN9NGTXK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31sVZJEZS0L._SL400_.jpg",
+      "preco": 45.44,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PROVAR",
+      "enviadoEm": "2026-09-15T22:08:06.041Z"
+    },
+    {
+      "id": "18877",
+      "loja": "Mercado Livre",
+      "titulo": "Creme Multirreparador Pele Sensível Cicaplast Baume B5+ La Roche-Posay 20ml",
+      "link": "https://meli.la/1C9bQRv",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_906529-MLA115584916886_092026-F.jpg",
+      "preco": 38.66,
+      "precoDe": 59.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T22:04:39.574Z"
+    },
+    {
+      "id": "18876",
+      "loja": "Amazon",
+      "titulo": "Notebook Lenovo Ideapad Slim 3 Amd Ryzen 5 7535hs, 8gb, Amd Radeon Graphics, Ssd 512gb, 15.3\" Wuxga 1920x1200, Linux - 83mms00300",
+      "link": "https://www.amazon.com.br/dp/B0H7H2K9Q8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31wTg7BnGtL._SL400_.jpg",
+      "preco": 3282.21,
+      "precoDe": 3599.99,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T22:01:29.582Z"
+    },
     {
       "id": "18866",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-09-15T11:40:16.041Z"
-    },
-    {
-      "id": "18349",
-      "loja": "Mercado Livre",
-      "titulo": "Balança Digital Corporal Bioimpedância Pholex Com Aplicativo Bluetooth Android e iOS Vidro Temperado Alta Capacidade Balança Academia Personal Banheiro Homologada Anatel",
-      "link": "https://meli.la/29QAL35",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_748851-MLA114016338498_072026-F.jpg",
-      "preco": 26.169999999999998,
-      "precoDe": 42.9,
-      "desconto": 19,
-      "cupom": "ACHEIOFF",
-      "enviadoEm": "2026-09-15T11:37:29.980Z"
-    },
-    {
-      "id": "18346",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Aperol 750ml",
-      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
-      "preco": 53.99,
-      "precoDe": 63.87,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T11:33:22.079Z"
-    },
-    {
-      "id": "18345",
-      "loja": "Amazon",
-      "titulo": "Old Parr Whisky 12 Anos 1L",
-      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
-      "preco": 119.9,
-      "precoDe": 157.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T11:29:26.107Z"
     }
   ]
 }
