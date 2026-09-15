@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-15T20:53:11.602Z",
+  "atualizadoEm": "2026-09-15T21:02:57.645Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -12,6 +12,18 @@
       "limite": null,
       "observacao": "Cupom mencionado no post: DESCUBRA20. Desconto adicional ao preço já reduzido.",
       "validadeAte": "2026-09-16T16:25:29.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "PROVAR",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 13,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto de R$13,14 (23.5%) aplicado com cupom PROVAR em compra com recorrência. Preço original R$55,92, preço com cupom R$42,78.",
+      "validadeAte": "2026-09-16T20:57:32.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
