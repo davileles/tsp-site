@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-15T21:42:28.787Z",
+  "atualizadoEm": "2026-09-15T21:57:28.786Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18866",
+      "loja": "Amazon",
+      "titulo": "Kess, Fio Dental Individual, sem sabor, 50 unidades",
+      "link": "https://www.amazon.com.br/dp/B09BFJ3FMB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41dOaE6OnxL._SL400_.jpg",
+      "preco": 14.83,
+      "precoDe": 16.4,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T21:47:28.785Z"
+    },
     {
       "id": "18864",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-09-15T11:29:26.107Z"
-    },
-    {
-      "id": "18337",
-      "loja": "Shopee",
-      "titulo": "Bota Feminina Dakota Preta Confortável Dia A Dia Trabalho D2432",
-      "link": "https://s.shopee.com.br/9V1UQTMc85",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823px-mp13rwzdkmj078_tn",
-      "preco": 225.62,
-      "precoDe": 269.91,
-      "desconto": 9,
-      "cupom": "MODABELE20BAF",
-      "enviadoEm": "2026-09-15T11:28:34.039Z"
     }
   ]
 }
