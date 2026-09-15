@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-15T14:07:43.444Z",
+  "atualizadoEm": "2026-09-15T14:21:21.602Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -551,18 +551,6 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PRECINHO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupom PRECINHO aplicado no Mercado Livre. Preço final R$ 69,28 (desconto de R$ 29,69 em relação ao preço de R$ 98,97)",
       "validadeAte": "2026-11-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1176,6 +1164,18 @@
       "limite": 50,
       "observacao": "Dois cupons mencionados (SITELANDING e PAGUEMENOSJA). Preço original R$ 99,99 para R$ 42,00 (desconto de R$ 57,99 aproximadamente). Desconto total de 58%. Produto: Kit 6 Cuecas Boxer Reebok Classic Microfibra.",
       "validadeAte": "2026-09-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PRECINHO",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 17.7,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom de desconto fixo em R$. Preço final: R$ 41,29 (redução de R$ 17,70 em relação ao preço de R$ 58,99). Desconto progressivo anunciado: R$ 78,99 → R$ 58,99 → R$ 41,29.",
+      "validadeAte": "2026-11-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
