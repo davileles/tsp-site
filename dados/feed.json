@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-15T18:33:55.984Z",
+  "atualizadoEm": "2026-09-15T19:02:56.050Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18753",
+      "loja": "Mercado Livre",
+      "titulo": "20 Placas Adesivas Painel Madeira Ripada Montável Mdf 45x11",
+      "link": "https://meli.la/12VXb14",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_791187-MLB108421638162_032026-O.webp",
+      "preco": 34,
+      "precoDe": 51.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T18:53:57.655Z"
+    },
+    {
+      "id": "18751",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut Raspberri - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B09W65NNN6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41t02LbtrcL._SL400_.jpg",
+      "preco": 77.9,
+      "precoDe": 117.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T18:49:06.647Z"
+    },
+    {
+      "id": "18746",
+      "loja": "Mercado Livre",
+      "titulo": "Protetor Solar Facial com Cor FPS 70 Alta Cobertura - L'Oréal Paris Solar Expertise Efeito Make Up - Cor 3.0 30g",
+      "link": "https://meli.la/1LLP82P",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_962423-MLA99822275853_112025-F.jpg",
+      "preco": 33.2,
+      "precoDe": 63.99,
+      "desconto": 35,
+      "cupom": "ESTOQUEMELI123",
+      "enviadoEm": "2026-09-15T18:45:00.469Z"
+    },
+    {
+      "id": "18745",
+      "loja": "Shopee",
+      "titulo": "Pillow Top 400 Fios Super Macio Matelado – Solteiro, Casal, Queen e King | Ajuste Perfeito",
+      "link": "https://s.shopee.com.br/5q8CXqugUC",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mmvop81nlama8e_tn",
+      "preco": 95,
+      "precoDe": 132.18,
+      "desconto": 13,
+      "cupom": "S1NT0CH31R0D3CUP0M",
+      "enviadoEm": "2026-09-15T18:41:29.521Z"
+    },
     {
       "id": "18726",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": 51,
       "cupom": "20LIVROS",
       "enviadoEm": "2026-09-14T21:41:43.062Z"
-    },
-    {
-      "id": "18259",
-      "loja": "Amazon",
-      "titulo": "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 530BT, Sem Fio, Até 76 Horas de Bateria - Preto",
-      "link": "https://www.amazon.com.br/dp/B0GM1LSHQF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31d5C88mNtL._SL400_.jpg",
-      "preco": 189.9,
-      "precoDe": 299,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T21:38:21.220Z"
-    },
-    {
-      "id": "18258",
-      "loja": "Mercado Livre",
-      "titulo": "Chinelo Nuvem Original Slide Retro 100% Eva Confortável Lanç",
-      "link": "https://meli.la/1g65u93",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_777839-MLB104798835484_012026-O.webp",
-      "preco": 46.66,
-      "precoDe": 89.9,
-      "desconto": 37,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-14T21:34:12.512Z"
-    },
-    {
-      "id": "18255",
-      "loja": "Amazon",
-      "titulo": "Vodka Skyy 980ml",
-      "link": "https://www.amazon.com.br/dp/B07XS8JM94?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31HFs6AMv8L._SL400_.jpg",
-      "preco": 27.39,
-      "precoDe": 46.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T21:19:34.729Z"
-    },
-    {
-      "id": "18254",
-      "loja": "Mercado Livre",
-      "titulo": "LEGO City Transportador de Motocicletas 60491; Brinquedo de caminhão, 2 motocicletas e 2 Minifiguras",
-      "link": "https://meli.la/11CHiwd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_673214-MLA100951947233_122025-F.jpg",
-      "preco": 119.7,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "LEVOUBARATO",
-      "enviadoEm": "2026-09-14T21:18:31.067Z"
     }
   ]
 }
