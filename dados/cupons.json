@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-15T22:42:30.178Z",
+  "atualizadoEm": "2026-09-15T23:07:09.942Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1428,6 +1428,18 @@
       "limite": 10,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-09-16T15:00:12.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FUTMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-09-16T22:48:24.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
