@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-15T22:12:28.854Z",
+  "atualizadoEm": "2026-09-15T22:42:28.855Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18890",
+      "loja": "Amazon",
+      "titulo": "C3Tech Cabo USB para Smarthphone CB-L20WH Branco, 2Metros, Suporte a Carregamento e Transferência de Dados",
+      "link": "https://www.amazon.com.br/dp/B0B3FBRCHC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21QKsA2EFQL._SL400_.jpg",
+      "preco": 11.39,
+      "precoDe": 18.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T22:39:39.184Z"
+    },
+    {
+      "id": "18888",
+      "loja": "Amazon",
+      "titulo": "Marco Boni Pinça 90Mm Cromada Ponta Chanfrada Aço Carbono 6120B",
+      "link": "https://www.amazon.com.br/dp/B07KG24GZR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41PBMvf9B7L._SL400_.jpg",
+      "preco": 4.9,
+      "precoDe": 12.93,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T22:36:10.878Z"
+    },
+    {
+      "id": "18887",
+      "loja": "Mercado Livre",
+      "titulo": "Fritadeira Elétrica Air Fryer Barbecue WAP Flame Digital Wc Ab1050 Com Painel Digital 220v",
+      "link": "https://meli.la/2f9DN87",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_694120-MLA111751717527_052026-F.jpg",
+      "preco": 662.1999999999999,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "LEVOUBARATO",
+      "enviadoEm": "2026-09-15T22:26:20.004Z"
+    },
+    {
+      "id": "18885",
+      "loja": "Amazon",
+      "titulo": "O-LIVE & Co, Azeite de oliva extra virgem, Chileno, vidro, 450ml",
+      "link": "https://www.amazon.com.br/dp/B0CZS2LGFD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3187i+XeyHL._SL400_.jpg",
+      "preco": 26.99,
+      "precoDe": 52.76,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T22:19:44.377Z"
+    },
+    {
+      "id": "18884",
+      "loja": "Amazon",
+      "titulo": "KitKat Creme Crocante de Chocolate – Pasta para Passar, 330 g",
+      "link": "https://www.amazon.com.br/dp/B0FMLBQ136?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41shRXXiQyL._SL400_.jpg",
+      "preco": 20.61,
+      "precoDe": 27.99,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T22:16:32.955Z"
+    },
     {
       "id": "18878",
       "loja": "Amazon",
@@ -1381,66 +1441,6 @@
       "desconto": 61,
       "cupom": "OFERTASMELI",
       "enviadoEm": "2026-09-15T12:14:13.637Z"
-    },
-    {
-      "id": "18367",
-      "loja": "Mercado Livre",
-      "titulo": "Pulverizador Manual 2 L Snow Foam Profissional Com 3 Bicos para Espuma Ativa",
-      "link": "https://meli.la/1GsNUaA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_946648-MLA114615738815_072026-F.jpg",
-      "preco": 23.86,
-      "precoDe": 69.98,
-      "desconto": 57,
-      "cupom": "MELITUDOBOM",
-      "enviadoEm": "2026-09-15T12:09:42.367Z"
-    },
-    {
-      "id": "18364",
-      "loja": "Amazon",
-      "titulo": "Litet Berço e Cercado Nix 2 em 1 de 0 a 15Kg - BB691",
-      "link": "https://www.amazon.com.br/dp/B0GMYCWP26?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41fYa1LaMwL._SL400_.jpg",
-      "preco": 482.9,
-      "precoDe": 844,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T12:04:18.228Z"
-    },
-    {
-      "id": "18359",
-      "loja": "Amazon",
-      "titulo": "Elseve Collagen Lifter Máscara de Tratamento Condicionante Efeito Teia Para Resgate de Massa com Peptídeos de Colágeno Reconstrói a Fibra e Dá Volume por 72h 300g",
-      "link": "https://www.amazon.com.br/dp/B0G45KPX15?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41proX+EmhL._SL400_.jpg",
-      "preco": 26.9,
-      "precoDe": 40.99,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T11:56:08.382Z"
-    },
-    {
-      "id": "18357",
-      "loja": "Shopee",
-      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
-      "link": "https://s.shopee.com.br/2qUaW8zJTi",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
-      "preco": 99.99,
-      "precoDe": 299.97,
-      "desconto": 60,
-      "cupom": "MODABELE20BAF",
-      "enviadoEm": "2026-09-15T11:51:09.633Z"
-    },
-    {
-      "id": "18352",
-      "loja": "Amazon",
-      "titulo": "Lenços Umedecidos Huggies Puro e Natural - 192 lenços",
-      "link": "https://www.amazon.com.br/dp/B08FV6G3QQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ewVQYtDYL._SL400_.jpg",
-      "preco": 28.15,
-      "precoDe": 41.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T11:40:16.041Z"
     }
   ]
 }
