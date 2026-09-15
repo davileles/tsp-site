@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-15T19:21:48.411Z",
+  "atualizadoEm": "2026-09-15T19:32:56.050Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18772",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/5AsVnjgvOi",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": 14.99,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T19:26:41.733Z"
+    },
     {
       "id": "18764",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 35,
       "cupom": "20NIVEA",
       "enviadoEm": "2026-09-14T21:57:52.143Z"
-    },
-    {
-      "id": "18262",
-      "loja": "Mercado Livre",
-      "titulo": "Chinelo Qix Full Casual Adulto Masculino Feminino Liso Eva",
-      "link": "https://meli.la/1D7z9Jv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_813888-MLB99738572955_112025-O.webp",
-      "preco": 62.25,
-      "precoDe": 99.9,
-      "desconto": 24,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-14T21:46:13.906Z"
     }
   ]
 }
