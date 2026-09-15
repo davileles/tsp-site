@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-15T16:51:21.363Z",
+  "atualizadoEm": "2026-09-15T17:06:17.606Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1371,6 +1371,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MERCADOTOP",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 0,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom identificado, mas a mensagem não especifica o tipo de desconto (% ou R$), valor, mínimo de compra ou outras condições.",
+      "validadeAte": "2026-09-16T17:01:21.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "Cliente20",
       "loja": "Mizuno",
       "tipo": "pct",
@@ -1417,6 +1429,18 @@
       "observacao": "Código do consultor: cuponsofertas",
       "validadeAte": "2026-09-16T12:33:55.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=64086&id=1207116"
+    },
+    {
+      "codigo": "TANACESTA",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom válido se ativado agora ou a partir das 14h",
+      "validadeAte": "2026-09-16T16:57:02.000Z",
+      "url": null
     },
     {
       "codigo": "CORRESHOP",
@@ -1467,18 +1491,6 @@
       "url": null
     },
     {
-      "codigo": "ABASTECE",
-      "loja": "Outro: iFood Farmácia e Mercado",
-      "tipo": "reais",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-15T16:57:46.000Z",
-      "url": null
-    },
-    {
       "codigo": "FARMAOFF",
       "loja": "Outro: iFood Farmácias",
       "tipo": "reais",
@@ -1488,6 +1500,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-15T18:57:39.000Z",
+      "url": null
+    },
+    {
+      "codigo": "TANACESTA",
+      "loja": "Outro: iFood Mercados",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-16T16:56:58.000Z",
       "url": null
     },
     {
