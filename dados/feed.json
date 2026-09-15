@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-15T14:51:20.203Z",
+  "atualizadoEm": "2026-09-15T15:09:57.561Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18538",
+      "loja": "Amazon",
+      "titulo": "Trator Giant Escavator Até 50Kg, Roma, Multicor",
+      "link": "https://www.amazon.com.br/dp/B078HQ7FK1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41fXU5wxDLL._SL400_.jpg",
+      "preco": 154.99,
+      "precoDe": 224.96,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T14:59:57.560Z"
+    },
+    {
+      "id": "18537",
+      "loja": "Amazon",
+      "titulo": "EcoLapis de Cor Faber-Castell 60 Cores, Faber-Castell, 120160G, Multicor",
+      "link": "https://www.amazon.com.br/dp/B078YCYYWR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51umuMN0f0L._SL400_.jpg",
+      "preco": 89.89,
+      "precoDe": 163.17,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T14:59:09.518Z"
+    },
+    {
+      "id": "18534",
+      "loja": "Amazon",
+      "titulo": "Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
+      "link": "https://www.amazon.com.br/dp/B0DS6HRGFF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31hZ7-bHQiL._SL400_.jpg",
+      "preco": 452,
+      "precoDe": 899.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T14:57:55.370Z"
+    },
+    {
+      "id": "18523",
+      "loja": "Amazon",
+      "titulo": "Tubes Free Natural Life - Recheado com Pasta de Amendoim - Sem Glúten - 50g",
+      "link": "https://www.amazon.com.br/dp/B08G5FFX6D?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41-170ppUGL._SL400_.jpg",
+      "preco": 7.75,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "20% DE DESCONCO AO COLOCAR NO CARRINHO",
+      "enviadoEm": "2026-09-15T14:52:46.425Z"
+    },
     {
       "id": "18522",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": 69,
       "cupom": "PAGUEMENOSJA",
       "enviadoEm": "2026-09-14T17:00:32.691Z"
-    },
-    {
-      "id": "18076",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis adidas Feminino Corrida Caminhada Leve Confortável",
-      "link": "https://meli.la/1oucmzM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_896122-MLB115527177797_082026-O.webp",
-      "preco": 182.98000000000002,
-      "precoDe": 499.99,
-      "desconto": 55,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-14T16:57:07.038Z"
-    },
-    {
-      "id": "18075",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira De Impacto A Bateria 21V 3/8” Bivolt 1400 Rpm Com Acessórios E Maleta TB-21PZW The Black Tools",
-      "link": "https://meli.la/1aRgNh5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_660718-MLA99503122958_112025-F.jpg",
-      "preco": 86.33,
-      "precoDe": 259.9,
-      "desconto": 58,
-      "cupom": "MELITUDOBOM",
-      "enviadoEm": "2026-09-14T16:53:53.375Z"
-    },
-    {
-      "id": "18073",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Câmeras de Segurança Woosh A28B Full HD Dupla Lente Wi-Fi com Visão Noturna Colorida",
-      "link": "https://meli.la/317xgM8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_684399-MLA113374355923_062026-F.jpg",
-      "preco": 160.51,
-      "precoDe": 500,
-      "desconto": 61,
-      "cupom": "DESCONTONAREDA",
-      "enviadoEm": "2026-09-14T16:50:13.650Z"
-    },
-    {
-      "id": "18072",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto De Frio Moletom Com Capuz Canguru Flanelado Preto",
-      "link": "https://meli.la/2X8a1HK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774908-MLB53883707283_022023-O.webp",
-      "preco": 69.22,
-      "precoDe": 167.55,
-      "desconto": 50,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-14T16:46:36.715Z"
     }
   ]
 }
