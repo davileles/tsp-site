@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-15T18:05:16.674Z",
+  "atualizadoEm": "2026-09-15T18:16:16.461Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18706",
+      "loja": "Mercado Livre",
+      "titulo": "Bota Botina Segurança Bracol Sapato Coturno Nobuck Com Ca",
+      "link": "https://meli.la/1qhGCev",
+      "imagem": null,
+      "preco": 129.52,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "ESTOQUEMELI123",
+      "enviadoEm": "2026-09-15T18:06:16.458Z"
+    },
     {
       "id": "18703",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-09-14T21:03:53.644Z"
-    },
-    {
-      "id": "18244",
-      "loja": "Amazon",
-      "titulo": "Licor Amarula Cream, 17% de Teor Alcoólico, Garrafa 750ml, Amarula Original",
-      "link": "https://www.amazon.com.br/dp/B008V6PVBS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31n-YDhQIfL._SL400_.jpg",
-      "preco": 99.99,
-      "precoDe": 141.84,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T20:54:28.050Z"
     }
   ]
 }
