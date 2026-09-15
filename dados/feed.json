@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-15T15:09:57.561Z",
+  "atualizadoEm": "2026-09-15T15:21:20.203Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18557",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Lacoste Ultra Dry Lacoste Tennis X Daniil Medvedev",
+      "link": "https://meli.la/2Dg1jsw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_865598-MLB111786397288_062026-O.webp",
+      "preco": 144.26,
+      "precoDe": 449,
+      "desconto": 54,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-15T15:18:00.606Z"
+    },
+    {
+      "id": "18550",
+      "loja": "Shopee",
+      "titulo": "Kit Jogo 4 Tapete de Banheiro Antiderrapante 60x40cm Tapete Bolinha Macarrão Microfibra Absorvente",
+      "link": "https://s.shopee.com.br/AKabfSAd8V",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1c8gqanz7q35_tn",
+      "preco": 28.97,
+      "precoDe": 47.49,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T15:10:15.742Z"
+    },
     {
       "id": "18538",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-09-14T17:07:28.814Z"
-    },
-    {
-      "id": "18080",
-      "loja": "Mercado Livre",
-      "titulo": "Calça Jeans Pantalona Wide Leg Feminina Cintura Alta Larga",
-      "link": "https://meli.la/1iq3ADZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_840237-MLB110593856228_052026-O.webp",
-      "preco": 46.900000000000006,
-      "precoDe": 109.9,
-      "desconto": 48,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-14T17:04:02.302Z"
-    },
-    {
-      "id": "18079",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Com 10 Cuecas Boxer Microfibra Sem Costura Santara",
-      "link": "https://meli.la/1XvkwXA",
-      "imagem": null,
-      "preco": 51.650000000000006,
-      "precoDe": 199.99,
-      "desconto": 69,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-14T17:00:32.691Z"
     }
   ]
 }
