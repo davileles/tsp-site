@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-15T15:51:20.203Z",
+  "atualizadoEm": "2026-09-15T16:19:48.438Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18609",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 5 Bermuda Short Moletom Masculino Bolso Academia Corrida",
+      "link": "https://meli.la/1Xu4GhW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_854159-MLB85158642076_052025-O.webp",
+      "preco": 77.88999999999999,
+      "precoDe": 99.99,
+      "desconto": 5,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-15T16:09:48.431Z"
+    },
+    {
+      "id": "18599",
+      "loja": "Mercado Livre",
+      "titulo": "Attracione Men perfume Masculino Com Feromônios Ativados 25 mL",
+      "link": "https://meli.la/1GfFXRu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_948198-MLA81769955450_012025-F.jpg",
+      "preco": 50.44,
+      "precoDe": 149,
+      "desconto": 62,
+      "cupom": "COMPRASFULL",
+      "enviadoEm": "2026-09-15T16:06:14.999Z"
+    },
+    {
+      "id": "18594",
+      "loja": "Shopee",
+      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
+      "link": "https://s.shopee.com.br/5VVKTRQORG",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
+      "preco": 129.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "S1NT0CH31R0D3CUP0M",
+      "enviadoEm": "2026-09-15T15:58:09.060Z"
+    },
+    {
+      "id": "18585",
+      "loja": "Shopee",
+      "titulo": "Kit Chocolates Dolce Gusto 40 cápsulas - KitKat, Alpino, Galak e Nesquik",
+      "link": "https://s.shopee.com.br/6q0jY7z3yn",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225s-mhkknlwmucch4c_tn",
+      "preco": 75.6,
+      "precoDe": 111.18,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T15:53:24.208Z"
+    },
     {
       "id": "18579",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 3,
       "cupom": "LEVOUBARATO",
       "enviadoEm": "2026-09-14T18:20:47.236Z"
-    },
-    {
-      "id": "18120",
-      "loja": "Amazon",
-      "titulo": "Bebedouro Philco Água Natural e Gelada Bivolt PBE10C BIV",
-      "link": "https://www.amazon.com.br/dp/B0H5R66251?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31YUAZoq11L._SL400_.jpg",
-      "preco": 353.9,
-      "precoDe": 387.85,
-      "desconto": 9,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T18:17:28.061Z"
-    },
-    {
-      "id": "18119",
-      "loja": "Amazon",
-      "titulo": "Gin Bombay Sapphire 750ml",
-      "link": "https://www.amazon.com.br/dp/B001TP3GCE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41329NGXz2L._SL400_.jpg",
-      "preco": null,
-      "precoDe": 126.9,
-      "desconto": 38,
-      "cupom": "GAMER300",
-      "enviadoEm": "2026-09-14T18:14:11.030Z"
-    },
-    {
-      "id": "18118",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Fila Racer Speedzone Masculino Alta Performance",
-      "link": "https://meli.la/2GUM1Yh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_781130-MLB113619349534_072026-O.webp",
-      "preco": 288.41,
-      "precoDe": 749.88,
-      "desconto": 55,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-14T18:10:32.875Z"
-    },
-    {
-      "id": "18108",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416kQ1MEMqL._SL400_.jpg",
-      "preco": 104.4,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T17:58:42.584Z"
     }
   ]
 }
