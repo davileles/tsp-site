@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-15T20:02:56.051Z",
+  "atualizadoEm": "2026-09-15T20:25:34.971Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18809",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Dri-fit Nike Run Swoosh Masculina",
+      "link": "https://meli.la/2xyeJWE",
+      "imagem": null,
+      "preco": 81.99,
+      "precoDe": 149.99,
+      "desconto": 33,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-15T20:15:34.968Z"
+    },
+    {
+      "id": "18808",
+      "loja": "Shopee",
+      "titulo": "Ventilador de Teto Ventisol Fênix Branco / Silver 3 Pás CV3 Premium - 127v",
+      "link": "https://s.shopee.com.br/70KA2DFFTy",
+      "imagem": "https://cf.shopee.com.br/file/581557b11de9b61bd3968356e79fae60_tn",
+      "preco": 259.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "S1NT0CH31R0D3CUP0M",
+      "enviadoEm": "2026-09-15T20:12:08.747Z"
+    },
+    {
+      "id": "18807",
+      "loja": "Amazon",
+      "titulo": "+Mu Chocowheyfer Proteico Sabor Cookies - Display com 12 unidades - 300g",
+      "link": "https://www.amazon.com.br/dp/B0BBK1R34Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51ewILjYEYL._SL400_.jpg",
+      "preco": 52.33,
+      "precoDe": 87.88,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T20:06:51.363Z"
+    },
     {
       "id": "18797",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 62,
       "cupom": null,
       "enviadoEm": "2026-09-14T22:41:09.562Z"
-    },
-    {
-      "id": "18280",
-      "loja": "Mercado Livre",
-      "titulo": "Capa Protetora Colchão Box Casal Padrão Matelado Impermeável",
-      "link": "https://meli.la/1bagukn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_639258-MLB82839590542_032025-O.webp",
-      "preco": 27.54,
-      "precoDe": 78.9,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T22:30:59.192Z"
-    },
-    {
-      "id": "18278",
-      "loja": "Mercado Livre",
-      "titulo": "Chinelo Slide Under Armour Ansa Light",
-      "link": "https://meli.la/2Vy8R7i",
-      "imagem": null,
-      "preco": 81.99,
-      "precoDe": 199.99,
-      "desconto": 50,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-14T22:23:54.258Z"
-    },
-    {
-      "id": "18277",
-      "loja": "Amazon",
-      "titulo": "NIVEA SUN Protetor Solar Kids & Babies Pele Sensível FPS 60 125ml - Infantil, muito alta proteção UVA/UVB, minimiza o surgimento de alergias, muito resistente à água com proteção i",
-      "link": "https://www.amazon.com.br/dp/B077BY8HQV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31kd19FR44L._SL400_.jpg",
-      "preco": 39.58,
-      "precoDe": 81.9,
-      "desconto": 40,
-      "cupom": "20NIVEA",
-      "enviadoEm": "2026-09-14T22:20:15.624Z"
     }
   ]
 }
