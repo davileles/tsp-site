@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-15T13:17:02.262Z",
+  "atualizadoEm": "2026-09-15T13:46:02.266Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18457",
+      "loja": "Shopee",
+      "titulo": "Neocate LCP 400g Promoçao",
+      "link": "https://s.shopee.com.br/1LfmrH5Tqv",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7egf9fcdf7ua9_tn",
+      "preco": 169.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "3SP3C14LS3T",
+      "enviadoEm": "2026-09-15T13:43:29.728Z"
+    },
+    {
+      "id": "18449",
+      "loja": "Mercado Livre",
+      "titulo": "COQUETELEIRA / SHAKER Preta - Academia 600ml - 3VS Nutrition",
+      "link": "https://meli.la/31jcRFz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_997065-MLA104802074445_012026-F.jpg",
+      "preco": 19.1,
+      "precoDe": 27.99,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T13:38:21.928Z"
+    },
+    {
+      "id": "18448",
+      "loja": "Amazon",
+      "titulo": "Ouro Branco - Stick Wafer Recheado pacote com 15 unidades de 25g",
+      "link": "https://www.amazon.com.br/dp/B0BGCCY3XN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4198af2nb7L._SL400_.jpg",
+      "preco": 35.88,
+      "precoDe": 49.35,
+      "desconto": 9,
+      "cupom": "20% DE DESCONCO AO COLOCAR NO CARRINHO",
+      "enviadoEm": "2026-09-15T13:34:54.212Z"
+    },
+    {
+      "id": "18443",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
+      "link": "https://s.shopee.com.br/BTpRwzoTs",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
+      "preco": 35.99,
+      "precoDe": 44.99,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T13:31:47.552Z"
+    },
+    {
+      "id": "18438",
+      "loja": "Mercado Livre",
+      "titulo": "Hidratante de toque seco antimanchas Garnier Vit C",
+      "link": "https://meli.la/11g8c5D",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_777390-MLA117415580229_092026-F.jpg",
+      "preco": 28.51,
+      "precoDe": 44.59,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T13:25:00.948Z"
+    },
     {
       "id": "18428",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-09-14T15:17:19.426Z"
-    },
-    {
-      "id": "18016",
-      "loja": "Shopee",
-      "titulo": "Jaqueta Plus Size Feminina Acolchoada com Capuz – Inverno Quente e Confortável",
-      "link": "https://s.shopee.com.br/1gIbkCNZEs",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mlzn02kws0zod4_tn",
-      "preco": 93.99,
-      "precoDe": 119.99,
-      "desconto": 5,
-      "cupom": "BZCP71NWRF",
-      "enviadoEm": "2026-09-14T15:08:16.289Z"
-    },
-    {
-      "id": "18013",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeirinha Safety 1st, i-NXT, 0 a 36kg, com Giro 360°, Grey Urban",
-      "link": "https://meli.la/2VmAW1e",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_937293-MLA99923232791_112025-F.jpg",
-      "preco": 1313.1,
-      "precoDe": 2299,
-      "desconto": 37,
-      "cupom": "LEVOUBARATO",
-      "enviadoEm": "2026-09-14T14:56:06.989Z"
-    },
-    {
-      "id": "18008",
-      "loja": "Amazon",
-      "titulo": "PHILIPS, Fone de Ouvido Sem Fio TWS, TAT1109BK/00, Bluetooth, Com Microfone, Até 24 horas de bateria, Preto",
-      "link": "https://www.amazon.com.br/dp/B0DVMQVVDY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31eeSqQHCvL._SL400_.jpg",
-      "preco": 99.9,
-      "precoDe": 144,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T14:54:58.934Z"
-    },
-    {
-      "id": "18006",
-      "loja": "Shopee",
-      "titulo": "JAQUETA DE COURO MASCULINA COM CAPUZ REMOVIVEL FORRADA E PELUCIDA POR DENTRO INVERNO/FRIO",
-      "link": "https://s.shopee.com.br/3VkFu1OQmL",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmtaw18rywhs2d_tn",
-      "preco": 164,
-      "precoDe": 230,
-      "desconto": 20,
-      "cupom": "BZCP71NWRF",
-      "enviadoEm": "2026-09-14T14:39:06.335Z"
-    },
-    {
-      "id": "18005",
-      "loja": "Mercado Livre",
-      "titulo": "Amaciante Ypê Tradicional Aconchego Ultra 5L",
-      "link": "https://meli.la/287bFXY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863705-MLA99450783706_112025-F.jpg",
-      "preco": 19.29,
-      "precoDe": 30.99,
-      "desconto": 17,
-      "cupom": "MELIBAIXOU",
-      "enviadoEm": "2026-09-14T14:35:54.729Z"
     }
   ]
 }
