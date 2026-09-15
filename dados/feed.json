@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-15T19:02:56.050Z",
+  "atualizadoEm": "2026-09-15T19:21:48.411Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18764",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut Vanilia - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B0058GVP9Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JRbcu-JyL._SL400_.jpg",
+      "preco": 76.99,
+      "precoDe": 117.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T19:11:48.409Z"
+    },
+    {
+      "id": "18763",
+      "loja": "Shopee",
+      "titulo": "Playground Infantil Modular 100% Espuma Seguro Educativo Divertido",
+      "link": "https://s.shopee.com.br/9Ki4jpZW4H",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mlld6tmgetc5c5_tn",
+      "preco": 329.99,
+      "precoDe": 699.98,
+      "desconto": 50,
+      "cupom": "S1NT0CH31R0D3CUP0M",
+      "enviadoEm": "2026-09-15T19:04:20.725Z"
+    },
     {
       "id": "18753",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 24,
       "cupom": "PAGUEMENOSJA",
       "enviadoEm": "2026-09-14T21:46:13.906Z"
-    },
-    {
-      "id": "18261",
-      "loja": "Amazon",
-      "titulo": "Vodka Grey Goose Original 750ml",
-      "link": "https://www.amazon.com.br/dp/B006ILMIGE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lBOTNpNRL._SL400_.jpg",
-      "preco": 122.47,
-      "precoDe": 174.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T21:42:36.856Z"
-    },
-    {
-      "id": "18260",
-      "loja": "Amazon",
-      "titulo": "As obras revolucionárias de George Orwell - Box com 3 livros",
-      "link": "https://www.amazon.com.br/dp/B08ZK6N3XZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51YPnt1fTuL._SL400_.jpg",
-      "preco": 29.220000000000002,
-      "precoDe": 74.9,
-      "desconto": 51,
-      "cupom": "20LIVROS",
-      "enviadoEm": "2026-09-14T21:41:43.062Z"
     }
   ]
 }
