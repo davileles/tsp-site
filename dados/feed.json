@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-15T11:39:51.783Z",
+  "atualizadoEm": "2026-09-15T11:50:16.043Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18352",
+      "loja": "Amazon",
+      "titulo": "Lenços Umedecidos Huggies Puro e Natural - 192 lenços",
+      "link": "https://www.amazon.com.br/dp/B08FV6G3QQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ewVQYtDYL._SL400_.jpg",
+      "preco": 28.15,
+      "precoDe": 41.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-15T11:40:16.041Z"
+    },
     {
       "id": "18349",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 43,
       "cupom": "MELIBAIXOU",
       "enviadoEm": "2026-09-14T12:23:21.935Z"
-    },
-    {
-      "id": "17907",
-      "loja": "Mercado Livre",
-      "titulo": "Kit C/2 Travesseiros Luxo Matelado Fibra Antialérgica 50x70 Branco",
-      "link": "https://meli.la/2f71bEZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_670844-MLA107444351607_022026-F.jpg",
-      "preco": 44.99,
-      "precoDe": 109.99,
-      "desconto": 45,
-      "cupom": "MELIBAIXOU",
-      "enviadoEm": "2026-09-14T12:16:35.232Z"
     }
   ]
 }
