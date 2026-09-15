@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-15T19:59:31.020Z",
+  "atualizadoEm": "2026-09-15T20:02:57.677Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -336,18 +336,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-16T19:58:07.000Z",
-      "url": null
-    },
-    {
-      "codigo": "BRINDEHOJE",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-15T19:59:55.000Z",
       "url": null
     },
     {
@@ -828,6 +816,18 @@
       "limite": 500,
       "observacao": "Múltiplos cupons válidos para o Mercado Livre",
       "validadeAte": "2026-09-16T12:09:15.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "30% OFF em Suzano",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom de 30% OFF aplicável na tela do produto ou no carrinho. Válido para itens vendidos por Personal Baby. Promoção por tempo limitado.",
+      "validadeAte": "2026-09-16T20:01:21.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
