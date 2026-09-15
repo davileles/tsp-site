@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-15T20:53:10.269Z",
+  "atualizadoEm": "2026-09-15T21:02:56.080Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18835",
+      "loja": "Amazon",
+      "titulo": "Cerveja Stella Artois, Pure Gold, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0D7D6RKV9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31rQ5nZ0SzL._SL400_.jpg",
+      "preco": 29.78,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PROVAR",
+      "enviadoEm": "2026-09-15T21:00:49.708Z"
+    },
+    {
+      "id": "18834",
+      "loja": "Shopee",
+      "titulo": "Whisky Chivas Regal 12 Anos 1000ml",
+      "link": "https://s.shopee.com.br/4fwFJ0zN2d",
+      "imagem": "https://cf.shopee.com.br/file/5bb80b1f3a297106097fb825fb57c398_tn",
+      "preco": 114.63,
+      "precoDe": 269.26,
+      "desconto": 50,
+      "cupom": "S1NT0CH31R0D3CUP0M",
+      "enviadoEm": "2026-09-15T20:56:57.378Z"
+    },
     {
       "id": "18826",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 23,
       "cupom": null,
       "enviadoEm": "2026-09-15T11:00:37.575Z"
-    },
-    {
-      "id": "18285",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label 750ml",
-      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
-      "preco": 68.98,
-      "precoDe": 92.9,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-14T22:49:14.760Z"
-    },
-    {
-      "id": "18284",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Calças Legging Empina Bumbum",
-      "link": "https://meli.la/1iumatU",
-      "imagem": null,
-      "preco": 44.79,
-      "precoDe": 64.99,
-      "desconto": 16,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-14T22:48:00.280Z"
     }
   ]
 }
