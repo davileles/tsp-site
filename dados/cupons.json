@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-16T02:42:30.148Z",
+  "atualizadoEm": "2026-09-16T03:12:29.911Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -72,30 +72,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-22T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
-    },
-    {
-      "codigo": "AREIA15",
-      "loja": "Brinox Shop",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-16T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
-    },
-    {
-      "codigo": "VANILOVER",
-      "loja": "Brinox Shop",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-16T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
     },
     {
@@ -255,18 +231,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
-      "codigo": "BYO10",
-      "loja": "Fastshop",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-16T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
       "codigo": "CLIENTE",
       "loja": "Fastshop",
       "tipo": "pct",
@@ -337,18 +301,6 @@
       "observacao": null,
       "validadeAte": "2026-09-16T19:58:07.000Z",
       "url": null
-    },
-    {
-      "codigo": "VEMZELDA",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 450,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-16T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
       "codigo": "ASROCK100",
@@ -528,18 +480,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-21T12:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "SSDPROMO10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-16T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -727,7 +667,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
@@ -739,7 +679,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -751,7 +691,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -763,7 +703,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -771,23 +711,11 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MAYBELLINENOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 99.9,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Válido em selecionados",
-      "validadeAte": "2026-09-16T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BATEUPRONTOCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -799,7 +727,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -811,23 +739,11 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-06T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LOREALNOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 89.9,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Cupom de 30% OFF em Gel de Limpeza Anti-marcas Glycolic-bright Loréal Paris 150g",
-      "validadeAte": "2026-09-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -919,35 +835,11 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "Desconto de R$ 22,99 (de R$ 61,33 para R$ 38,34). Pagamento via Pix. Produto: Conjunto Bermuda Feminino Academia Blackout Zero Transparência.",
       "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SOECONOMIA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-16T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "POUPAAGORA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -967,7 +859,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1007,7 +899,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-09-16T02:59:00.023Z",
+      "validadeAte": "2026-11-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1015,7 +907,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons válidos para produtos selecionados no Mercado Livre",
@@ -1039,7 +931,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -1051,7 +943,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -1063,7 +955,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "Múltiplos cupons ativos do Mercado Livre",
@@ -1087,7 +979,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 22,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons ativos do Mercado Livre",
@@ -1171,7 +1063,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 22,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
       "observacao": "Múltiplos cupons ativos do Mercado Livre",
@@ -1212,18 +1104,6 @@
       "limite": 100,
       "observacao": "Desconto de R$ 106,98 (de R$ 157,98 para R$ 51,00). Cupom MELITUDOBOM garante o valor. Pagamento em Pix.",
       "validadeAte": "2026-09-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "QUEIMADEESTOQUE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 39,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-09-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
