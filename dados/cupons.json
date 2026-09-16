@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-16T09:45:51.017Z",
+  "atualizadoEm": "2026-09-16T09:49:47.324Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1200,6 +1200,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-07T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DESCONTONAREDA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Desconto de 33% aplicado ao produto Churrasqueira Movel Mor Com Rodinhas California Cor Preto, reduzindo o preço de R$ 229,90 para R$ 154,59",
+      "validadeAte": "2026-09-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
