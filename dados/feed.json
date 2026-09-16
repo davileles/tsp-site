@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-15T23:07:08.915Z",
+  "atualizadoEm": "2026-09-16T11:12:51.079Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "18949",
+      "loja": "Shopee",
+      "titulo": "40 Peças / 46 Peças Jogo De Chave Catraca Caixa De Ferramentas para Reparo de Carros / Conjuntos de Chaves",
+      "link": "https://s.shopee.com.br/905FP2ktyz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mqt86n8incape7_tn",
+      "preco": 28.99,
+      "precoDe": 87.85,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T11:02:51.077Z"
+    },
     {
       "id": "18898",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 44,
       "cupom": "OFFNOML",
       "enviadoEm": "2026-09-15T12:28:43.503Z"
-    },
-    {
-      "id": "18388",
-      "loja": "Amazon",
-      "titulo": "Head & Shoulders Shampoo Anticaspa Anticoceira 400 ml",
-      "link": "https://www.amazon.com.br/dp/B0101A62JG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vRt2y2dML._SL400_.jpg",
-      "preco": 22.59,
-      "precoDe": 30.8,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T12:25:03.416Z"
     }
   ]
 }
