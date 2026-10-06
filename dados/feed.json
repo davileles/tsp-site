@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-06T19:46:55.130Z",
+  "atualizadoEm": "2026-10-06T19:50:18.955Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27005",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Flare Gestante Alta Sustentação",
+      "link": "https://meli.la/1BckPxc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_977960-MLB109979412325_042026-O.webp",
+      "preco": 54.35,
+      "precoDe": 119.9,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T19:48:06.756Z"
+    },
     {
       "id": "27003",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-10-06T13:10:41.930Z"
-    },
-    {
-      "id": "26743",
-      "loja": "Mercado Livre",
-      "titulo": "Fisher Price Mini Piano Leão Fun",
-      "link": "https://meli.la/1G1b751",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_951458-MLB114160220059_072026-O.webp",
-      "preco": 121.49,
-      "precoDe": 149.99,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T13:04:41.154Z"
     }
   ]
 }
