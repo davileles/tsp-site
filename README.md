@@ -1,5 +1,11 @@
 # tsp-site
 
+> **Aposentado (out/2026).** O domínio `tudosobrepromos.com` não foi renovado.
+> `index.html` e `404.html` só redirecionam para **ticapromos.com.br** (canonical +
+> refresh imediato, repassando `?utm_…` e `#`). O site de verdade está em
+> `davileles/tica-site`. O `feed-publico.js` não publica mais aqui; `dados/` ficou
+> congelado. Quando o domínio expirar: apagar `CNAME` e arquivar o repositório.
+
 Site público do **Tica Promos** — cupons valendo agora e achados que saíram
 nos grupos. Estático, servido pelo GitHub Pages em `tudosobrepromos.com`
 (migrando para `ticapromos.com.br`).
